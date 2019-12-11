@@ -3,7 +3,7 @@
 # Description:   Block fake onlineshops, malicious streaming platforms and fraudulent estate agencies. List taken from watchlist-internet.at
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
-# Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet.txt
+# Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # Last updated:  2019-12-11
 
 ### Fake online shops:
