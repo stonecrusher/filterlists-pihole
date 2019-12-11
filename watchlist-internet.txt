@@ -1,12 +1,12 @@
-! Title:         watchlist-internet.at
-! Expires:       7 days
-! Description:   Block fake onlineshops, malicious streaming platforms and fraudulent estate agencies. List taken from watchlist-internet.at
-! Homepage:      https://github.com/stonecrusher/pihole-filterlists/
-! License:       Taken from https://www.watchlist-internet.at/alle-themen/
-! Redirect:      https://raw.githubusercontent.com/stonecrusher/pihole-filterlists/master/watchlist-internet.txt
-! Last updated:  2019-12-11
+# Title:         watchlist-internet.at
+# Expires:       7 days
+# Description:   Block fake onlineshops, malicious streaming platforms and fraudulent estate agencies. List taken from watchlist-internet.at
+# Homepage:      https://github.com/stonecrusher/pihole-filterlists/
+# License:       Taken from https://www.watchlist-internet.at/alle-themen/
+# Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet.txt
+# Last updated:  2019-12-11
 
-!!! Fake online shops:
+### Fake online shops:
 cleanum.shop
 007drones.de
 1111federalhill.com
@@ -5271,7 +5271,7 @@ zwillingsfestival.de
 zwischenquatschen.de
 zzjdhcstore.com
 
-!!! Malicious streaming platforms:
+### Malicious streaming platforms:
 24flix.de
 aboplay.de
 adostream.de
@@ -5582,7 +5582,7 @@ yostream.de
 zumaflix.de
 zunaflix.de
 
-!!! Fraudulent estate agencies:
+### Fraudulent estate agencies:
 ab-homes.com
 adler-immo.com
 avenida-estate.com
@@ -5642,8 +5642,8 @@ viva-immo.com
 voss-estate.com
 world-wide-properties.com
 
-!!! Custom filters
-! Frontal21 vom 05.03.2019
-! https://www.youtube.com/watch?v=_AZN-yAEFVM
+### Custom filters
+# Frontal21 vom 05.03.2019
+# https://www.youtube.com/watch?v=_AZN-yAEFVM
 viagogo.de
 viagogo.com
