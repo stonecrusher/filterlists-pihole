@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2019-12-23
+# Last updated:  2019-12-29
 
 ### Fake online shops:
 007drones.de
@@ -81,6 +81,7 @@ adidasbotas.com
 adidascontinental.de
 adidascool.com
 adidasdeutschlands.de
+adidasonlineshop.at
 adidasoriginalsschuhe.de
 adidasschuhe.at
 adidasschuhe.com
@@ -549,6 +550,7 @@ bettinger-weinert.de
 beutelspacher-beutel.de
 beverlyhip.de
 bewegendewelt.de
+beybun.shop
 bezgluten-nl.com
 beziehung-retten24.com
 bgy-meissen.de
@@ -635,6 +637,7 @@ bollywood-passau.de
 bomberlonga.com
 bonn.elektronik-gmbh.com
 bonnyin.at
+boofashions.com
 booklethotel.com
 boots2017de.com
 bootsfun.co.uk
@@ -782,6 +785,7 @@ carry-shop.com
 carstek.com
 cartpanda24.com
 casa-gallega.at
+casalepoggetto.it
 casefetish.com
 casor.de
 cc-fins.de
@@ -1471,6 +1475,7 @@ fabeos-security.de
 faceuptodrink.co.uk
 fachschaft-ekw.de
 fachtag-diabetes.at
+fadlily.com
 fahren-guenstig.de
 fahrrad-lager.de
 fahrradbekleidungdeu.com
@@ -1526,6 +1531,7 @@ feingoldscheideanstalt-seit1974.de
 feingoldscheideanstalt1973.de
 feistritztaler.at
 ferienhaus-siofok-xxl.de
+ferienhaus-wiesenblick.at
 ferienhaus-zeeland-holland.de
 ferienwohnung-kalkofen.de
 ferienwohnung-messing.de
@@ -1548,6 +1554,7 @@ feuerwehr-prettin.de
 feuerwehr-schweix.de
 feuerwehr-ulmen.de
 feuerwehrlexikon-online.de
+feville.com
 fewo-schausbreitner.de
 fewo-vulkaneifel.de
 fewo-wetzen.de
@@ -1688,6 +1695,7 @@ freedomtreeltd.com
 freerunnike.de
 freiekunstschule-wangen.de
 freilandsysteme.de
+freilichtbuehne-lehnin.de
 freiwillige-feuerwehr-bad-kleinen.de
 french-by-emma.de
 frequenz7.de
@@ -2013,6 +2021,8 @@ haus-steiger.at
 haus-wagrien.de
 hausbaeckerei-waldhart.at
 hausbau-konzept.de
+hauselektro.com
+hauselektro.com
 hausgeraete.expert
 hausgrube.net
 hausgrube.net
@@ -2545,6 +2555,7 @@ kindertroedel-katzem.de
 kindervereinigung-erfurt.de
 kinderwagen-shop24.com
 kinderwagenoutlet.com
+kinderwortschaetze.de
 king-electronics.de
 kings-electronic.shop
 kings-electronic.store
@@ -2703,6 +2714,7 @@ lagunitafilms.com
 laid.favoriteubrands.com
 lair.favoriteubrands.com
 lakally.com
+lakebici.com
 lakeridgemath.com
 lakobust.at
 lakritznasen.de
@@ -2713,6 +2725,7 @@ landscape24.de
 landscapingbellevilleil.com
 landschildis.de
 landtagswahl-dielinke-osl.de
+lange-zimmert.de
 langerockdesign.de
 langner-reisen.de
 language4business.net
@@ -2799,6 +2812,7 @@ liedstoeckel.de
 lieferungvonkraftfahrzeugteilen.xyz
 lifa-core.de
 lifeathouse.com
+lifemymall.com
 lifestyle-medikamente.com
 lifeworks-munich.de
 lightluxurybags.com
@@ -2822,6 +2836,7 @@ liujoestore.com
 liveutek.ch
 llandderfel-sheepdogs.at
 llanjshop.top
+lloretfreakz.de
 lloydloom.com
 lmlmlmgoods.com
 lms-anaesthesie.de
@@ -2836,6 +2851,8 @@ logservice-hamburg.de
 lohnmall.xyz
 loki.laf-pub.com
 lokklo.com
+lolitors.com
+long.nicetoby.com
 look.boutiqueushop.com
 look.lightoping.com
 look.purchses.com
@@ -3044,6 +3061,7 @@ mediaexpert-markt.de
 mediafuchs24.org
 mediasaturn-abverklauf.club
 mediastore.tech
+mediatower.store
 mediawunder.de
 medicalundbeauty.at
 medicpub.de
@@ -3079,6 +3097,7 @@ meindiscounter.net
 meindlschuhedamen.de
 meine-ernaehrungsumstellung.de
 meinetiermarken.at
+meingleichgewicht.at
 meinpaketbilliger.de
 meinshirts.de
 meinsteuerpartner.at
@@ -3201,6 +3220,7 @@ monclervienna.store
 monclerwesteoutlet.de
 mondo-elektro.de
 mondofashion.de
+mondschiff.de
 mondsee-luna-yoga.at
 monika-dersch-art.de
 monikatrotz.at
@@ -3224,6 +3244,7 @@ mossonly.com
 mostheuriger-hoefinger.at
 moto-gan42.de
 motofrance.de
+motorradzubehorliefern.xyz
 mototrans1.de
 moveactiv.com
 moyucubeshop.com/de/
@@ -3481,6 +3502,7 @@ onkraken.com
 online-bags.net
 online-cafe-club.de
 online-mode-1.de
+online-reproduktionvongemalden.xyz
 online.ajantaphotolab.com
 onlineaccessories.xyz
 onlineapartmentsbooking.com
@@ -3517,6 +3539,7 @@ ottokummer.at
 ottoroehrs.at
 ousbags.com
 oustiefel.com
+outdoor-campingausrustung.xyz
 outdoormoebel-center.de
 outdoortitan.net
 outlet-checkpoint.com
@@ -3609,6 +3632,7 @@ peter-scharmberg.de
 peter-schraeder.de
 petra-elsner.de
 petssupermart.com
+petzky-sanitaer.de
 petzundprax.de
 pewe24.com
 pfaff-at-home.de
@@ -3917,6 +3941,7 @@ rcoffroader-ev.de
 rcwitte.de
 rcxtremehobbies.com
 readyshop.xyz
+realbagsdeal.com
 realchems.de
 realtyelitefla.com
 rebekka-kraft.de
@@ -3962,6 +3987,7 @@ reklamyobrotowe.com
 relax-os.de
 relaxdog.de
 relaxdogs.de
+relaxed-kidz.de
 relaxify.de
 remax-longmont.com
 remax-top-immobilien-hamburg.de
@@ -4085,6 +4111,7 @@ runssale.win
 ruppiner-landhonig.de
 ruschebau.de
 rysselchen-shop.de
+rz-bikes.de
 rzpellets.com
 s-rommeiss.de
 saarland2012.de
@@ -4172,6 +4199,7 @@ schmalzpfeffer.de
 schmegges.de
 schmerzloseapotheke.com
 schmidt-blomberg.de
+schmidt-koerle.de
 schmiereimweb.de
 schmuckisland.com
 schneefreund.de
@@ -4313,6 +4341,7 @@ shopvn.de
 shopyjt.vejaoutfit.site
 shopywgsck.tw
 shopzge.com
+shourenmarket.com
 showbuyer.eu
 showhorseteam.de
 showtanz-celestial.de
@@ -4418,6 +4447,7 @@ sonderposten-hoffmann.de
 sonderposten-merzig.de
 song-creator.com
 soniarykielschuhe.de
+sonicbig.com
 sonnenferien-in-malchow.de
 sonnexshopmart.com
 sonosep.xyz
@@ -4453,6 +4483,7 @@ specialbagstore.com
 speedskating-salzburg.at
 spicydeals4u.com
 spiegel-bild.at
+spieleinsel.net
 spielen-ohne-strom.de
 spielend-teilen.de
 spielerei-am-schloss-shop.de
@@ -4464,6 +4495,7 @@ spielzeug.newvstylish.com
 spielzeugbaum.de
 spielzeuge.aboutsfashion.com
 spiritualbooks.de
+spiritualwindy.com
 spoints-reisen.de
 sport-direkt.net
 sport-lehrer.de
@@ -4633,6 +4665,7 @@ tagungsarrangements.de
 tahtakaleticaret.com
 tailgatetheroost.com
 taiyosushibar.com
+tajurimarket.com
 takaanshop.com
 talverteiler.de
 tankandloulou.com
@@ -4668,6 +4701,7 @@ team-enjoy.de
 team-gamma.de
 team-meier.ch
 team-soundprojekt.de
+teamclo.com
 teamtrackspeeduk.com
 teamtrackspeeduk.com
 teamvalleedutrient.ch
@@ -4681,6 +4715,7 @@ techkro.de
 technero.net
 technik-doku-design.de
 technik-fux.com
+technik-hai.com
 technik-koehler.de
 technikbucht.net
 technikfabrik.store
@@ -4737,9 +4772,11 @@ theoceanroomsbirmingham.com
 theordinaryme.de
 theos-abholmarkt.de
 thephotostick.com
+thepopcodes.com
 thera-lauf.de
 therapeutisches-reiten-ludewig.de
 theraregent.com
+therichnet.com
 thermo-aktion24.com
 thermo-gmbh.com
 thermo-vwerk.com
@@ -4950,6 +4987,7 @@ urhair.co.uk
 urkoolwear.com
 urlaub-wiechmann.de
 urlyaobose-gq.tk
+urperfit.com
 urumantu.de
 usacamper.net
 usarbuusa.com
@@ -5093,10 +5131,12 @@ vreden-sound-music.de
 vs-auto.de
 vs-electronic.net
 vshopde.com
+vvdior.com
 w-glas-werbetechnik.de
 waagemann.de
 wachstumstrend-blog.de
 waehlen-gmbh.de
+waelderlernpfad.at
 waelti-reisen.ch
 waibl-wiesner.at
 wakevision.ch
@@ -5180,6 +5220,7 @@ werkondo.com
 werkraum3.ch
 werkskauf.com
 werkstraum.com
+werkzeug-box.com
 werkzeug-gott.com
 werkzeug-gott.de
 werkzeug-shopping24.com
@@ -5214,6 +5255,7 @@ wiegeschenkt.de
 wielandstrasse2.de
 wiemanlebensoll.at
 wieste88.de
+wikysports.com
 wilcox-property-services.co.uk
 wildfeuermedia.de
 wildsabine.de
@@ -5224,6 +5266,7 @@ willispub.de
 wimex-matchup.de
 win-wetterau.de
 win-wetterau.de
+win.chairoons.com
 winehouseportugal.com
 wingiclothes.com
 winledsale.com
@@ -5399,6 +5442,7 @@ zockerbase.de
 zockerversand.de
 zoemstore.xyz
 zolavesa.com
+zombiegamers.de
 zonencowboys.de
 zonishop.com
 zoohaus-billstedt.de
@@ -5550,6 +5594,7 @@ juhustream.de
 justfilme.de
 justflix.de
 justhd.de
+justhdfilme.com
 kinobay.de
 kinodex.de
 kinoflexx.com
@@ -5638,6 +5683,7 @@ playaga.de
 playago.de
 playamba.de
 playano.de
+playmomo.de
 playoda.de
 playomo.de
 playza.de
@@ -5655,6 +5701,7 @@ sadoflix.de
 saflix.de
 savaflix.de
 segastream.de
+serienwelt.to
 sobastream.de
 sobostream.de
 soflix.de
