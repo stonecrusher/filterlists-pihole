@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-02-08
+# Last updated:  2020-02-14
 
 ### Fake online shops:
 007drones.de
@@ -111,6 +111,7 @@ ae69.de
 aegidi-grill.de
 aegt.de
 aemmestore.it
+aerotive.de
 aerzte-romanplatz.de
 aerztehaus-am-guardinipark.de
 aesthetic-duesseldorf.de
@@ -131,6 +132,7 @@ agricab.eu
 agricolaforum.de
 agrolandtechnik.com
 ah-niederfahrenhorst.de
+ahmcbgmmall.com
 ahrenshoop-info.de
 ahrenshop.com
 aidswiki.de
@@ -190,6 +192,7 @@ alisoniguelcf.com
 all-men.de
 allaboutsandwich.com
 allblackhuarache.com
+alle-markt.com
 alle-markt.de
 allergologie-update.de
 alles-mit-feenstaub.de
@@ -311,6 +314,7 @@ apparelhot.com
 applenext.de
 appleuniverse.de
 appromote.de
+aptbuyonline.com
 aquaclean-das-original.de
 arabesque-osnabrueck.de
 arando-quartett.de
@@ -369,6 +373,7 @@ astrum-pflege.de
 asv-fussgoenheim.de
 asv-grenzland.de
 asv-motorsport.de
+atakku.at
 ateiststore.xyz
 ateliergardeurstyle.eu
 ateliersigrunheck.de
@@ -434,6 +439,7 @@ backpacks.at
 backstudio-dahlke-gmbh.de
 badeanzugtreff.de
 bader-baudienst.de
+bader-deinhoff.de
 badertechnik-shop.com
 badeseebirkwitz.de
 baeckerei-kessels.de
@@ -478,6 +484,7 @@ baubiologie-sauren.de
 bauchladen-dresden.de
 bauder-ewald.de
 bauflaschnerei-weber.de
+baugenius.net
 bauhamster.shop
 bauinsel.net
 baulongo.com
@@ -494,6 +501,7 @@ bausteine.hottrendtou.com
 baustoffhaendler.at
 bautenschutz-petersen.de
 bautrocknung-in-stuttgart.de
+bauwahn.com
 bauwich.com
 bauzeug.net
 bauzeug.net
@@ -520,6 +528,7 @@ beanmania.de
 beanpoint.de
 beat-projekte.de
 beautonias.com
+beautydreams24.com
 beautyline-cosmetic.de
 beautyoutlet.top
 beautyyme.com
@@ -623,6 +632,7 @@ billig-nikefree.de
 billig-sales.com
 billigeklokker.com
 billiger-markt24.net
+billiger.cheaponline2020.com
 billigerpaket.de
 billigeschuheonline.de
 billiglose.de
@@ -652,6 +662,7 @@ blairead.com
 blauer-engel-malzhaus.de
 blautech.net
 blauweisseritter.de
+blckpodz.com
 blickpunkt-patient.de
 blitzangebote24.de
 blockhuette-pierre.de
@@ -989,6 +1000,7 @@ conquerconsoles.com
 consolen-guru.de
 consolestar.de
 container-baum.de
+containers.freehotshoes.com
 contemplation-mp.de
 conversechucksdamen.de
 converseschuhesaleonline.com
@@ -1114,6 +1126,7 @@ decko24.de
 decoff-haushalt.net
 deflorenflor.eu
 defootswear.com
+dein-baushop.com
 dein-hyundai.de
 dein-musikhaus.de
 deine-haushaltsfreunde.de
@@ -1121,6 +1134,7 @@ deinkinderwagen.club
 deinpartysound.de
 deinschmuckladen.com
 dekanathegau.de
+delcadora-store.de
 dellaroccadeipapi.it
 dellenreparatur-hagel.at
 delmont-store.com
@@ -1195,6 +1209,7 @@ dieseluhrenberlin.com
 diesophiestore.com
 diez-hardware.de
 differenta.com/
+digelektro.de
 diggedidope.de
 digiplus-store.de
 digital-and-free.de
@@ -1254,6 +1269,7 @@ dr-clark-center.com
 dr-etzlstorfer.at
 dr-michael-mueller.de
 drachenfest-siethen.de
+dragooo.net
 drahtstyle.de
 dramatischegestalten.de
 drbugre.xyz
@@ -1395,9 +1411,12 @@ eko-group.de
 ekolifsale.com
 elas-nagelzauber.de
 elasticar.de
+eldorex-store.de
 electhrons.de
 electro-port.com
 electro-sale.shop
+electroactive.store
+electromish.de
 electron-prof.com
 electronicfactorys.de
 electrovagant24.de
@@ -1443,6 +1462,7 @@ elektronik-house.com
 elektronik-kron.de
 elektronik-versand24.com
 elektroniknetzteil.de
+elektroniksmarket.com
 elektronikweber.de
 elektronisch-gerate.com
 elektronlinestore.com
@@ -1513,6 +1533,7 @@ erz-fly.de
 erzgebirgsreporter.de
 escapecheck-hamburg.de
 eselundziegenwandern.de
+eshopmarcket.com
 eslpqr.com
 esmaragda.fr
 esnostra.de
@@ -1544,6 +1565,7 @@ europaoutlet.eu
 euroshopmarket.co.uk
 euroshopmarket.eu
 euroshopmarket.hu
+euroshoroom.com
 eurstiefels.com
 eusboots.com
 euscooters.com
@@ -1784,6 +1806,7 @@ fotodesign-steiner.de
 fotografie-heike-klostermann.de
 fotografin-in-erfurt.de
 fotojamnig.at
+fotopado.de
 fotoportemonnaie.de
 fotorux.de
 fotoschutzgebiet.de
@@ -1814,6 +1837,7 @@ franzvonhahn.at
 fratellimall.com
 fraubrit-shoppt.de
 frauenchor-bielefeld.de
+frccvmall.com
 freakgeims.ch
 free.kingcdiscounts.com
 freedomfestjacksonmi.com
@@ -1872,6 +1896,8 @@ galaxy-note5.de
 galaxys5huelle.com
 galeriecafe.ch
 galerielebunker.ch
+game-byte.com
+game-byte.de
 game.newuseason.com
 gamefocus.de
 gamegram.de
@@ -1894,6 +1920,7 @@ gamingo.eu
 gamma24.de
 gantwall.com
 garminproductstore4us.com
+garminuniverse.de
 garminworldmaps.com
 garminxshop.com
 garten-events.de
@@ -2057,6 +2084,7 @@ grandeurlux.com
 graue-briefe.de
 gravelmac.com
 graychurchofchrist.org
+grazerradtaxi.at
 greatlinkhk.com
 greatsell.co
 greece.qualiutative.com
@@ -2188,6 +2216,9 @@ haushalts-lagerverkauf.de
 haushaltsektor.de
 haushaltselite.de
 haushaltshop.net
+haushaltslager.eu
+haushaltsparade.net
+haushaltszirkel.de
 haushaltwand.net
 haushaltware.net
 hausknabe.net
@@ -2258,6 +2289,7 @@ hexenbrau.at
 hfguvkmall.com
 hfr-gebaeudeservice.de
 hghv-niederkaufungen.de
+hifiexperten.de
 higgzyshop.com
 high-tech-discount.fr
 high-tech-market.com
@@ -2353,6 +2385,7 @@ i-kaufen.com
 i-kaufen.com
 ib-wjertzoch.de
 ibestores.com
+iboukou-markt.com
 iceandthesky.ch
 iceshop-neuendettelsau.de
 ich-natuerlich.de
@@ -2442,6 +2475,7 @@ intlshop.top
 intrin.de
 invivo-bochum.de
 ioffer.com
+iojjdrvcshop.online
 ios-world.de
 ip-am.de
 ipairs.de
@@ -2482,7 +2516,6 @@ ivumo.de
 iwenudesign.ch
 izidress.at
 izidress.de
-izimarkt.de
 j-lehmann.de
 j2solutions.nl
 jaboohmarket.com
@@ -2603,8 +2636,10 @@ kaerntnerlandgenuss.at
 kafeas.de
 kafeo.de
 kaffee-becker.de
+kaffee-bremer.de
 kaffee-bros.de
 kaffee-extrem.com
+kaffee-lieb.de
 kaffee-oase.net
 kaffee-schmidt.de
 kaffee-siegel.de
@@ -2612,7 +2647,9 @@ kaffee-stein.de
 kaffee-taunus.de
 kaffee-tee-online.de
 kaffee-world.de
+kaffee-zimt.de
 kaffeebedarf.eu
+kaffeegermany.de
 kaffeeguru.com/
 kaffeehelden.eu
 kaffeenator.de
@@ -2700,6 +2737,7 @@ kdc-olbernhau.de
 kedsschuhe.at
 keepbuckwild.com
 kefirek.de
+kegelstubnwattens.at
 keimtoe.com
 keinpasskeinspass.de
 keinzweiter.de
@@ -2882,6 +2920,7 @@ kubexcel.de
 kubikgs.de
 kuchenversum.de
 kuechenaligator.website
+kuechenherzen.de
 kuechenstudio-unger.de
 kuitego.com
 kulander.de
@@ -2998,6 +3037,7 @@ lernundpruefungscoaching.de
 lesdigitalos.eu
 lesehunde.de
 lesgranges.ch
+lesweilmarket.com
 letmode.com
 letussell.de
 levousok.com
@@ -3113,6 +3153,7 @@ lug-rhwd.de
 luisenhorst.de
 lulu-tintin.de
 lululike.com
+lumilights.de
 luminzowatches.com
 luno-festival.at
 lunte-kauf.de
@@ -3183,6 +3224,7 @@ malerei2000.de
 malermantei.de
 malermeister-neuenkirchen.de
 malibucoastal.co
+mall.aacan.site
 malovi.de
 malzwerk-eroeffnung.de
 mamababywelt.at
@@ -3209,6 +3251,7 @@ marder-aerger.de
 marello.store
 marinagruber.at
 marinasmusikwelt.de
+marinatedegg.shop
 maritim-world.de
 market-elektronisch.de
 market-neue.com
@@ -3286,17 +3329,23 @@ media-discount.shop
 media-dream.com
 media-fuchs24.com
 media-grafix.de
+media-hoffmann.de
 media-karster.de
 media-katalog.com
+media-orient.de
 media-outlet24.com
 media-plus.shop
 media-red.shop
 media-red24.store
 media-restposten.de
+media-schulze.de
+media-schulze.org
 media-schwab.de
 media-shopping.org
 media-silver.shop
 media-sky.store
+media-tadara.de
+media-wagner.de
 media-xxl.shop
 media-yellow.store
 mediaclever.de
@@ -3439,6 +3488,7 @@ mm-steuern.de
 mmherm.de
 mmkskvd.top
 mmoga.de
+mobi4you.de
 mobile-markt.com
 mobilepower24.com
 mobiletraum.de
@@ -3512,9 +3562,12 @@ moveactiv.com
 moyucubeshop.com/de/
 mp-reptiles.de
 mp46designprint.de
+mr-back.de
+mralefgoods.com
 mrelektroshop.com
 mrfurn.com
 mrjaeger-optik.de
+mrmontero.de
 mrnerd.de
 mrollium.de
 mrschimneyguy.com
@@ -3557,6 +3610,7 @@ my-pontto.com
 my-sport24.net
 mybotspot.de
 mycaboconcierge.com
+myclothes.shop
 myfaktory.com
 mygoldstadt.de
 myheartboom.com
@@ -3583,6 +3637,7 @@ nahkauf-tecklenburg.de
 namastenova.ca
 name.laf-shop.com
 namgyal-rinpoche-gruppe-deutschland.de
+nancyvet.fr
 narcopps.com
 narish.at
 nashironline.com
@@ -3614,6 +3669,7 @@ neinsquadrat.de
 neogames.eu
 nerd-section.com
 nerdsplace.eu
+netjum.com
 netsec.at
 nettfactory.de
 nettiback.de
@@ -3710,6 +3766,7 @@ novelarrival.com
 noweight.de
 nowoparts.de
 nowsale.de
+nozama-profi.de
 nqhfsonline.com
 nrw-bartagamen.de
 nrw-elektronik.com
@@ -3752,6 +3809,7 @@ oekoregelungen.de
 oekt-netz.de
 oevl.at
 officealchemy.co.uk
+officeheros.de
 officesouth.de
 officeware24.eu
 officialiphoneunlock.co.uk
@@ -3769,6 +3827,7 @@ ohne-rezept.eu
 ohne-rezept.online
 ohrdorf-online.de
 ohyaeestore.com
+oitheprint.at
 oksommer.com
 oldenburger-inlinernacht.de
 olivefan.com
@@ -3854,6 +3913,7 @@ palumwi.de
 panamera-chihuahua.de
 panda.storytion.com
 pandoraberlin.de
+pandorahu.com
 pandoraringe.at
 pandorasale.net
 paneelis.at
@@ -3911,6 +3971,7 @@ pension-podesser.at
 pension-wagrien-baltic.de
 pensionwinter.at
 perfect-housekeeping.store
+perfekt-haushalt.com
 perfumes-wholesaler.com
 perlmann-handel.de
 persian-safran.de
@@ -4613,6 +4674,7 @@ sentinel4mobile.de
 seomahigoods.com
 sepitsale.com
 sepsneakers.com
+serien-sidekicks.de
 serishirts.com
 server-gsm.com
 servicebuero-jaehrling.de
@@ -4636,6 +4698,7 @@ shiva-boxing.com
 shivomtrading.com
 shockcraft.de
 shoeshopde.com
+shoesmegastore.com
 shoesmeshe.com
 shoesoutleteu.com
 shoess.eu
@@ -4648,6 +4711,7 @@ shop.happy-shopping.co
 shop.hyper-tech.co
 shop.hyperstech.com
 shop.strato.de
+shopanera.com
 shopbird.de
 shopbootsonline.com
 shopbopp.com
@@ -4656,6 +4720,7 @@ shopclothingvip.com
 shopeeline.com
 shopeeline.com
 shopeplace.com
+shoperez24.com
 shopinga.de
 shoplifetime.eu
 shopping-new.com
@@ -4703,6 +4768,7 @@ sjtzvhsale.com
 sjzxdfmall.com
 sjzxdfmall.com/
 sk-biografien.de
+skateheadclothing.com
 skecherseu.com
 skikreiscalw.de
 skill-tools.com
@@ -4714,6 +4780,8 @@ skullyvin.com
 skullyvin.eu
 skye-alexanderdesigns.co.uk
 skylium.de
+skyllonline.com
+skymorogoods.com
 slanzashop.com
 sled.favoriteubrands.com
 sledding.giftshopuon.com
@@ -5087,6 +5155,7 @@ teilefarber.com
 tele-ship.com
 tele-ship.net
 tele-ship.tech
+telefoondiscounter24.com
 telmo24.de
 templatelady.com
 temposchleiferei.de
@@ -5198,6 +5267,7 @@ todsale.com
 todssaleschuhe.de
 todsshopsuk.org
 toitonia.com
+tolivo.de
 tolleat.com
 tollkleider.com
 tollnetz.de
@@ -5333,6 +5403,7 @@ underscore.specutrums.com
 undnach.de
 unendliche-begrenzung.de
 unikaefer.de
+unique-print.de
 uniquefarfit.de
 united-fashion-event.de
 unitedstreetartists.de
@@ -5427,6 +5498,7 @@ verway-erfolg.de
 veryvoga.com
 vessiegoods.eu
 vesttag.de
+vetcoco.com
 vezzono.eu
 vfl-kassel-98er-jahrgang.de
 vibramschuhes.online
@@ -5483,6 +5555,7 @@ vogueinn.com
 voguemark.ca
 voguemark.co
 voguetourstore.xyz
+vollautomator.de
 volley-makkabi-koeln.de
 volleydbm.de
 vollzeitfrei.de
@@ -5516,6 +5589,7 @@ wahre-familienpolitik.de
 waibl-wiesner.at
 wakevision.ch
 waldbroeler-zoocenter.de
+waldeber.de
 waldensis-official.ch
 walker.laf-pub.com
 wall.bsased.com
@@ -5562,6 +5636,7 @@ weihnachts-deals24.de
 weihnachts-outlet.de
 weihnachts-outlet.de
 weihnachtsland.de
+weikujionline.com
 weinberger-interieur.ch
 weinbrenner-umformtechnik.de
 weingalerie-odenhausen.de
@@ -5725,6 +5800,7 @@ wutzl-fruehbauer.at
 wvowa.com
 wwrwssale.com
 www-gamma.de
+xboxoutlet.de
 xelectronicsfirst.site
 xener.es
 xenon-brenner.com
@@ -5772,6 +5848,7 @@ young-sos.de
 youngdrummersconvention.at
 youngtomen.com
 yourfoodshop.de
+yourhandy.net
 youropee.com
 yousoyo.com
 youwins.ch
@@ -5785,6 +5862,7 @@ zafafmarket.com
 zagros24.store
 zahnarzt-schreck.de
 zahnpalais.de
+zambooo.eu
 zandis.net
 zanoya.de
 zapatoenes.com
@@ -5800,6 +5878,7 @@ zeit.classicvpurchase.com
 zeitpunkte-film.de
 zelono.de
 zencologne.de
+zendropstore.com
 zensur-in.de
 zepophere.com
 zermis.com
@@ -5945,6 +6024,7 @@ flixhd.de
 flixhub.de
 flixking.de
 flixkino.com
+flixkong.de
 flixland.de
 flixlist.de
 flixman.de
@@ -5993,6 +6073,7 @@ imaxtime.com
 imaxtv.de
 imaxwelt.com
 inflix.de
+jubaflix.de
 juhustream.de
 justfilme.de
 justflix.de
@@ -6036,8 +6117,11 @@ loxostream.de
 lunaplay.de
 madaplay.de
 madofilms.de
+madoplay.de
 magaflix.de
+maneflix.de
 mangoflix.de
+manyflix.de
 maraflix.de
 matostream.de
 maxxflix.de
@@ -6192,6 +6276,7 @@ weflix.de
 windflix.de
 woplay.de
 wowflix.de
+yaflix.de
 yalastream.de
 yobaflix.de
 yoflix.de
