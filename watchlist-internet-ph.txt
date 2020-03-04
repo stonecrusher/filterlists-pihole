@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-03-03
+# Last updated:  2020-03-04
 
 ### Fake online shops:
 007drones.de
@@ -1048,7 +1048,6 @@ couponsaustria.com
 cousin.specutrums.com
 cowboystiefelverkauf.de
 cp-handel-shop.com
-cpgtstream4.com/s26r/
 cragoo.de
 crasheco.com
 crazychemists.de
@@ -1093,7 +1092,6 @@ dach-vorwerk.de
 dachboxoutlet.com
 dagiuseppe-haimhausen.de
 daijostore.com
-dailymetcon.it/M/
 dailywish43.com
 damen.promotioncarnival.com
 damenperuecke.com
@@ -1241,7 +1239,6 @@ dieselhilfe.de
 dieseluhrenberlin.com
 diesophiestore.com
 diez-hardware.de
-differenta.com/
 digelektro.de
 diggedidope.de
 digigerate-store.de
@@ -1333,6 +1330,7 @@ dry-as-possible.de
 drykornpullover.de
 dscarf.com
 dsh-clan.de
+dslladen.com
 dsnau.com
 dsxhftmall.com
 dsz-maecenata.de
@@ -1454,6 +1452,7 @@ electhrons.de
 electro-port.com
 electro-sale.shop
 electroactive.store
+electroland-shopping.com
 electromish.de
 electron-prof.com
 electronicfactorys.de
@@ -1503,6 +1502,7 @@ elektronik-versand24.com
 elektroniknetzteil.de
 elektroniksmarket.com
 elektronikweber.de
+elektronio.de
 elektronisch-gerate.com
 elektronlinestore.com
 elektropia.de
@@ -1572,6 +1572,7 @@ errevi.de
 erz-fly.de
 erzgebirgsreporter.de
 escapecheck-hamburg.de
+esdorado.com
 eselundziegenwandern.de
 eshopmarcket.com
 eslpqr.com
@@ -2181,6 +2182,7 @@ gulfbreezefisheries.com
 gunnareckert.de
 gut.vipluckyshop.com
 guteapotheke.co.za
+gutes-produkt.com
 gvp-berlin.de
 gysbers-versand.com
 gzpulverturm.de
@@ -2532,8 +2534,6 @@ inshopys.com
 inside.mereutricious.com
 insigniadrivingtour.at
 insolvenzamt.com
-instagram.com/yeezystoregermany
-instagram.com/yezzaywatches_
 instametall.de
 institut-perspektive.de
 integra-ma.de
@@ -2726,7 +2726,6 @@ kaffee-zimt.de
 kaffeebedarf.eu
 kaffeegermany.de
 kaffeegolbus.de
-kaffeeguru.com/
 kaffeehelden.eu
 kaffeenator.de
 kaffeepause24.com
@@ -2755,7 +2754,6 @@ kamerakobi.com
 kameratronic.de
 kamilo.de
 kampfsport-aga.de
-kandiny.com/at
 kandiny.de
 kandtparry.com
 kangatraininghallein.at
@@ -3096,6 +3094,7 @@ leftmade.at
 legaler-fuhrerschein.com
 lehrertankstelle-noe.com
 leichter-berlin.de
+leidl-skischule.de
 leihohr.de
 leilingual-business.com
 leinenfrosch.de
@@ -3437,6 +3436,7 @@ media-shopping.org
 media-silver.shop
 media-sky.store
 media-tadara.de
+media-tronics.de
 media-wagner.de
 media-xxl.shop
 media-yellow.store
@@ -3544,7 +3544,6 @@ mil-leipzig.de
 millionaersuchtfrau.de
 milonga-ingolstadt.de
 mimtubularsupply.com
-mincil.de/shopserver/shops/s008349/
 mincmall.xyz
 mindshirts.de
 minelice.de
@@ -3656,7 +3655,6 @@ motorfietsbeschermingsmiddelen.xyz
 motorradzubehorliefern.xyz
 mototrans1.de
 moveactiv.com
-moyucubeshop.com/de/
 mp-reptiles.de
 mp46designprint.de
 mr-back.de
@@ -3667,6 +3665,7 @@ mrjaeger-optik.de
 mrmontero.de
 mrnerd.de
 mrollium.de
+mrphonedeals.com
 mrschimneyguy.com
 mrsnoops.de
 msf-outdoor.com
@@ -3695,6 +3694,7 @@ muscleworldhq.co.uk
 musiccorn.at
 musikliebling.com
 musikzug-wurster-nordseekueste.de
+mustangjeansshop.eu
 mustcafe.ca
 muta-racing.de
 muth-elektronik.com
@@ -3901,6 +3901,7 @@ objekteinrichtungen-anger.de
 objektrausch.de
 obstbaumpflege-rhein-ruhr.de
 occupykarlsruhe.de
+oceanbleue.com
 oceanwoodcraft.com
 ochsenloo.com
 odbvgoweulfh.online
@@ -4312,6 +4313,7 @@ rabatt.vipluckyshop.com
 rabatt2.com
 rabatt4dich.com
 rabattkoder247.se
+rabattonline2020.com
 racebunch.de
 rackactive.com
 rad-trikots.de
@@ -4454,6 +4456,7 @@ reibke-haustechnik.de
 reicher-art.at
 reifen-discount.net
 reifen-prechtl.de
+reifencheck.net
 reifenexperte.net
 reifenmax.net
 reifentitan.net
@@ -4560,6 +4563,7 @@ robmeyerfilms.com
 robomotion24.de
 rockactivestore.com
 rockandrolltrio-berlin.de
+rocket-deals.de
 rockinoberhavel.de
 rockymotorsports.de
 rocwitty.com
@@ -4733,6 +4737,7 @@ schuhdemarkt.de
 schuhe
 schuhe-deutschland.com
 schuhe-rabatt.com
+schuhe.brandsusale.com
 schuhe.storealife.com
 schuhebern.net
 schuhen-store.de
@@ -4857,6 +4862,7 @@ shoppito24.com
 shoppyglobe.com
 shops-tech.eu
 shoptesta.de
+shopuniquemarket.com
 shopuup.com
 shopvn.de
 shopyjt.vejaoutfit.site
@@ -4894,7 +4900,6 @@ sintex-dreamworld.de
 sirmonline.it
 sjtzvhsale.com
 sjzxdfmall.com
-sjzxdfmall.com/
 sk-biografien.de
 skateheadclothing.com
 skecherseu.com
@@ -5205,6 +5210,7 @@ tabak-paradies.net
 tabakshop2000.de
 tabakshopping.com
 tablistools.com
+tafelfarben.de
 tag-des-rueckens.de
 tagesklinik-luedenscheid.de
 tagesmutti-zwergenhaus.de
@@ -5350,6 +5356,7 @@ thesmallchurch.org
 thetransfiguration.co.uk
 thewatchmaker1.weebly.com
 thg.co.at
+thickness.bestanseller.com
 thielebuch.de
 thiellashop.com
 thiellashop.com
@@ -5477,6 +5484,7 @@ trikots-tdng.de
 trikotset.com
 trilokamarket.com
 tripp-marketing.de
+tripvariator.at
 trockner-outlet.de
 trojaweb.de
 tronicoase.de
@@ -5604,7 +5612,6 @@ vdd-osnabrueck.de
 veddel-sport.de
 vedhastech.com
 veduco.de
-veganfoodie.de/
 vejasstore.club
 velatempo.com
 veloberlin.de
@@ -5714,6 +5721,7 @@ vorwerk-haushalt.com
 vorwerk-kauf.com
 vorwerk-thermo.net
 vorwerk-thermomix-gmbh.com
+vorwerk-tm.com
 vorwerk.club
 vostiklap.de
 vpv-wiesbaden.de
@@ -5897,6 +5905,7 @@ wltoys.co
 wm-dornbirn2017.at
 wmwmstore.com
 wnsjktonline.com
+wodaoly.com
 wohnbau-kalmusteich.de
 wohnen-neubuch.de
 wohnidyll-berlin.de
@@ -5978,6 +5987,7 @@ yachtalert.de
 yakpilot.de
 yb-nails-berlin.de
 ybdp.ca
+yearly.latestontrends.com
 yeescroemin.com
 yeezyboost.at
 yeezys750de.com
@@ -6007,6 +6017,7 @@ yourhandy.net
 youropee.com
 yousoyo.com
 youwins.ch
+yoyokila.com
 ythubsmall.com
 ytjper.com
 ytowinmarket.com
