@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-03-04
+# Last updated:  2020-03-05
 
 ### Fake online shops:
 007drones.de
@@ -6570,3 +6570,15 @@ digitaldataimpuls.de
 # https://www.youtube.com/watch?v=_AZN-yAEFVM
 viagogo.de
 viagogo.com
+
+# Malformed URIs from the original WLI
+cpgtstream4.com
+dailymetcon.it
+differenta.com
+kaffeeguru.com
+kandiny.com
+kandiny.de
+mincil.de
+moyucubeshop.com
+sjzxdfmall.com
+veganfoodie.de
