@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-03-05
+# Last updated:  2020-03-07
 
 ### Fake online shops:
 007drones.de
@@ -1602,7 +1602,6 @@ euro-elektronics.com
 euro-nomadi.com
 euro-roids.com
 eurocam-es.de
-eurocarexport.vip
 europaoutlet.eu
 euroshopmarket.co.uk
 euroshopmarket.eu
@@ -1702,6 +1701,7 @@ fb-aachen.de
 fcnom.de
 fcsctsale.com
 feastupon.co.uk
+febsale.com
 federkontakt-smd.de
 fedop.eu
 feelings-individuellekosmetik.de
@@ -2279,6 +2279,7 @@ haushalts-elektronik.com
 haushalts-lagerverkauf.de
 haushaltsektor.de
 haushaltselite.de
+haushaltsfreunde.net
 haushaltshop.net
 haushaltslager.eu
 haushaltsparade.net
@@ -2420,6 +2421,7 @@ hotelweinland.at
 hots-boots.com
 hotuashoes.com
 houmiaomarket.com
+houseoftronic.store
 howillbuy.com
 hpdgsmarket.com
 hpm-hanse.de
@@ -2529,7 +2531,6 @@ inmuju.com
 innaemarket.com
 inno-store.com
 inselgrill.at
-inseltasche.de
 inshopys.com
 inside.mereutricious.com
 insigniadrivingtour.at
@@ -4232,6 +4233,7 @@ primehyp.de
 primeshe.com
 primetime-artist-management.de
 printlive-app.de
+pris.creaturepuppetgallery.com
 prismmall.xyz
 privado-mallorca.com
 privatefloor.com
@@ -4360,6 +4362,7 @@ raven-promo.com
 raven-shop.com
 ravensburger-krippenland.de
 raveofcolours.com
+ravhagoods.com
 rawchanger.com
 rawggie.de
 ray-de.com
@@ -4817,6 +4820,7 @@ shalimar-freiburg.de
 shara-shantie.de
 sharkyogaflex.com
 shb-biw.de
+shdjjdonline.com
 shedroffassociates.com
 sheheaven.com
 sheinse.com
@@ -4960,6 +4964,7 @@ sneakerspalette-de.com
 sniggelsnuggel.de
 snowbootat.com
 snowbootsaut.com
+snowgear.com
 soapy.stroplgng.com
 soccercoachmagdy.at
 soccergreet.com
@@ -6109,6 +6114,8 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+miniflix.de
+judoplay.de
 zeroplay.de
 galoflix.de
 preflix.de
