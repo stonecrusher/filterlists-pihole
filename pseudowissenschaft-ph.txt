@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-02-21
+# Last updated:  2020-03-10
 
 3ho.ch
 adviqo.com
@@ -119,6 +119,8 @@ horizonworld.de
 horoskop-paradies.ch
 horusarcanum.cms4people.de
 humannews.de
+icf-movement.org
+icf.church
 im-licht.jimdo.com
 imlicht.ch
 impf-info.de
@@ -181,6 +183,7 @@ naturheilmagazin.de
 neoterisches-bewusstsein.com
 neues-wissen.org
 noeastro.de
+ojc.de
 orgonpraxis.de
 osho.com
 ots.at
