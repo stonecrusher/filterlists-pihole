@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-03-15
+# Last updated:  2020-03-21
 
 ### Fake online shops:
 007drones.de
@@ -36,6 +36,7 @@
 3ui.co.uk
 3wettomat.de
 42tage.de
+4d-w.de
 4fathersphilly.com
 4fathersphilly.com
 4objects.de
@@ -156,6 +157,7 @@ airmaxshopschweiz.com
 airplaypro-de.com
 airpodsdirekt.de
 airpodsdirekt.de
+airpodsmarkt.de
 airsoft-herne.de
 airspacemanagement.net.au
 airstepschuhe.de
@@ -226,6 +228,7 @@ alobd24.com
 aloisiuscountryfestival.de
 alpha-elektroniks.net
 alpha-tech.store
+alphamential.com
 alte-wirtsstube.de
 alternzuhause.at
 altho-fenster.de
@@ -315,6 +318,7 @@ apostel-koeln.de
 apotheke-ch.com
 apotheke-ch.org
 apotheke-rezeptfrei.eu
+apothekeoesterreich.eu
 appai.de
 appalachiangastro.com
 apparelhot.com
@@ -373,10 +377,12 @@ as-accudo.de
 asbudpl.eu
 asc-fribourg.ch
 asf-muenchen-ost.de
+ashoppy.de
 asicsschuhereduziert.de
 asorchdigital.com
 asp-altona-nord.de
 aspirepropertyinvest.com.au
+astgdshop.com
 astroskope-rosenau.de
 astrum-pflege.de
 asv-fussgoenheim.de
@@ -503,6 +509,7 @@ baugenius.net
 bauhamster.shop
 bauinsel.net
 baulongo.com
+baulords.net
 baumasters.com
 baumeile.net
 baumichel.com
@@ -628,6 +635,7 @@ bhsure.com
 bi-verteilerkreis.at
 bicycleshopsonline.com
 bicyclettres.fr
+bidsoptgoods.com
 biedronka-sklep.de
 biedronkamarkt.de
 biehs-leder.de
@@ -673,6 +681,7 @@ birkenstock-clearance.us
 birkenstocksandalen.de
 birkenstocksonlineshop.de
 birkhof-reitverein-ville.de
+bisterberg.de
 bistrorant-rosmarino.de
 biswatch.com
 bitforce.ch
@@ -715,6 +724,7 @@ bme2000.de
 bmi-shop.top
 bmstore.shop
 bmw-importeren.com
+bnojphshop.com
 boc-forum.de
 bochert-bau.com
 bochhansl.at
@@ -833,6 +843,7 @@ byqo.de
 c8bycreate.com
 cabanella.de
 cabcub.de
+cadkas3.de
 cafe-am-markt-weilheim.de
 cafe-bistro-ahoi.de
 cafe-discount.de
@@ -1005,6 +1016,7 @@ coats.coolinautumn.com
 cocacolavtc.de
 cocibmarket.com
 coconfashion.com
+cocue40cw.de
 codatoonline.com
 coelen-architekt.de
 cof-tech.net
@@ -1071,6 +1083,7 @@ creemarshop.com
 crepessuzette-neustadt.de
 cribri.online
 criminaldamagehoodie.de
+cristina-vila.com
 croozer-online.de
 croozer-transport.de
 crossover-fit.de
@@ -1447,6 +1460,7 @@ efancylife.com
 efc-mainpower-badhomburg.de
 eftwelt.de
 eglobalcentral.at
+ehipsmall.com
 ehome-shop.com
 eichelberg-dr.de
 eichenberg-im-spessart.de
@@ -1532,6 +1546,7 @@ elektronikweber.de
 elektronio.de
 elektronisch-gerate.com
 elektronlinestore.com
+elektropfeifer.de
 elektropia.de
 elektroriese24.de
 elektrosale.com
@@ -1541,6 +1556,7 @@ elektrowagner24.de
 elektrowaren-trip.com
 elenetzteil.de
 elgros.de
+eliepop.com
 elina-sensina.de
 elisabeth-dolezal.at
 elite-hardware.de
@@ -1591,6 +1607,7 @@ eplanet-store.de
 equipair.ca
 erdbeermund-kabarett.de
 erektslim.com
+eremea.de
 ericdress.com
 erleben-hund.de
 erlebniswandern-schottland.de
@@ -1610,6 +1627,7 @@ espressowelt.at
 essen-umstandsmode.de
 essneun.de
 estherhakcoaching.nl
+estike.com
 estrich-breuer.de
 etec-lounge.de
 eternallyhours.com
@@ -1630,6 +1648,7 @@ euro-nomadi.com
 euro-roids.com
 eurocam-es.de
 europaoutlet.eu
+europeonpoint.de
 euroshopmarket.co.uk
 euroshopmarket.eu
 euroshopmarket.hu
@@ -2023,6 +2042,7 @@ gasthof-gritschacher.at
 gasthof-hansy.at
 gatinorge.fr
 gattooo.de
+gb-electrohaus.com
 gbengel-todentta.de
 gboschmed.de
 gdaecshop.com
@@ -2315,12 +2335,14 @@ haushaltshop.net
 haushaltslager.eu
 haushaltsparade.net
 haushaltspartner.net
+haushaltstacks.de
 haushaltszirkel.de
 haushaltwand.net
 haushaltware.net
 hausknabe.net
 hauskram.net
 hauslinie.store
+hausmasters.net
 hausmeister-plewniak.de
 hausrunde.net
 hausvendor.net
@@ -2479,6 +2501,7 @@ hundesportzentrum-siegen.de
 hungarywoodpellets.com
 hunzer.net
 huongdaonline.com
+huplyn.com
 hurican.net
 hussam-nimr.de
 hvbshop.de
@@ -2530,6 +2553,7 @@ imlulugrace.com
 immerbilliger.eu
 immers-messebau.de
 immers-messebau.de
+immo-scheidl.de
 immobilie-hofstetter.de
 immobilien-am-hofgartenplatz.de
 immobilien-korth.de
@@ -2624,6 +2648,7 @@ italiaworldwide.com
 itc-schwarz.de
 item.specutrums.com
 iteshop.top
+itporionline.com
 itxegoods.com
 iued.ch
 iunicum.at
@@ -2832,6 +2857,7 @@ katanea.com
 kath-kirche-kusel.de
 kathis-nagelstube.de
 katieboltibiza.com
+katlos.com
 katrinlampe.at
 katydiddesigns.co.uk
 kauaihealthtraining.org
@@ -3047,6 +3073,7 @@ kuchenversum.de
 kuechenaligator.website
 kuechenherzen.de
 kuechenstudio-unger.de
+kuihmall.com
 kuitego.com
 kulander.de
 kulinarium7.at
@@ -3295,6 +3322,7 @@ lumilights.de
 luminzowatches.com
 luno-festival.at
 lunte-kauf.de
+luppo.at
 luskepoker.com
 lutter-kosmetik.de
 luvdaleschool.com
@@ -3350,6 +3378,7 @@ mainelng.com
 mainz.konsolen-gmbh.com
 maisondusport.ch
 maisonvalentinagroup.com
+majabruns.de
 makeitvienna.at
 makeupchiller.com
 maklerprovision-garmisch.de
@@ -3510,6 +3539,7 @@ mediawunder.de
 medicalsmilesgmbh.com
 medicalundbeauty.at
 medicpub.de
+mediendesign-rheine.de
 medienschwarm.at
 medienselbstgestalten.de
 medikament24.net
@@ -3521,6 +3551,7 @@ medina24.de
 medina24.store
 medio-marion.de
 medionics.net
+medirezept.com
 medirezept.net
 medizin-rezeptfrei.com
 medzcon.de
@@ -3640,6 +3671,7 @@ mlsteinwork.at
 mm-bornschein.de
 mm-steuern.de
 mmherm.de
+mmipprosale.com
 mmkskvd.top
 mmoga.de
 mobi4you.de
@@ -3705,6 +3737,7 @@ morgentau-media.de
 morismolino.com
 moritz-apotheke-berlin.de
 moritz-honig.de
+moschinosale.de
 moser-elektroanlagen.de
 moserkg.at
 mosfancy.com
@@ -3718,6 +3751,7 @@ motorfietsbeschermingsmiddelen.xyz
 motorradzubehorliefern.xyz
 mototrans1.de
 moveactiv.com
+movozo.de
 mp-reptiles.de
 mp46designprint.de
 mr-back.de
@@ -3933,6 +3967,7 @@ notebooknetzteile.at
 notebooks-reichelt.de
 notebooksbilliger-angebot.net
 novada-services.de
+novak24.com
 novelarrival.com
 noweight.de
 nowoparts.de
@@ -3983,6 +4018,7 @@ oeko-naturprodukte.de
 oekoregelungen.de
 oekt-netz.de
 oevl.at
+ofarlygoods.com
 officealchemy.co.uk
 officeheros.de
 officesouth.de
@@ -4239,6 +4275,7 @@ plichter.eu
 plisker.de
 pmnavsale.com
 podolo24.de
+podologie-morhard.de
 pods-tech.com
 poeticat.co.uk
 pointhotel.at
@@ -4253,6 +4290,7 @@ polooutletdeutschland.com
 polwest.de
 poly-mind.de
 pomalux.be
+ponano-germany.store
 poobia.com
 pop-perlen.de
 populily.com
@@ -4938,6 +4976,7 @@ shopinga.de
 shoplifetime.eu
 shopping-new.com
 shoppingavenue.co
+shoppingdeal.co
 shoppingsmart.store
 shoppins.de
 shoppito24.com
@@ -5111,6 +5150,7 @@ spicydeals4u.com
 spiegel-bild.at
 spieleclub.net
 spieleinsel.net
+spielemonster.net
 spielen-ohne-strom.de
 spielend-teilen.de
 spielerei-am-schloss-shop.de
@@ -5153,6 +5193,7 @@ ssmrvmarket.com
 ssv-korbach.de
 st-martin-eggolsheim.de
 st-paulus-langenfeld.de
+st-photos.de
 stade-heide.de
 stadtboks-shop.de
 staid.giftshopu.com
@@ -5679,6 +5720,7 @@ usoakley-shop.com
 usupa.eu
 usv-lamprechtshausen.at
 utagice.de
+utbwjpnystore.online
 utopia-bremen.de
 uuaca.com
 uug-berlin.de
@@ -5700,6 +5742,8 @@ vanilleah.at
 vanssale.de
 vansschuhe.at
 vapoworld.de
+vateli.de
+vateli.de
 vaude-rucksack.de
 vaudefrance.fr
 vaudejackets.com
@@ -5759,6 +5803,7 @@ viel.queenluckyshop.com
 viennagroup.at
 villafroschkoenig.de
 villagersatwar.co.uk
+viluro.de
 viluro.de
 vimabel.de
 vinalingerie.fr
@@ -5970,6 +6015,7 @@ wielandstrasse2.de
 wiemanlebensoll.at
 wierilonline.com
 wieste88.de
+wifi-booster.co
 wikysports.com
 wilcox-property-services.co.uk
 wildfeuermedia.de
@@ -6004,6 +6050,7 @@ wir-in-bargstedt.de
 wir-neu-wulmstorfer.de
 wirlaufenzurschule.de
 wissenstransfer-berlin.de
+witton-sporting-limited.com
 wj-tag.de
 wltoys.co
 wm-dornbirn2017.at
@@ -6152,6 +6199,7 @@ zehen-abstandhalter-de1.com
 zeit.classicvpurchase.com
 zeitpunkte-film.de
 zelono.de
+zenco.store
 zencologne.de
 zendropstore.com
 zensur-in.de
@@ -6216,6 +6264,8 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+iceflix.de
+deepflix.de
 lookflix.de
 sideflix.de
 joyflix.de
@@ -6655,6 +6705,8 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+schluesseldienst-hilfe.at
+sanitär-fritz.de
 grazerraeumung.at
 sanitär24-h.at
 sanitär24-service.at
