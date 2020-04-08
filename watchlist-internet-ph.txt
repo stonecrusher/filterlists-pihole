@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-04-04
+# Last updated:  2020-04-08
 
 ### Fake online shops:
 007drones.de
@@ -195,6 +195,7 @@ alexandeerbuy.club
 alexanderpolzin.de
 alexandra-melzer.de
 alexkulik-kunst.de
+alfagarten.de
 alfter-raumausstattung.de
 aliccmarket.eu
 alilinana.com
@@ -272,6 +273,7 @@ andyenglishauthor.com
 anemdzmarket.com
 anenberg.store
 angelounddiemoewe.ch
+angfitonline.com
 animal-nature.de
 animalspot.it
 animo-tempel.at
@@ -390,6 +392,7 @@ aspirepropertyinvest.com.au
 astgdshop.com
 astroskope-rosenau.de
 astrum-pflege.de
+astute-buy.de
 asv-fussgoenheim.de
 asv-grenzland.de
 asv-motorsport.de
@@ -746,9 +749,11 @@ bognerjackesale.com
 boldmatters.de
 bollywood-passau.de
 bomberlonga.com
+bonfishop.store
 bonn.elektronik-gmbh.com
 bonnyin.at
 boofashions.com
+booflixom.com
 booklethotel.com
 boots2017de.com
 bootsfun.co.uk
@@ -856,6 +861,7 @@ byqo.de
 c8bycreate.com
 cabanella.de
 cabcub.de
+cadkas3.de
 cadkas3.de
 cafe-am-markt-weilheim.de
 cafe-bistro-ahoi.de
@@ -1108,6 +1114,7 @@ croozer-online.de
 croozer-transport.de
 crossover-fit.de
 cruelgamerofdarkness.de
+crystal-chandelier.at
 crystalnaturprodukte.ch
 crystalsoul.de
 csa.co.at
@@ -1208,6 +1215,7 @@ deciansale.com
 decigames.co.uk
 decko24.de
 decoff-haushalt.net
+deepcaps.com
 deflorenflor.eu
 defootswear.com
 dein-baushop.com
@@ -1537,6 +1545,7 @@ elektro-dresden.com
 elektro-emma.com
 elektro-engel.de
 elektro-garten.com
+elektro-guetlein.de
 elektro-hartmann.net
 elektro-kiste24.com
 elektro-kuehner.com
@@ -1603,6 +1612,7 @@ emil-heyrich.de
 emingersweine.at
 emma-facialharmony.at
 emmalis-welt.de
+emmalison.com
 emmas-cafe.de
 emmas-f.shop
 empirescooters.com
@@ -1723,6 +1733,7 @@ exvision.de
 eysdfsdfsd.myshopify.com
 eziobincoletto.com
 fabeos-security.de
+fabnetstudio.com
 fabooo.de
 faceuptodrink.co.uk
 fachschaft-ekw.de
@@ -1830,6 +1841,7 @@ ffw-spirkelbach.de
 ffw-unterbechingen.de
 ffwschussenried.de
 fictionstudio.de
+fiedler-elec.de
 fieldstonefarmny.com
 fifathsale.com
 fightland24.de
@@ -1862,6 +1874,7 @@ fityourbody-salzburg.at
 five-live.de
 fixekiste.de
 fjalleuro.com
+fjfriday.site
 fjzyrzstore.com
 fjzyrzstore.com
 fk-k.de
@@ -1893,6 +1906,7 @@ fm-leverkusen.de
 fm-stromberger.at
 fmscooutlet.top
 fmz-ff.at
+fndratcxshop.online
 fniemann.com
 foerderverein-due.de
 fokus-bildung.at
@@ -1963,6 +1977,7 @@ fratellimall.com
 fraubrit-shoppt.de
 frauenchor-bielefeld.de
 frccvmall.com
+frdgymonline.com
 freakgeims.ch
 fred-elec.de
 free.kingcdiscounts.com
@@ -2092,6 +2107,7 @@ gdplmdgoods.com
 ge-ek.com
 ge2astore.top
 ge4collection.com
+geargoplus.com
 geba-paletten-moebel.de
 gebauer-schmidt.de
 gebr-wekerle.de
@@ -2373,6 +2389,7 @@ haushalt365.net
 haushalt4me.de
 haushalt4me.net
 haushalthit.de
+haushaltisdone.de
 haushalts-elektronik.com
 haushalts-lagerverkauf.de
 haushaltsektor.de
@@ -2390,6 +2407,7 @@ hausknabe.net
 hauskram.net
 hauslinie.store
 hausmasters.net
+hausmeister-in-leipzig.de
 hausmeister-plewniak.de
 hausrunde.net
 hausvendor.net
@@ -2552,6 +2570,7 @@ hundeschule-bei-regensburg.de
 hundesportzentrum-siegen.de
 hungarywoodpellets.com
 hunzer.net
+huoliaor.com
 huongdaonline.com
 huplyn.com
 hurican.net
@@ -2589,6 +2608,7 @@ igadtools4mint.de
 igateceogolfcup.com
 ihr-haus-berater.de
 ihre-hausverwalter.de
+ihxhn.shop
 ijade.store
 ijintender.com
 ikarus-flugdienst.de
@@ -2641,6 +2661,7 @@ ingelheimer-konfettis.de
 ingersoll1892.com
 ingiocoresearch.it
 ingodesign.de
+inhivgoods.com
 inhomefurn.com
 init-m.de
 inmuju.com
@@ -2660,6 +2681,7 @@ internationalerumzug.de
 internationalfans.com
 internationalmoving.co.in
 inthefuture.shop
+intimuaq.com
 intlshop.top
 intrin.de
 invivo-bochum.de
@@ -2732,6 +2754,7 @@ janinaleonieriegel.de
 jannisdietrich.de
 jasminfashionshop.com
 jasminrapior.de
+jayzrastore.com
 jazzdance-freiburg.de
 jazzworlddj.com
 jb-trailer.de
@@ -2790,6 +2813,7 @@ jordandebut.com
 jorgegarcialima.com
 josef-spaier.de
 jptttsale.com
+jrekacad.com
 jroosevelt.com
 jsag-bayern.de
 jsgaue2002.de
@@ -2958,6 +2982,7 @@ kennelschmengerbasket.de
 kennelschmengersandalen.de
 kennelundschmengersandalen.de
 kentuckyboys.de
+kepbarb.com
 keramik.firstorea.com
 kerawerk-matzen.de
 kernversichert.de
@@ -3111,6 +3136,7 @@ krender.de
 krethe-fachmarkt.de
 kreuzbergstore.com
 kreuzhof-sylli.at
+krilt.de
 krimadonna.de
 krispin-eickhoff.de
 kristalliebe.com
@@ -3263,6 +3289,7 @@ lesgranges.ch
 lesweilmarket.com
 letmode.com
 letussell.de
+letyaly.com
 level-markt.com
 levousok.com
 lewd.hirdiscount.com
@@ -3293,6 +3320,7 @@ lieferungvonkraftfahrzeugteilen.xyz
 lifa-core.de
 lifeathouse.com
 lifemymall.com
+lifestyle-leder.de
 lifestyle-medikamente.com
 lifeworks-munich.de
 light.thepersistentvisualist.com
@@ -3721,6 +3749,8 @@ miss.salesvipp.com
 missbuyin.com
 missmoana.com
 missnikke.com
+missomaoutlet.com
+misterhaushalt.de
 misterjoux.com
 misterui.de
 misunderstanding.stoneud.com
@@ -3858,6 +3888,7 @@ multimedia-olimp.com
 multimedia-zauber.com
 multimediamonster.eu
 multimeyer.de
+mundnasenschutz.at
 munichrockstars.de
 murgtal-baeckerei.de
 murtalevents.at
@@ -4210,6 +4241,7 @@ palumwi.de
 pamego.de
 panamera-chihuahua.de
 panda.storytion.com
+pandoo-store.com
 pandoo-store.com
 pandoraberlin.de
 pandorahu.com
@@ -4643,6 +4675,7 @@ recouplighting.co.uk
 reczeysale.com
 redarius-quartie.de
 redcross-schaerbeek.be
+redinmos.de
 redkom-pr.de
 redshirtpodcast.de
 reel2reality.com
@@ -4949,6 +4982,7 @@ schuhe-rabatt.com
 schuhe.brandsusale.com
 schuhe.storealife.com
 schuhebern.net
+schuhekeen.de
 schuhen-store.de
 schuhendlich.com
 schuheonline-kaufen.com
@@ -5069,6 +5103,7 @@ shopovia.eu
 shopping-new.com
 shoppingavenue.co
 shoppingdeal.co
+shoppingkanal24.store
 shoppingsmart.store
 shoppins.de
 shoppito24.com
@@ -5361,6 +5396,7 @@ streetluge-austria.at
 streit-elektronik.de
 strnad-ibs.at
 strobel-rahmen.de
+strobeversand.com
 strompreis-kassel.de
 stromstadsif.se
 stroopwafelpost.nl
@@ -5632,6 +5668,7 @@ tischlerei-fischler.at
 tischlermeister-loening.de
 titansupps.de
 titihaus.de
+tizianomall.com
 tjcslshop.com
 tjilomall.xyz
 tk-bewussterleben.de
@@ -5904,17 +5941,20 @@ vezzono.eu
 vfl-kassel-98er-jahrgang.de
 vga.unternehmer-2014.de
 vibeioshop.com
+vibestein.com
 vibramschuhes.online
 vicky-damen.de
 victorpillac.com
 vidasimples.de
 viel.queenluckyshop.com
 viennagroup.at
+vierwunder.de
 villafroschkoenig.de
 villagersatwar.co.uk
 viluro.de
 viluro.de
 vimabel.de
+vimune.me
 vinalingerie.fr
 vinideicavalli.de
 vinomz.com
@@ -6056,6 +6096,7 @@ weikujionline.com
 weinberger-interieur.ch
 weinbrenner-umformtechnik.de
 weingalerie-odenhausen.de
+weingut-werner.at
 weinvierteldraisine-erlebnisbahnhof.at
 weinwandern-langenlonsheim.de
 weisehaus.de
@@ -6115,6 +6156,7 @@ wg-abi94.de
 wgh-shop.top
 wgmannheim.de
 whatstore.de
+wheelix.net
 wheelza.de
 whirlpoolshops.com
 whitememtory.com
@@ -6145,6 +6187,7 @@ win-wetterau.de
 win-wetterau.de
 win.chairoons.com
 winariss.com
+windtecmgm.de
 winehouseportugal.com
 wingiclothes.com
 winledsale.com
@@ -6231,7 +6274,6 @@ wutzl-fruehbauer.at
 wvowa.com
 wwrwssale.com
 www-gamma.de
-www.elektro-guetlein.de
 xboxoutlet.de
 xelectronicsfirst.site
 xener.es
@@ -6385,6 +6427,11 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+simoflix.de
+adoflix.de
+beeflix.de
+linflix.de
+mauflix.de
 logaflix.de
 mooflix.de
 dugoflix.de
@@ -6825,6 +6872,7 @@ realtor-property.com
 spaces-realestate.com
 
 ### Fraudulent travel agencies:
+hotelsinvienna.org
 dream-spot.com
 billige-reiseorte.info
 deine-reise.info
@@ -6835,6 +6883,7 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+klempner-notdienst.net
 entruempelung-gruber.info
 schluesseldienst-hilfe.at
 sanitär-fritz.de
@@ -6863,6 +6912,8 @@ spaxdelivery.org
 i-translogistics.com
 
 ### Fraudulent survey platforms:
+quest-factory.club
+app-im-test.com
 test-essenz.com
 digitaldataimpuls.de
 
