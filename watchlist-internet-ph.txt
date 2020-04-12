@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-04-08
+# Last updated:  2020-04-11
 
 ### Fake online shops:
 007drones.de
@@ -14,6 +14,7 @@
 123babyland.shop
 123buy.eu
 123einkauf.at
+13de.detoxic.net
 18fussballshop.eu
 1991inc.com
 1aahardware.de
@@ -1525,6 +1526,7 @@ ekolifsale.com
 elas-nagelzauber.de
 elasticar.de
 eldorex-store.de
+elec-stache.de
 electhrons.de
 electris.shop
 electro-port.com
@@ -1588,6 +1590,7 @@ elektropfeifer.de
 elektropia.de
 elektroriese24.de
 elektrosale.com
+elektroschwein24.com
 elektrostation24.de
 elektrotraum.com
 elektrowagner24.de
@@ -2036,6 +2039,7 @@ g-kahlen.de
 g7-protest.de
 gabriele-wurm.at
 gabrielebriesemeister.de
+gador-markt.com
 gaeste-plus.de
 gaestehaus-toff.at
 galabau-hesbuell.de
@@ -2384,6 +2388,7 @@ hausgrube.net
 haushalt-de.com
 haushalt-lektro.de
 haushalt-versand-shop.de
+haushalt24.net
 haushalt2go.de
 haushalt365.net
 haushalt4me.de
@@ -3101,6 +3106,7 @@ konsolen-shop24.de
 konsolen-sky.de
 konsolenkammer24.de
 konsolenkiste.de
+konsolenpalast.de
 konsolenparadies.de
 konsolenstation24.com
 konsolensultan.de
@@ -3159,6 +3165,7 @@ kubikgs.de
 kuchenversum.de
 kuechenaligator.website
 kuechenherzen.de
+kuechenratio.de
 kuechenstudio-unger.de
 kuihmall.com
 kuitego.com
@@ -3775,6 +3782,7 @@ mmherm.de
 mmipprosale.com
 mmkskvd.top
 mmoga.de
+mnml.shop
 mobi4you.de
 mobil-markt.net
 mobile-markt.com
@@ -5125,6 +5133,7 @@ showvsale.com
 shushoku-seiko.com
 siambluegreen.com
 sicheres-modding.com
+siclothingonline.com
 side.commandoll.com
 sidoro-kosmetik.de
 siebenklar.de
@@ -5146,6 +5155,7 @@ simo-studio.de
 simondroissart.be
 simone-siegmann.de
 simoro.de
+simplexe.co
 sinas-kinderwunderwelt.de
 sinergiabenessere.it
 single-event-fabrik.de
@@ -5542,6 +5552,7 @@ tech24-area.com
 tech4friends.store
 techeteam.com
 techkro.de
+techmeta.store
 technero.net
 technik-doku-design.de
 technik-fux.com
@@ -5588,6 +5599,7 @@ thaisawadee.de
 thb-bmr.de
 the-leather-shop.com
 theater-chronos.at
+theaterverein-nd.at
 theatredusoleil.com
 theaustrian.org
 thebrinx.com
@@ -5704,6 +5716,7 @@ tonspy.com
 tonysshoeshop.top
 tookacogoods.com
 tool.followafashion.com
+toolfreunde.net
 toolshopc.com
 top-apotheke.com
 topaska.de
@@ -6389,6 +6402,7 @@ zigaretten-steuerfrei-bestellen.com
 zigarettenexpress.co
 zigmabit.com
 zillestrasse107.de
+zilvu.de
 zimmerei-bisanz.de
 zimmerei-huhmann.de
 zimmerei-korntal.de
@@ -6427,6 +6441,9 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+nodaflix.de
+leloflix.de
+shaflix.de
 simoflix.de
 adoflix.de
 beeflix.de
@@ -6883,6 +6900,7 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+key-auf.at
 klempner-notdienst.net
 entruempelung-gruber.info
 schluesseldienst-hilfe.at
