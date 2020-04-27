@@ -1,11 +1,11 @@
 # Title:         Pseudowissenschaft und Realitätsverweigerer
 # Expires:       7 days
 # Description:   Esoterisches, Verschwörungstheorien und Impfgegner
-# Example:       Tarot, Homöopathie, Schamanismus, Kristallheilung, Wünschelrutengänger, Wassergedächtnis, Sekten, Scientology, Zeugen Jehovas, Flat-earth, Astrologie, Ätherische Öle, Anti-Strahlung, Globuli, Verlage
+# Example:       Tarot, Homöopathie, Schamanismus, Kristallheilung, Wünschelrutengänger, Wassergedächtnis, Sekten, Scientology, Zeugen Jehovas, Flat-earth, Astrologie, Ätherische Öle, Anti-Strahlung, Globuli, Verlage, Elektrosensibilität
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-03-10
+# Last updated:  2020-04-27
 
 3ho.ch
 adviqo.com
@@ -19,6 +19,7 @@ amram-events.com
 ancient-mysteries.de
 andreas-roth.de
 anthrowiki.at
+anti-esmog.de
 app-fortunica.com
 aprikosen.info
 astro.de
@@ -36,12 +37,14 @@ bav-versand.ch
 bewusst.tv
 bewusster-leben.de
 bewusstsein-heute.de
+bio-synergetics.de
 blickart-online.de
 blissvideo.de
 borderlands.de
 bpv.ch
 bunkahle.com
 calleman.com
+claudiaschaefler.de
 cog.org
 cropfm.at
 dagia.org
@@ -64,15 +67,25 @@ dzvhae.de
 eagate.de
 efi-online.de
 efvv.eu
+ehs-forum.de
 eis-system.ch
+elektrosmog-und-gesundheit.de
+elektrosmoghilfe.com
+elektrosmogportal.de
 elexier-magazin.de
 elodia.ch
+ema-burmann.de
+emiko.de
 emu-verlag.de
+endotronic-gmbh.de
 energie-wasser-praxis.de
 engelmagazin.de
+esmog-geopathie.de
+esmog-shop.com
 esoterikmesse.de
 euro-celts.com
 evatarot.de
+everyday-feng-shui.de
 ewigeweisheit.de
 exopolitik.org
 expresszeitung.com
@@ -89,10 +102,16 @@ friedliche-loesungen.org
 fuckluckygohappy.de
 gaiavita-lichtfokus.de
 gandharvaloka.com
+gegen5g.de
 geopathologie.de
+geovital-akademie.com
+geovital.com
+geovital.org
+geovital.shop
 gerd-bodhi-ziegler.com
 gesund-und-gluecklich.at
 gesund.ch
+gesundes-wasser.net
 gesundheit-lebensqualität.de
 gesundheit-und-impffreiheit.de
 gewahrsein.net
@@ -119,6 +138,7 @@ horizonworld.de
 horoskop-paradies.ch
 horusarcanum.cms4people.de
 humannews.de
+hypnoseausbildung-seminar.de
 icf-movement.org
 icf.church
 im-licht.jimdo.com
@@ -135,6 +155,7 @@ indigoheart.de
 individuelle-impfentscheidung.de
 info.adviqo.com
 infoquelle.de
+innerwise.com
 inspiration-reisen.ch
 institut-ganzheitsmedizin.de
 j-k-fischer-verlag.de
@@ -182,6 +203,8 @@ natuerlich-online.ch
 naturheilmagazin.de
 neoterisches-bewusstsein.com
 neues-wissen.org
+neutralisierer.jimdofree.com
+newerla.com
 noeastro.de
 ojc.de
 orgonpraxis.de
@@ -243,6 +266,7 @@ spuren.ch
 stakers.com
 stimmvolk.ch
 stopmandatoryvaccination.com
+stoppt-5g.de
 stregato.de
 tarot-muenchen.com
 tarot-online.com
@@ -259,7 +283,9 @@ totem-tarot.de
 touchlife.de
 tsesit.com
 u-g-k.de
+ul-we.de
 universalsounds.ch
+unverstrahltes-land.de
 urquellwasser.eu
 urwuchs.blog.de
 v-e-d-a.de
@@ -270,6 +296,7 @@ vistano.com
 vitabuch.ch
 vital.de
 vitaminum.net
+vitamunda.de
 vivendo-blog.com
 viversum.de
 wahrheiten.org
@@ -290,10 +317,9 @@ yoga-artikel.ch
 yogadasmagazin.ch
 yogastudio.ch
 yonamo.com
+ypsilon-shop.de
 zeitpunkt.ch
 zentrum-der-gesundheit.de
 zukunftsblick.ch
 zur-inneren-quelle.de
 zuspiel.info
-elektrosmog-und-gesundheit.de
-newerla.com
