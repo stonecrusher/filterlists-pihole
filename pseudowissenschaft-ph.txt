@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-04-27
+# Last updated:  2020-05-01
 
 3ho.ch
 adviqo.com
@@ -295,6 +295,16 @@ visionen.com
 vistano.com
 vitabuch.ch
 vital.de
+vitamindberater.de
+vitamindbrief.de
+vitamindelta.de
+vitamindhilferuf.de
+vitamindrechner.de
+vitamindservice.de
+vitamindsimulator.de
+vitamindspiegel.de
+vitamindticker.de
+vitamindtop.de
 vitaminum.net
 vitamunda.de
 vivendo-blog.com
@@ -303,6 +313,7 @@ wahrheiten.org
 wahrheitskugel.de
 walterluebeck.com
 wandel-erleben.de
+we-love-nature.de
 weibel.blog.de
 wellness-lichtpunkt.com
 welt-der-mystik.de
