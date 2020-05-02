@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-04-25
+# Last updated:  2020-05-02
 
 ### Fake online shops:
 007drones.de
@@ -228,6 +228,7 @@ allyoucanplay.store
 almaghrib.de
 almamarket.de
 almasklep.de
+almoedw.com
 almwanderland.at
 alobd24.com
 aloisiuscountryfestival.de
@@ -300,6 +301,7 @@ ansenso-publishing.de
 antik-galerie-bad-urach.de
 antik-kump.at
 antik-meiers.de
+antikclub.de
 antikuhren-fachklinik.de
 antimonotree.de
 antiquariat-galerie-rostock.de
@@ -660,6 +662,7 @@ biema-kurierdienste.de
 bienes-kleintierpension.net
 bieyt.com
 bigbagharbeck.de
+bike-global.de
 bikeandmore-24.eu
 bikestore24.net
 bikestorexl.com
@@ -837,9 +840,11 @@ buchnetz24.de
 buddy-x.de
 budget-kauf24.com
 buecherei-sundern.de
+buechner-handel.de
 buergerbegehren-neustadt.de
 buergerverein-oberkassel.de
 buero-buchfuehrung.de
+buerozauber.de
 buggyfriends.de
 buggyoutlet.de
 buggywelt.net
@@ -1159,6 +1164,7 @@ cyberino.store
 cyberlune.de
 cyberonice.store
 cybertronic24.de
+cybertronics24.com
 cybexstore.de
 cycle.hirship.com
 cyronicel.shop
@@ -1504,6 +1510,7 @@ eden-moon.de
 edendecotraiteur.fr
 edenparkviews.com
 edesia.co.uk
+ediscount-shopping.com
 edle-heilsteine.de
 edmundgazeley.co.uk
 eds-gmbh.at
@@ -1615,6 +1622,7 @@ elektropia.de
 elektroriese24.de
 elektrosale.com
 elektroschwein24.com
+elektroshop-schulz.de
 elektrostation24.de
 elektrotraum.com
 elektrowagner24.de
@@ -1641,6 +1649,7 @@ emil-heyrich.de
 emingersweine.at
 emma-facialharmony.at
 emmalis-welt.de
+emmalison.com
 emmalison.com
 emmas-cafe.de
 emmas-f.shop
@@ -1756,6 +1765,7 @@ expertsinmoving.com
 explorecomenius.eu
 expo-challenge.de
 expressdealz.com
+expresseffect24.de
 expressohphotography.com
 expressshopusa.com
 expresstorev.com
@@ -1880,6 +1890,7 @@ fifathsale.com
 fightland24.de
 filastore.club
 filcemarket.com
+fillamoda.com
 fillamoda.com
 financialplanner24.de
 finanz-vergleiche24.de
@@ -2018,6 +2029,7 @@ fred-elec.de
 free.kingcdiscounts.com
 freedomfestjacksonmi.com
 freedomtreeltd.com
+freeplay.shop
 freerunnike.de
 freiekunstschule-wangen.de
 freilandsysteme.de
@@ -2111,6 +2123,7 @@ gamingo.eu
 gamma24.de
 gantwall.com
 garantiert-apotheke.com
+gardenkastore.de
 garmineoutlet.com
 garmineuoutlet.com
 garminproductstore4us.com
@@ -2352,6 +2365,7 @@ hafen-in-flensburg.de
 hagenlocher-gmbh.de
 haiau-dresden.de
 haithamgoods.com
+haizobeyk.com
 hajo-gutmann.de
 halbergtreff.de
 halle1-darmstadt.de
@@ -2566,6 +2580,7 @@ hoganoutletonline.com
 hohenstein-kuern.de
 hohenzollern-bilk.de
 hoisingtonshop.com
+hokaoneoneeut.com
 hollister-stuttgart.gaysingleparty.de
 holzfairy.de
 holzhauserschuetzenverein.de
@@ -2633,6 +2648,7 @@ hypnose-enderle.de
 hyybabe.com
 i-kaufen.com
 i-kaufen.com
+ialduhaa.com
 ib-wjertzoch.de
 ibestores.com
 iboukou-markt.com
@@ -2770,6 +2786,7 @@ islandlichter.com
 isotopsale.com
 ispedgoods.com
 isu-pinnacle.com
+it-dienst.at
 it-neues.de
 it.hirdiscount.com
 italiadesigns.com
@@ -2787,6 +2804,7 @@ ivrose.com
 ivumo.de
 iwenudesign.ch
 iyoueu.at
+izhchstore.com
 izidress.at
 izidress.de
 j-lehmann.de
@@ -2979,6 +2997,7 @@ kanzleinform.de
 kap-project.eu
 kapetshop.com
 kapitaen-hass.de
+kapkhog.com
 karamos.eu
 karamos.net
 kardiobag.de
@@ -3240,7 +3259,6 @@ kuntaiko-muenchen.de
 kupferstadl.at
 kupka-shop.de
 kursling.de
-kurt-helmbold.de
 kuschelnberlin.de
 kutscherstube-loewen.de
 kv-crailsheim-bad-mergentheim.de
@@ -3289,6 +3307,7 @@ lashesshop.xyz
 lasicshop.xyz
 lasnernemitz.de
 lasred.com
+lassyabledress.com
 lastar.de
 lastminute-flug-reisen.de
 lastminute-kaiser.de
@@ -3412,6 +3431,7 @@ linescomfy.com
 lippischerkuenstlerbund.de
 liris-shop.de
 lisideutsch-portraitmalerei.at
+lisikop.com
 litct.com
 littleboppers.co.uk
 liujoestore.com
@@ -3525,6 +3545,7 @@ maennerchor-neuhaus.de
 maerchenzauberspessart.de
 mafn.de
 magic.thepersistentvisualist.com
+magiczoomco.com
 magik-all.com
 magito-welt.de
 magito-welt24.de
@@ -3782,6 +3803,7 @@ mgmsolar.de
 mh-energiebedarf.de
 mh-niemann.com
 mhanicke-onlineshop.de
+mheadshot.com
 mhncbsale.com
 mhs-gosau.at
 micelmall.com
@@ -3978,6 +4000,7 @@ mustcafe.ca
 muta-racing.de
 muth-elektronik.com
 mutosumall.com
+mv-pflegeschutz.de
 mvl-harmonie.de
 mvpcopyonline.com
 mvtronics.com
@@ -4099,6 +4122,7 @@ nfc-whv.de
 nfmall.online
 nfornicole.com
 ngo-tv.de
+ngrenew.com
 nhp-haberland.de
 nicdampier.com
 nicegoodmart.com
@@ -4535,6 +4559,7 @@ preishits.net
 preisknaller25.de
 preisplatin.de
 preisvergleichschuhede.com
+premium-austria.com
 prescotshoppingcentre.co.uk
 presidentcheese-promotion.co.uk
 pressearbeit-auf-erfolgsbasis.de
@@ -4602,6 +4627,7 @@ putel.laf-buy.com
 putraautomotive.com
 pyroshop-be.de
 qbetvole.com
+qbivino.com
 qclappstore.com
 qdmdesk.com
 qdustseo.com
@@ -5143,6 +5169,7 @@ sentinel4mobile.de
 seohajshop.com
 seomahigoods.com
 sepitsale.com
+sepshoe.com
 sepsneakers.com
 serien-sidekicks.de
 serishirts.com
@@ -5359,6 +5386,7 @@ soundshowroom.com
 soundtrackmusic.de
 soundwelt-outlet.com
 southbankdirectory.co.uk
+sovyo.de
 spa-vienna.at
 space-electronic.de
 space.la-class.com
@@ -5555,6 +5583,7 @@ sv-alemannia-koeln.de
 svgbarbis.de
 svhollenburg.at
 svoe-klagenfurt.at
+swaatmarket.com
 swanmp2.ch
 swarovski-schweiz.net
 swarovskis-osterreich.com
@@ -5597,6 +5626,7 @@ tahtakaleticaret.com
 tailgatetheroost.com
 tailorfactory.com
 taiyosushibar.com
+tajkiyagoods.com
 tajurimarket.com
 takaanshop.com
 talverteiler.de
@@ -5673,6 +5703,7 @@ technikversand-lehmann.shop
 techrive.de
 techupshop.de
 techwatch.kaufen
+teck-shopping.com
 tecnomari.de
 tecnove.de
 teilefarber.com
@@ -5699,6 +5730,7 @@ tgzin.com
 thaisawadee.de
 thb-bmr.de
 the-leather-shop.com
+theanimalsdreams.com
 theater-chronos.at
 theaterverein-nd.at
 theatredusoleil.com
@@ -5710,6 +5742,7 @@ thecrazycanner.com
 thecutebags.com
 thedoormenoshawa.com
 theglobalbizgirl.com
+thegmbh.de
 thehannashop.com
 thehype.shop
 thejustintime.com
@@ -5776,6 +5809,7 @@ timberlandberlin.de
 timberlands-onlineshop.de
 timberlandusonlineoutlet.com
 time4pain.de
+tinnitus-losung.com
 tipetapeco.com
 tippsfuerreisen.de
 tischlerei-fischler.at
@@ -5874,6 +5908,7 @@ trendypreis.de
 trestasty.de
 treyuwd.top
 tribosmarket.com
+triennalebag.com
 trif.ch
 trikotdeshop.de
 trikots-tdng.de
@@ -6243,6 +6278,7 @@ wellensteynkleidung.de
 wellensteynsale-de.com
 wellensteynwinterjacke.de
 wellensteyshop.com
+wellindal.com
 wellness-dieband.de
 wellness-vierseithof.de
 welovetuktuk.at
@@ -6553,12 +6589,19 @@ zur-klostermuehle.com
 zurich-markt.com
 zuverlassigerfuhrerschein.com
 zuyuesale.com
+zviadukt.com
 zweiradservice-henkel.de
 zwillingsfestival.de
 zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+meinflix.de
+faroflix.de
+nurflix.de
+kinostream.org
+manuflix.de
+geraflix.de
 tedaflix.de
 radaflix.de
 gaboflix.de
@@ -6947,6 +6990,7 @@ yogostream.de
 yostream.de
 
 ### Fraudulent estate agencies:
+line-eu.com
 era-immo.com
 realtor-eu.com
 book-re.com
@@ -7064,6 +7108,8 @@ spaxdelivery.org
 i-translogistics.com
 
 ### Fraudulent survey platforms:
+markt-check.expert
+markt-check.online
 proanalyses.de
 testative.com
 teste-gutscheine.de
