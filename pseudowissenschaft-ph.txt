@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-05-01
+# Last updated:  2020-05-02
 
 3ho.ch
 adviqo.com
@@ -15,6 +15,7 @@ akoekgen.org
 aleph-tarot.de
 alexiszorbas.com
 allgeier-verlag.de
+alternativ-gesund-leben.de
 amram-events.com
 ancient-mysteries.de
 andreas-roth.de
@@ -268,6 +269,7 @@ stimmvolk.ch
 stopmandatoryvaccination.com
 stoppt-5g.de
 stregato.de
+strunz.com
 tarot-muenchen.com
 tarot-online.com
 tarot.cx
