@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-06-06
+# Last updated:  2020-06-09
 
 ### Fake online shops:
 007drones.de
@@ -425,6 +425,7 @@ attractueye.com
 audiosora.com
 aufgewacht.at
 aufjagd.de
+augennstern.com
 augenoptiker-kuehne.de
 augustinusheim-fr.de
 auktionshilfe.store
@@ -964,6 +965,7 @@ casa-gallega.at
 casalepoggetto.it
 casefetish.com
 casor.de
+cathedralofthemoon.com
 cavalopretorentals.com
 cc-fins.de
 cccorbieres.ch
@@ -1689,6 +1691,7 @@ elektroschwein24.com
 elektroshop-schulz.de
 elektrostation24.de
 elektrotraum.com
+elektrova-shop.de
 elektrowagner24.de
 elektrowaren-trip.com
 elenetzteil.de
@@ -2445,7 +2448,6 @@ gvp-berlin.de
 gymsportswearssale.com
 gysbers-versand.com
 gzpulverturm.de
-h
 ha-ko.at
 haarformersalon-am-dom.de
 hachingforever.de
@@ -3585,6 +3587,7 @@ lohnmall.xyz
 loki.laf-pub.com
 lokklo.com
 lolitors.com
+lomindo24.de
 lomiq.de
 long.nicetoby.com
 look.boutiqueushop.com
@@ -3860,6 +3863,7 @@ mediastore.tech
 mediatempel24.com
 mediatopmaster.com
 mediatower.store
+mediatronic.shop
 mediawerner.de
 mediawunder.de
 medicalsmilesgmbh.com
@@ -4479,6 +4483,7 @@ osterburgschule.de
 osterwick-miteinander.de
 ostopauswahl.com
 ostsee-katen.de
+ottakind.at
 otto-bonhoff.de
 ottodee.com
 ottokummer.at
@@ -4585,6 +4590,7 @@ pension-wagrien-baltic.de
 pensionwinter.at
 perfect-housekeeping.store
 perfekt-haushalt.com
+perfogaming.com
 perfumes-wholesaler.com
 peripado24.de
 perlmann-handel.de
@@ -4952,6 +4958,7 @@ rbwert.com
 rbzde.com
 rbzvv.com
 rc-quertreiber.de
+rcechilep.com
 rcmnegoods.com
 rcoffroader-ev.de
 rcwitte.de
@@ -5022,6 +5029,7 @@ remax-longmont.com
 remax-top-immobilien-hamburg.de
 renate-scheichelbauer.at
 rencontres.at
+rennradbekleidung.com
 replayonlinesale.de
 replica-uhren.biz
 replica-uhrenshop.com
@@ -5294,7 +5302,6 @@ schreinerei-raum-zeit.de
 schubertiade-salzburg.at
 schuh-buessing.de
 schuhdemarkt.de
-schuhe
 schuhe-deutschland.com
 schuhe-rabatt.com
 schuhe.brandsusale.com
@@ -5637,9 +5644,11 @@ sport-bleher.de
 sport-carl.de
 sport-direkt.net
 sport-fabrik.net
+sport-fritz.de
 sport-lehrer.de
 sport-motschnigg.de
 sport-physiobitburg.de
+sport24.world
 sport4friends.store
 sportbaron.de
 sportfroger.com
@@ -6855,6 +6864,7 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+boflix.de
 nexaflix.de
 maroflix.de
 flipflix.de
@@ -7373,6 +7383,7 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+globallogisticltd.com
 inbrit.services-limited.com
 dpd-courier.com
 transbodek.com
