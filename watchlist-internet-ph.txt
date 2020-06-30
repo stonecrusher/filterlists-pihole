@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-06-29
+# Last updated:  2020-06-30
 
 ### Fake online shops:
 007drones.de
@@ -357,6 +357,7 @@ arabesque-osnabrueck.de
 arando-quartett.de
 arceltaonline.com
 arche-projekt.de
+architectlyy.site
 architectlyy.site
 architekturbueromaier.de
 arcteryxeushop.com
@@ -1654,6 +1655,7 @@ electhrons.de
 electris.shop
 electro-port.com
 electro-sale.shop
+electro-shopy.com
 electroactive.store
 electrocompany24.de
 electroland-shopping.com
@@ -1887,6 +1889,7 @@ fabooo.de
 faceuptodrink.co.uk
 fachschaft-ekw.de
 fachtag-diabetes.at
+facos.at
 factumsck.com
 fadlily.com
 fahren-guenstig.de
@@ -1955,6 +1958,7 @@ federkontakt-smd.de
 fedop.eu
 feelings-individuellekosmetik.de
 feetpuzzle.com
+feher-buch.de
 fein-e-kost.de
 feingoldscheideanstalt-seit1973.de
 feingoldscheideanstalt-seit1974.de
@@ -2273,6 +2277,7 @@ gartenscout24.net
 gartensommer.shop
 gartenster.net
 gartenstore24.net
+gartenundhausservice.at
 gartenversand.net
 gartenwelt-engel.com
 gasthaus-weisses-ross.de
@@ -2492,6 +2497,7 @@ gtjix.xyz
 gtmedia.com.au
 gudoflix.de
 guessure.com
+guleriastore.com
 gulfbreezefisheries.com
 gunnareckert.de
 gut.vipluckyshop.com
@@ -2977,6 +2983,7 @@ iteshop.top
 itkonsulenten.at
 itporionline.com
 itrojmarket.xyz
+itvinas.com
 itxegoods.com
 iued.ch
 iunicum.at
@@ -3350,6 +3357,7 @@ koalasale.com
 kochnelda.de
 kochnomarket.com
 kochsalon.at
+koi.wartburg-graz.at
 kokoloro.de
 koktelsale.com
 koll.thepersistentvisualist.com
@@ -3438,6 +3446,7 @@ kubikgs.de
 kuchenversum.de
 kuechenaligator.website
 kuechenherzen.de
+kuechenkings.de
 kuechenratio.de
 kuechenstudio-unger.de
 kuihmall.com
@@ -3883,6 +3892,7 @@ mavputlitz.de
 max-haushalt.de
 max.cheapudeals.com
 maxacne.com
+maxfrioq.com
 maxi-soldes.com
 maxlaufschuhe.de
 maxshoes2019.com
@@ -4458,6 +4468,7 @@ ntdltdgoods.xyz
 ntkyznshop.com
 ntqymconline.com
 nubaprol.com
+nulina.de
 nunuzi.de
 nursoymuhendislik.com
 nuterou.com
@@ -4685,6 +4696,7 @@ peaksrill.com
 pearlfeet.de
 pearlyo.de
 peboar.de
+peggylampel.at
 pellucidy.com
 pelzfreies.de
 penal.soutuhern.com
@@ -5630,6 +5642,7 @@ sksportde.com
 skullyvin.com
 skullyvin.eu
 skye-alexanderdesigns.co.uk
+skyevocv.com
 skylium.de
 skyllonline.com
 skymorogoods.com
@@ -6565,6 +6578,7 @@ von-der-sophienhoehe.de
 von-kummer-dresden.de
 vooglabor.com
 vor-werk-online.com
+vorschule-nrw.de
 vorwerk-haushalt.com
 vorwerk-kauf.com
 vorwerk-thermo.net
@@ -7013,6 +7027,7 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+seeflix.de
 moxflix.de
 everflix.de
 mulaflix.de
@@ -7544,6 +7559,8 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+spedition-international-2008.com
+dealix-corporation.com
 kurier-europe.com
 dfdslogistics.tk
 usmiex.com
