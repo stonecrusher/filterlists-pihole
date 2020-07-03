@@ -4,9 +4,10 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-06-30
+# Last updated:  2020-07-03
 
 ### Fake online shops:
+mediesmarkt.de
 007drones.de
 1111federalhill.com
 11bar-hamburg.de
@@ -862,6 +863,7 @@ bruckner-handel.de
 bruderschaft-winternam.de
 bruns-markt.com
 brushprox.com
+brycus.de
 brzshop.top
 bs-buettner.de
 bsc-aichwald.de
@@ -1573,6 +1575,7 @@ ebersbach-restposten.net
 ebike-fun24.com
 ebike-himmel.com
 ebike-kauf24.com
+ebike-quadrat.com
 ebike-rabatt24.com
 ebike-spass24.com
 ebike-tempel24.com
@@ -2999,6 +3002,7 @@ j2solutions.nl
 jaboohmarket.com
 jackewellensteyn.com
 jacktofficialde.com
+jacktofficialde.com
 jag-team.de
 jagdschuetzen-zuerich.ch
 jagla-frilling.de
@@ -3292,6 +3296,7 @@ kinderwortschaetze.de
 king-electronics.de
 kings-electronic.shop
 kings-electronic.store
+kingseven-shop.com
 kinzokusteel.com
 kipkermarket.com
 kiri.at
@@ -3564,6 +3569,7 @@ leidl-skischule.de
 leihohr.de
 leilingual-business.com
 leinen24.com
+leinen24.de
 leinenfrosch.de
 leistung-erfolgreich-optimieren.de
 lektoratundtextbuero.de
@@ -4416,6 +4422,7 @@ ninelife.eu
 ninetynine-shop.de
 ninetynine-shop.eu
 ninjagamers.de
+nintendomarkt.de
 niusmart.shop
 nizretmall.com
 nizza-azur.de
@@ -4646,6 +4653,7 @@ pandorasdeutschlands.com
 paneelis.at
 panizzd.com
 panoramabeef.ch
+pantoletti.myshopify.com
 pantsmenion.com
 pantsup.de
 panzer-industriebedarf.de
@@ -4767,6 +4775,7 @@ pilger-maenner-seelsorge.de
 pillenpalast.com
 pindeck.de
 pinoybalut.com
+pinpanb.com
 pipa-dongya.de
 pir-gmbh.de
 piranha-games.de
@@ -4819,6 +4828,7 @@ pomalux.be
 ponano-germany.store
 poobia.com
 poolbay.de
+poolfunstore.de
 pop-perlen.de
 populily.com
 popuor.com
@@ -4987,7 +4997,6 @@ radsportbekleidung.net
 radtreff-tennenbronn.de
 radtrikot2015.com
 rae-boehner-miebach.de
-rahulnaidumd.com
 raika-vom-gut-lethe.de
 ralf-kunicki.de
 rally-hautnah.de
@@ -4995,6 +5004,7 @@ ralphlaurenoutlet.de
 ralphlaurensale.de
 ralphlaurenshop.ch
 ramoci.com
+ramwareu.com
 ranbumall.com
 randnotiz-magazin.de
 rangooo.de
@@ -5072,6 +5082,7 @@ rbrbes.com
 rbrei.com
 rbsale.de
 rbsat.net
+rbsde.net
 rbshop-de.com
 rbshops.de
 rbstore-ch.com
@@ -6458,6 +6469,7 @@ velatempo.com
 veloberlin.de
 velurio.com
 venlostore.com
+venusbicycle.com
 venusdelights.de
 veogmar.com
 veonaskincare.com
@@ -6476,6 +6488,7 @@ verquickt.de
 versand-hartmann.com
 versandhandel-lienen.com
 versandhandel-saupe.com
+versandhandel-wenzel.de
 versandhaus-erlt.com
 versandhaus-hartmann.com
 versandhaus-krausch.de
@@ -6594,7 +6607,6 @@ vs-auto.de
 vs-electronic.net
 vs-herzogsdorf.at
 vshopde.com
-vtpreise.com
 vvdior.com
 w-glas-werbetechnik.de
 waagemann.de
@@ -7027,6 +7039,10 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+lugoflix.de
+benoflix.de
+lomoflix.de
+gogflix.de
 seeflix.de
 moxflix.de
 everflix.de
