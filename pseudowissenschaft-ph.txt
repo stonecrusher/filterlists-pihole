@@ -1,18 +1,20 @@
 # Title:         Pseudowissenschaft und Realitätsverweigerer
 # Expires:       7 days
 # Description:   Esoterisches, Verschwörungstheorien und Impfgegner
-# Example:       Tarot, Homöopathie, Schamanismus, Kristallheilung, Wünschelrutengänger, Wassergedächtnis, Sekten, Scientology, Zeugen Jehovas, Flat-earth, Astrologie, Ätherische Öle, Anti-Strahlung, Globuli, Verlage, Elektrosensibilität
+# Example:       Tarot, Homöopathie, Schamanismus, Kristallheilung, Wünschelrutengänger, Wassergedächtnis, Sekten, Flat-earth, Astrologie, Ätherische Öle, Anti-Strahlung, Globuli, Verlage, Elektrosensibilität, Coronaleugner
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-06-09
+# Last updated:  2020-07-07
 
+ärzte-für-aufklärung.de
 3ho.ch
 abermann.net
 adviqo.com
 aefh.at
 aegis.at
 aeha-buendnis.de
+aerzte-fuer-aufklaerung.de
 afro-pfingsten.ch
 akoekgen.org
 aleph-tarot.de
@@ -34,11 +36,13 @@ astrorabe.de
 astroschmid.ch
 astrotv.de
 astrowoche.wunderweib.de
+aufgeweckt.org
 aufwindinstitut.com
 augsburger-homoeopathie-events.de
 aura-magazin.com
 baselife.de
 bav-versand.ch
+bernd-joschko.de
 bewusst.tv
 bewusster-leben.de
 bewusstsein-heute.de
@@ -51,7 +55,9 @@ bunkahle.com
 calleman.com
 ckh-online.com
 claudiaschaefler.de
+clemenskuby.com
 cog.org
+collectivehealing.com
 connectionshi.ch
 corneliamarent.com
 cropfm.at
@@ -81,6 +87,7 @@ drunvalo-melchizedek.de
 dzvhae.com
 dzvhae.de
 eagate.de
+eco-consult.com
 educamswiss.ch
 efi-online.de
 efvv.eu
@@ -152,13 +159,16 @@ handystrahlung.ch
 hans-joerg.de.vu
 happy-way.de
 harmonischer.de
+healnow.org
 heilarbeiten.de
 heilenheute.com
 heilerschule.org
+heilpraktiker-stapper.de
 hellseher-orakel.de
 herzhueter.de
 hexe-claire.de
 hexe.org
+hirneise.de
 hofmannundsommer.de
 hom-gmunden.com
 homeocur.com
@@ -177,6 +187,7 @@ homoeopathie.at
 homoeopathie.com
 homoeopathiehilft.at
 homoeopathieinformation.at
+homoeopathieveranstaltungen.de
 homoeopathiker.de
 homoeopathischer-notdienst.de
 homoeosana.ch
@@ -190,6 +201,7 @@ hvs.ch
 hypnoseausbildung-seminar.de
 icf-movement.org
 icf.church
+ichbinanderermeinung.de
 im-licht.jimdo.com
 imlicht.ch
 impf-info.de
@@ -258,6 +270,7 @@ messehofheim.de
 miasmenlehre.de
 mireart.de
 mooji.org
+mwgfd.de
 myfairtrade.com
 narayana-verlag.de
 natuerlich-online.ch
@@ -307,6 +320,7 @@ rademaric.info
 radiolotusbluete.de
 raum-und-zeit.com
 raven-spirit.ch
+regenbogenkreis.de
 reiki-magazin.de
 remedia-homoeopathie.de
 remedia.at
@@ -333,6 +347,7 @@ scientologyschweiz.ch
 seelencoaching2012.de
 sehgal-schule.de
 sein.de
+sensei.de
 shi.ch
 shop-impfen-nein-danke.de
 similasan.ch
@@ -404,6 +419,7 @@ vitamunda.de
 vithoulkas.com
 vivendo-blog.com
 viversum.de
+volksinitiative-demokratie.de
 wahrheiten.org
 wahrheitskugel.de
 walterglueck.at
@@ -414,6 +430,10 @@ weibel.blog.de
 wellness-lichtpunkt.com
 welt-der-mystik.de
 welt-im-wandel.tv
+widerstand2020.ch
+widerstand2020.de
+wir2020-partei.de
+wir2020forum.de
 wissen-leben.de
 wissenschafftplus.de
 wohlfuehl-tage.ch
@@ -422,6 +442,7 @@ womenweb.de
 wunderlinge.de
 xn--gesundheit-lebensqualitt-dcc.de
 xn--homopathie-shop-btb.net
+xn--rzte-fr-aufklrung-pqbn68b.de
 yoga-artikel.ch
 yogadasmagazin.ch
 yogastudio.ch
