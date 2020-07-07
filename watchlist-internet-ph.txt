@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-07-03
+# Last updated:  2020-07-04
 
 ### Fake online shops:
 mediesmarkt.de
@@ -766,6 +766,7 @@ blockplix.de
 bloomincandlecrafts.com
 bloomsocks.ca
 blue-chips.at
+blueelektrodevice.com
 bluemel-vermietung.de
 blueroxx.de
 blues-akademie.de
@@ -3002,7 +3003,6 @@ j2solutions.nl
 jaboohmarket.com
 jackewellensteyn.com
 jacktofficialde.com
-jacktofficialde.com
 jag-team.de
 jagdschuetzen-zuerich.ch
 jagla-frilling.de
@@ -4997,6 +4997,7 @@ radsportbekleidung.net
 radtreff-tennenbronn.de
 radtrikot2015.com
 rae-boehner-miebach.de
+rahulnaidumd.com
 raika-vom-gut-lethe.de
 ralf-kunicki.de
 rally-hautnah.de
@@ -6057,6 +6058,7 @@ teamclo.com
 teamtrackspeeduk.com
 teamtrackspeeduk.com
 teamvalleedutrient.ch
+tec-markt-gmbh.com
 tecfreaks.net
 tech-forest.eu
 tech-land.de
