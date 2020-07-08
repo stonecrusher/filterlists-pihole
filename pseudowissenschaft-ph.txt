@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-07-07
+# Last updated:  2020-07-08
 
 ärzte-für-aufklärung.de
 3ho.ch
@@ -47,6 +47,7 @@ bewusst.tv
 bewusster-leben.de
 bewusstsein-heute.de
 bio-synergetics.de
+biokrebs.de
 blickart-online.de
 blissvideo.de
 borderlands.de
@@ -84,6 +85,7 @@ dreamoflight.de
 drmed-riautschnig.at
 drstrauch.net
 drunvalo-melchizedek.de
+drwalterweber.de
 dzvhae.com
 dzvhae.de
 eagate.de
@@ -305,6 +307,7 @@ praxisbenner.de
 pressenet.info
 preventdisease.com
 prohom.net
+prostataselbsthilfe.de
 provegan.info
 provings.info
 psychic-crystal-ball.com
@@ -328,6 +331,7 @@ rene-graeber-buecher.de
 renegraeber.de
 revodude.blogspot.com
 rolf-kron.de
+salutogenese-bei-krebs.de
 samarpan.de
 saphiraartdesign.de
 schicksal.com
