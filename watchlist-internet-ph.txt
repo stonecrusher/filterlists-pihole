@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-07-04
+# Last updated:  2020-07-11
 
 ### Fake online shops:
 mediesmarkt.de
@@ -164,6 +164,7 @@ airmaxschweiz2015.com
 airmaxsde.com
 airmaxshopschweiz.com
 airplaypro-de.com
+airpodsbuynow.com
 airpodsdirekt.de
 airpodsdirekt.de
 airpodsmarkt.de
@@ -197,6 +198,7 @@ alacarte-express.com
 albertsgruen.de
 albhof-ka.de
 alcazar-vienna.at
+aldatma.de
 alena-exss-sonne.de
 alex-versandhandel.com
 alexandeerbuy.club
@@ -551,6 +553,7 @@ bauhamster.shop
 bauinsel.net
 baulongo.com
 baulords.net
+baumarkt-expert.de
 baumasters.com
 baumeile.net
 baumichel.com
@@ -594,6 +597,7 @@ beanpoint.de
 beat-projekte.de
 beautonias.com
 beautydreams24.com
+beautymad.de
 beautyoutlet.top
 beautyyme.com
 becausestudios.co.uk
@@ -793,6 +797,7 @@ bochhansl.at
 bochner-handel.de
 bockwindmuel.de
 bodensee.elektronik-gmbh.com
+bodoplay.de
 bodylounge-loehne.de
 bodytemperamento.ch
 bognerjackesale.com
@@ -1041,6 +1046,7 @@ chicladdy.com
 chicmary.com
 chicmiya.com
 chicnia.com
+chicsoso.com
 chictogerther.com
 chicyfit.com
 chicyoyo.com
@@ -1293,6 +1299,7 @@ de-bags.com
 de-coff.net
 de-rb.com
 de.belstaffofficial.com
+de.cichic.com
 de.dhgate.com
 de.fencia.co
 de.lunaleder.com
@@ -1704,6 +1711,7 @@ elektrodo.de
 elektrohandel-gross.com
 elektrohoppe.de
 elektroluxury.com
+elektromobel.com
 elektron-market.com
 elektronerd.eu
 elektronik-aktion.com
@@ -2211,6 +2219,7 @@ fussballtrikotsdeutschland.de
 fusselkatzen.de
 futterstopp.de
 fy-nex.com
+fy-nex.com
 g-guenther.de
 g-kahlen.de
 g7-protest.de
@@ -2333,6 +2342,7 @@ genuinebagsale.com
 genuinesunglass.com
 genussrabe.at
 georg-reisse.de
+geranienhof-merten.de
 geratemarkt.com
 gerd-heger.de
 gerdegloff.de
@@ -2415,6 +2425,7 @@ glueckaufstadt.de
 gluwagoods.com
 gm-wibbeke.de
 gmhd-ua.com
+gmidraulica.de
 go-fagot.de
 go-meo.de
 goasshax.at
@@ -2533,6 +2544,7 @@ hallenvertrieb-kaufmann.de
 hallohaus.co
 hallohaus.com
 hallohaushaltsgerate.com
+halmoez.com
 haltungsfit.com
 halukstore.eu
 hamburg-elektronik.com
@@ -2681,6 +2693,7 @@ helektrostore.de
 helios-versand.de
 hell.fineustyle.com
 hellastyle.com
+hellbau.center
 helligkeit.queenluckyshop.com
 helpmocoa.com
 helpthebees.net
@@ -2836,6 +2849,7 @@ ialduhaa.com
 ib-wjertzoch.de
 ibestores.com
 iboukou-markt.com
+ic-eckardt.at
 iceandthesky.ch
 iceshop-neuendettelsau.de
 icgproducts.net
@@ -2848,6 +2862,7 @@ iconstoretv.com
 idealoshop.de
 idealshopyy.com
 idealsun.de
+idlandf.xyz
 idtokenmall.com
 iefjcoiefhv.myshopify.com
 iem-forstner.de
@@ -2883,6 +2898,7 @@ immobilie-hofstetter.de
 immobilien-am-hofgartenplatz.de
 immobilien-korth.de
 imn-lille.com
+imobarka.com
 impabmarket.com
 imperialonline.es
 impkeys.com
@@ -3185,6 +3201,7 @@ kankenbackpackvips.com
 kankustaduo-forte.es
 kanmeistore.com
 kannoddam.com
+kansibau.com
 kantabrischerpfau.de
 kanteno.com
 kanuboerse.de
@@ -3274,6 +3291,7 @@ kfz-lahdo.de
 kfz-pflegeservice-bayreuth.de
 kfz-teile-schubert.de
 kfzmarkt-sachsen.de
+kgv-erholung-am-stadtpark.de
 khsigl.at
 kickked.com
 kid-car-corner.de
@@ -3350,6 +3368,7 @@ klostercafesaarn.de
 klsattelschnallen.de
 klunker-plus.de
 klzv-z341.de
+kmewn.at
 kmgegotashop.online
 kmot.co.uk
 kms-schreckenbach.de
@@ -3614,6 +3633,7 @@ lieb-schafft.de
 liebehaus.de
 liebem.de
 lieberg24.com
+liebesfreud.de
 liebeskindtaschenberlin.de
 liebesnotiz.de
 liebestiefel.com
@@ -3759,6 +3779,7 @@ m-paycard.de
 m.milanoo.com
 m.sroyiglobal.com
 m1-essen.de
+m3-markt.com
 mabuseller.shop
 mac-wow.de
 macbooks-billiger.de
@@ -3972,6 +3993,7 @@ mediawerner.de
 mediawunder.de
 medicalsmilesgmbh.com
 medicalundbeauty.at
+medicine-online.org
 medicpub.de
 mediendesign-rheine.de
 medienschwarm.at
@@ -4008,6 +4030,7 @@ mein-vollautomat.net
 mein-wegbegleiter.de
 meinanker.at
 meindiscounter.net
+meindiscountladen.de
 meindlschuhedamen.de
 meine-ernaehrungsumstellung.de
 meinetiermarken.at
@@ -4544,6 +4567,7 @@ oksommer.com
 olandoo.net
 olbert-elec.de
 oldenburger-inlinernacht.de
+oldionline.com
 olivefan.com
 oluarrgoods.com
 omega-tech.store
@@ -5215,6 +5239,7 @@ rhein-main-abenteuer.de
 rheinadler.com
 rheinadler.de
 rheinblaeser.de
+rheinwing.de
 rhodesian-ridgeback-zimazaa.de
 rhoenrad-online.de
 ribbehof.de
@@ -5231,6 +5256,7 @@ ride-a-bike.online
 ridutas.eu
 ridvibramschuhe.top
 rieckmann-bau.de
+riedel-bau.de
 riekershoes.me.uk
 riekershop.online
 rigueur.de
@@ -5262,6 +5288,7 @@ rogelionarito.com
 rohrhaus.at
 roibvr.online
 roidsupport.biz
+rolandoos.de
 rollirugbyloewenleipzig.de
 rollmops-schaenke.de
 romeooo.com
@@ -5639,6 +5666,7 @@ single-event-fabrik.de
 sintex-dreamworld.de
 sipdoshop.com
 sirmonline.it
+sjanryn.com
 sjtzvhsale.com
 sjzxdfmall.com
 sk-biografien.de
@@ -5853,6 +5881,7 @@ staseklicht.at
 statuskelidmode.de
 staub-profis.com
 staubsauger-market.de
+staubsaugermarkt.shop
 staubsaugerwelt-klingel.com
 stb-greupner.de
 stecker-safe.de
@@ -6059,6 +6088,7 @@ teamtrackspeeduk.com
 teamtrackspeeduk.com
 teamvalleedutrient.ch
 tec-markt-gmbh.com
+tec-markt-gmbh.com
 tecfreaks.net
 tech-forest.eu
 tech-land.de
@@ -6250,7 +6280,6 @@ tookacogoods.com
 tool.followafashion.com
 toolfreunde.net
 toolshopc.com
-tooltime.store
 top-apotheke.com
 topaska.de
 topceeronline.com
@@ -6459,6 +6488,7 @@ vaudejakke.de
 vbkuschel.de
 vbltrade.top
 vc-hoevelhof.de
+vcr.how-to-gain-weight-fast.com
 vd-mediendesign.de
 vdd-osnabrueck.de
 vebreezz.com
@@ -6716,7 +6746,6 @@ welpenkaufen.at
 welt-schamane.de
 weltbasar.com
 weltenweiterwanderer.de
-welura.de
 wende-leck.de
 wengerstukkaturen.ch
 wer-kennt-uns.de
@@ -7041,6 +7070,9 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+gagaplay.de
+heloplay.de
+moroplay.de
 lugoflix.de
 benoflix.de
 lomoflix.de
@@ -7577,6 +7609,9 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+e-t-l-transport.com
+yuma-lda.com
+deltaexpressdelivery.com
 spedition-international-2008.com
 dealix-corporation.com
 kurier-europe.com
