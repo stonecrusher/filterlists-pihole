@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-07-16
+# Last updated:  2020-07-18
 
 ### Fake online shops:
 007drones.de
@@ -585,6 +585,7 @@ bbb-reisen.de
 bbicenter.com
 bbjacke.de
 bbq-meister.com
+bbq24.store
 bbqfreunde.eu
 bbqstorekassel.de
 bc-pkw-service.de
@@ -3101,6 +3102,7 @@ jollyinstyle.com
 jomaxa.com
 jonas-maurer.de
 jonaskaempf-photography.de
+jonathenr.com
 jonawo.de
 jonwears.com
 jordandebut.com
@@ -4029,6 +4031,7 @@ medionics.net
 medirezept.com
 medirezept.net
 medizin-rezeptfrei.com
+medizin-rezeptfrei.org
 medzcon.de
 meer-seen-mecklenburg.de
 meetingimachten.at
@@ -5475,6 +5478,7 @@ schmalzpfeffer.de
 schmegges.de
 schmerzloseapotheke.com
 schmerzmittel-rezeptfrei.com
+schmerzmittelpillen.org
 schmidt-24.at
 schmidt-blomberg.de
 schmidt-koerle.de
@@ -7110,6 +7114,8 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+semoplay.de
+nonaplay.de
 nunuplay.de
 romoplay.de
 bodoplay.de
