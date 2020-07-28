@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-07-18
+# Last updated:  2020-07-25
 
 ### Fake online shops:
 007drones.de
@@ -143,6 +143,7 @@ agricolaforum.de
 agrigszegorz.com
 agrolandtechnik.com
 ah-niederfahrenhorst.de
+ahlenbigoods.com
 ahmcbgmmall.com
 ahoie.de
 ahrenshoop-info.de
@@ -198,6 +199,7 @@ alacarte-express.com
 albertsgruen.de
 albhof-ka.de
 alcazar-vienna.at
+alcuni.net
 aldatma.de
 alena-exss-sonne.de
 alex-versandhandel.com
@@ -464,6 +466,7 @@ avezio.de
 avifermgoods.com
 avm-freiburg.de
 avsystemhaus.de
+avvsons.com
 awakenyourmusic.com
 axelsfilmshop.de
 ayesstore.xyz
@@ -676,6 +679,7 @@ betnetonline.net
 bettina-dagmara.de
 bettinger-weinert.de
 beumarkt-profis.de
+beuniqo.com
 beutelspacher-beutel.de
 beverlyhip.de
 bewegendewelt.de
@@ -812,6 +816,7 @@ bonnyin.at
 boofashions.com
 booflixom.com
 booklethotel.com
+bookotvv.com
 boom-sport.center
 boomboomgadgets.de
 boots2017de.com
@@ -921,6 +926,7 @@ buy-elektro.com
 buy-sn-k.com
 buyherbody.com
 buylevitramrx.com
+buyneckrelaxofficial.com
 buyoshenwatch.com
 buzzupstore.com
 bv-neckarstadt.de
@@ -1099,6 +1105,7 @@ claudia-pelka.de
 claudia-scarpatetti.de
 claudiakleyh.de
 cleanum.shop
+clearanceonline2020.com
 clever-technik.com
 clinicafranklinpena.com
 cliouenay.com
@@ -1109,6 +1116,7 @@ closetbest.com
 clothes4you.at
 clothmommy.com
 clothujf.site
+clotlove.com
 club-country.com
 club.cameradigitalshow.com
 clubdelmar.at
@@ -1223,6 +1231,7 @@ curiosowiki.com
 currentelliottjeans.de
 curriesunlimited.de
 cushingokrealtor.com
+cuteushoes.com
 cuttingedgeng.com
 cuw-burgwindheim.de
 cw-shopping.de
@@ -1303,9 +1312,11 @@ de-coff.net
 de-rb.com
 de.belstaffofficial.com
 de.cichic.com
+de.clearanceonline2020.com
 de.dhgate.com
 de.fencia.co
 de.lunaleder.com
+de.privatefloor.com
 de.shein.com
 de.zashio.co
 dealportal.name
@@ -1482,6 +1493,7 @@ dolps-radl-shop.de
 domain007.de
 domako.de
 dominox-media.com
+dommsch.de
 donkey-dancers.de
 doom-afterburn.de
 doppelbunt.de
@@ -1588,6 +1600,7 @@ ebersbach-restposten.net
 ebike-fun24.com
 ebike-himmel.com
 ebike-kauf24.com
+ebike-markt24.net
 ebike-quadrat.com
 ebike-rabatt24.com
 ebike-spass24.com
@@ -1677,6 +1690,7 @@ electrocompany24.de
 electroland-shopping.com
 electromish.de
 electron-prof.com
+electronic2u.store
 electronicfactorys.de
 electrovagant24.de
 elegant.onebysales.com
@@ -1726,6 +1740,7 @@ elektronik-diepholz.com
 elektronik-diskont.de
 elektronik-elbe.com
 elektronik-frankfurt.com
+elektronik-gräfe.de
 elektronik-house.com
 elektronik-house.com
 elektronik-kron.de
@@ -1839,6 +1854,7 @@ eternallyhours.com
 etoppferdefutter.com
 ets-verlag.de
 eu-elektronics.com
+eu-mediamarkt.com
 eu-rezeptfrei.net
 eu-shoppping.de
 eu.guccionlineok.com
@@ -2071,6 +2087,7 @@ flatrate-xl.de
 flaydastore.com
 fleischer-badegruber.at
 fleurdelisflowershop.com
+flipcarta.com
 fliplake.de
 flirtbig.at
 flirthacks.de
@@ -2278,6 +2295,7 @@ garminproductstore4us.com
 garminuniverse.de
 garminworldmaps.com
 garminxshop.com
+gartcasa.com
 garten-discount.net
 garten-events.de
 garten-experte.net
@@ -2300,6 +2318,7 @@ gartenstore24.net
 gartenundhausservice.at
 gartenversand.net
 gartenwelt-engel.com
+gartino.net
 gasthaus-weisses-ross.de
 gasthof-falken.at
 gasthof-gritschacher.at
@@ -2566,7 +2585,6 @@ hamude.de
 handarbeiten-allerlei.de
 handelskontor-strenat.de
 handmademusicrecords.de
-handwerk-exklusiv.de
 handwerker-versand-online.com
 handwerkzeug-versand.com
 handy-captain.com
@@ -2604,6 +2622,7 @@ hassenzinne.de
 hastriketroslagen.se
 hauntedhouseyork.co.uk
 hauraus.at
+haus-der-bos.com
 haus-des-schwimmsports.de
 haus-gartenshop.net
 haus-harmen-steinbarg.de
@@ -2895,6 +2914,7 @@ ill.deufiles.com
 illertissen-aktuell.de
 ilpuntor.com
 iltrio.de
+iluckylife.com
 imaltengarten-maxhuette.de
 imibikogoods.com
 imklakal.com
@@ -2958,11 +2978,13 @@ instametall.de
 institut-perspektive.de
 intaliof.com
 integra-ma.de
+inteltey.com
 interconsolution.com
 internationaalverhuisadvies.nl
 internationalerumzug.de
 internationalfans.com
 internationalmoving.co.in
+intexprofis.de
 inthefuture.shop
 intimuaq.com
 intlshop.top
@@ -3230,6 +3252,7 @@ karamos.eu
 karamos.net
 kardiobag.de
 kardiologie-wittlich.de
+karin-heckel.de
 karina-fibich.at
 karl-malz.de
 karlsbrew.de
@@ -3897,6 +3920,7 @@ markt-digitalo.de
 markt-elektro.com
 markt-gerate.com
 markt-haushalt.com
+markt-market.com
 markt-shopping.de
 marktdig.com
 marktexpress.com
@@ -3991,6 +4015,7 @@ media-shopping.org
 media-silver.shop
 media-sky.store
 media-tadara.de
+media-torro.de
 media-tronics.de
 media-wagner.de
 media-xxl.shop
@@ -4026,6 +4051,7 @@ medikamente-rezeptfrei.net
 medikamente-rezeptfrei.shop
 medina24.de
 medina24.store
+medio-center.de
 medio-marion.de
 medionics.net
 medirezept.com
@@ -4091,6 +4117,7 @@ meteoonline.at
 methode21.de
 mevari.eu
 mex24werk.de
+mfinancej.com
 mfw-id2014.de
 mgfoundation.co.uk
 mgmsolar.de
@@ -4447,6 +4474,7 @@ ngrenew.com
 nhp-haberland.de
 nicdampier.com
 nicegoodmart.com
+nichon-de.co
 nicht-von-heise-kopieren.de
 nickel-koeln.de
 nicole-reinhold.de
@@ -4664,6 +4692,7 @@ ousbags.com
 oustiefel.com
 outdoor-campingausrustung.xyz
 outdoormoebel-center.de
+outdoorshopx.com
 outdoortitan.net
 outfitfred.com
 outlet-checkpoint.com
@@ -4802,6 +4831,7 @@ pflegeheim-singer.at
 pflegeservice-info.de
 pfotenschule-bremen.de
 pg-mainz.de
+pggather.com
 pharmacie-stpaul.ch
 pharmacyfirstgmbh.com
 philbeys-lunch.de
@@ -4810,6 +4840,7 @@ philippoehler.de
 photo-artstudio.de
 photobox-shinjuku.com
 photolo.eu
+php-schulte.de
 physio-ernst.at
 physio-fit-hasari.de
 physio-ramminger.de
@@ -4876,6 +4907,8 @@ polwest.de
 poly-mind.de
 pomalux.be
 ponano-germany.store
+pontereshop.com
+pontereshop.com
 poobia.com
 poolbay.de
 poolfunstore.de
@@ -4992,6 +5025,8 @@ pushupcode.com
 putel.laf-buy.com
 putraautomotive.com
 puuringoods.com
+pyro-effects.com
+pyro-shopping.net
 pyroshop-be.de
 qbetvole.com
 qbivino.com
@@ -5231,6 +5266,7 @@ replica-uhrenshop.com
 replicauhrenol.de
 replicauhrenonlineshop.de
 rescue-it.online
+rescue-systemhaus.de
 research.shoptoout.com
 resonateclothing.com
 restaurant-eskadron.de
@@ -5534,6 +5570,7 @@ schwarzwaldblick-haus-lydia.de
 schwarzwaldvereinstuehlingen.de
 schweinske-rs.de
 schweizmichaelkors.ch
+scientificentre.com
 scoliamall.eu
 scootertop.com
 scottcrabiel.com
@@ -5592,6 +5629,7 @@ sgm-lindenberg1.de
 sgt-sonic.store
 shade.hirship.com
 shalimar-freiburg.de
+shapeoil.com
 shara-shantie.de
 sharkyogaflex.com
 shb-biw.de
@@ -5613,6 +5651,7 @@ shoesoutleteu.com
 shoespie.com
 shoespie.com
 shoess.eu
+shoessee.com
 shoesuk365store.co.uk
 shop-and-smile.com
 shop-for-livingart.de
@@ -5824,6 +5863,7 @@ space.la-class.com
 spainpolen.de
 spar-welt.com
 sparedo.net
+sparhandy.mobi
 sparingo.de
 sparkauf24.com
 sparktheoccasion.com
@@ -5898,6 +5938,7 @@ stade-heide.de
 stadtboks-shop.de
 stadtmuehle-babenhausen.de
 staid.giftshopu.com
+stairsmarket.com
 stamm-jda.de
 stamm-luetzow.de
 stangenzigaretten24.de
@@ -5998,6 +6039,7 @@ sudonge.com
 suedbusse.de
 sueder-handwerker-stammtisch.de
 suemalls.top
+suesschen.com
 suessleben.com
 sukainn.com
 sunbeatz.de
@@ -6095,6 +6137,7 @@ tarantella-von-der-holderheide.de
 tarinboone.com
 tasche.brandudesigner.com
 taschenkaufhaus-24.de
+tashihandicrafts.com
 tatjana-beauty.de
 tattoo-fantastica.de
 tattvalok.com
@@ -6432,6 +6475,7 @@ ubertorchtaschenlampe.com
 uclgstore.top
 ucnd.at
 uda-heller.de
+udomorgel.com
 ufadtag.com
 ufc-mettmach.at
 uggadirondacksale.de
@@ -6492,6 +6536,7 @@ us.eacnmnv.top
 usacamper.net
 usarbuusa.com
 usbsticksde.com
+uscnmarket.com
 usoakley-shop.com
 usupa.eu
 usv-lamprechtshausen.at
@@ -6790,6 +6835,7 @@ welt-schamane.de
 weltbasar.com
 weltenweiterwanderer.de
 wende-leck.de
+wenergiey.com
 wengerstukkaturen.ch
 wer-kennt-uns.de
 werdercats.de
@@ -7114,6 +7160,9 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+bumaplay.de
+domoplay.de
+dudoplay.de
 semoplay.de
 nonaplay.de
 nunuplay.de
@@ -7658,6 +7707,7 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+mtseurologistics.com
 ms-shipping.net
 e-t-l-transport.com
 yuma-lda.com
