@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-07-25
+# Last updated:  2020-07-31
 
 ### Fake online shops:
 007drones.de
@@ -62,6 +62,7 @@ aayheymall.com
 aazid.com
 ab-sicht.at
 aba-sport.com
+abc-partyservice.at
 abendbrotmainz.de
 abestmall.com
 abipartyxxl.de
@@ -522,7 +523,6 @@ bambinitestblog.de
 bamboofarmhousegozo.com
 bambuskinder.de
 bangeronline.de
-banggood.com
 banneridee.de
 baolis.myshopify.com
 baraoke.de
@@ -535,6 +535,7 @@ barbourjackensale.com.de
 barbouronlineshop.de
 barhufpflegerin-saarland.de
 bas.kendricklouis.com
+base-montafon.at
 basis.onebytoone.com
 basketball-irsch.de
 basketballtrikot.info
@@ -2000,6 +2001,7 @@ feingoldscheideanstalt1973.de
 feinidee.de
 feinsladen.de
 feistritztaler.at
+felgen-restposten.de
 ferienhaus-marieta.de
 ferienhaus-siofok-xxl.de
 ferienhaus-wiesenblick.at
@@ -2223,6 +2225,7 @@ ftm-soryn-kg.at
 ftoronto.com
 fubans.com
 fuchw.de
+fuehrerscheinfabrik.com
 fuelila.com
 fuesseinharmonie.at
 führerscheinpapier.com
@@ -2415,6 +2418,7 @@ ghb-holding.at
 ghflawfirm.com
 ghhitzplus.com
 gi-goltern.de
+giabardi.shop
 gianto.tech
 gibmanns.com
 giegengack.de
@@ -3529,6 +3533,7 @@ kursling.de
 kuschelnberlin.de
 kushiwanz.com
 kutakmice.com
+kutakmice.com
 kutscherstube-loewen.de
 kv-crailsheim-bad-mergentheim.de
 kv-schoenau.de
@@ -3815,6 +3820,7 @@ luxzio.de
 lv-angebote.de
 lvsstore.com
 lypse.de
+lyricsunf.com
 m-eureka.com
 m-paycard.de
 m.milanoo.com
@@ -4449,6 +4455,7 @@ neunotebookakkus.com
 neural.jcpenneychy.com
 neurochirurgie-sadik.de
 neuschuhe.com
+new-chakra.com
 new-immosolutions.de
 newbalanceoutletdeutschland.com
 newbalanceoutletuk.com
@@ -4754,6 +4761,7 @@ parksidebhm.com
 parkvilla-hausgermania.at
 parlias.de
 partnerlookbyinci.com
+partout-online.de
 party-feuerwehr.de
 pashmina-schal.ch
 pasreg2010.org
@@ -5071,6 +5079,7 @@ rabattkoder247.se
 rabattonline2020.com
 racebunch.de
 rackactive.com
+racondo.de
 rad-trikots.de
 raddix.de
 radfreunde-murtal.at
@@ -5092,6 +5101,7 @@ ralphlaurenoutlet.de
 ralphlaurensale.de
 ralphlaurenshop.ch
 ramoci.com
+ramtsoftt.com
 ramwareu.com
 ranbumall.com
 randnotiz-magazin.de
@@ -5521,6 +5531,7 @@ schmidt-koerle.de
 schmidt-nk.de
 schmiereimweb.de
 schmuckisland.com
+schnapp-elektro.de
 schneefreund.de
 schneiderei-samira.de
 schneiderwerbung-meissen.de
@@ -5581,6 +5592,7 @@ scriptdemos.de
 scuolapassionedanza.it
 sdblcygoods.com
 sdeclessons.com
+sdiasmani.com
 seabrookmassageandherbs.com
 seahofly.com
 seayou.at
@@ -5966,6 +5978,7 @@ stefanie-wesser.de
 stefanokaradjov.com
 steffinitiv-photography.de
 steinadler-sport.de
+steinberg-handel.de
 steiner-jus.de
 steini-blog.de
 steintherm-marburg.de
@@ -6137,7 +6150,6 @@ tarantella-von-der-holderheide.de
 tarinboone.com
 tasche.brandudesigner.com
 taschenkaufhaus-24.de
-tashihandicrafts.com
 tatjana-beauty.de
 tattoo-fantastica.de
 tattvalok.com
@@ -6218,6 +6230,7 @@ tennisstueberl-ruhpolding.de
 tepper-burgwedel.de
 teppichreinigung-berlin-btr.de
 termidr.de
+termoidraulica.de
 terradays.de
 tesco24.de
 tesento.com
@@ -6339,6 +6352,7 @@ tobiasunger.de
 todsale.com
 todssaleschuhe.de
 todsshopsuk.org
+toff-rant.at
 toitonia.com
 tolivo.de
 tolleat.com
@@ -6886,6 +6900,7 @@ wieste88.de
 wifi-booster.co
 wikysports.com
 wilcox-property-services.co.uk
+wildfang.pet
 wildfeuermedia.de
 wildsabine.de
 wildstaronlinepowerguide.com
@@ -7160,6 +7175,16 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+dbz-resin.com
+wildingme.com
+zahnarzt-freudenthaler.at
+hudabeauty-lagen.com
+vaschoen.com
+futureitc.com
+shopdaa.me
+beeventj.com
+mimoplay.de
+bullplay.de
 bumaplay.de
 domoplay.de
 dudoplay.de
