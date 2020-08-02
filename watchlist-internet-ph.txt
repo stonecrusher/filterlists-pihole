@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-07-31
+# Last updated:  2020-08-02
 
 ### Fake online shops:
 007drones.de
@@ -495,6 +495,7 @@ backpack.approachmall.top
 backpack.approachmall.top
 backpack.pictureperfectstore.top
 backpack.recallstore.com
+backpack.upcomingmall.top
 backpackonline.de
 backpacks.at
 backstudio-dahlke-gmbh.de
@@ -613,12 +614,14 @@ bedachung-franken.de
 beelara.de
 beerenschwester.de
 beesforlease.de
+beeventj.com
 befillus.com
 befocus-records.de
 begenmarket.top
 begun.laf-store.com
 behawelt.de
 beige.saletooffer.com
+bekommefuehrerschein.com
 beleuchten.hottosale.com
 bellsshop.de
 belsimsale.xyz
@@ -1306,6 +1309,7 @@ daytonroofingoh.com
 dazsistmeins.at
 dblroofing.com
 dbz-resin.com
+dbz-resin.com
 dcs-computers.com
 ddkwwstore.com
 de-bags.com
@@ -1361,6 +1365,7 @@ der-erleuchtete.de
 der-radl-doc.de
 der-terrarist.de
 der-weisse-paragraph.at
+derasectr.com
 derbrb.com
 derinborsa.com
 derkatzenshop.de
@@ -1438,6 +1443,7 @@ diezauberscheren.de
 digelektro.de
 diggedidope.de
 digigerate-store.de
+digikartf.com
 digiplus-store.de
 digital-and-free.de
 digitalomarkt.com
@@ -1501,6 +1507,7 @@ doppelbunt.de
 doriahellsehen.com
 doriswolff.de
 doss2010.de
+dotapts.com
 dozzlmarket.com
 dpolg-wiesbaden.de
 dr-clark-center.com
@@ -1641,6 +1648,7 @@ edv-ehrhardt.de
 edwaybuy.com
 edygosselin.co.uk
 eemotion.at
+eenanews.com
 eeygoshop.com
 efancylife.com
 efc-mainpower-badhomburg.de
@@ -1787,6 +1795,7 @@ emergefun.com
 emil-heyrich.de
 emingersweine.at
 emma-facialharmony.at
+emmacarex.com
 emmalis-welt.de
 emmalison.com
 emmalison.com
@@ -2246,6 +2255,7 @@ fussballtrikots-outlet.de
 fussballtrikotsdeutschland.de
 fusselkatzen.de
 futterstopp.de
+futureitc.com
 fy-nex.com
 g-guenther.de
 g-kahlen.de
@@ -2847,6 +2857,7 @@ hubert-glaser-passau.de
 hubertus-rathenow.de
 huda-beautyshop.de
 hudabeauty-de.com
+hudabeauty-lagen.com
 huegelrad.de
 hugoboss-onlineshop.de
 huishmarkt.com
@@ -3290,6 +3301,7 @@ kayklingbeil.de
 kayser-haushaltsroboter.de
 kbs-hig.de
 kbs-umag.de
+kcadsolbd.com
 kcdemo-heindl.de
 kdc-olbernhau.de
 kedsschuhe.at
@@ -3503,6 +3515,7 @@ ksemuacod.com
 ksemuacod.com
 ksk-in-berlin.de
 ktcommunity.de
+ktestwys.com
 ktg-frischedienst.de
 ktornado.com
 kua.clubestyle.com
@@ -3540,6 +3553,7 @@ kv-schoenau.de
 kvk-mbh.de
 kwaydeutschland.de
 kwayregenjacke.de
+kyunshu.com
 kzvb192.de
 lab-control-hannover.de
 labiclstore.com
@@ -3650,6 +3664,7 @@ lepinland.com
 lerdevsale.com
 lerniversum.de
 lernundpruefungscoaching.de
+lernwerkstatt-villach.at
 lesdigitalos.eu
 lesehunde.de
 lesgranges.ch
@@ -3953,6 +3968,7 @@ marziacorso.ch
 maschineland.com
 maschinen-insolvenzamt.com
 maschinenliste.com
+masduxw.com
 massivofit.com
 master-shop24.com
 mastercrazymonkey.com
@@ -4327,6 +4343,7 @@ multimeyer.de
 multiworkers.at
 mundnasenschutz.at
 munichrockstars.de
+mupdateme.com
 murgtal-baeckerei.de
 murtalevents.at
 murtopia.at
@@ -4339,6 +4356,7 @@ musikzitat.at
 musikzug-wurster-nordseekueste.de
 mustangjeansshop.eu
 mustcafe.ca
+mustknor.com
 musvinsale.com
 muta-racing.de
 muth-elektronik.com
@@ -4944,6 +4962,7 @@ pptsoshop.xyz
 pr-agentur-schweiz.de
 prakershop.com
 praktischeidee.com
+pramapost.com
 pranalogie.ch
 praxis-drkober.de
 praxis-dross.de
@@ -5041,6 +5060,7 @@ qbivino.com
 qclappstore.com
 qdmdesk.com
 qdustseo.com
+qeldalu.com
 qgoshopsu.com
 qnovintax.com
 qooboo.de
@@ -5100,6 +5120,7 @@ rally-hautnah.de
 ralphlaurenoutlet.de
 ralphlaurensale.de
 ralphlaurenshop.ch
+ramazonif.com
 ramoci.com
 ramtsoftt.com
 ramwareu.com
@@ -5681,6 +5702,7 @@ shopbootsonline.com
 shopbopp.com
 shopcases.eu
 shopclothingvip.com
+shopdaa.me
 shopeeline.com
 shopeeline.com
 shopeplace.com
@@ -6009,6 +6031,7 @@ stm-koch.de
 stmaria-goldberg.de
 stockerau1602.at
 stoffshop.eu
+stonnab.com
 stopplastik.de
 storeaustria.com
 storebrandbags.de
@@ -6169,6 +6192,8 @@ tc-heide-bottrop.de
 tcdillingen.de
 tcduedingen.ch
 tcoot.xyz
+tdealsian.com
+tdeckers.com
 team-enjoy.de
 team-gamma.de
 team-meier.ch
@@ -6256,6 +6281,7 @@ thedoormenoshawa.com
 theglobalbizgirl.com
 thegmbh.de
 thehannashop.com
+thehostj.com
 thehype.shop
 theinfinitylight.com
 thejustintime.com
@@ -6385,6 +6411,7 @@ toplily.com
 topmodareps.es
 toponstore.com
 topparfums.club
+toprpmp.com
 topshopline.com
 torroo.de
 tortenzirkus.de
@@ -6578,6 +6605,7 @@ vanilleah.at
 vanssale.de
 vansschuhe.at
 vapoworld.de
+vaschoen.com
 vateli.de
 vateli.de
 vaude-rucksack.de
@@ -6599,6 +6627,7 @@ vejasstore.club
 velatempo.com
 veloberlin.de
 velurio.com
+vendo-nex.com
 venlostore.com
 venusbicycle.com
 venusdelights.de
@@ -6902,6 +6931,7 @@ wikysports.com
 wilcox-property-services.co.uk
 wildfang.pet
 wildfeuermedia.de
+wildingme.com
 wildsabine.de
 wildstaronlinepowerguide.com
 willert-textildruck.de
@@ -7072,6 +7102,7 @@ youropee.com
 yousoyo.com
 youwins.ch
 yoyokila.com
+ysxgtmyjj.com
 ythubsmall.com
 ytjper.com
 ytowinmarket.com
@@ -7084,6 +7115,7 @@ zabomo.de
 zafafmarket.com
 zagros24.store
 zahmarzt.de
+zahnarzt-freudenthaler.at
 zahnarzt-schreck.de
 zahnpalais.de
 zakbiyik.com
@@ -7156,6 +7188,7 @@ zonencowboys.de
 zonishop.com
 zoohaus-billstedt.de
 zoryoutlet.top
+zpaniiz.com
 zstarstore.com
 zubehor-haushaltsgerate.com
 zuerststore.com
@@ -7169,20 +7202,15 @@ zurich-markt.com
 zuverlassigerfuhrerschein.com
 zuyuesale.com
 zviadukt.com
+zviraleb.com
 zweiradservice-henkel.de
 zwillingsfestival.de
 zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
-dbz-resin.com
-wildingme.com
-zahnarzt-freudenthaler.at
-hudabeauty-lagen.com
-vaschoen.com
-futureitc.com
-shopdaa.me
-beeventj.com
+blauplay.de
+bogoplay.de
 mimoplay.de
 bullplay.de
 bumaplay.de
@@ -7770,6 +7798,8 @@ spaxdelivery.org
 i-translogistics.com
 
 ### Fraudulent survey platforms:
+de.newchic.com
+appdoctor.me
 crowd-apps.de
 analysespro.de
 markt-check.club
