@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-07-31
+# Last updated:  2020-08-04
 
 ärzte-für-aufklärung.de
 3ho.ch
@@ -298,6 +298,7 @@ kinesiologie-nicolethiele.de
 kopp-verlag.de
 kosmica.de
 kvc-verlag.de
+l-tv.de
 lage-roy.de
 lapiazzetta-hess.ch
 laschkolnig.com
@@ -399,6 +400,7 @@ pukka.ch
 quanten-gesundheit.com
 quantenwelle.blog.de
 quellwasserkampagne.de
+querdenken-711.de
 questico.de
 quisisan.at
 rabenclan.de
