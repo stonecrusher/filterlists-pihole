@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-08-17
+# Last updated:  2020-08-21
 
 ### Fake online shops:
 007drones.de
@@ -247,6 +247,7 @@ alobd24.com
 aloisiuscountryfestival.de
 alpha-elektroniks.net
 alpha-tech.store
+alphakatz.com
 alphamential.com
 alte-wirtsstube.de
 alternzuhause.at
@@ -724,6 +725,7 @@ biketours-zermatt.ch
 bikrammobile.de
 bildermann-technics.de
 bilders.at
+bildtorte.at
 bildungsboerse-loerrach.de
 billard-erding.de
 billgaa.com
@@ -886,6 +888,7 @@ brosden.de
 brot-fuer-die-welt-hannovers.de
 bruckner-handel.de
 bruderschaft-winternam.de
+brunnerhuette.at
 bruns-markt.com
 brushprox.com
 brycus.de
@@ -941,6 +944,7 @@ buyherbody.com
 buylevitramrx.com
 buyneckrelaxofficial.com
 buyoshenwatch.com
+buyuall.com
 buzzupstore.com
 bv-neckarstadt.de
 bwscdstore.com
@@ -1131,6 +1135,7 @@ closetbest.com
 clothes4you.at
 clothmommy.com
 clothujf.site
+clothworthy.com
 clotlove.com
 club-country.com
 club.cameradigitalshow.com
@@ -1164,6 +1169,7 @@ colorootd.com
 colorsty.com
 colorworkout.de
 comebuy.com
+comegobuy.com
 comfyracks.com
 comfyrs.com
 comlagl.xyz
@@ -1273,6 +1279,7 @@ da-kava.store
 dach-vorwerk.de
 dachboxoutlet.com
 dachfondsvergleich.at
+dacyclinu.com
 dagiuseppe-haimhausen.de
 dahlmuehle.de
 daijostore.com
@@ -1857,6 +1864,7 @@ equipair.ca
 erdbeermund-kabarett.de
 erektslim.com
 eremea.de
+ergopolsterpro.com
 ericdress.com
 erleben-hund.de
 erlebniswandern-schottland.de
@@ -2249,6 +2257,7 @@ frischeluftundpausenbrot.de
 frischesweb.de
 friseur-ginny.at
 friseursalon-brandes.de
+friseursalon-monika.at
 friseurundbeautyscheri.de
 frithjofhager-dialogischesoziologie.de
 frohaus.de
@@ -2450,6 +2459,7 @@ getecoplug.com
 getevelynbag.com
 getewatch.com
 gethoneyseal.com
+getpolaire.com
 getraenke-welt-online.de
 getsforu.com
 getzor.com
@@ -2494,7 +2504,7 @@ global-design.at
 globalex24.de
 globalmasksuppliers.com
 globus-cassus.org
-glogloestore.com
+gluckbox.com
 gluckbox.com
 glueckaufstadt.de
 gluwagoods.com
@@ -2758,6 +2768,7 @@ heide-riders.de
 heidelberg-baurecht-anwalt.de
 heidexe.de
 heidi-pauwen.de
+heidistores.com
 heifino.de
 heikefrey-mode.de
 heikos-kramladen.de
@@ -2992,6 +3003,7 @@ immobilien-am-hofgartenplatz.de
 immobilien-korth.de
 imn-lille.com
 imobarka.com
+impabmarket.com
 impabmarket.com
 imperialonline.es
 impkeys.com
@@ -3690,6 +3702,7 @@ lbcfwonline.com
 lcghmtsale.com
 lchdevshop.com
 lcwa-possibilities.com
+ldemobul.com
 leadsale.eu
 learn-german-faster.de
 learningtowers-und-mehr.de
@@ -4007,6 +4020,7 @@ marketing-mit-gewinnspiele.de
 marketphones.com
 markt-digit.com
 markt-digitalo.de
+markt-discount.com
 markt-elektro.com
 markt-gerate.com
 markt-haushalt.com
@@ -4057,6 +4071,7 @@ maxi-soldes.com
 maxlaufschuhe.de
 maxshoes2019.com
 maxxdrinks.com
+maxxi.tech
 maxxipmusic.de
 mazda-strnad.at
 mazon24.com
@@ -4172,7 +4187,6 @@ meindiscounter.net
 meindiscountladen.de
 meindlschuhedamen.de
 meine-ernaehrungsumstellung.de
-meinearbeitsschuhe.com
 meinetiermarken.at
 meingleichgewicht.at
 meinkleinerbaum.de
@@ -4819,6 +4833,7 @@ palastdertoene.de
 palazzo-wien.at
 palette.specutrums.com
 palmangelshop.com
+palmangelsshop.co
 palmepalme.de
 palumwi.de
 pamego.de
@@ -5096,6 +5111,7 @@ projekt-fidem.de
 projekt-fliedergarten.de
 projektmeru.de
 proletmarket.xyz
+prolindo24.de
 prolocobonnanaro.it
 promatrixplus.com
 promdressesshop.com
@@ -5598,7 +5614,6 @@ satinus.de
 satona.de
 saturdayfrank.de
 sauber-macher.com
-saubersauger.com
 sauconyteam.com
 sauna-am-wasserturm.de
 sauseschritt-schuhe.de
@@ -5968,6 +5983,7 @@ sonicbig.com
 sonnenferien-in-malchow.de
 sonnenzeit24.life
 sonnexshopmart.com
+sonoransurplus.com
 sonosep.xyz
 sorgenzwerge.de
 sorglos-wohnen-und-leben.de
@@ -6862,6 +6878,7 @@ von-der-sophienhoehe.de
 von-kummer-dresden.de
 vooglabor.com
 vor-werk-online.com
+vorechic.com
 vorschule-nrw.de
 vorwerk-haushalt.com
 vorwerk-kauf.com
@@ -6965,6 +6982,7 @@ weisselinien.de
 weissmithut.de
 welikebier.de
 wellandtransport.com
+wellenkreise.at
 wellensten.de
 wellensteyn-germany.com
 wellensteyndaunenmantel.com
@@ -7040,6 +7058,7 @@ wieste88.de
 wifi-booster.co
 wikysports.com
 wilcox-property-services.co.uk
+wild-glas-art.at
 wildfang.pet
 wildfeuermedia.de
 wildingme.com
@@ -7324,6 +7343,10 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+playmoba.de
+playkino.de
+playnex.de
+playgox.de
 playnod.de
 playcine.de
 playder.de
@@ -7776,6 +7799,7 @@ yogostream.de
 yostream.de
 
 ### Fraudulent estate agencies:
+windsor-homes.co.uk
 century-21.uk
 co-move.uk
 line-eu.com
@@ -7900,6 +7924,8 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+spedition-starodab.eu
+globaltranshippers.com
 alo-car.com
 jgm.services-limited.com
 ueparcel.com
