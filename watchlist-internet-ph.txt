@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-08-26
+# Last updated:  2020-08-29
 
 ### Fake online shops:
 007drones.de
@@ -805,6 +805,7 @@ blumenhaus-weber.de
 blumenlecker.at
 blumenstudio-m.at
 blumenwerkstatt-bernau.de
+blvcks.com
 blvcx.com
 bm-reichert.de
 bmarkesportchuhesde.com
@@ -1004,6 +1005,7 @@ capelashop.xyz
 capitalaktiv.de
 cappadociahotel.net
 caps-store.de
+captainjacks.de
 car-hifi-radio-adapter.eu
 carano-design.de
 cardioplus-schule.de
@@ -1267,6 +1269,7 @@ cuttingedgeng.com
 cuw-burgwindheim.de
 cw-shopping.de
 cws-elektro.com
+cxcactus.com
 cxmwz.com
 cy-dragon.store
 cyanfun.com
@@ -1293,6 +1296,7 @@ dahlmuehle.de
 daijostore.com
 dailywish43.com
 damen.promotioncarnival.com
+damenmode-quelle.de
 damenperuecke.com
 damensneakerfindenhier.de
 dameo.de
@@ -1515,6 +1519,7 @@ dlm2012.de
 dlrg-remlingen.de
 dlw-ag.de
 dmijanur.xyz
+docmartensales.de
 docmou.com
 docrenz.com
 doeree.de
@@ -1981,6 +1986,7 @@ fahren-guenstig.de
 fahrrad-elite.de
 fahrrad-lager.de
 fahrrad-manuzello.com
+fahrrad-pros.de
 fahrradbekleidung-onlines.de
 fahrradbekleidungdeu.com
 fahrradbekleidungs.de
@@ -2092,6 +2098,7 @@ fewo-vulkaneifel.de
 fewo-wetzen.de
 ff-buch.de
 ff-schoenegg.at
+ff-wallendorf.at
 ffg-koch.de
 ffilm-online.com
 ffw-dielmissen.de
@@ -2388,6 +2395,7 @@ gartenversand.net
 gartenwelt-engel.com
 gartino.net
 gartoran.de
+gasthaus-kaar.at
 gasthaus-weisses-ross.de
 gasthof-falken.at
 gasthof-gritschacher.at
@@ -2526,6 +2534,7 @@ gluwagoods.com
 gm-wibbeke.de
 gmhd-ua.com
 gmidraulica.de
+gnazrul.com
 go-data.co
 go-fagot.de
 go-meo.de
@@ -2835,6 +2844,7 @@ herzens-mensch.com
 herzensgesaenge.de
 herzforscher.de
 herzkunst.ch
+herzpraxis-benzer.at
 heuer-engel.de
 heuke-teppichcenter.de
 hexenbrau.at
@@ -2888,6 +2898,7 @@ hohenzollern-bilk.de
 hoisingtonshop.com
 hokaoneoneeut.com
 hollister-stuttgart.gaysingleparty.de
+holmedi.de
 holzfairy.de
 holzhauserschuetzenverein.de
 home-shopping24.eu
@@ -2904,6 +2915,7 @@ hoocapgoods.com
 horn-dental-technik.de
 horse-n-dog-agility.de
 horsteschment.de
+hosestuff.com
 hospiz-im-ahrtal.de
 hot.serindipiti.com
 hotdealus.com
@@ -3531,6 +3543,7 @@ koi.wartburg-graz.at
 kokoloro.de
 koktelsale.com
 koll.thepersistentvisualist.com
+kollmann-handel.de
 kollwitz-forchheim.de
 komet-arsten-2001er.de
 komfort-kids.de
@@ -3657,6 +3670,7 @@ lab-control-hannover.de
 labiclstore.com
 lachance-hn.de
 laclefdeloptique.fr
+ladabest.com
 ladent-zahnarztpraxis.de
 ladolcevita-bremen.de
 ladtemgoods.com
@@ -3793,6 +3807,7 @@ lichtme.com
 lictor-band.de
 lieb-schafft.de
 liebehaus.de
+liebekleidung.de
 liebem.de
 lieberg24.com
 liebesfreud.de
@@ -3927,7 +3942,9 @@ lutter-kosmetik.de
 luvdaleschool.com
 luvpatient.com
 luxedose.shop
+luxedose.shop
 luxfashion.uk
+luxovo.shop
 luxury-shop.at
 luxuryset.cc
 luxurystyleworld.com
@@ -4355,6 +4372,7 @@ modefee.at
 modehaus-oevermann.de
 modehaus-schulz-brakel.de
 modekaufen.com
+modekorridor.com
 modellbahn-kauf.de
 modellbahn-versandhaus.de
 modellbau-billiger.de
@@ -5976,6 +5994,7 @@ smoktop.com
 smxrt.de
 smyonmyo.com
 sn-co.at
+sneaker2020a.com
 sneakergirlsblog.de
 sneakersadi2018.com
 sneakersalede.com
@@ -6393,6 +6412,7 @@ techwatch.kaufen
 teck-shopping.com
 tecnomari.de
 tecnove.de
+tedusch.myshopify.com
 teilefarber.com
 tel-edmunds.de
 tele-ship.com
@@ -6496,6 +6516,7 @@ tidebagsdeal.com
 tidebuy.com
 tidmshop.top
 tiekings.de
+tier-und-hausservice.de
 tiergeschaft.net
 tierheilpraxis-buchholz.de
 tierpension-fuerst.at
@@ -6871,6 +6892,7 @@ vipde.co
 vipggbf.pw
 vipkickz.com
 vipreplica.de
+vips.gzltoys.com
 vipsski.com
 vision-erfolg.de
 visiopreneur.de
@@ -6994,7 +7016,7 @@ webagentur-media.net
 webandoffice.at
 weber-messeberatung.de
 weber-versand.net
-webexpress-shop.com
+weberindra.de
 webexpress-shop.com
 webmarker.de
 webradio-linz.at
@@ -7106,6 +7128,7 @@ wildfeuermedia.de
 wildingme.com
 wildsabine.de
 wildstaronlinepowerguide.com
+wildzme.com
 willert-textildruck.de
 williesvacationrentals.com
 willispub.de
@@ -7387,6 +7410,7 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+playbeno.de
 playnona.de
 playdon.de
 playtogo.de
@@ -7930,6 +7954,7 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+elektro.heinz-24h.pro
 schloss.heinz-24h.pro
 installateur-fritz.at
 installateur-hansi.at
@@ -7971,6 +7996,8 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+vs-logistics.eu
+bsi-trans.com
 spedition-starodab.eu
 globaltranshippers.com
 alo-car.com
