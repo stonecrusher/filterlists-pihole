@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-08-29
+# Last updated:  2020-09-05
 
 ### Fake online shops:
 007drones.de
@@ -989,6 +989,7 @@ cameraeshops.com
 caminstant.club
 camisanii.com
 camistra.com
+campaign-prices.com
 campershoes-uk.com
 camppolster.de
 campus-glemsaue.de
@@ -1179,6 +1180,7 @@ colorworkout.de
 comebuy.com
 comegobuy.com
 comeyour.com
+comforttaxi.at
 comfyracks.com
 comfyrs.com
 comlagl.xyz
@@ -1914,6 +1916,7 @@ eu-mediamarkt.com
 eu-rezeptfrei.net
 eu-shoppping.de
 eu.guccionlineok.com
+eu.terkbike-store.com
 eufuehrerscheinonline.de
 eugen-kromer.de
 euhutgoods.top
@@ -1983,6 +1986,7 @@ facos.at
 factumsck.com
 fadlily.com
 fahren-guenstig.de
+fahrrad-elite.com
 fahrrad-elite.de
 fahrrad-lager.de
 fahrrad-manuzello.com
@@ -2092,6 +2096,7 @@ feuerwehr-schweix.de
 feuerwehr-ulmen.de
 feuerwehr-wallernhausen.de
 feuerwehrlexikon-online.de
+feurigeliebe.de
 feville.com
 fewo-schausbreitner.de
 fewo-vulkaneifel.de
@@ -2297,6 +2302,7 @@ fuesseinharmonie.at
 führerscheinpapier.com
 fujicamer.club
 fuldo.de
+fullgard.com
 fullgerateshop.de
 fulltechouse.com
 fun.thebestubuy.com
@@ -2329,6 +2335,7 @@ galabau-massong.de
 galaversa.de
 galaxy-note5.de
 galaxys5huelle.com
+galenda.de
 galeriecafe.ch
 galerielebunker.ch
 galerietraunsee.at
@@ -2395,6 +2402,7 @@ gartenversand.net
 gartenwelt-engel.com
 gartino.net
 gartoran.de
+gasthaus-kaar.at
 gasthaus-kaar.at
 gasthaus-weisses-ross.de
 gasthof-falken.at
@@ -2563,6 +2571,7 @@ gomba.info
 good-vibration-benzing.de
 good.hotepurchase.com
 good.nonesbuys.com
+gooddeals24.de
 goodlove.store
 goodweek.de
 gool1.de
@@ -2689,6 +2698,7 @@ hans-weiskopf.de
 hansemannhamburg.de
 hansengers.nl
 hantsuonline.com
+happydeal24.de
 haqaiqstore.com
 harald-horrwarth.de
 haraldjelinek.at
@@ -2752,6 +2762,7 @@ haushaltselite.de
 haushaltsfreude.de
 haushaltsfreunde.net
 haushaltshop.net
+haushaltskreis.de
 haushaltslager.eu
 haushaltsparade.net
 haushaltspartner.net
@@ -3078,6 +3089,7 @@ inshopys.com
 inside.mereutricious.com
 insigniadrivingtour.at
 insolvenzamt.com
+inssquare.com
 instametall.de
 institut-perspektive.de
 intaliof.com
@@ -3375,6 +3387,7 @@ karl-malz.de
 karlsbrew.de
 karo-liners-berlin.de
 karottenzuschlag.de
+kartenguthaben.com
 kartenluchs.com
 kaspibau.de
 kaspigmbh.de
@@ -3902,6 +3915,7 @@ lottalovee.com
 lotterony.com
 louisvuittonsalzburg.eu
 lovecroxley.co.uk
+lovelyy2020.com
 lovemycoffeenews.com
 lovepixx.de
 loveshes.com
@@ -4112,6 +4126,7 @@ maxacne.com
 maxfrioq.com
 maxi-soldes.com
 maxlaufschuhe.de
+maxnovelty.com
 maxshoes2019.com
 maxxdrinks.com
 maxxi.tech
@@ -4176,6 +4191,7 @@ mediafuchs24.org
 mediahelden.shop
 medialo-elektro.de
 medialovers.de
+mediamaxi.net
 mediameier.de
 mediapython.de
 mediasaturn-abverklauf.club
@@ -5795,6 +5811,7 @@ selenoidvalves.com
 selfcsmall.com
 selfmademusic-ms.eu
 selina-nails.de
+sellbest.eu
 selly.gg
 semovice.com
 sendlein.net
@@ -5854,6 +5871,7 @@ shop.hyper-tech.co
 shop.hyperstech.com
 shop.iubqx.com
 shop.strato.de
+shopaa.eu
 shopanera.com
 shopbird.de
 shopbootsonline.com
@@ -5995,6 +6013,7 @@ smxrt.de
 smyonmyo.com
 sn-co.at
 sneaker2020a.com
+sneaker2020a.com
 sneakergirlsblog.de
 sneakersadi2018.com
 sneakersalede.com
@@ -6034,6 +6053,7 @@ sonderpostenlager.eu
 song-creator.com
 soniarykielschuhe.de
 sonicbig.com
+sonja-kosmetik.at
 sonnenferien-in-malchow.de
 sonnenzeit24.life
 sonnexshopmart.com
@@ -6201,6 +6221,7 @@ stipendienkritik.de
 stm-koch.de
 stmaria-goldberg.de
 stockerau1602.at
+stoffland-berlin.de
 stoffshop.eu
 stonnab.com
 stopplastik.de
@@ -6749,6 +6770,7 @@ urbanpopz.com
 ureesinc.xyz
 urerrly.com
 urhair.co.uk
+urhmask.com
 urithisms.com
 urkoolwear.com
 urlaub-wiechmann.de
@@ -6905,6 +6927,7 @@ viva-med.de
 vivalasummer.de
 vivancos.de
 vivatechnica.com
+vivatronik.com
 vivib.de
 vize-fcb.de
 vklipha2012.de
@@ -7232,6 +7255,7 @@ wunderwahl.de
 wunderwand.shop
 wutzl-fruehbauer.at
 wvowa.com
+wwd.sneaker2020a.com
 wwrwssale.com
 www-gamma.de
 xboxoutlet.de
@@ -7379,6 +7403,7 @@ zirbenkraft.at
 zismattighofen.at
 zitate-per-mail.de
 zkz.li
+zmk-praxis-berlin.de
 zocker.shop
 zockerbase.de
 zockerversand.de
@@ -7410,6 +7435,13 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+playnom.de
+filmstreaming-de.life
+botmediaz.com
+playbobo.de
+playoza.de
+playsimo.de
+playdomo.de
 playbeno.de
 playnona.de
 playdon.de
@@ -7954,6 +7986,7 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+bio-kammerjaeger.at
 elektro.heinz-24h.pro
 schloss.heinz-24h.pro
 installateur-fritz.at
@@ -7996,6 +8029,8 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+transdirectcourierservices.com
+rtinternational-handelsbolag.com
 vs-logistics.eu
 bsi-trans.com
 spedition-starodab.eu
@@ -8042,6 +8077,9 @@ spaxdelivery.org
 i-translogistics.com
 
 ### Fraudulent survey platforms:
+enix-ai.net
+famous-enterprise.de
+testorino.de
 de.newchic.com
 appdoctor.me
 crowd-apps.de
