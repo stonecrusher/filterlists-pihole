@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-09-11
+# Last updated:  2020-09-19
 
 ### Fake online shops:
 007drones.de
@@ -29,9 +29,13 @@
 24things.de
 2gemini.de
 2pfundstyle.de
+2rad-berlin.com
+2rad-xxl.de
+2rad-xxl.de
 300xkarlsruhe.de
 304c6.com
 30netzteil.de
+3clin.de
 3d-kino-weiden.de
 3dimperium.com
 3scomstore.top
@@ -682,6 +686,7 @@ bestbuydeals2019.com
 bestbuyselectro.com
 beste-externe-festplatte.com
 beste-preisemarket.com
+besteangebote24.de
 bestelektronicshop.de
 bestellen-de.com
 bestendeals.de
@@ -717,6 +722,7 @@ bhseen.com
 bhsure.com
 bi-verteilerkreis.at
 bicycleshopsonline.com
+bicyclesky.com
 bicyclettres.fr
 bidsoptgoods.com
 biedronka-sklep.de
@@ -728,6 +734,7 @@ bierfuersten.de
 bieyt.com
 big-kit.center
 bigbagharbeck.de
+bigeatncm.com
 bike-global.de
 bike-roles.de
 bike-stone.de
@@ -790,6 +797,7 @@ blackfridayr.com
 blackmountainteddys.de
 blairead.com
 blanzbom.com
+blaroken.com
 blaue-sau.de
 blauer-engel-malzhaus.de
 blauerhein.de
@@ -911,6 +919,7 @@ brzshop.top
 bs-buettner.de
 bsc-aichwald.de
 bsfm-scholz.de
+bsomnium.com
 bstanlagen.de
 bsv-schottheide.de
 bsvhamm.de
@@ -1165,6 +1174,7 @@ clublabiella.it
 clubmaritimodemarbella.com
 clubsassou2016.com
 clumpling.com
+cnc-vienna.at
 cncfiosale.com
 coach-rosenheim.de
 coachsdecisionksco.com
@@ -1329,6 +1339,7 @@ darkpods.de
 darooxw.com
 das-elektrische-rad.de
 das-fenster-stuttgart.de
+das-gruene-ei.de
 das-reetdachhaus-bleckede.de
 dasbad24.shop
 daseichenblatt.de
@@ -1510,6 +1521,7 @@ dirk-woker.de
 dirndl-kruger.de
 dirndl-z.com
 dirobella.com
+dirtcaps.de
 disasterpieces.at
 discount-bazar.com
 discount-mk.com
@@ -1747,6 +1759,7 @@ elec-stache.de
 electhrons.de
 electris.shop
 electro-easy.com
+electro-eshoper.com
 electro-ideal.com
 electro-port.com
 electro-sale.shop
@@ -1863,6 +1876,7 @@ emmalison.com
 emmalison.com
 emmas-cafe.de
 emmas-f.shop
+emmerthal-tierarzt.de
 emotorraeder.at
 empirescooters.com
 emymarke.com
@@ -1994,6 +2008,7 @@ exvision.de
 eysdfsdfsd.myshopify.com
 eziobincoletto.com
 ezvapore.com
+fabalesx.com
 fabeos-security.de
 fabnetstudio.com
 fabooo.de
@@ -2228,6 +2243,7 @@ fordeals24.com
 foregatheryou.com
 forelle-vernich.de
 forever-motion.de
+forevercosmetics.us
 forsaleprey.com
 forschungglaser.de
 forstundgarten.biz
@@ -2309,6 +2325,7 @@ frithjofhager-dialogischesoziologie.de
 frohaus.de
 from.yululove.com
 fromjtosj.com
+fruchtpresse.at
 fruehstueckspension-hilbenz.de
 fruehstueckstreffen-zeitz.de
 fsv-steinitz.de
@@ -2435,6 +2452,7 @@ gattooo.de
 gb-electrohaus.com
 gbengel-todentta.de
 gboschmed.de
+gcbsclubc.com
 gdaecshop.com
 gdplmdgoods.com
 ge-ek.com
@@ -2613,6 +2631,7 @@ govern.fashionuapparel.com
 gptciplaw.com
 grabyours.co
 gracebekleidung.de
+grafpilati.at
 grakawelt.org
 gramater-jugend.at
 grand-elec.store
@@ -2676,6 +2695,7 @@ gysbers-versand.com
 gzpulverturm.de
 ha-ko.at
 haarformersalon-am-dom.de
+haarpracht-clip.de
 hachingforever.de
 haehnchenhausen.de
 haemmerle-joachim.de
@@ -2719,6 +2739,7 @@ handyexperts.de
 handysstore.de
 hangervmb.com
 hanna-pee.de
+hannadirndl.de
 hannaken.com
 hans-weiskopf.de
 hansemannhamburg.de
@@ -2788,6 +2809,7 @@ haushaltselite.de
 haushaltsfreude.de
 haushaltsfreunde.net
 haushaltshop.net
+haushaltsklang.de
 haushaltskreis.de
 haushaltslager.eu
 haushaltsparade.net
@@ -2891,6 +2913,7 @@ hfr-gebaeudeservice.de
 hghv-niederkaufungen.de
 hhtwtnzistyle.xyz
 hier-kein-stall.de
+hierbeiuns.at
 hifiexperten.de
 higgzyshop.com
 high-tech-discount.fr
@@ -2961,6 +2984,7 @@ hotbitese.com
 hotdealus.com
 hotechnetzteil.de
 hotel-accord.at
+hotel-galland.de
 hotel-hasselkuss.de
 hotel-reither.at
 hotelaustralien.de
@@ -3114,6 +3138,7 @@ init-m.de
 inmuju.com
 innaemarket.com
 inno-store.com
+innocook-pro.com
 innovations-shopping.com
 inselgrill.at
 inshopys.com
@@ -3170,6 +3195,7 @@ isie-symposium.com
 isisscastelvolturno.it
 island-eagles-ruegen.de
 islandlichter.com
+ismody.com
 isotopsale.com
 ispedgoods.com
 isu-pinnacle.com
@@ -3182,6 +3208,7 @@ itc-schwarz.de
 iteck-shop.com
 item.specutrums.com
 iteshop.top
+ithreel.com
 itkonsulenten.at
 itporionline.com
 itrojmarket.xyz
@@ -3669,6 +3696,7 @@ kruegerdirndl.com
 kruegerdirndl.net
 kruerdirndl.com
 ks-marketing.at
+ksatamel.com
 ksc-wirges.de
 kscboeblingen.de
 ksemuacod.com
@@ -3754,6 +3782,7 @@ language4business.net
 laptop-akku-shop.com
 laptop-akkus.de
 laptop-akkus.org
+laptopbatterie.ch
 larose-merzig.de
 larsstart.de
 lart-iste.fr
@@ -3794,6 +3823,7 @@ lcwa-possibilities.com
 ldemobul.com
 leadsale.eu
 learn-german-faster.de
+learnayr.com
 learningtowers-und-mehr.de
 learntodrivetameside.com
 leasecrets.com
@@ -3821,6 +3851,7 @@ lembsstore.com
 lemiostore.de
 lemonscoco.com
 lenas-boutique.com
+lenkelt.com
 lenox-spares.com
 lensivy.com
 lente-et-partner.de
@@ -3966,10 +3997,12 @@ low-sunglasses.com
 lowcesta.com
 loyaltrend-de.com
 lrstwc.com
+lseligue.com
 lte-standard.de
 lubemag.de
 luckhairstylists.de
 luckyebikes.de
+luckyfate.net
 luckylike.net
 luckysissi.com
 luculius.de
@@ -4287,6 +4320,7 @@ meindiscounter.net
 meindiscountladen.de
 meindlschuhedamen.de
 meine-ernaehrungsumstellung.de
+meinearbeitsschuhe.com
 meinetiermarken.at
 meingleichgewicht.at
 meinkleinerbaum.de
@@ -4400,8 +4434,8 @@ mm-bornschein.de
 mm-steuern.de
 mmherm.de
 mmipprosale.com
+mmkaarte.com
 mmkskvd.top
-mmoga.de
 mmsales.de
 mmz-nord.de
 mnml.shop
@@ -4420,6 +4454,7 @@ mode-fans.de
 mode-feeling.de
 mode-lorenz.de
 mode-paradise.com
+mode-shop-1.de
 mode-top.de
 mode.crazyabuy.com
 mode.crazyabuy.com
@@ -4446,6 +4481,7 @@ momenta15.de
 mona-barthel.de
 monaco-modding.com
 monad.be
+monadonna.de
 monclerat.com
 monclerausverkauf.com
 monclerdeal.at
@@ -4565,6 +4601,7 @@ my-dreamstore.de
 my-haushalt.com
 my-pontto.com
 my-sport24.net
+mybaghouse.club
 mybotspot.de
 mycaboconcierge.com
 myclothes.shop
@@ -4685,6 +4722,7 @@ nextwaveband.de
 nexxor.de
 nf-telecom.de
 nfc-whv.de
+nffburo.com
 nfmall.online
 nfornicole.com
 ngo-tv.de
@@ -4731,6 +4769,7 @@ nohl-versand.com
 nohl-versand24.com
 nolanrobertcosmetics.com
 nolla-f.shop
+nolliter.com
 nomi-physio.de
 noobwatch03.io
 nooknookrecords.com
@@ -4767,6 +4806,7 @@ nrw-bartagamen.de
 nrw-elektronik.com
 nsffixsale.eu
 ntdltdgoods.xyz
+ntidjan.com
 ntkyznshop.com
 ntqymconline.com
 nubaprol.com
@@ -5144,6 +5184,7 @@ poobia.com
 poolbay.de
 poolfunstore.de
 pop-perlen.de
+popmar.de
 populily.com
 popuor.com
 popwelle.com
@@ -5206,6 +5247,7 @@ pris.creaturepuppetgallery.com
 prismmall.xyz
 privado-mallorca.com
 privatefloor.com
+privatefloor.com
 privatetutoringdirectory.com
 privatkellerei-hochleitner.de
 pro-konflikt.at
@@ -5215,6 +5257,7 @@ produkte.classic4ustyle.com
 professor-jakubasch.de
 profimatics.de
 progamecheat.com
+prohotel.at
 projekt-fidem.de
 projekt-fliedergarten.de
 projektmeru.de
@@ -5263,6 +5306,7 @@ pxianhk.com
 pyro-effects.com
 pyro-shopping.net
 pyroshop-be.de
+qakprohor.com
 qbetvole.com
 qbivino.com
 qclappstore.com
@@ -5283,6 +5327,7 @@ queeneva.com
 queenieito.com
 queliposo.com
 quesant.de
+quickbag.at
 quilt-anleitungen.de
 quilt.knitwearwell.com
 quilt.salemarketshops.com
@@ -5311,6 +5356,7 @@ rabattonline2020.com
 racebunch.de
 rackactive.com
 racondo.de
+rad-profis.com
 rad-trikots.de
 raddix.de
 radfreunde-murtal.at
@@ -5685,6 +5731,7 @@ salach-gestalten.de
 salahksale.com
 saleadidshoes.de
 salesbikes.com
+salesmartltd.com
 salesnksportsu.top
 salewa-rucksack.de
 salomonam.online
@@ -5707,6 +5754,7 @@ sammlung-fiede.de
 samona-reitsport.ch
 samsungbilliger.de
 samurai.atleisures.com
+sandalen.feenladen.at
 sandalenpantoletten.de
 sandlood.com
 sandrachen.de
@@ -6008,6 +6056,7 @@ sjzxdfmall.com
 sk-biografien.de
 skateheadclothing.com
 skecherseu.com
+skechersneue.at
 skeptischeecke.de
 skikreiscalw.de
 skill-tools.com
@@ -6149,6 +6198,7 @@ spd-landwursten.de
 spd-ruhrort.de
 spd-viernheim.de
 specialbagstore.com
+speed.terkbike-store.com
 speedcubekaufen.com
 speedskating-salzburg.at
 spicydeals4u.com
@@ -6570,6 +6620,8 @@ thermomix-vorwerk.net
 thermomix-vorwerk.org
 thesliceredondobeach.com
 thesmallchurch.org
+thesnorkling.com
+thesoleuniverse.com
 thesupersnake.com
 thetransfiguration.co.uk
 thewatchmaker1.weebly.com
@@ -6631,6 +6683,7 @@ tm5-sonderverkauf.com
 tm5-welt.com
 tmdkk.com
 tmgbusstore.com
+tmp-technik.net
 tobiasunger.de
 tocon.net
 todsale.com
@@ -6776,6 +6829,7 @@ twosisterssalonandspa.com
 twovillas.com
 u18-volleyballdm-berlin-2015.de
 u20-poetryslam-kassel.de
+uartelatz.com
 uber-torch.com
 ubertorch.com
 ubertorchtaschenlampe.com
@@ -6859,6 +6913,7 @@ uuaca.com
 uug-berlin.de
 uuhaushop.com
 uusbags.com
+uwebwasap.com
 uwl-ligaverwaltung.de
 uzango-design.at
 v7softwaregroup.com
@@ -6986,6 +7041,7 @@ visiopreneur.de
 vitagaming.de
 vital-education.de
 vitalis-pankratius.de
+vitalitiesdeluxe.com
 vitalplus38.de
 vite-envogue.de
 viva-med.de
@@ -7245,6 +7301,7 @@ winterdriften.at
 winterloveyou.com
 winterparkas.ch
 winterreifen-im-test.de
+wipideal.de
 wir-bodensee.de
 wir-diefreiburgerinnenstadt.de
 wir-hebammen.at
@@ -7378,6 +7435,7 @@ yhomecamp.com
 yivette.com
 ylinkeyek.com
 yokurt-fulda.de
+yolandal.com
 yolely.com
 yolingen.de
 yoostylish.com
@@ -7506,6 +7564,9 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+playnoro.de
+playebo.de
+playred.de
 playsat.de
 playtory.de
 playdax.de
@@ -8061,6 +8122,7 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+heinz-24h.pro
 bio-kammerjaeger.at
 elektro.heinz-24h.pro
 schloss.heinz-24h.pro
