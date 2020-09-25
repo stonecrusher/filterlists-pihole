@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-09-19
+# Last updated:  2020-09-25
 
 ### Fake online shops:
 007drones.de
@@ -645,6 +645,7 @@ bekommefuehrerschein.com
 beleuchten.hottosale.com
 bellsshop.de
 belsimsale.xyz
+bemikks.com
 bemodern.de
 ben-market.com
 bengalkatzenzucht-deutschland.de
@@ -718,6 +719,7 @@ bezgluten-nl.com
 beziehung-retten24.com
 bgy-meissen.de
 bhb-schwaikheim.de
+bhrutush.com
 bhseen.com
 bhsure.com
 bi-verteilerkreis.at
@@ -840,6 +842,7 @@ bochner-handel.de
 bockwindmuel.de
 bodensee.elektronik-gmbh.com
 bodylounge-loehne.de
+bodymetf.com
 bodytemperamento.ch
 bognerjackesale.com
 boldmatters.de
@@ -1164,6 +1167,7 @@ closedkleidung.de
 closetbest.com
 clothes4you.at
 clothmommy.com
+clothmyths.com
 clothujf.site
 clothworthy.com
 clotlove.com
@@ -1394,6 +1398,7 @@ deciansale.com
 decigames.co.uk
 decko24.de
 decoff-haushalt.net
+dectty.com
 deepcaps.com
 deflorenflor.eu
 defootswear.com
@@ -1694,6 +1699,8 @@ eclipsa.de
 ecoflyway.com
 ecofuelenterprise.lt
 econn.eu
+ede-handball.de
+ede-handball.de
 edelmar.de
 edelweiss-stueberl.at
 eden-moon.de
@@ -1744,6 +1751,7 @@ eintrachtwaldhuck.de
 eisenbahn24.com
 eisgruebl.at
 eishockey-trikot.net
+eisschild.com
 eitjt.site
 ekadmarket.com
 ekhofenge.com
@@ -1940,6 +1948,7 @@ estrich-breuer.de
 esty-shop.com
 etec-lounge.de
 eternallyhours.com
+ethewne.com
 etoppferdefutter.com
 ets-verlag.de
 eu-elektronics.com
@@ -1984,6 +1993,7 @@ everythingfrenchrealestate.com.au
 everythingsaltspring.com
 evis-hofladen.de
 evita-regensburg.de
+evo-pharmacy.com
 evokings.de
 evvgcmalls.top
 ewelt24.com
@@ -2216,6 +2226,7 @@ flymotion-odw.de
 flytte-udlandet.dk
 fm-leverkusen.de
 fm-stromberger.at
+fmaneshco.com
 fmscooutlet.top
 fmz-ff.at
 fndratcxshop.online
@@ -2311,6 +2322,7 @@ fresh.originalbyshop.com
 freshfoam.de
 freshup-kosmetik.de
 friday.spieleu.com
+friedlichesende.com
 friend-shops.de
 friesen-carousel.de
 friesenhaus-karin.de
@@ -2551,6 +2563,7 @@ giga-tech.shop
 gigantos.net
 gigantos.store
 gigantwebhost.de
+gikyodaim.xyz
 gimyler.com
 ginakargoscha.de
 ginasbaerenstuebchen.de
@@ -2623,6 +2636,7 @@ goollucky.com
 goosejacke.de
 goplayful.com
 gopro-laden.com
+gose.shop
 goswivtstore.com
 gothre.com
 gotosuit.com
@@ -2726,6 +2740,7 @@ hammeljaeger.de
 hamptons-int.co.uk
 hamrolyrics.com
 hamude.de
+hanapikag.com
 hand-pro.com
 handarbeiten-allerlei.de
 handelskontor-strenat.de
@@ -3279,6 +3294,7 @@ jfriendme.com
 jfszwstore.com
 jfszwstore.com
 jh-baumarkt.de
+jhnlrjx.com
 jiarenstore.com
 jimboo.de
 jin-shin-jyutsu-euskirchen.de
@@ -3482,6 +3498,7 @@ kbs-hig.de
 kbs-umag.de
 kcadsolbd.com
 kcdemo-heindl.de
+kdavsil.com
 kdc-olbernhau.de
 kedsschuhe.at
 keepbuckwild.com
@@ -3497,6 +3514,7 @@ kelivar.com
 kellerer-direct.at
 kelsen-fnac.com
 keltenfreunde-asperg.de
+keltenheuriger.at
 kelvinshop.de
 kenbagsshop.com
 kenjukate-mtk.de
@@ -3593,6 +3611,7 @@ kleine-wunder.de
 kleinesschaetzchen.de
 kleinkatharina.de
 kleistermeister.eu
+klekhmart.xyz
 kletterwaen.de
 klickundplay.de
 kliko-market.com
@@ -3603,6 +3622,7 @@ klostercafesaarn.de
 klsattelschnallen.de
 klunker-plus.de
 klzv-z341.de
+kmatahern.com
 kmewn.at
 kmgegotashop.online
 kmot.co.uk
@@ -3822,6 +3842,7 @@ lchdevshop.com
 lcwa-possibilities.com
 ldemobul.com
 leadsale.eu
+leadwoodu.com
 learn-german-faster.de
 learnayr.com
 learningtowers-und-mehr.de
@@ -3920,6 +3941,7 @@ likelymore.com
 likelymorely.com
 likevia.com
 lille-jonte.de
+lillykatze.de
 lilybeautysale.com
 lilybeing.com
 limassolrealestate.com
@@ -3934,6 +3956,7 @@ lindenhof-tolkewitz.de
 linennew.com
 linescomfy.com
 linkinde.com
+lipomaist.com
 lippischerkuenstlerbund.de
 liris-shop.de
 lisideutsch-portraitmalerei.at
@@ -4475,6 +4498,7 @@ modetaken.com
 modetalente.com
 modezirkus.eu
 modiana.de
+modlily.com
 mofylook.com
 molina24.store
 momenta15.de
@@ -4589,6 +4613,7 @@ muta-racing.de
 muth-elektronik.com
 mutosumall.com
 mv-pflegeschutz.de
+mv-rosenau.at
 mvl-harmonie.de
 mvpcopyonline.com
 mvtronics.com
@@ -4627,6 +4652,7 @@ mysuperland24.de
 mywhitestrips.de
 myzaehne.com
 n-gel.net
+nabona-media.com
 nachsterhemd.com
 nacht-kind.de
 naeh-haus.com
@@ -4880,10 +4906,12 @@ oitheprint.at
 oksommer.com
 olandoo.net
 olbert-elec.de
+oldboys-mc.at
 oldenburger-inlinernacht.de
 oldionline.com
 olivefan.com
 oluarrgoods.com
+omarklily.com
 omega-tech.store
 omegasrl.de
 omegatech24.de
@@ -4920,6 +4948,7 @@ oostdamblumen.de
 openloose.at
 operetta.nordstromif.com
 operncamp.de
+opolysort.com
 optik-huschke.de
 optiker-hechingen.de
 orangedust.de
@@ -4989,6 +5018,7 @@ pandoo-store.com
 pandoo-store.com
 pandooshop.com
 pandoraberlin.de
+pandoracharmsausverkauf.de
 pandorahu.com
 pandoraringe.at
 pandorasale.net
@@ -5159,6 +5189,7 @@ plichter.eu
 plisker.de
 pmnavsale.com
 pmorfey.com
+pnoisesy.com
 podolo24.de
 podologie-morhard.de
 pods-tech.com
@@ -5238,6 +5269,7 @@ pretty-woman-bramsche.de
 prettylittlesummer.at
 previmascolombia.com
 price.starvcustoms.com
+prietz-bau.com
 prillenium.de
 primehyp.de
 primeshe.com
@@ -5327,7 +5359,6 @@ queeneva.com
 queenieito.com
 queliposo.com
 quesant.de
-quickbag.at
 quilt-anleitungen.de
 quilt.knitwearwell.com
 quilt.salemarketshops.com
@@ -5795,6 +5826,7 @@ schanfigg.ch
 scharhoern.de
 schatztruhe-assmann.de
 schaubuehne-frankfurt.de
+schaumstoffwelt.de
 schenkichdir.de
 schetz72-photography.de
 scheuregger.de
@@ -6330,6 +6362,7 @@ stmaria-goldberg.de
 stockerau1602.at
 stoffland-berlin.de
 stoffshop.eu
+stolz-auf-linz.at
 stonnab.com
 stopplastik.de
 storeaustria.com
@@ -6478,6 +6511,7 @@ taschenkaufhaus-24.de
 tatjana-beauty.de
 tattoo-fantastica.de
 tattvalok.com
+tauchershop.at
 taucuoc.com
 taurachbahn.at
 taverna-ikaros.at
@@ -6505,6 +6539,7 @@ teamclo.com
 teamtrackspeeduk.com
 teamtrackspeeduk.com
 teamvalleedutrient.ch
+teaprotect.com
 tec-markt-gmbh.com
 tecfreaks.net
 tech-forest.eu
@@ -6582,6 +6617,7 @@ theaustrian.org
 thebrinx.com
 thebrufios.de
 thecambridgeinstitute-linz.at
+thecapones.de
 thecrazycanner.com
 thecutebags.com
 thedoormenoshawa.com
@@ -6601,6 +6637,7 @@ themissionofmoms.com
 thenefmarket.com
 thenorthfacesod.top
 theoceanroomsbirmingham.com
+theohrpods.com
 theordinaryme.de
 theos-abholmarkt.de
 thephones.net
@@ -6839,6 +6876,7 @@ uda-heller.de
 udomorgel.com
 ufadtag.com
 ufc-mettmach.at
+ufd-lindenau.de
 uggadirondacksale.de
 uggau.de
 uggcp.com
@@ -7101,6 +7139,7 @@ vs-auto.de
 vs-electronic.net
 vs-herzogsdorf.at
 vshopde.com
+vsmitterdorf-raab.at
 vvdior.com
 w-glas-werbetechnik.de
 waagemann.de
@@ -7167,6 +7206,7 @@ webexpress-shop.com
 webmarker.de
 webradio-linz.at
 webservice-fliegen.de
+webweekzd.com
 wechtel.de
 weddingsinjacksonnh.com
 weekend-en-amoureux.ch
@@ -7314,6 +7354,7 @@ wirtshaus-zum-hufschmied.de
 wissenstransfer-berlin.de
 witton-sporting-limited.com
 wj-tag.de
+wkhabrar.xyz
 wltoys.co
 wm-dornbirn2017.at
 wmrbasic.com
@@ -7424,6 +7465,7 @@ yeescroemin.com
 yeezyboost.at
 yeezys750de.com
 yeezystorede.com
+yefa.de
 yellow.apparelsummer.com
 yellowpost.de
 yelurisale.com
@@ -7477,6 +7519,7 @@ zandis.net
 zanoya.de
 zapatoenes.com
 zappom.com
+zarana.de
 zarossi.com
 zaseps.store
 zaumschmuck.de
@@ -7564,6 +7607,11 @@ zwischenquatschen.de
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+playrush.de
+playmod.de
+playduck.de
+playroyo.de
+playmago.de
 playnoro.de
 playebo.de
 playred.de
@@ -8166,6 +8214,9 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+ms-shipping.net
+vogeltransltd.com
+transporte-spedition.com
 fidelitytrustcu.com
 transdirectcourierservices.com
 rtinternational-handelsbolag.com
@@ -8215,6 +8266,7 @@ spaxdelivery.org
 i-translogistics.com
 
 ### Fraudulent survey platforms:
+universalprotection.de
 cosmopoint.de
 enix-ai.net
 famous-enterprise.de
