@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-10-02
+# Last updated:  2020-10-03
 
 ### Fake online shops:
 weberelektronik.de
@@ -2355,6 +2355,7 @@ friseursalon-brandes.de
 friseursalon-monika.at
 friseurundbeautyscheri.de
 frithjofhager-dialogischesoziologie.de
+fritzsche-technik.com
 frohaus.de
 from.yululove.com
 fromjtosj.com
@@ -6496,6 +6497,12 @@ svhollenburg.at
 svoe-klagenfurt.at
 swaatmarket.com
 swanmp2.ch
+swarovski-schweiz.net
+swarovskis-osterreich.com
+swarovskis-schmuck.com
+swarovskis-schmuck.net
+swarovskisalesupply.com
+swatreact.com
 sweat-relax.de
 sweetair.shop
 sweetsisterpain.de
@@ -6996,12 +7003,6 @@ uug-berlin.de
 uuhaushop.com
 uusbags.com
 uwebwasap.com
-utopia-bremen.de
-uuaca.com
-uug-berlin.de
-uuhaushop.com
-uusbags.com
-uwebwasap.com
 uwl-ligaverwaltung.de
 uzango-design.at
 v7softwaregroup.com
@@ -7495,6 +7496,12 @@ xn--blackdiamondespaa-uxb.es
 xntszwmarket.com
 xo-trier.de
 xokako.com
+xonephonestore.com
+xparklane.com
+xspace.at
+xtallaei.com
+xuenuosale.com
+xueziashop.com
 xuminmarket.com
 xxkgcfshop.com
 xxl-handel.de
@@ -8265,6 +8272,7 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+zopcar-gmbh.com
 ssrlogistics.com
 ms-shipping.net
 vogeltransltd.com
@@ -8361,13 +8369,11 @@ veganfoodie.de
 # Additions from verbraucherschutz.com
 # https://www.verbraucherschutz.com/warnungsticker/warnung-hier-drohen-hohe-streaming-rechnungen-und-aerger-nicht-registrieren/
 bgs.bz
-bugaflix.de
 buroflix.de
 duckflix.de
 gabaflix.de
 gonnaflix.de
 mainflix.de
-moviedad.de
 movieshub.de
 nubaflix.com
 playada.de
