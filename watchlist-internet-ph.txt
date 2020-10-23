@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-10-17
+# Last updated:  2020-10-23
 
 ### Fake online shops:
 weberelektronik.de
@@ -82,6 +82,7 @@ abundzu-band.de
 ac-feldkirchen.at
 acaciay.com
 acad-it.nl
+acc-concrete.com
 accop.fr
 achimunger.de
 acitmessina.it
@@ -113,6 +114,7 @@ adidasschuhe.com.de
 adidasstorewien.at
 adidassuperstar2.top
 adidastores.com
+adidasyeezynew.com
 adidasyeezyonsale.com
 adira-beratung.de
 adisalesde.com
@@ -281,6 +283,7 @@ amertius.com
 amertus.de
 amici-ka.de
 amigooo.de
+amirhpc.com
 amo-mackensen.de
 ampstorer.com
 amrein-marine.de
@@ -330,6 +333,7 @@ anotherweekend.co.uk
 anras-golden.de
 ansari-hardware.de
 ansenso-publishing.de
+anssi-antila.de
 antik-galerie-bad-urach.de
 antik-kump.at
 antik-meiers.de
@@ -460,6 +464,7 @@ attractueye.com
 audiosora.com
 aufgewacht.at
 aufjagd.de
+aufsperrdienst-24.at
 augennstern.com
 augenoptiker-kuehne.de
 augustinusheim-fr.de
@@ -849,6 +854,7 @@ bmw-importeren.com
 bmw.europe-moto.com
 bnojphshop.com
 bobs-bau.de
+bobs-elektro.net
 boc-forum.de
 bochert-bau.com
 bochhansl.at
@@ -1156,6 +1162,7 @@ cichilla.com
 cikpinzx.com
 ciliove.com
 cilobuy.com
+cineoml.com
 cinetecabrianze.it
 cinetecabrianze.it
 cinquemantel.de
@@ -1479,6 +1486,7 @@ desportschuhedeutschland.com
 destiefel.com
 detaschen.com
 detektiv-agency.at
+detempleshop.com
 detlef-sauthoff.de
 deuhr.de
 deuschuhe.com
@@ -1497,7 +1505,6 @@ dfrunkendesign.xyz
 dfweb-design.de
 dgb-goettingen.de
 dhgate.com
-diaetologin-romstorfer.at
 diag-verwaltung.de
 dialogkreis-godesberg.de
 diamond-dealz.com
@@ -1570,6 +1577,7 @@ disney-online-games.com
 disosltd.com
 dissolve.fitnessory.com
 disturb-records.de
+divebuddy.at
 diwanyfi.com
 dizifragmanim.com
 dj-gott.de
@@ -1578,6 +1586,7 @@ djikopz.top
 djs-medizin.de
 djsaunders.co.uk
 dk-dellentechnik.de
+dk.hstar.shop
 dlm2012.de
 dlrg-remlingen.de
 dlw-ag.de
@@ -1694,6 +1703,7 @@ eadevents.de
 eafricnet.xyc
 eaglebayfarms.com
 eamimisale.com
+eartha.store
 eastbu.com
 eastlondoncommunications.co.uk
 eastsidekustomair.de
@@ -2125,6 +2135,8 @@ fastdocuments.net
 fastelectro-shop.com
 fastelectro-shop.com
 fasten4you.de
+fastenundinnehalten.at
+fastracycles.com
 faszination-vogelspinnen.de
 fatburner-1.com
 favero-bikes.com
@@ -2203,6 +2215,7 @@ fiedler-elec.de
 fieldstonefarmny.com
 fifathsale.com
 fightland24.de
+fila-norge.com
 filastore.club
 filcemarket.com
 fillamoda.com
@@ -2491,6 +2504,8 @@ gartengeraete24.at
 gartenhausdesigner.de
 gartenhimmel.eu
 gartenkaiser.net
+gartenkaiser.net
+gartenoo.eu
 gartensale.net
 gartenschulte.de
 gartenscout24.net
@@ -2989,6 +3004,10 @@ hfr-gebaeudeservice.de
 hghv-niederkaufungen.de
 hhtwtnzistyle.xyz
 hier-kein-stall.de
+hfr-gebaeudeservice.de
+hghv-niederkaufungen.de
+hhtwtnzistyle.xyz
+hier-kein-stall.de
 hierbeiuns.at
 hifiexperten.de
 higgzyshop.com
@@ -3046,6 +3065,7 @@ homekasba.com
 homelectric.shop
 homelectric.shop
 homestore24.net
+homesweeethome.de
 homoeopathie-praxis-kassel.de
 homondo.de
 hondrogel.com
@@ -3448,6 +3468,7 @@ justdesign.shop
 justin-mps.de
 juwelier-beck.at
 juwelier-m-blome.de
+juxqog.com
 jw05.de
 jwlimsale.com
 jylxsstore.com
@@ -3639,6 +3660,7 @@ kinderwagen-shop24.com
 kinderwagenoutlet.com
 kinderwortschaetze.de
 king-electronics.de
+king7seven.com
 kings-electronic.shop
 kings-electronic.store
 kingseven-shop.com
@@ -3712,6 +3734,7 @@ knipsding.de
 knochendoc.at
 knoefdesign.de
 koalasale.com
+koch-handel.at
 kochnelda.de
 kochnomarket.com
 kochsalon.at
@@ -3833,6 +3856,7 @@ kunsthandlung-hecht.de
 kuntaiko-muenchen.de
 kupferstadl.at
 kupka-shop.de
+kupplueuge.com
 kursling.de
 kuschelnberlin.de
 kushiwanz.com
@@ -3961,6 +3985,7 @@ lenkelt.com
 lenox-spares.com
 lensivy.com
 lente-et-partner.de
+lenzmann-wasche.de
 leo-printer.com
 leoadass.de
 leoon.store
@@ -4112,6 +4137,7 @@ loyaltrend-de.com
 lrstwc.com
 lseligue.com
 lte-standard.de
+ltehnovar.com
 lubemag.de
 luckhairstylists.de
 luckyebikes.de
@@ -4302,6 +4328,7 @@ masduxw.com
 massivofit.com
 master-shop24.com
 mastercrazymonkey.com
+matfide.iai-shop.com
 mathiasbruchmann.de
 mathilda-licht.de
 matofstore.xyz
@@ -4327,6 +4354,7 @@ mb-training.net
 mbmsurveyors.com
 mbt-schuhe.com.de
 mbtwien.at
+mbuller.com
 mcadstore.com
 mcamargon.com
 mcants.de
@@ -4511,6 +4539,7 @@ millionaersuchtfrau.de
 milonga-ingolstadt.de
 mimtubularsupply.com
 mincmall.xyz
+mindmage.de
 mindshirts.de
 minelayer.nordstromif.com
 minelice.de
@@ -4801,6 +4830,7 @@ neabrazz.de
 nebel-ag.ch
 nein-zu-studiengebuehren.de
 neinsquadrat.de
+neobosen.com
 neogames.eu
 neova-media.com
 nerd-section.com
@@ -4936,6 +4966,7 @@ nqhfsonline.com
 nrw-bartagamen.de
 nrw-elektronik.com
 nsffixsale.eu
+nsiticom.com
 ntaleius.com
 ntdltdgoods.xyz
 ntidjan.com
@@ -5137,6 +5168,7 @@ pandorasdeutschlands.com
 paneelis.at
 panizzd.com
 panoramabeef.ch
+panpix.at
 pantoletti.myshopify.com
 pantsmenion.com
 pantsup.de
@@ -5244,6 +5276,7 @@ pferistore.com
 pflegeheim-singer.at
 pflegeservice-info.de
 pfotenschule-bremen.de
+pfylyfy.com
 pg-mainz.de
 pggather.com
 pharmacie-stpaul.ch
@@ -5427,6 +5460,7 @@ ps-vs.de
 ps4-deutschland.com
 ps4-hoffmann.com
 ps4online-gmbh.com
+ps5-vorbestellen.eu
 psg-neckarelz.de
 psi-performance.de
 psv-arnis-shs.de
@@ -5450,6 +5484,7 @@ pushupcode.com
 putel.laf-buy.com
 putraautomotive.com
 puuringoods.com
+pwrdsport.com
 pxianhk.com
 pyro-effects.com
 pyro-shopping.net
@@ -5464,6 +5499,7 @@ qdmdesk.com
 qdustseo.com
 qeldalu.com
 qgoshopsu.com
+qjusthits.com
 qnovintax.com
 qooboo.de
 qualitaro.online
@@ -5653,6 +5689,7 @@ redglad.com
 redhatli.com
 redinmos.de
 redkom-pr.de
+redlightw.com
 redshirtpodcast.de
 reel2reality.com
 reelektro.com
@@ -6274,6 +6311,7 @@ smyonmyo.com
 sn-co.at
 sneaker2020a.com
 sneaker2020a.com
+sneaker2020a.com
 sneakergirlsblog.de
 sneakersadi2018.com
 sneakersalede.com
@@ -6406,6 +6444,7 @@ sportheinz-online.de
 sporthotel-schwerin.de
 sporthugos.com
 sportpflege-plewka-shop.de
+sportreservierung.at
 sportrest.de
 sports-discount.net
 sports-ha.com
@@ -6457,8 +6496,6 @@ staubsauger-shop24.com
 staubsaugermarkt.shop
 staubsaugerwelt-klingel.com
 stb-greupner.de
-stecker-safe.de
-stefanbelling.de
 stefanie-wesser.de
 stefanokaradjov.com
 steffinitiv-photography.de
@@ -6756,6 +6793,7 @@ thebrinx.com
 thebrufios.de
 thecambridgeinstitute-linz.at
 thecapones.de
+thecrazycalls.com
 thecrazycanner.com
 thecutebags.com
 thedoormenoshawa.com
@@ -7059,6 +7097,7 @@ unser-odenwald.de
 unsertheater.ch
 unterm-tannenbaum.de
 unterwasserkunstwerke.de
+upart4.at
 uplifeaccessories.xyz
 upservices.de
 urbanangels.org.uk
@@ -7156,6 +7195,7 @@ versand-hartmann.com
 versandhandel-lienen.com
 versandhandel-saupe.com
 versandhandel-wenzel.de
+versandhaus-beck.de
 versandhaus-erlt.com
 versandhaus-hartmann.com
 versandhaus-krausch.de
@@ -7248,6 +7288,7 @@ vogl-bau.at
 vogue-mark.eu
 vogue-shopping.com
 voguefire.co
+voguehere.com
 vogueinn.com
 vogueinus.com
 vogueinus.com
@@ -7356,6 +7397,7 @@ webweekzd.com
 wechtel.de
 weddingsinjacksonnh.com
 weekend-en-amoureux.ch
+weekendlily.myshoplaza.com
 wefitfor.com
 wege-finden.at
 weger-stmichael.at
@@ -7540,6 +7582,7 @@ womobo.de
 wonderbacks.store
 woogoing.com
 woolrichoutlet.co.uk
+wordmarkets.com
 workforhealing.de
 working.faceshopx.com
 world-of-coffee.co.at
@@ -7630,6 +7673,7 @@ yemelody.com
 yhmemarket.com
 yhmemarket.com
 yhomecamp.com
+yigttrade.com
 yivette.com
 ylinkeyek.com
 yokurt-fulda.de
@@ -7765,6 +7809,9 @@ zyuanzong.com
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+playmes.de
+playdost.de
+playvidy.de
 playdoro.de
 playget.de
 playtor.de
