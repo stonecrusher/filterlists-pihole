@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-10-24
+# Last updated:  2020-11-01
 
 ### Fake online shops:
 weberelektronik.de
@@ -36,6 +36,7 @@ weberelektronik.de
 300xkarlsruhe.de
 304c6.com
 30netzteil.de
+3amoto.com
 3clin.de
 3d-kino-weiden.de
 3dimperium.com
@@ -1002,6 +1003,7 @@ buyoshenwatch.com
 buyuall.com
 buzzupstore.com
 bv-neckarstadt.de
+bwcuon.com
 bwscdstore.com
 bybytop.store
 bygrete.site
@@ -1163,6 +1165,7 @@ chulhamall.com
 chulhamall.com
 chyayy.com
 cichilla.com
+cikonic.com
 cikpinzx.com
 ciliove.com
 cilobuy.com
@@ -1367,12 +1370,12 @@ daijostore.com
 dailytechteal.shop
 dailywish43.com
 damen.promotioncarnival.com
-damenmode-quelle.de
 damenperuecke.com
 damensneakerfindenhier.de
 dameo.de
 dance-eleon.de
 dancesergio.com
+dancloth.com
 danielakristofic.de
 danielberres.de
 danielohintze.de
@@ -1453,7 +1456,6 @@ dein-musikhaus.de
 dein-versandhaus24.com
 deine-haushaltsfreunde.de
 deinkinderwagen.club
-deinlieblingstier.com
 deinpartysound.de
 deinschmuckladen.com
 deisterklick.de
@@ -2482,6 +2484,8 @@ gamerexpress.de
 gamerhino.de
 gamerlino.de
 gamersterne.de
+games-front.de
+gamesladen.eu
 gamesofrepublic.de
 gamestar4.com
 gaming-ez.com
@@ -2897,6 +2901,7 @@ hausgeraete.expert
 hausgrube.net
 hausgrube.net
 haushalt-de.com
+haushalt-hertl.de
 haushalt-lektro.de
 haushalt-versand-shop.de
 haushalt24.net
@@ -2934,6 +2939,7 @@ hausmeister-in-leipzig.de
 hausmeister-plewniak.de
 hausrunde.net
 hausteck-store.com
+haustiere.store
 hausvendor.net
 hausverwaltung-krell.de
 hauswelt24.de
@@ -4381,6 +4387,7 @@ mcfit24.com
 mcmpurse.com
 mcschrauber.com
 mcsovo.de
+mcvddiam.com
 mcwat.com
 mdaunenjackeoutlet.com
 mdmdjcmarket.com
@@ -4552,6 +4559,7 @@ mihorga.com
 mikecottle.co.uk
 mikedavis.de
 mikeharta.com
+mikenovember.com
 mikuasx.top
 mil-leipzig.de
 milea-shopping.com
@@ -4568,6 +4576,7 @@ minolily.com
 minzo.com
 mirapododes.com
 mirko-jack-claus.de
+mirkoarens.de
 mirnaunterwegs.at
 mischtikalsshowdogs.com
 miscras.de
@@ -4696,6 +4705,7 @@ moshground.de
 mossanonline.com
 mossonly.com
 mostheuriger-hoefinger.at
+mostshopc.com
 moto-gan42.de
 motofrance.de
 motor-elec.com
@@ -4750,6 +4760,7 @@ murtalevents.at
 murtopia.at
 muschner-bedachungen.de
 muscleworldhq.co.uk
+music2ndhand.de
 musiccorn.at
 musikhaus-wagner.de
 musikliebling.com
@@ -5440,6 +5451,7 @@ prestigeuhren.eu
 pretend.brandtood.com
 pretty-woman-bramsche.de
 prettylittlesummer.at
+prettyshirt.shop
 previmascolombia.com
 price.starvcustoms.com
 prietz-bau.com
@@ -5485,7 +5497,6 @@ ps-vs.de
 ps4-deutschland.com
 ps4-hoffmann.com
 ps4online-gmbh.com
-ps5-vorbestellen.eu
 psg-neckarelz.de
 psi-performance.de
 psv-arnis-shs.de
@@ -6328,7 +6339,6 @@ smartuniverse24.de
 smartwatch-vertrieb.de
 smartwohnenwien.at
 smasverg.com
-smilewithstyle.at
 smk69.de
 smokecheap24.com
 smokerland.net
@@ -6428,6 +6438,7 @@ spd-viernheim.de
 specialbagstore.com
 speed.terkbike-store.com
 speedcubekaufen.com
+speedlixs.com
 speedskating-salzburg.at
 spicydeals4u.com
 spiegel-bild.at
@@ -7017,6 +7028,7 @@ treestore.xyz
 trekantens-trailercenter.de
 trekvipa.com
 trend-held.com
+trends-scout.de
 trends-shoppen.de
 trendsettersclothes.com
 trendswa.com
@@ -7048,6 +7060,7 @@ tropical-expert.eu
 trustrank.com.au
 trustypapership.com
 tsg-fussball-herdecke.de
+tshanak.com
 tshirtnow.net
 tsunami-sports.de
 tsv-noechling.at
@@ -7180,6 +7193,7 @@ vandaagsexgezocht.nl
 vanekautos.nl
 vanhoozer.ch
 vanilleah.at
+vanmarco.at
 vanssale.de
 vansschuhe.at
 vapoworld.de
@@ -7234,11 +7248,14 @@ versandhaus-krausch.de
 versandhaus-lange.com
 versandhaus-lienen.com
 versandhaus-maahs.com
+versandhaus-neumann.de
 versandhaus-poehle.net
 versandhaus-schulte.com
 versandhaus-stemmer.com
 versandhaus-vettel.de
 versandhaus-voss.de
+versandhaus-wohlers.de
+versandhaus-xxl.de
 versandhaus-ziegler.at
 versandhaus-ziegler.de
 versandpharma.de
@@ -7357,6 +7374,7 @@ vreden-sound-music.de
 vs-auto.de
 vs-electronic.net
 vs-herzogsdorf.at
+vsahebwp.com
 vshopde.com
 vsmee.com
 vsmitterdorf-raab.at
@@ -7436,6 +7454,7 @@ wechtel.de
 weddingsinjacksonnh.com
 weekend-en-amoureux.ch
 weekendlily.myshoplaza.com
+wefakeida.xyz
 wefitfor.com
 wege-finden.at
 weger-stmichael.at
@@ -7702,7 +7721,6 @@ yeescroemin.com
 yeezyboost.at
 yeezys750de.com
 yeezystorede.com
-yefa.de
 yellow.apparelsummer.com
 yellowpost.de
 yelurisale.com
@@ -7745,6 +7763,7 @@ z-blogger.de
 zabomo.de
 zafafmarket.com
 zagnia.de
+zagose.com
 zagros24.store
 zahmarzt.de
 zahnarzt-freudenthaler.at
@@ -7849,6 +7868,9 @@ zyuanzong.com
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+playvido.de
+playnion.de
+playnide.de
 playstore.de
 playmes.de
 playdost.de
@@ -8431,6 +8453,11 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+elektriker--24.de
+elektriker--24.at
+installateur.heinz-24h.pro
+vaillant-kundendienst24.at
+installateur-gwh24.at
 24h-elektrodienst.at
 sanitär-notdienst--24.at
 kammerjäger--24.at
@@ -8536,6 +8563,8 @@ spaxdelivery.org
 i-translogistics.com
 
 ### Fraudulent survey platforms:
+perspective-agenturgruppe.me
+originality-concern.de
 marktix.net
 universalprotection.de
 cosmopoint.de
