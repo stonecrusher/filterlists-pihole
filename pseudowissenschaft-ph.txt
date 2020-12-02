@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-08-04
+# Last updated:  2020-12-02
 
 ärzte-für-aufklärung.de
 3ho.ch
@@ -118,7 +118,9 @@ efi-online.de
 efvv.eu
 ehs-forum.de
 eis-system.ch
+electroclean.de
 elektrosmog-und-gesundheit.de
+elektrosmog.com
 elektrosmoghilfe.com
 elektrosmogportal.de
 elexier-magazin.de
