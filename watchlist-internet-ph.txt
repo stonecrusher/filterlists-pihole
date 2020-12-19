@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-12-16
+# Last updated:  2020-12-19
 
 ### Fake online shops:
 bennet-bock.de
@@ -92,6 +92,7 @@ abuseru.com
 ac-feldkirchen.at
 acaciay.com
 acad-it.nl
+acapulco-grill.de
 acc-concrete.com
 accop.fr
 achimunger.de
@@ -1814,6 +1815,7 @@ drohnenriese.de
 droomoo.com
 drschmittshop.com
 drschutz.at
+drucker24-shop.de
 dry-as-possible.de
 drykornpullover.de
 dscarf.com
@@ -2173,6 +2175,8 @@ esapstav.com
 esavdocmall.com
 escapecheck-hamburg.de
 escobarinc.com
+escolac.com
+escolac.com
 esdorado.com
 eselundziegenwandern.de
 eshadevq.com
@@ -2475,6 +2479,7 @@ fjfriday.site
 fjzyrzstore.com
 fjzyrzstore.com
 fk-k.de
+flaechenhuegel.at
 flair-penthouse.at
 flanagans-op.at
 flash.iubqx.com
@@ -3235,6 +3240,7 @@ heimprofis.de
 heimtierbedarfonlineshop.xyz
 heimwerker-shopping.de
 heimwerkerfuchs.eu
+heindl-baustoffe.at
 heindl-fenster.at
 heiner-ebike.de
 heinertkrowas.de
@@ -4955,6 +4961,7 @@ mindshirts.de
 minelayer.nordstromif.com
 minelice.de
 minikeks.de
+miniwelpen.com
 minke-fuchs.de
 minolily.com
 minzo.com
@@ -5332,6 +5339,7 @@ nichon-de.co
 nicht-von-heise-kopieren.de
 nickel-koeln.de
 nicole-reinhold.de
+nicole-trenker.at
 nicolehoelz-fotosmitherz.de
 nidobermannclub.com
 niemann-hardware.de
@@ -5782,6 +5790,8 @@ pilger-maenner-seelsorge.de
 pillenpalast.com
 pindeck.de
 pindella.de
+pindocart.com
+pinkkola.com
 pinkni.com
 pinoybalut.com
 pinpanb.com
@@ -6090,6 +6100,7 @@ ratoheat.com
 ratzfatz-kidz.de
 rauberg.net
 rauch-lack.de
+raugerly.com
 raum1889.de
 raum192.de
 raumsound.com
@@ -6503,6 +6514,7 @@ satona.de
 saturdayfrank.de
 sauber-macher.com
 sauconyteam.com
+sauger24.eu
 sauna-am-wasserturm.de
 sauseschritt-schuhe.de
 savitamedia.de
@@ -7506,6 +7518,7 @@ timberlandberlin.de
 timberlands-onlineshop.de
 timberlandusonlineoutlet.com
 time4pain.de
+timeout-bar.at
 tinnitus-losung.com
 tipetapeco.com
 tippsfuerreisen.de
@@ -7627,6 +7640,8 @@ trekantens-trailercenter.de
 trekvipa.com
 trend-held.com
 trend-helden.com
+trend-tiger.com
+trend-tiger.de
 trends-shoppen.de
 trendsettersclothes.com
 trendswa.com
@@ -7831,6 +7846,7 @@ vejasstore.club
 velatempo.com
 veloberlin.de
 velurio.com
+vendial.de
 vendo-nex.com
 venlostore.com
 venusbicycle.com
@@ -8516,6 +8532,9 @@ zyuanzong.com
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+fileusenet.de
+netoplay.de
+wallplay.de
 gigausenet.de
 theangelsblanket.co
 memoplay.de
@@ -9013,9 +9032,6 @@ streamba.de
 streambull.de
 streamday.de
 streamdome.de
-streamflix.de
-streamfy.de
-streamgogo.de
 
 ### Fraudulent estate agencies:
 immo-gate.com
