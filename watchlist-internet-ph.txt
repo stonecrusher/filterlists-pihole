@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2020-12-19
+# Last updated:  2021-01-03
 
 ### Fake online shops:
 bennet-bock.de
@@ -176,6 +176,7 @@ ahoie.de
 ahrenshoop-info.de
 ahrenshop.com
 aich-dahoam.at
+aideaapk.com
 aidswiki.de
 aikpro.com
 aikuiwk.com
@@ -307,6 +308,7 @@ amigooo.de
 amirhpc.com
 amo-mackensen.de
 amorehill.com
+amoristyo.com
 ampstorer.com
 amrein-marine.de
 ams-ev.de
@@ -335,9 +337,11 @@ andros-versand.store
 andyenglishauthor.com
 anemdzmarket.com
 anenberg.store
+angebot-media.com
 angebot-shop.com
 angelikabendig.de
 angelounddiemoewe.ch
+angelsblanket.com
 angfitonline.com
 animal-nature.de
 animalspot.it
@@ -423,6 +427,7 @@ aquaclean-das-original.de
 aquoravn.com
 arabesque-osnabrueck.de
 arando-quartett.de
+arcazhmanj.com
 arceltaonline.com
 arche-projekt.de
 architectlyy.site
@@ -509,6 +514,7 @@ audiosora.com
 aufgewacht.at
 aufjagd.de
 aufsperrdienst-24.at
+augengottes.com
 augennstern.com
 augenoptiker-kuehne.de
 augustinusheim-fr.de
@@ -534,6 +540,7 @@ autoradio-gps-discount.com
 autoradiomitnavigation.de
 autorampe.com
 autosstern.at
+autostyles.store
 autotransporte.tk
 avalancher.store
 avalonscooters.com
@@ -547,6 +554,7 @@ avifermgoods.com
 avm-freiburg.de
 avsystemhaus.de
 avvsons.com
+aw-handel.de
 awakenyourmusic.com
 axelsfilmshop.de
 ayanmartc.com
@@ -719,6 +727,8 @@ begun.laf-store.com
 behawelt.de
 beige.saletooffer.com
 bekleidungsoutlet.com
+bekleidungsoutlet.com
+bekleidungsoutlet.com
 bekommefuehrerschein.com
 beleuchten.hottosale.com
 bellsshop.de
@@ -763,6 +773,7 @@ berryshop.store
 berufskraftfahrer-europa.de
 beschenk-dich-selbst-ayurveda.de
 besclothes.com
+besondereprasente.com
 besser-reisen-bedburg.de
 besstle.com
 best-alba.de
@@ -799,6 +810,7 @@ beststeroids.eu
 bestygood.com
 beta-elec.store
 betnetonline.net
+betterfeelhome24.com
 bettina-dagmara.de
 bettinakreativ.at
 bettinger-weinert.de
@@ -965,6 +977,7 @@ bonviviale.shop
 boofashions.com
 booflixom.com
 boohoo-shop.com
+boohoo-shop.com
 booklethotel.com
 bookotvv.com
 boom-sport.center
@@ -977,6 +990,7 @@ bordeauxdogge-buddy.de
 bosa.shop
 bosabosa.de
 botanicaq.com
+botgachz.com
 bothmatch.de
 botko.de
 botox-klagenfurt.at
@@ -1216,6 +1230,7 @@ cfbw.co.nz
 cfcs.co.uk
 cgebuy.com
 cglshop.top
+chadu.at
 chambredhotes-vannes.fr
 chapitamala.com
 chappuis-auto-ecole.ch
@@ -1337,6 +1352,7 @@ cocibmarket.com
 coconfashion.com
 cocue40cw.de
 codatoonline.com
+codefree-bluray.de
 coelen-architekt.de
 cof-tech.net
 cofemishop.com
@@ -1349,6 +1365,7 @@ coleske.de
 collegium-musicum.at
 collinharbison.com
 colluras.de
+colmeiaa.com
 colorado-avenue.de
 colorjoey.com
 colorootd.com
@@ -1559,6 +1576,7 @@ de-rb.com
 de.belstaffofficial.com
 de.cichic.com
 de.clearanceonline2020.com
+de.destockforlife.com
 de.dhgate.com
 de.fencia.co
 de.guillaume-marie.com
@@ -1566,8 +1584,10 @@ de.lunaleder.com
 de.newchic.com
 de.privatefloor.com
 de.shein.com
+de.store2021.net
 de.zashio.co
 de2.parazax.com
+de24tech.website
 dealportal.name
 dealshopper.de
 deanners.com
@@ -1621,6 +1641,7 @@ derbrb.com
 derinborsa.com
 derkatzenshop.de
 derlump.de
+derspendomat.de
 dersupertiger.de
 dertierplanet.com
 derwentleeds.co.uk
@@ -1769,6 +1790,7 @@ dolphinssquid.com
 dolps-radl-shop.de
 domain007.de
 domako.de
+dominik-uhlig.de
 dominox-media.com
 dommsch.de
 donkey-dancers.de
@@ -1951,6 +1973,7 @@ eglobalcentral.at
 eglobalcentralat.com
 ehipsmall.com
 ehome-shop.com
+ehrkgroup.com
 eichelberg-dr.de
 eichenberg-im-spessart.de
 eichhorn-records.de
@@ -2072,6 +2095,7 @@ elektroniko.net
 elektroniks-gadgets.com
 elektronikshopping.com
 elektroniksmarket.com
+elektroniksoft.com
 elektronikweber.de
 elektronio.de
 elektronisch-gerate.com
@@ -2160,6 +2184,7 @@ epi-biz.com
 epic-media.shop
 eplanet-store.de
 equipair.ca
+erdbau-niederwieser.at
 erdbeermund-kabarett.de
 erektslim.com
 eremea.de
@@ -2319,10 +2344,12 @@ familypanda.de
 famisoosale.com
 fancyapair.com
 fancyartdesign.de
+fancyclothings-com.myshopify.com
 fancylets.com
 fanishoes.com
 fanmerchstore.eu
 fannoelectric.com
+fanpages4you.at
 fanshirt.at
 fanstyle.eu
 fantastic-toys.net
@@ -2373,6 +2400,7 @@ feelhome24.net
 feelings-individuellekosmetik.de
 feetpuzzle.com
 feher-buch.de
+feililon.com
 fein-e-kost.de
 feingoldscheideanstalt-seit1973.de
 feingoldscheideanstalt-seit1974.de
@@ -2453,6 +2481,8 @@ fines-art.de
 finest-bodyshop.com
 finnhaus-holzbau.de
 fippz.de
+firalo.de
+fireman.shop
 firma-leitner.at
 firstmomentsonline.com
 firststepbox.com
@@ -2479,6 +2509,7 @@ fjfriday.site
 fjzyrzstore.com
 fjzyrzstore.com
 fk-k.de
+flaechenhuegel.at
 flaechenhuegel.at
 flair-penthouse.at
 flanagans-op.at
@@ -2657,6 +2688,7 @@ fulltechouse.com
 fun.thebestubuy.com
 fundamentello.com
 fundk-modellbau.de
+fundraising-plus.de
 funfitiano.com
 funkplan.com
 funswan.de
@@ -3007,6 +3039,7 @@ grill-nun.de
 grill-saison24.com
 grill-star24.de
 grillen-kann-mann.de
+grmnyoutlet.de
 grobi-handel.de
 grossbaumarkt.shop
 grosshandel-shop.com
@@ -3240,6 +3273,7 @@ heimprofis.de
 heimtierbedarfonlineshop.xyz
 heimwerker-shopping.de
 heimwerkerfuchs.eu
+heimwerks.shop
 heindl-baustoffe.at
 heindl-fenster.at
 heiner-ebike.de
@@ -3331,6 +3365,7 @@ hockerty.de
 hoeffner-gastro.net
 hoefner-janssen.de
 hoerbuchfinden.de
+hoerstern.at
 hof-hicken.de
 hof-liebig.de
 hoffmann-elektronik.com
@@ -3439,9 +3474,11 @@ hzwalyshop.com
 i-kaufen.com
 i-kaufen.com
 ialduhaa.com
+iayhanblt.com
 ib-wjertzoch.de
 ibestores.com
 iboukou-markt.com
+ibowen.fr
 ibs-plan-gmbh.de
 ic-eckardt.at
 iceandthesky.ch
@@ -3604,6 +3641,7 @@ isabellefaivre.com
 isarschau-landau.de
 isdn-discount.de
 iseli-tuning.ch
+iseohek.com
 isie-symposium.com
 isisscastelvolturno.it
 island-eagles-ruegen.de
@@ -3732,6 +3770,7 @@ jolineya.com
 jollyinstyle.com
 jomaxa.com
 jonas-maurer.de
+jonas-wilken.de
 jonaskaempf-photography.de
 jonathenr.com
 jonawo.de
@@ -3972,6 +4011,7 @@ kfz-lahdo.de
 kfz-pflegeservice-bayreuth.de
 kfz-teile-schubert.de
 kfzmarkt-sachsen.de
+kg-treppchen.de
 kgv-erholung-am-stadtpark.de
 khsigl.at
 kickked.com
@@ -4135,6 +4175,7 @@ kosmetiksalon-bildschoen.de
 kosmetiksalon-sellner.de
 kosmetikstudio-difour.de
 kosmetikzimmer-neufahrn.de
+kosmodrom-hd.de
 kostbar-dd.de
 koswell-halsbruecke.de
 kprfmarket.top
@@ -4204,6 +4245,7 @@ kulturlinie-ampelnet.de
 kulturwecker.at
 kunst-fuer-menschenrechte.de
 kunsthandlung-hecht.de
+kunstschmiede-arbinger.de
 kuntaiko-muenchen.de
 kunzmann24.de
 kupferstadl.at
@@ -4243,6 +4285,7 @@ laguna-asslar-ballonteam.de
 lagunaspa.de
 lagunitafilms.com
 laid.favoriteubrands.com
+laimka.de
 lair.favoriteubrands.com
 lakally.com
 lakebici.com
@@ -4255,6 +4298,7 @@ lalicatagioielli.it
 lalipton.com
 lambert-elektro.com
 landelektro.de
+landeoo.com
 landidyll.at
 landleben-leymann.de
 landscape24.de
@@ -4266,6 +4310,7 @@ lange-zimmert.de
 langerockdesign.de
 langner-reisen.de
 language4business.net
+lanzai.de
 laptop-akku-shop.com
 laptop-akkus.de
 laptop-akkus.org
@@ -4373,6 +4418,7 @@ level-markt.com
 levousok.com
 lewd.hirdiscount.com
 lewiatan24.de
+lfimicc.com
 lfs-neusiedl.at
 lg-neumarkt.de
 lgfzpa.myshopify.com
@@ -4447,6 +4493,7 @@ listennwa.com
 litct.com
 littleboppers.co.uk
 liujoestore.com
+livedarsc.com
 liveutek.ch
 llandderfel-sheepdogs.at
 llanjshop.top
@@ -4458,6 +4505,7 @@ lms-anaesthesie.de
 lnv-store.de
 lobima.com
 lobrecht.net
+lobstermusic.de
 lobtraining.de
 lockpickingstore.de
 loesungsmittelfrei.at
@@ -4607,6 +4655,7 @@ mahlwerkprofi.de
 mahohonshop.com
 maikstiehler.de
 mailtix.de
+maimyched.com
 mainelng.com
 mainz.konsolen-gmbh.com
 maisondusport.ch
@@ -4643,6 +4692,7 @@ manfred-juenemann.de
 mangold-band.de
 mangold-immobilien.de
 manorwoodestates.com
+manske-technik.com
 mansonia.de
 manuela-berg.de
 manuelahaeckel.de
@@ -4742,6 +4792,7 @@ mazda-strnad.at
 mazon24.com
 mb-training.net
 mbike-jena.de
+mblacktux.com
 mbmsurveyors.com
 mbt-schuhe.com.de
 mbtwien.at
@@ -4861,6 +4912,7 @@ meier-technik.com
 mein-cockpit.de
 mein-eversten.de
 mein-hochzeit.de
+mein-karamel.de
 mein-themenportal.de
 mein-vollautomat.net
 mein-wegbegleiter.de
@@ -5001,6 +5053,7 @@ mkleider.de
 mkmallcentre.com
 mlaperu.com
 mlc-shop.top
+mlgatoj.com
 mlsjy.store
 mlsteinwork.at
 mm-bornschein.de
@@ -5053,6 +5106,7 @@ mofylook.com
 mogmoc.com
 molina24.store
 momenta15.de
+momoanty.com
 mona-barthel.de
 monaco-modding.com
 monad.be
@@ -5267,6 +5321,7 @@ nbnk-gaming.de
 nbofficialfr.com
 nbynicole.com
 ncfundstore.com
+nct-elektronik.de
 neabrazz.de
 nebel-ag.ch
 nein-zu-studiengebuehren.de
@@ -5352,6 +5407,8 @@ nikeairmax1gunstig.de
 nikee.club
 nikeflyknittrainer.de
 nikerosherunlaufschuhe.de
+nikiluwa.com
+nikipedia.at
 nikolas-bunk.de
 nikolasklostermann.de
 nikstein.at
@@ -5486,6 +5543,7 @@ officialiphoneunlock.co.uk
 officialnflaward.com
 officialnflwhole.com
 officialwheeper.de
+officieldisney.com
 offizielairmax.com
 offiziellchgooses.com
 ohdedu.com
@@ -5522,6 +5580,7 @@ omgpetse.com
 omicrons.store
 omylinen.com
 onbuyshoes.com
+one.patagoniaseuonline.com
 oneadweb.com
 onecozyday.com
 oneofoneluxury.com
@@ -5614,6 +5673,7 @@ oylerhof.de
 ozancity.com
 p-andernach-geigenbau.de
 p-bau.at
+p-bau.at
 packagekun.com
 pact.theicoin.com
 paderborn.tm5-ag.com
@@ -5660,7 +5720,6 @@ parajumpersjacken.at
 paralog-journal.at
 paranormalactivity-film.at
 parasenso.de
-parfum-world.com
 pariter-med.de
 paritybags.com
 parkakaufen.eu
@@ -5804,6 +5863,7 @@ pitebowling.se
 piufashionlook.com
 pivht-supplements.com
 pixel-ebene.de
+pizza-milano-gf.at
 pizza-telefon.at
 pizzeria-ambiente.at
 pjiameng.com
@@ -5813,6 +5873,7 @@ plan-ffb.de
 planet-owner.de
 planetatrueque.com
 planetofrock.de
+plantektur.de
 planungsbuero-mt-ee.de
 platinum-projects.de
 platioshop.com
@@ -5829,6 +5890,8 @@ plichter.com
 plichter.eu
 plisker.de
 plitnyakk.com
+plutoelectronics.de
+pmarebaja.online
 pmnavsale.com
 pmorfey.com
 pnoisesy.com
@@ -5926,6 +5989,8 @@ primehyp.de
 primeprice24.de
 primeshe.com
 primetime-artist-management.de
+print-controlling.at
+print-controlling.at
 printlive-app.de
 pris.creaturepuppetgallery.com
 prismmall.xyz
@@ -5997,6 +6062,8 @@ pxianhk.com
 pyro-effects.com
 pyro-shopping.net
 pyroshop-be.de
+pyroxtrem.com
+qakppo.top
 qakprohor.com
 qbeliver.com
 qbetvole.com
@@ -6009,6 +6076,7 @@ qdmdesk.com
 qdustseo.com
 qeldalu.com
 qgoshopsu.com
+qhoneywax.com
 qinfoweb.com
 qiundgong.at
 qjusthits.com
@@ -6174,6 +6242,7 @@ rbuad.com
 rbuo-de.com
 rbus.shop
 rbusai.com
+rbuue.net
 rbvcd.com
 rbwade.com
 rbwde.com
@@ -6313,6 +6382,7 @@ rheinadler.de
 rheinblaeser.de
 rheineule.de
 rheinwing.de
+rheumatologie-wien.at
 rhodesian-ridgeback-zimazaa.de
 rhoenrad-online.de
 ribbehof.de
@@ -6495,6 +6565,7 @@ sandlood.com
 sandrachen.de
 sandriayurved.com
 sanelec-de.com
+sanfter-kaffe.de
 sangornonline.com
 sanierung-weber.de
 sanstormspress.com
@@ -7017,6 +7088,7 @@ sport-monkey.de
 sport-motschnigg.de
 sport-physiobitburg.de
 sport-titan.de
+sport.daselfchenjosephine.at
 sport24.world
 sport4friends.store
 sportalo24.de
@@ -7199,6 +7271,7 @@ sunshinesshoptg.tk
 sunyoosmall.com
 sup-cube.de
 superakkumarkt.de
+superbestdiscounts.com
 superbowling-businesscup.de
 superdryde.com
 superdryonlineshop.de
@@ -7293,6 +7366,7 @@ tanzstudiosteiner.de
 tapebook.de
 tapemedia.de
 tapetenfrosch.de
+tapsung.com
 tarantella-von-der-holderheide.de
 tarinboone.com
 tarlia.de
@@ -7330,8 +7404,10 @@ team-enjoy.de
 team-gamma.de
 team-meier.ch
 team-soundprojekt.de
+team-wachau.at
 teambastard.at
 teamclo.com
+teameventbochum.de
 teamtrackspeeduk.com
 teamtrackspeeduk.com
 teamvalleedutrient.ch
@@ -7343,6 +7419,7 @@ tech-forest.eu
 tech-land.de
 tech-solutions.store
 tech-space24.de
+tech-versand.com
 tech-zone.store
 tech24-area.com
 tech4friends.store
@@ -7422,6 +7499,7 @@ thats-streetwork.at
 thayajewels.com
 thb-bmr.de
 the-leather-shop.com
+theangelsblanket.co
 theanimalsdreams.com
 theater-chronos.at
 theaterverein-nd.at
@@ -7506,6 +7584,7 @@ tidmshop.top
 tieker-versandhandel.de
 tiekings.de
 tier-und-hausservice.de
+tier-wellness.at
 tiergeschaft.net
 tierheilpraxis-buchholz.de
 tierpension-fuerst.at
@@ -7644,6 +7723,7 @@ trend-tiger.com
 trend-tiger.de
 trends-shoppen.de
 trendsettersclothes.com
+trendsvio.at
 trendswa.com
 trendy-gadgets.net
 trendy.to
@@ -7853,6 +7933,7 @@ venusbicycle.com
 venusdelights.de
 veogmar.com
 veonaskincare.com
+veozi.site
 vera-antoniuk.at
 vera-etterich.de
 veranio.de
@@ -7904,6 +7985,7 @@ vgofrero.com
 vhelicon.com
 vibeioshop.com
 vibramschuhes.online
+viciac.com
 vicky-damen.de
 victoriariba.com
 victorpillac.com
@@ -7940,6 +8022,7 @@ vips.gzltoys.com
 vipsski.com
 vision-erfolg.de
 visiopreneur.de
+vistvp.shop
 visualframe.de
 vitagaming.de
 vital-education.de
@@ -8370,6 +8453,7 @@ xyhora.de
 yachtalert.de
 yakpilot.de
 yatssonshop.com
+yaxinyfx.com
 yb-nails-berlin.de
 ybdp.ca
 yearly.latestontrends.com
@@ -8385,6 +8469,7 @@ yemelody.com
 yhmemarket.com
 yhmemarket.com
 yhomecamp.com
+yhunecha.com
 yigttrade.com
 yivette.com
 yjbcoms.com
@@ -8393,6 +8478,7 @@ yokurt-fulda.de
 yolandal.com
 yolely.com
 yolingen.de
+yoostore.de
 yoostylish.com
 youbestchoice.com
 youbestchoice.com
@@ -8412,6 +8498,7 @@ youthloft.uk
 youwins.ch
 yoyokila.com
 ypardon.com
+ysibcon.com
 ysxgtmyjj.com
 ythubsmall.com
 ytjper.com
@@ -8432,6 +8519,7 @@ zahnarzt-schreck.de
 zahnpalais.de
 zakbiyik.com
 zakifab.com
+zaldonia.de
 zambooo.eu
 zandis.net
 zanoya.de
@@ -8511,6 +8599,7 @@ zpohi.com
 zpsyetco.com
 zscparts.com
 zserslicenx.site
+zshopgez.com
 zstarstore.com
 zubehor-haushaltsgerate.com
 zuerststore.com
@@ -8532,12 +8621,18 @@ zyuanzong.com
 zzjdhcstore.com
 
 ### Fraudulent streaming platforms:
+mooplay.de
+memoplay.de
+beroplay.de
+walplay.de
+medplay.de
+saveplay.de
+manoplay.de
+megausenet.de
 fileusenet.de
 netoplay.de
 wallplay.de
 gigausenet.de
-theangelsblanket.co
-memoplay.de
 tedoplay.de
 barplay.de
 boboplay.de
@@ -9026,14 +9121,9 @@ soflix.de
 sogostream.de
 soloflix.de
 soyaflix.de
-stream.tox
-streamago.de
-streamba.de
-streambull.de
-streamday.de
-streamdome.de
 
 ### Fraudulent estate agencies:
+red-estate.com
 immo-gate.com
 realty-all.com
 perfect-home.co
@@ -9123,6 +9213,8 @@ top-urlaub.info
 reise-buchen.info
 
 ### Fraudulent craft services:
+elektronotdienstewien.at
+hsd-installationstechnik.at
 ihr.oertlicher.at
 robin.oertlicher.at
 oertlicher.at
@@ -9183,6 +9275,10 @@ elektro.spezialist24std.at
 elektriker-dienst.at
 
 ### Fraudulent forwarding agencies:
+bolitrans.com
+cargservicesdelnc.com
+fl-trans.com
+freightwiselogistics.com
 breenlogistics.com
 souto-vehiculos.com
 directlogistics.com
