@@ -1,11 +1,11 @@
 # Title:         Pseudowissenschaft und Realitätsverweigerer
 # Expires:       7 days
 # Description:   Esoterisches, Verschwörungstheorien und Impfgegner
-# Example:       Tarot, Homöopathie, Schamanismus, Kristallheilung, Wünschelrutengänger, Wassergedächtnis, Sekten, Flat-earth, Astrologie, Ätherische Öle, Anti-Strahlung, Globuli, Verlage, Elektrosensibilität, Coronaleugner
+# Example:       Tarot, Homöopathie, Schamanismus, Kristallheilung, Wünschelrutengänger, Wassergedächtnis, Sekten, Flat-earth, Astrologie, Ätherische Öle, Anti-Strahlung, Globuli, Verlage, Elektrosensibilität, Coronaleugner, Wundermittel, Abnehmpräparate, Nahrungsergänzung, Potenzmittel
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2020-12-02
+# Last updated:  2021-01-11
 
 ärzte-für-aufklärung.de
 3ho.ch
@@ -128,6 +128,7 @@ elodia.ch
 ema-burmann.de
 emiko.de
 emu-verlag.de
+endlichschlanksein.com
 endo-dent.de
 endotronic-gmbh.de
 energie-wasser-praxis.de
