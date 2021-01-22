@@ -1,0 +1,56 @@
+# Title: German Fakenews
+# Expires: 14 days
+# Description: Block domains known for fakenews (german).
+# Homepage: https://github.com/stonecrusher/filterlists-pihole/
+# License: Taken from https://github.com/Akamaru/Pi-Hole-Lists/
+# Redirect: https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/fakenews-de-ph.txt
+# Last updated: 2021-01-21
+
+19vierundachtzig.com
+afd.de
+asylterror.com
+babykaust.de
+blog.halle-leaks.de
+brd-schwindel.org
+contra-magazin.com
+crimekalender.wordpress.com
+news-front.info
+sputniknews.com
+denken-macht-frei.info
+deutsch.rt.com
+deutsche-stimme.de
+deutsche-wirtschafts-nachrichten.de
+diepresse.com
+dortmundecho.org
+einwanderungskritik.de
+epochtimes.de
+freiezeiten.net
+gloria.tv
+halle-leaks.de
+hartgeld.com
+heutigen-nachrichten.de
+impfen-nein-danke.de
+islamspiegel-hamburg.de
+journalistenwatch.com
+kopp-report.de
+kulturstudio.info
+kulturstudio.wordpress.com
+linksfaschisten.blogspot.com
+michael-mannheimer.net
+news-front.info
+noch.info
+npd-mv.de
+politikstube.com
+politikversagen.net
+pressefreiheit24.wordpress.com
+rapefugees.net
+schluesselkindblog.com
+sputniknews.com
+theeuropean.de
+truth24.net
+unzensuriert.at
+unzensuriert.de
+volksstimme.de
+welt-im-wandel.tv
+wgvdl.com
+zentrum-der-gesundheit.de
