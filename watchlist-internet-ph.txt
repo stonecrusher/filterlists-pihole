@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-01-23
+# Last updated:  2021-01-29
 
 ### Fake online shops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -16,9 +16,8 @@
 123babyland.shop
 123buy.eu
 123einkauf.at
-detoxic.net
+12streetwings.com
 15minutes.at
-ebusiness-challenge.at
 18fussballshop.eu
 1991inc.com
 1aahardware.de
@@ -34,7 +33,6 @@ ebusiness-challenge.at
 2pfundstyle.de
 2rad-berlin.com
 2rad-xxl.de
-2rad-xxl.de
 300xkarlsruhe.de
 304c6.com
 30netzteil.de
@@ -47,8 +45,8 @@ ebusiness-challenge.at
 3w-verlag.de
 3wettomat.de
 42tage.de
+4attensions.at
 4d-w.de
-4fathersphilly.com
 4fathersphilly.com
 4objects.de
 4schmuck.com
@@ -59,10 +57,9 @@ a-bach-o.de
 a-cat.at
 a-s-art.de
 a-s-i-therapie.de
-marahuda.ga
 a2z-cyber.shop
 a2z-garden24.store
-konsolen-gmbh.com
+aacan.site
 aaemauleg.com
 aal-brandenburg.de
 aalborgfrivilligraad.dk
@@ -82,6 +79,7 @@ abipartyxxl.de
 ablageshop.de
 ablynamall.com
 abnehmen-einfach-gemacht.de
+aboutsfashion.com
 abrintelc.com
 absatzzeilen.at
 abundzu-band.de
@@ -92,6 +90,7 @@ acad-it.nl
 acapulco-grill.de
 acc-concrete.com
 accop.fr
+accservej.com
 achimunger.de
 acitmessina.it
 acnetzteil.com
@@ -102,6 +101,7 @@ acuygu.com
 ad-stelle.de
 adaptersdepot.com
 adavidgoods.eu
+addhereg.com
 addmich.de
 adelberg-bau.de
 adesktop.de
@@ -157,7 +157,6 @@ agentur-heaven.at
 agentur-zwirtes.de
 agenturkaiser.de
 aggarwalmovingstorage.com
-cheapshopu.com
 agito-sklep.de
 aglawoutlet.xyz
 agold-edelmetallhandel.de
@@ -195,7 +194,6 @@ airmaxshopschweiz.com
 airplaypro-de.com
 airpodsbuynow.com
 airpodsdirekt.de
-airpodsdirekt.de
 airpodsmarkt.de
 airsoft-herne.de
 airspacemanagement.net.au
@@ -203,6 +201,7 @@ airstepschuhe.de
 airycloth.com
 airydress.com
 aiygo.de
+ajantaphotolab.com
 ajelanie.com
 ajprodukte.com
 ajservice.de
@@ -259,7 +258,6 @@ alles-rezeptfrei.org
 allesfuerdeinzuhause.de
 allesnett.de
 allewetter-zinnowitz.de
-allewetter-zinnowitz.de
 alleygh.co
 allforyoudress.com
 allgerryweberonline.eu
@@ -284,10 +282,10 @@ alpha-elektroniks.net
 alpha-tech.store
 alphakatz.com
 alphamential.com
+alphasupplyco.com
 alte-wirtsstube.de
 alternzuhause.at
 altho-fenster.de
-alugest.com
 alugest.com
 alvcr.com
 alvoradac.com
@@ -298,6 +296,7 @@ amanum.de
 amaris-strassensoul.de
 ambiar.de
 ambienteaustria.com
+ambroxitp.com
 ambusama.de
 amechad.de
 ameise.shop
@@ -358,6 +357,7 @@ annado.de
 annakarin.de
 annakoenig.at
 annemarie-wuerth.de
+annen.store
 annenhofgatow.de
 annikaland.de
 annmiyac.com
@@ -400,13 +400,11 @@ aphelia.de
 apholio.de
 apofamily.com
 apollan.de
-laf-buy.com
 aponet-shop.com
 apostel-koeln.de
 apotheke-ch.com
 apotheke-ch.org
 apotheke-rezeptfrei.eu
-apotheke-rezeptfrei.net
 apotheke-rezeptfrei.net
 apotheke24eu.com
 apotheken-sicher.at
@@ -415,6 +413,7 @@ apothekeschweiz24.com
 appai.de
 appalachiangastro.com
 apparelhot.com
+apparelsummer.com
 appartement-angelina.at
 appartment-saler.at
 appenin.de
@@ -423,9 +422,9 @@ applenext.de
 applestoreairpodspro.com
 appletogo.at
 appleuniverse.de
+approachmall.top
 appromote.de
 appwaver.de
-apricot-pudel.at
 apricot-pudel.at
 aptbuyonline.com
 aqdixj.com
@@ -437,10 +436,8 @@ arcazhmanj.com
 arceltaonline.com
 arche-projekt.de
 architectlyy.site
-architectlyy.site
 architekturbueromaier.de
 arcteryxeushop.com
-arcteryxoutlets.com
 arcteryxoutlets.com
 ardesign.at
 are-services.de
@@ -452,13 +449,11 @@ ariacosmetics.co.uk
 ariannaspetcare.com
 arielavenue.com
 arila.de
-arila.de
 aritec.at
 arkado24.de
 armegon.de
 arne-paulsen.de
 aroamday.com
-handwerkundmehr.at
 arpad-nou-noursette.de
 arrevid.com
 ars-textilia.at
@@ -466,7 +461,6 @@ arschcholio.de
 arshitasale.com
 art-con-shop.de
 art-entertainment.at
-art-technologies.at
 art-technologies.at
 art2printstudio.co.uk
 art4salenow.com
@@ -511,6 +505,7 @@ ateliersigrunheck.de
 atemmaskekn95-de.com
 atesco.de
 atkraken.com
+atleisures.com
 atmall.co
 atmvionline.com
 atr-sprintportal.de
@@ -535,7 +530,6 @@ aurynquest.de
 auslebenrefl.de
 ausstellungsartikel.info
 austerlitz-landtechnik.com
-hondrogel.site
 austrian-dream.at
 austriandeltaforce.at
 austriapremium.com
@@ -550,6 +544,7 @@ autoradiomitnavigation.de
 autorampe.com
 autosalon-kl.de
 autosstern.at
+autostyles.co
 autostyles.store
 autotransporte.tk
 autumwind.com
@@ -593,12 +588,6 @@ baccara-shop.com
 bachtalrun.de
 backen-torte.de
 backlaedla.de
-approachmall.top
-approachmall.top
-pictureperfectstore.top
-recallstore.com
-salsalstore.top
-upcomingmall.top
 backpackonline.de
 backpacks.at
 backstudio-dahlke-gmbh.de
@@ -614,6 +603,7 @@ baeckerei-sachs.de
 baerbelkoehler.de
 baeuchel.at
 bags-hut.com
+bags2020a.com
 bagsev.de
 bagsoutlets.shop
 bahmer24.de
@@ -644,9 +634,7 @@ barbouronlineshop.de
 barhufpflegerin-saarland.de
 baristazauber.de
 bartab.at
-kendricklouis.com
 base-montafon.at
-onebytoone.com
 basketball-irsch.de
 basketballc1ub.com
 basketballtrikot.info
@@ -683,7 +671,6 @@ bauradios.net
 bauservice-jan-enders.de
 baushopping.com
 baustars.com
-hottrendtou.com
 baustoffhaendler.at
 baustueble.de
 bautenschutz-petersen.de
@@ -691,9 +678,9 @@ bautrocknung-in-stuttgart.de
 bauwahn.com
 bauwich.com
 bauzeug.net
-bauzeug.net
 bawabaonline.com
-bawabaonline.com
+bayease.com
+bayer-heizen.at
 bayerlok.de
 bayern-hardware.com
 bayern-ohne-burnout.de
@@ -712,7 +699,6 @@ bcaydep.com
 bcm-ricke.de
 be-gastroservice.de
 be-mobile.store
-apparelsummer.com
 beachampass.at
 beamer-info-portal.de
 beanmania.de
@@ -722,6 +708,7 @@ beatemaly.at
 beatsystem.at
 beautiful-store1.online
 beautonias.com
+beautyclam.de
 beautydreams24.com
 beautymad.de
 beautyoutlet.top
@@ -736,14 +723,13 @@ beeventj.com
 befillus.com
 befocus-records.de
 begenmarket.top
-laf-store.com
 behawelt.de
-saletooffer.com
 bekleidungsoutlet.com
 bekommefuehrerschein.com
-hottosale.com
+belkbabgi.com
 bellsshop.de
 belsimsale.xyz
+belstaffofficial.com
 bemikks.com
 bemodern.de
 ben-market.com
@@ -768,6 +754,7 @@ berggasthof-fink.at
 bergler-handel.de
 bergmann-handel.de
 bergsport-welt.at
+berlikon.de
 berlin-elektro.eu
 berlin-konsolen.com
 berlin-markt-gmbh.com
@@ -777,7 +764,6 @@ berlinwlan.de
 berndklarwasser.de
 berndsshop.de
 bernhard-russ.de
-berninger-shop.de
 berninger-shop.de
 bernsteinzimmermythos.de
 bernwald-shop.de
@@ -794,17 +780,16 @@ best-deals24.com
 best-home.store
 best-in-jura.com
 best-of-coffee.net
+bestanseller.com
 bestbuydeals2019.com
 bestbuyselectro.com
 beste-externe-festplatte.com
 beste-preisemarket.com
-wakesurf.at
 besteangebote24.de
 bestelektronicshop.de
 bestellen-de.com
 bestendeals.de
 besteprijzen-shop.com
-bestermarkt.at
 besterstore24.de
 bestesangebot24.de
 besteuhren.io
@@ -821,6 +806,7 @@ bestscamerafs.club
 bestsindy.com
 beststeroids.at
 beststeroids.eu
+besttshopping.com
 bestygood.com
 beta-elec.store
 betnetonline.net
@@ -861,6 +847,7 @@ bigbagharbeck.de
 bigeatncm.com
 bigmuscle.at
 bike-global.de
+bike-himmel.de
 bike-roles.de
 bike-stone.de
 bikeandmore-24.eu
@@ -884,7 +871,6 @@ billigairmax.de
 billigbasar.com
 billigeklokker.com
 billiger-markt24.net
-cheaponline2020.com
 billigerpaket.de
 billigeschuheonline.de
 billiglose.de
@@ -892,7 +878,6 @@ billigmode.com
 billigssale.com
 billingn.com
 binhayelf.com
-binorino.com
 binorino.com
 biogaming.de
 biokamine-dortmund.de
@@ -969,7 +954,6 @@ bme2000.de
 bmi-shop.top
 bmstore.shop
 bmw-importeren.com
-europe-moto.com
 bnojphshop.com
 bobs-bau.de
 bobs-elektro.net
@@ -978,7 +962,7 @@ bochert-bau.com
 bochhansl.at
 bochner-handel.de
 bockwindmuel.de
-elektronik-gmbh.com
+bodasi.de
 bodrumj.top
 bodycure-shop.de
 bodylounge-loehne.de
@@ -990,12 +974,10 @@ bollywood-passau.de
 bolosytle.com
 bomberlonga.com
 bonfishop.store
-elektronik-gmbh.com
 bonnyin.at
 bonviviale.shop
 boofashions.com
 booflixom.com
-boohoo-shop.com
 boohoo-shop.com
 booklethotel.com
 bookotvv.com
@@ -1017,6 +999,7 @@ botrim.de
 bottlemusic.ch
 boulder-dash-rocks.de
 boutique-on-line.de
+boutiqueushop.com
 box-betten.com
 boxer-vom-lucky-punch.de
 boxerklub-beckum.de
@@ -1032,7 +1015,6 @@ bracelet4turtles.com
 bracelethorsedesign.de
 bradleys.store
 brainfreezeblog.de
-summerbuyhot.com
 branchconsult.at
 brand-offer.shop
 brandenburgermeute.de
@@ -1043,6 +1025,10 @@ brands-24.com
 brands4less.nl
 brandshoesstore.com
 brandstylesworld.com
+brandsusale.com
+brandtood.com
+brandudesigner.com
+brandusale.com
 brauerei-arbeitsschutz.de
 brauhaus-keller.de
 brautgewand-frankfurt.de
@@ -1054,16 +1040,13 @@ brenn-holz-markt.com
 brennholzmarkt.com
 bricksify.com
 brickuranus.com
-ladybystyle.com
 brigitte-kaeser.de
 brigitterieger.at
 brilledirekt.org
-dkrabat.com
 brillenshop-2017.ch
 brilleok.com
 bringbikestore.com
 bromers.ch
-ofordables.com
 brosden.de
 brot-fuer-die-welt-hannovers.de
 brownbest.club
@@ -1075,6 +1058,7 @@ brushprox.com
 brycus.de
 brzshop.top
 bs-buettner.de
+bsased.com
 bsc-aichwald.de
 bsfm-scholz.de
 bsomnium.com
@@ -1085,12 +1069,9 @@ btair-travel.de
 btckraken.de
 bubbleglibberball.de
 bubblleq.com
-bubblleq.com
 bubu-x.de
 buch-box.com
 buch-geek.de
-buch-geek.de
-buch-store24.de
 buch-store24.de
 buchbinderei-hohmann.de
 buchetage.de
@@ -1108,7 +1089,6 @@ budunsaly.com
 buecherei-sundern.de
 buecherscout.at
 buechner-handel.de
-cheneycaravanofcourage.com
 buenia.de
 buergerbegehren-neustadt.de
 buergerverein-oberkassel.de
@@ -1137,11 +1117,14 @@ buy-sn-k.com
 buyherbody.com
 buylevitramrx.com
 buyneckrelaxofficial.com
+buyonuonline.com
 buyoshenwatch.com
 buyuall.com
+buyuthebay.com
 buzzupstore.com
 bv-neckarstadt.de
 bw-bewegt.at
+bw-wg.de
 bwbeat.com
 bwcuon.com
 bwscdstore.com
@@ -1154,7 +1137,6 @@ c8bycreate.com
 cabanella.de
 cabcub.de
 cadkas3.de
-cadkas3.de
 cafe-adrenalin.at
 cafe-am-markt-weilheim.de
 cafe-bistro-ahoi.de
@@ -1162,7 +1144,6 @@ cafe-discount.de
 cafe-gluecklich-berlin.de
 cafe-lavida.at
 cafe-vorspiel.de
-cafeaandemuehle.de
 cafeaandemuehle.de
 cafeampeterstor.de
 cafetanja.nl
@@ -1174,11 +1155,13 @@ caipys.de
 caisstudents.ca
 caledonia-ev.de
 calicis.xyz
+callmehats.com
 callythebear.com
 calvinkleinberlin.de
 calvinthebear.com
 camdiscounter.com
 camdsicounter.com
+cameradigitalshow.com
 cameraeshops.com
 caminodesantiago.at
 caminstant.club
@@ -1187,9 +1170,9 @@ camistra.com
 camkv.shop
 campaign-prices.com
 campershoes-uk.com
+camping-specialisten.de
 camppolster.de
 campus-glemsaue.de
-campus-heidenheim.de
 campus-heidenheim.de
 camputrailer.de
 camstorepro.com
@@ -1215,7 +1198,6 @@ carl-liehner-hofbuchhandlung.de
 carlobond.de
 carlosport.com
 carmen-video.at
-gobuystores.com
 carola-stauche.de
 caros-kreativwerk.de
 carrera-xmas.com
@@ -1230,9 +1212,11 @@ casefetish.com
 casor.de
 catalia.de
 catan.pl
+categoryshops.com
 cathedralofthemoon.com
 cattafra.com
 cavalopretorentals.com
+cazms.cc
 cazrenp.com
 cb-photo.at
 cbremer.de
@@ -1254,7 +1238,6 @@ ceidroutlet.xyz
 celine-nuehlen.de
 cell-power-laser.de
 cellphonepk.com
-hirship.com
 centocanti.it
 ceragem-reutlingen.de
 cerebralparese-hilfe.de
@@ -1263,6 +1246,7 @@ cfcs.co.uk
 cgebuy.com
 cglshop.top
 chadu.at
+chairoons.com
 chambredhotes-vannes.fr
 chapitamala.com
 chappuis-auto-ecole.ch
@@ -1283,6 +1267,9 @@ cheapjeansstores.com
 cheaponline2020.com
 cheaponline2020.net
 cheapsell.shop
+cheapshopu.com
+cheapudeals.com
+cheneycaravanofcourage.com
 chenkkbusiness.com
 cherisy-film.de
 chester-cottons.de
@@ -1319,15 +1306,14 @@ chrodoo-media.de
 chromeautocenter.com
 chronius.eu
 chulhamall.com
-chulhamall.com
 chyayy.com
+cichic.com
 cichilla.com
 cikonic.com
 cikpinzx.com
 ciliove.com
 cilobuy.com
 cineoml.com
-cinetecabrianze.it
 cinetecabrianze.it
 cinquemantel.de
 cipassistance.fr
@@ -1344,8 +1330,10 @@ ckreaplus.com
 ckupidoma.com
 clan-of-xymox-fanbase.de
 clan-suff-aao.de
+classic4ustyle.com
 classico-landau.de
 classicswan.de
+classicvpurchase.com
 claude-projekt.ch
 claudia-pelka.de
 claudia-scarpatetti.de
@@ -1356,6 +1344,7 @@ clebonia.de
 clever-technik.com
 cliccouves.co.uk
 climatizzazione.de
+climissions.com
 clinicafranklinpena.com
 cliouenay.com
 clixflowl.com
@@ -1371,8 +1360,8 @@ clothujf.site
 clothworthy.com
 clotlove.com
 club-country.com
-cameradigitalshow.com
 clubdelmar.at
+clubestyle.com
 clublabiella.it
 clubmaritimodemarbella.com
 clubsassou2016.com
@@ -1382,7 +1371,6 @@ cncfiosale.com
 coach-rosenheim.de
 coaching-sailing.at
 coachsdecisionksco.com
-coolinautumn.com
 cocacolavtc.de
 cocibmarket.com
 coconfashion.com
@@ -1417,6 +1405,7 @@ comfyracks.com
 comfyrs.com
 comgestdirekt.de
 comlagl.xyz
+commandoll.com
 comodolino.com
 completerecruit.co.uk
 complexionconcierge.com
@@ -1433,14 +1422,12 @@ conistdom.com
 conleaty.com
 conlloft.com
 connes.de
-schstobuys.com
 conquerconsoles.com
 consanguinity.store
 consolen-guru.de
 consolestar.de
 consycsay.com
 container-baum.de
-freehotshoes.com
 contemplation-mp.de
 conversechucksdamen.de
 converseschuhesaleonline.com
@@ -1448,6 +1435,7 @@ convnc.com
 cooclothes.com
 coolhard.de
 coolima.at
+coolinautumn.com
 coolrevo.com
 cooponline.de
 copia-knorz.de
@@ -1460,16 +1448,13 @@ cosmetixs.info
 cothnonline.com
 cotonetlin.de
 cotosen.com
-cotosen.com
 cotton-bootsstore.com
 coturshop.com
-couleurdream.com
 couleurdream.com
 country-dancers-ireen.de
 countryattire.at
 couponsaustria.com
 couratain.com
-specutrums.com
 covergigi.com
 cowboystiefelverkauf.de
 cozydecorshop.com
@@ -1479,8 +1464,10 @@ cpgtstream4.com
 cragoo.de
 crasheco.com
 crateel.com
+crazyabuy.com
 crazychemists.de
 crazylettuce.com
+creaturepuppetgallery.com
 creemarshop.com
 crepessuzette-neustadt.de
 cribri.online
@@ -1537,10 +1524,10 @@ cybertempel.com
 cybertronic24.de
 cybertronics24.com
 cybexstore.de
-hirship.com
 cyronicel.shop
 d-moerking.de
 da-kava.store
+dach-hauser.at
 dach-vorwerk.de
 dachboxoutlet.com
 dachfondsvergleich.at
@@ -1554,9 +1541,8 @@ dailyjoyz.de
 dailymetcon.it
 dailytechteal.shop
 dailywish43.com
+dalaline.com
 dalea-stuck.at
-4attensions.at
-promotioncarnival.com
 damenperuecke.com
 damensneakerfindenhier.de
 dameo.de
@@ -1584,6 +1570,7 @@ das-kleine-bbv.de
 das-reetdachhaus-bleckede.de
 dasbad24.shop
 daseichenblatt.de
+daselfchenjosephine.at
 dasgelbevomey.ch
 dasgruenehemd.de
 dashausimgarten.de
@@ -1611,31 +1598,15 @@ dazsistmeins.at
 dblroofing.com
 dbotlhale.top
 dbz-resin.com
-dbz-resin.com
 dcs-computers.com
 ddkwwstore.com
 de-bags.com
 de-coff.net
 de-rb.com
-belstaffofficial.com
-cichic.com
-clearanceonline2020.com
-destockforlife.com
-dhgate.com
-fencia.co
-guillaume-marie.com
-lunaleder.com
-newchic.com
-privatefloor.com
-shein.com
-store2021.net
-zashio.co
-parazax.com
 de24tech.website
 dealportal.name
 dealshopper.de
 deanners.com
-deanplumbingandhvac.com
 deanplumbingandhvac.com
 deathrune-records.com
 decenniumstores.com
@@ -1675,6 +1646,7 @@ denstiefel.com
 dentalart-bocholt.de
 dentallabor-juelich.de
 deportesrapanui.com
+der-achenwirt.at
 der-einblick.de
 der-erleuchtete.de
 der-radl-doc.de
@@ -1696,22 +1668,23 @@ deschuhemarkt.de
 deshop.us
 designdeintrikot.de
 designer-second-hand-shop.com
-shopfordis.com
 designermode-fuerth.de
-desiree-wilhelm.at
+designerustyles.com
+designeshoes.com
 desiree-wilhelm.at
 desnowboots.com
 desportschuhedeutschland.com
 destiefel.com
 destoc-market.com
-destoc-market.com
+destockforlife.com
 detaschen.com
 detektiv-agency.at
 detempleshop.com
 detlef-sauthoff.de
+detoxic.net
+deufiles.com
 deuhr.de
 deuschuhe.com
-mbtvon.com
 deutschepharma.group
 deutschepharma.shop
 deutschland-thermomix.com
@@ -1806,8 +1779,8 @@ discover-air.co
 discworld.at
 disney-online-games.com
 disosltd.com
-fitnessory.com
 disturb-records.de
+disucerns.com
 divceb.top
 divebuddy.at
 diwanyfi.com
@@ -1819,13 +1792,14 @@ djkali.de
 djs-medizin.de
 djsaunders.co.uk
 dk-dellentechnik.de
-hstar.shop
 dkormchiy.com
+dkrabat.com
 dlm2012.de
 dlrg-remlingen.de
 dlw-ag.de
 dmijanur.xyz
 dmmltdb.com
+dnewssyi.com
 docmartensales.de
 docmou.com
 docrenz.com
@@ -1856,6 +1830,7 @@ doris-bauer.at
 doriswolff.de
 doss2010.de
 dotapts.com
+doyourselfafavr.at
 dozzlmarket.com
 dpangulfts.com
 dpolg-wiesbaden.de
@@ -1907,20 +1882,18 @@ dsz-maecenata.de
 dtg4motion.de
 du-trauercafe.de
 du-und-ich.at
+dubaieguide.com
 dubhlinn.it
 dueyam.com
 dugin.co.uk
-konsolen-gmbh.com
 dulcatec.de
 duloustore.eu
 dumpingwhale.com
 dundeecan.org.uk
 duodesign-nl.de
-designeshoes.com
 duranio.de
 duriannal.live
 dust-buster.eu
-hirstore.com
 dusty-casani.de
 dutchbike-store.nl
 dv-hatten.de
@@ -1937,15 +1910,16 @@ dzuhrenkaufen.com
 dzuhrenoutlet.com
 e-avans.de
 e-bikehandel.de
-xn--e-gerteundhaus-9hb.com
 e-halle.ch
 e-leclerc-market.de
+e-lektorat.at
 e-majster.de
 e-shop-genios.com
 e-shopsters.com
 e-stokrotka.de
 e-trading.store
 eachgstore.com
+eacnmnv.top
 eadevents.de
 eaglebayfarms.com
 eamimisale.com
@@ -1954,11 +1928,9 @@ eastbu.com
 eastlondoncommunications.co.uk
 eastsidekustomair.de
 easyaim.io
-buyuthebay.com
 easylnkf.com
 eattruthfully.com.au
 eazmartx.com
-eb-modeatelier.at
 eb-modeatelier.at
 ebbc2010.at
 eberharter-dengg.at
@@ -1974,7 +1946,9 @@ ebike-rabatt24.com
 ebike-spass24.com
 ebike-tempel24.com
 ebikenation.de
+ebopeep.com
 ebrikett.de
+ebusiness-challenge.at
 ecaroust.com
 eccarda.de
 eccobiom.de
@@ -1994,7 +1968,6 @@ ecofuelenterprise.lt
 econn.eu
 edanstyle.com
 edb-wuppertal.de
-ede-handball.de
 ede-handball.de
 edelmar.de
 edelweiss-stueberl.at
@@ -2046,7 +2019,6 @@ einkauf-am-pc.de
 einkaufende.com
 einlinsiges-fernrohrde.com
 einrichtungsmarkt24.com
-einrichtungsmarkt24.com
 einrichtungsmarkt24.net
 einsbiszwei.de
 eintrachtwaldhuck.de
@@ -2073,6 +2045,7 @@ electris.shop
 electro-easy.com
 electro-eshoper.com
 electro-ideal.com
+electro-parc.de
 electro-port.com
 electro-sale.shop
 electro-shopy.com
@@ -2086,7 +2059,6 @@ electronic2u.store
 electronicfactorys.de
 electronics-kauf.de
 electrovagant24.de
-onebysales.com
 elek-tech24.de
 elekrotrade24.com
 elektoniva.de
@@ -2116,6 +2088,7 @@ elektro-musser.at
 elektro-niedersachsen.com
 elektro-outlet24.com
 elektro-paderborn.com
+elektro-parc.de
 elektro-piraten.com
 elektro-shoroom.com
 elektro-stern.com
@@ -2133,6 +2106,7 @@ elektroluxury.com
 elektromobel.com
 elektron-market.com
 elektronerd.eu
+elektronik-ag.com
 elektronik-aktion.com
 elektronik-bernard.de
 elektronik-daniel.de
@@ -2140,8 +2114,7 @@ elektronik-diepholz.com
 elektronik-diskont.de
 elektronik-elbe.com
 elektronik-frankfurt.com
-xn--elektronik-grfe-dlb.de
-elektronik-house.com
+elektronik-gmbh.com
 elektronik-house.com
 elektronik-kron.de
 elektronik-loewe.net
@@ -2186,6 +2159,7 @@ elmiracolo.store
 elmiro24.de
 elmontmalla.xyz
 elpompomskywelpen.com
+eltaito.de
 eltern-hes.de
 eltoro-os.de
 elwi-shop.de
@@ -2199,7 +2173,6 @@ emma-facialharmony.at
 emma-sitte.de
 emmacarex.com
 emmalis-welt.de
-emmalison.com
 emmalison.com
 emmas-cafe.de
 emmas-f.shop
@@ -2221,7 +2194,7 @@ energieberater-harz.de
 energiehorizonte.de
 energiesparausweis.at
 engelfiguren.com
-enginnshop.com
+enginelover.com
 enginnshop.com
 enjoy-relax.at
 enjoyemojill.com
@@ -2252,13 +2225,13 @@ erleben-hund.de
 erlebniswandern-schottland.de
 ernstfarm-coburg.de
 errevi.de
+ersatzteil-land-mengeler.de
 erz-fly.de
 erzgebirgsreporter.de
 esapstav.com
 esavdocmall.com
 escapecheck-hamburg.de
 escobarinc.com
-escolac.com
 escolac.com
 esdorado.com
 eselundziegenwandern.de
@@ -2287,8 +2260,6 @@ eu-mediamarkt.com
 eu-pedelec.store
 eu-rezeptfrei.net
 eu-shoppping.de
-guccionlineok.com
-terkbike-store.com
 eufuehrerscheinonline.de
 eugen-kromer.de
 euhutgoods.top
@@ -2303,6 +2274,7 @@ euroadmaps.com
 eurocam-es.de
 euronicz.com
 europaoutlet.eu
+europe-moto.com
 europeonpoint.de
 euroshopmarket.co.uk
 euroshopmarket.eu
@@ -2324,6 +2296,7 @@ eventhalle-essen.de
 eventkaiser.at
 eventus-webdesign.de
 evergabru.com
+evermily.com
 everythingfrenchrealestate.com.au
 everythingsaltspring.com
 evis-hofladen.de
@@ -2363,6 +2336,7 @@ fabeos-security.de
 fabnetstudio.com
 fabooo.de
 faburabrandworld.com
+faceshopx.com
 faceuptodrink.co.uk
 fachschaft-ekw.de
 fachtag-diabetes.at
@@ -2393,6 +2367,8 @@ falcollection.at
 falinas.com
 falkundlenz.de
 falkwuerfele.de
+falltlike.com
+fallulady.com
 faltbanner.at
 familie-fietzek.de
 familie-joerg-mielke.de
@@ -2434,17 +2410,19 @@ fashionkaufen.ch
 fashionlink.uk
 fashionmasks.it
 fashionshoes-usa.com
+fashionuapparel.com
 fashnet-shop.de
 fastdocuments.net
-fastelectro-shop.com
 fastelectro-shop.com
 fasten4you.de
 fastenundinnehalten.at
 fastracycles.com
+fastshoesbuy.com
 faszination-vogelspinnen.de
 fatburner-1.com
 favero-bikes.com
 favorablo.com
+favoriteubrands.com
 favornote.com
 favwearj.com
 fazzporn.top
@@ -2456,12 +2434,15 @@ fcomver.com
 fcosmetro.com
 fcsctsale.com
 feastupon.co.uk
+febecool.com
 febsale.com
 federkontakt-smd.de
 fedop.eu
 feelhome24.net
 feelings-individuellekosmetik.de
+feenladen.at
 feetpuzzle.com
+feforideo.com
 feher-buch.de
 feililon.com
 fein-e-kost.de
@@ -2478,6 +2459,7 @@ felgen-restposten.de
 felgenonkel.de
 fellmeier.de
 femergeng.com
+fencia.co
 ferdi-media.com
 ferienhaus-marieta.de
 ferienhaus-siofok-xxl.de
@@ -2536,7 +2518,6 @@ fila-norge.com
 filastore.club
 filcemarket.com
 fillamoda.com
-fillamoda.com
 financialplanner24.de
 finanz-vergleiche24.de
 finca-vividor.de
@@ -2544,12 +2525,14 @@ findandmall.com
 findlayfirstub.org
 fines-art.de
 finest-bodyshop.com
+fineustyle.com
 finnhaus-holzbau.de
 fippz.de
 firalo.de
 fireman.shop
 firma-leitner.at
 firstmomentsonline.com
+firstorea.com
 firststepbox.com
 fischer-hafnerberg.at
 fischer-mittelstand.de
@@ -2564,6 +2547,7 @@ fitness-angersdorf.de
 fitness-im-buero.de
 fitness-rabe.com
 fitness-shop-leoben.at
+fitnessory.com
 fitolino.net
 fitundaquafun.de
 fityourbody-salzburg.at
@@ -2573,13 +2557,10 @@ fixekiste.de
 fjalleuro.com
 fjfriday.site
 fjzyrzstore.com
-fjzyrzstore.com
 fk-k.de
-flaechenhuegel.at
 flaechenhuegel.at
 flair-penthouse.at
 flanagans-op.at
-iubqx.com
 flashed-esports.de
 flatrate-xl.de
 flaydastore.com
@@ -2595,7 +2576,6 @@ flirthacks.de
 flobamorata.com
 flookmiki.com
 flora-magazin.de
-floratok.com
 floratok.com
 florbalns.cz
 florian-vollmers.de
@@ -2627,6 +2607,7 @@ foerderverein-due.de
 fokus-bildung.at
 fokusonline.ch
 folkwoods.de
+followafashion.com
 folmy.de
 foneworld.de
 fonteleh.com
@@ -2668,6 +2649,7 @@ fotoportemonnaie.de
 fotorux.de
 fotoschutzgebiet.de
 fotosocken.com
+fototauscher.at
 four-reflections.de
 fox-summit-club.de
 foxhandel.de
@@ -2681,9 +2663,6 @@ franchisepate.de
 franken2-band.de
 frankensteins-netz.de
 frankfurt-mund-zu-mund.de
-elektronik-ag.com
-elektronik-gmbh.com
-ps4-ug.com
 frankfurter-motorradtreffen.de
 frankfurter-scheune.de
 franklin25.de
@@ -2700,9 +2679,10 @@ frdgymonline.com
 freakgeims.ch
 fred-elec.de
 free-it.at
-kingcdiscounts.com
+freebest.shop
 freedomfestjacksonmi.com
 freedomtreeltd.com
+freehotshoes.com
 freeplay.shop
 freerunnike.de
 freiekunstschule-wangen.de
@@ -2712,10 +2692,8 @@ freiwillige-feuerwehr-bad-kleinen.de
 french-by-emma.de
 frequenz7.de
 fresh-women.de
-originalbyshop.com
 freshfoam.de
 freshup-kosmetik.de
-spieleu.com
 friedlichesende.com
 friend-shops.de
 friesen-carousel.de
@@ -2730,7 +2708,6 @@ friseurundbeautyscheri.de
 frithjofhager-dialogischesoziologie.de
 fritzsche-technik.com
 frohaus.de
-yululove.com
 fromjtosj.com
 fruchtpresse.at
 fruehstueckspension-hilbenz.de
@@ -2745,7 +2722,6 @@ fuchw.de
 fuehrerscheinfabrik.com
 fuelila.com
 fuesseinharmonie.at
-xn--fhrerscheinpapier-22b.com
 fuhrerscheinschnellkaufen.com
 fujicamer.club
 fuldo.de
@@ -2753,7 +2729,6 @@ full-service-packaging.at
 fullgard.com
 fullgerateshop.de
 fulltechouse.com
-thebestubuy.com
 funatv.de
 fundamentello.com
 fundk-modellbau.de
@@ -2762,9 +2737,9 @@ funfitiano.com
 funkplan.com
 funswan.de
 funviki.com
-furpouch.com
 furdiedamen.de
 furhaus-mkt.com
+furpouch.com
 fusionelles.ch
 fussballschuhe2015.com
 fussballschuhede.com
@@ -2801,7 +2776,6 @@ game-adventures.com
 game-byte.com
 game-byte.de
 game-pop.de
-newuseason.com
 game.toys
 gamebyte.eu
 gamefocus.de
@@ -2830,6 +2804,7 @@ gaming24store.com
 gaming24you.com
 gamingable.de
 gamingo.eu
+gamingrockstars.de
 gamma24.de
 gantwall.com
 garantiert-apotheke.com
@@ -2873,7 +2848,6 @@ gartenwelt-engel.com
 gartino.net
 gartoran.de
 gasthaus-kaar.at
-gasthaus-kaar.at
 gasthaus-schuetz.at
 gasthaus-weisses-ross.de
 gasthof-falken.at
@@ -2881,11 +2855,13 @@ gasthof-gritschacher.at
 gasthof-hansy.at
 gatinorge.fr
 gattooo.de
+gaysingleparty.de
 gb-electrohaus.com
 gbengel-todentta.de
 gboschmed.de
 gcbsclubc.com
 gdaecshop.com
+gdetivtope.com
 gdplmdgoods.com
 ge-ek.com
 ge2astore.top
@@ -2933,8 +2909,8 @@ gerd-heger.de
 gerd-nuessler.de
 gerdegloff.de
 gerhard-beuter.de
+gerhard-marquardt.de
 geri-steiner.ch
-gerlektronik.com
 gerlektronik.com
 german-tuning-world.de
 germanolec.de
@@ -2953,14 +2929,13 @@ geschenk-deals.de
 geschenke-land.net
 geschenkhaus.com
 geschenkstop.de
-wearsaletobuy.com
 gestous.com
 gesundeliebe.com
 gesundeliebe.de
 gesundheit-in-wien.at
 gesundheit-und-fitness-mittelrheinkreis.de
-selscoun.com
 getbrushprox.com
+getdrunk.at
 getecoplug.com
 getevelynbag.com
 getewatch.com
@@ -2986,10 +2961,14 @@ gibmanns.com
 giegengack.de
 giessen-backstage.de
 giessenatnight.de
+gifnme.com
+giftshopu.com
+giftshopuon.com
 giga-tech.shop
 gigantos.net
 gigantos.store
 gigantwebhost.de
+gigilovely.co
 gikyodaim.xyz
 gimyler.com
 ginakargoscha.de
@@ -3003,13 +2982,11 @@ gispartsy.com
 gitte-lorson.de
 gitterroste-mittmann.de
 giuseppe-sneaker-shop.com
-la-class.com
 giveandmore.de
 givenstyle.com
 glaeser-kunst.de
 glamberg.eu
 glanz-weinstrasse.at
-glaserbau.at
 glaserbau.at
 glasses-ebay.com
 global-beauty.shop
@@ -3021,10 +2998,8 @@ globetenw.com
 globus-cassus.org
 glogloestore.com
 gluckbox.com
-gluckbox.com
 glueckaufstadt.de
 glueckimhaus.de
-glueckstore.de
 glueckstore.de
 gluwagoods.com
 gm-wibbeke.de
@@ -3037,10 +3012,10 @@ go-fagot.de
 go-meo.de
 goasshax.at
 gobrashop.com
+gobuystores.com
 gocabsgoy.com
 gocwhale.com
 godcontroller.de
-tianustores.com
 goehrdefestspiele.de
 goertzone.eu
 goethe-theater.de
@@ -3065,10 +3040,10 @@ goleangon.com
 golynkamarket.com
 gomba.info
 good-vibration-benzing.de
-hotepurchase.com
-nonesbuys.com
 gooddeals24.de
 goodlove.store
+goodusale.com
+goodusales.com
 goodweek.de
 gool1.de
 gooldcoast.com
@@ -3077,13 +3052,13 @@ goosejacke.de
 gooshop.org
 goplayful.com
 gopro-laden.com
+goprotb.com
 gose.shop
 goslook.com
 goswivtstore.com
 gothre.com
 gotosuit.com
 gott-kennen-oberberg.de
-fashionuapparel.com
 gplate.de
 gptciplaw.com
 grabyours.co
@@ -3099,12 +3074,12 @@ grandfrau.com
 grandiancia.com
 gratschmaier.at
 graue-briefe.de
+grauschwarzbrillen.de
 gravelmac.com
 graychurchofchrist.org
 grazerradtaxi.at
 greatlinkhk.com
 greatsell.co
-qualiutative.com
 greeddr.com
 greenbiday.com
 greensulting.de
@@ -3144,20 +3119,24 @@ gt-naturbaustoffe.de
 gtjix.xyz
 gtmedia.com.au
 guambyv.com
+guccionlineok.com
 gudoflix.de
 guessure.com
+guillaume-marie.com
 guleriastore.com
 gulfbreezefisheries.com
 gunnareckert.de
 gunstigskaufens.com
-vipluckyshop.com
 guteapotheke.co.za
 guterort.com
 gutes-produkt.com
+guygungo.com
 gvp-berlin.de
+gymonefit.com
 gymsportswearssale.com
 gypsides.com
 gysbers-versand.com
+gzltoys.com
 gzpulverturm.de
 ha-ko.at
 haarformersalon-am-dom.de
@@ -3198,11 +3177,13 @@ hanapikag.com
 hand-pro.com
 handarbeiten-allerlei.de
 handballnews24.at
+handelshaus-kruse.de
 handelshaus-weber.de
 handelskontor-strenat.de
 handmademusicrecords.de
 handstaubsauger.shop
 handwerker-versand-online.com
+handwerkundmehr.at
 handwerkzeug-versand.com
 handy-captain.com
 handy-shopper24.de
@@ -3219,16 +3200,15 @@ hans-weiskopf.de
 hansemannhamburg.de
 hansengers.nl
 hantsuonline.com
+happy-shopping.co
 happydeal24.de
 haqaiqstore.com
 harald-horrwarth.de
-haraldjelinek.at
 haraldjelinek.at
 hardware-extreme.de
 hardware24-berlin.com
 hardwareexperte-hh.com
 hardwareshop24-hamburg.de
-hotshoph.com
 hardwickharriers.co.uk
 harleydresden.de
 harmonie-corps-esprit.be
@@ -3264,9 +3244,7 @@ hausbau-konzept.de
 hausbaufirmenberlin.de
 hausderintegration.at
 hauselektro.com
-hauselektro.com
 hausgeraete.expert
-hausgrube.net
 hausgrube.net
 haushaldo.de
 haushalt-de.com
@@ -3281,6 +3259,7 @@ haushalt365.net
 haushalt4life.de
 haushalt4me.de
 haushalt4me.net
+haushaltdream.eu
 haushalthit.de
 haushaltisdone.de
 haushalts-bros.de
@@ -3354,6 +3333,7 @@ heim-haus-markt.com
 heim-markt.store
 heim-roboter24.de
 heimatstuecke.at
+heimkino-versand.de
 heimprofis.de
 heimtierbedarfonlineshop.xyz
 heimwerker-shopping.de
@@ -3371,10 +3351,8 @@ heldenbuch.de
 helektro-markt.com
 helektrostore.de
 helios-versand.de
-fineustyle.com
 hellastyle.com
 hellbau.center
-queenluckyshop.com
 helpmocoa.com
 helpthebees.net
 hemtutsux.com
@@ -3388,14 +3366,12 @@ henseler-pav.de
 heramias.com
 herbalek.at
 herbst-orthopaedie.de
-categoryshops.com
 herbstteilemarkt.de
 hermann-schuetz.at
 hermann-sieboform.de
 hermann-sinn-band.de
 hermesbagstmall.com
 hernodamen.de
-fallulady.com
 herrenhemden-exklusiv.de
 herrenmoden-heimansberg.de
 herrenway.com
@@ -3435,6 +3411,9 @@ hiphopen.com
 hipju.com
 hipp-trophy.de
 hipwforum.com
+hirdiscount.com
+hirship.com
+hirstore.com
 hirtheservices.de
 hitech-shop.com
 hitechcarbons.com
@@ -3458,24 +3437,21 @@ hof-liebig.de
 hoffmann-elektronik.com
 hoffnung-sueddeutschland.de
 hoganoutletonline.com
-tennisvillase.com
 hohenstein-kuern.de
 hohenzollern-bilk.de
 hoisingtonshop.com
 hokaoneoneeut.com
 hokaoneoneosterreich.at
 hokaoneosterreich.com
-gaysingleparty.de
 hollistercoaustria.at
 holmedi.de
+holycrossmoravianchurch.com
 holzfairy.de
 holzhauserschuetzenverein.de
 home-shopping24.eu
-withecheer.com
 homefeelings24.de
 homegaden.com
 homekasba.com
-homelectric.shop
 homelectric.shop
 homestore24.net
 homesweeethome.de
@@ -3483,6 +3459,7 @@ homesweethome.de
 homoeopathie-praxis-kassel.de
 homondo.de
 hondrogel.com
+hondrogel.site
 honikel-fotografie.de
 honky-tonk-linedancer.de
 hoocapgoods.com
@@ -3492,7 +3469,6 @@ horse-n-dog-agility.de
 horsteschment.de
 hosestuff.com
 hospiz-im-ahrtal.de
-serindipiti.com
 hotbitese.com
 hotdealus.com
 hotechnetzteil.de
@@ -3506,25 +3482,30 @@ hotelcristall.at
 hotelinradebeul.de
 hotelnamaskarswm.com
 hotelweinland.at
+hotepurchase.com
 hots-boots.com
+hotshoph.com
+hottosale.com
+hottrendtou.com
 hotuashoes.com
 houmiaomarket.com
-hoursprotect.com
 hoursprotect.com
 houseoftronic.store
 housetdi.com
 houssyn-store.com
 hoverboard-time.com
+how-to-gain-weight-fast.com
 howillbuy.com
 howiotto.com
 hpatsoby.com
 hpdgsmarket.com
 hpm-hanse.de
-outlet2021.com
 hs-mhagen.de
 hs2-amstetten.at
 hsk-west-lothian.de
+hstar.shop
 ht-kraemer.de
+htansys.top
 hubert-glaser-passau.de
 hubertus-rathenow.de
 huda-beautyshop.com
@@ -3557,7 +3538,9 @@ hvbshop.de
 hydropenyaringair.com
 hyeseungtech.com
 hygienisch-frisch.de
+hyper-tech.co
 hypersoftsneakers.com
+hyperstech.com
 hyperztech.com
 hypesneakers.co
 hypnos-esslingen.de
@@ -3565,7 +3548,7 @@ hypnose-enderle.de
 hyybabe.com
 hzwalyshop.com
 i-kaufen.com
-i-kaufen.com
+iai-shop.com
 ialduhaa.com
 iayhanblt.com
 ib-wjertzoch.de
@@ -3614,9 +3597,7 @@ ikarus-flugdienst.de
 ikliklmarket.eu
 ilamparas.com
 ilazlsale.com
-deufiles.com
 illertissen-aktuell.de
-illico.at
 illico.at
 illlucky.com
 ilpuntor.com
@@ -3629,7 +3610,6 @@ imklakal.com
 imko-vom-mandelroeschen.de
 imlulugrace.com
 immerbilliger.eu
-immers-messebau.de
 immers-messebau.de
 immo-scheidl.de
 immobilie-hofstetter.de
@@ -3648,7 +3628,6 @@ imzauberstuebchen.de
 in-irkutsk.de
 incarla.com
 indiaca-sent-scuol.ch
-tomsoju.com
 indie-lampe.de
 inditrain.de
 individuello.com
@@ -3662,6 +3641,7 @@ inetsiteworld.de
 inetzteil.de
 infantmerch.de
 infave.com
+infinite-electronic.de
 infinite-electronics.hk
 infiniteamgazelles.ch
 infinitycarsandshipping.de
@@ -3682,10 +3662,8 @@ inmuju.com
 innaemarket.com
 inno-store.com
 innocook-pro.com
-innovations-shopping.com
 inselgrill.at
 inshopys.com
-mereutricious.com
 insigniadrivingtour.at
 insolvenzamt.com
 inssquare.com
@@ -3733,6 +3711,7 @@ isa-verbund.de
 isabel-cardoso.de
 isabelhumpert.de
 isabeliris.com
+isabella-wodecki.de
 isabellefaivre.com
 isarschau-landau.de
 isdn-discount.de
@@ -3750,13 +3729,11 @@ isu-pinnacle.com
 isuttoy.shop
 it-dienst.at
 it-neues.de
-hirdiscount.com
 italiadesigns.com
 italiaworldwide.com
 itc-schwarz.de
 itcloth.net
 iteck-shop.com
-specutrums.com
 iteshop.top
 ithreel.com
 itkonsulenten.at
@@ -3765,6 +3742,7 @@ itrojmarket.xyz
 itseedr.com
 itvinas.com
 itxegoods.com
+iubqx.com
 iued.ch
 iunicum.at
 ivrose.com
@@ -3772,6 +3750,7 @@ ivumo.de
 iwenudesign.ch
 iwum-consulting.de
 iyoueu.at
+izebua.com
 izhchstore.com
 izidress.at
 izidress.de
@@ -3799,7 +3778,6 @@ jasminfashionshop.com
 jasminrapior.de
 jastella.at
 jasvins.com
-jasvins.com
 jayzrastore.com
 jazzdance-freiburg.de
 jazzworlddj.com
@@ -3809,6 +3787,7 @@ jbizweb.com
 jc-frauenstein.de
 jc-h.de
 jc-prozesse.de
+jcpenneychy.com
 jdaysale.top
 jdfashionstore.com
 je-marketing.de
@@ -3834,7 +3813,6 @@ jfgea06.de
 jfoodboy.com
 jfriendme.com
 jfszwstore.com
-jfszwstore.com
 jh-baumarkt.de
 jh-design.fr
 jhnlrjx.com
@@ -3843,7 +3821,6 @@ jimboo.de
 jin-shin-jyutsu-euskirchen.de
 jingrev.com
 jjbuying.com
-jjshouse.com
 jjshouse.com
 jlogihelgu.com
 jmstv-ablehnen.de
@@ -3859,14 +3836,13 @@ joerg-hoeller.de
 joey-store.com
 joeygo.com
 johacngoods.com
-johacngoods.com
 johannwessels.shop
 johncassese.com
 johnghoops.com
 jointchoice.com
+jojolikes.com
 jojolook.com
 jokeldeals24.com
-jolineya.com
 jolineya.com
 jollyinstyle.com
 jomaxa.com
@@ -3931,6 +3907,7 @@ jusosrosenheim.de
 justchillincampers.co.uk
 justdesign.shop
 justin-mps.de
+justtoshopnow.com
 juwelier-beck.at
 juwelier-m-blome.de
 juxqog.com
@@ -4056,14 +4033,7 @@ katydiddesigns.co.uk
 kauaihealthtraining.org
 kauf-electronics.com
 kauf-spielkonsolen.de
-classic4ustyle.com
-product4cheap.com
 kaufen-markt.de
-brandusale.com
-kilianm.at
-mode-friedl.at
-prestige-car.at
-synagoge.at
 kaufenbilligschuhe.de
 kaufhaff.com
 kaufhalle-shop.de
@@ -4102,6 +4072,7 @@ keltenfreunde-asperg.de
 keltenheuriger.at
 kelvinshop.de
 kenbagsshop.com
+kendricklouis.com
 kenjukate-mtk.de
 kennel-mount-apple.at
 kennelschmengerbasket.de
@@ -4109,7 +4080,6 @@ kennelschmengersandalen.de
 kennelundschmengersandalen.de
 kentuckyboys.de
 kepbarb.com
-firstorea.com
 kerawerk-matzen.de
 kernversichert.de
 kerstin-sonderkamp.de
@@ -4136,13 +4106,13 @@ kiesersportonline.com
 kiga-bonifatius-schnaitheim.de
 kikasdierenjungle.nl
 kikimini.com
+kilianm.at
 killtecallstyle.com
 kinderarzt-sprockhoevel.de
 kinderbetreuung-hemmoor.de
 kindergarten-tarmstedt.de
 kindergartenverein-traunreut-ev.de
 kinderinsel-rosenheim.de
-kindertierwiese.de
 kindertierwiese.de
 kindertrikot.com
 kindertroedel-katzem.de
@@ -4152,9 +4122,9 @@ kinderwagenoutlet.com
 kinderwortschaetze.de
 king-electronics.de
 king7seven.com
+kingcdiscounts.com
 kings-electronic.shop
 kings-electronic.store
-kingseven-shop.com
 kingseven-shop.com
 kingsevensunglasses.com
 kinzokusteel.com
@@ -4167,7 +4137,6 @@ kirschgruen-berlin.de
 kirsten-bey.de
 kirtorf-wahlen.de
 kiss-reklame.ch
-goodusale.com
 kistner-handel.de
 kit-tech.eu
 kita-fahrzeuge.de
@@ -4186,7 +4155,6 @@ kiyomina.com
 kkgtechnik.de
 kkicinter.com
 kkmacgoods.com
-kkmacgoods.com
 kkmodern.com
 kl-westerntraining.de
 klangwege.at
@@ -4199,10 +4167,8 @@ klaucke-wohndesign.de
 klaus-goldbach.de
 klausen-elektroniks.com
 klefenz-baumarkt.de
-newforbrands.com
 kleidbox.com
 kleidchenfee.at
-aboutsfashion.com
 kleimer.net
 kleine-geile-firma.de
 kleine-wunder.de
@@ -4233,6 +4199,7 @@ knast-ag.de
 knhomtoan.com
 knightsgoneby.co.uk
 knipsding.de
+knitwearwell.com
 knochendoc.at
 knoefdesign.de
 koalasale.com
@@ -4240,13 +4207,11 @@ koch-handel.at
 kochnelda.de
 kochnomarket.com
 kochsalon.at
-steinraum.at
-wartburg-graz.at
+kock-am-brink.de
 koichat.de
 kokoloro.de
 koktelsale.com
 kolbe-energiearbeit.at
-thepersistentvisualist.com
 kollmann-handel.de
 kollwitz-forchheim.de
 komet-arsten-2001er.de
@@ -4264,6 +4229,7 @@ konsale-konsolen.com
 konsole-markt.de
 konsole-war.de
 konsolen-club.de
+konsolen-gmbh.com
 konsolen-guru.de
 konsolen-kobold.de
 konsolen-kost.net
@@ -4284,12 +4250,10 @@ konzentrationstraining-regensburg.de
 konzept-raum.de
 konzert-ohne-dichter.de
 koogoshop.com
-lovebugllc.com
 kopfhoerer-musik.de
 kornelia-super-markt.de
 koronkastore.com
 korrekturbuero.at
-niceniceshop.com
 korwerner.de
 kosmetiksalon-bildschoen.de
 kosmetiksalon-sellner.de
@@ -4333,7 +4297,6 @@ ksatamel.com
 ksc-wirges.de
 kscboeblingen.de
 ksemuacod.com
-ksemuacod.com
 ksk-in-berlin.de
 ksutora.com
 kswfp.top
@@ -4341,7 +4304,7 @@ ktcommunity.de
 ktestwys.com
 ktg-frischedienst.de
 ktornado.com
-clubestyle.com
+kuaicmn.com
 kubexcel.de
 kubikgs.de
 kuchenversum.de
@@ -4354,7 +4317,6 @@ kuechenju.net
 kuechenkings.de
 kuechenratio.de
 kuechenstudio-unger.de
-xn--khlschrank-galerie-m6b.com
 kuihmall.com
 kuitego.com
 kulander.de
@@ -4391,6 +4353,7 @@ kzemtra.com
 kzentyka.com
 kzultrack.com
 kzvb192.de
+la-class.com
 lab-control-hannover.de
 labiclstore.com
 lachance-hn.de
@@ -4401,6 +4364,12 @@ ladieschannel.de
 ladolcevita-bremen.de
 ladtemgoods.com
 lady-coat.com
+ladybystyle.com
+laf-buy.com
+laf-mall.com
+laf-pub.com
+laf-shop.com
+laf-store.com
 lagbzo.com
 lagis.shop
 lagoatrekking.com
@@ -4408,9 +4377,7 @@ lagom-skandinavia.de
 laguna-asslar-ballonteam.de
 lagunaspa.de
 lagunitafilms.com
-favoriteubrands.com
 laimka.de
-favoriteubrands.com
 lakally.com
 lakebici.com
 lakeridgemath.com
@@ -4422,6 +4389,7 @@ lalicatagioielli.it
 lalipton.com
 lambert-elektro.com
 lamena.de
+landchi.com
 landelektro.de
 landeoo.com
 landidyll.at
@@ -4457,7 +4425,7 @@ lastminute-flug-reisen.de
 lastminute-kaiser.de
 lastore.net
 lat-onlineshop.com
-summershoesbuy.com
+latestontrends.com
 latitude26.ch
 lattena.de
 lattenknaller-awb.de
@@ -4468,7 +4436,6 @@ laufen-in-jork.de
 launch-h2020.ch
 laurenede.co
 lautre1eraout.ch
-kendricklouis.com
 lava-muc.de
 lavida-weingarten.de
 lavinto.de
@@ -4483,13 +4450,13 @@ lcwa-possibilities.com
 ldemobul.com
 leadsale.eu
 leadwoodu.com
-leadwoodu.com
 learn-german-faster.de
 learnayr.com
 learningtowers-und-mehr.de
 learntodrivetameside.com
 leasecrets.com
 lebchen.com
+lebeautark.de
 lebedeineeinstellung.de
 lebensart-hainholz.de
 lebensberatung-bayern.de
@@ -4542,8 +4509,8 @@ levarmarket.com
 levas24.de
 level-markt.com
 levousok.com
-hirdiscount.com
 lewiatan24.de
+lfidsor.com
 lfimicc.com
 lfs-neusiedl.at
 lg-neumarkt.de
@@ -4553,19 +4520,19 @@ liammode.com
 libertyonlinee.com
 liborihof.de
 licht-hof.at
-shopadisale.com
-goodusales.com
 lichtkontraste.at
 lichtling.de
 lichtme.com
 lictor-band.de
 lieb-schafft.de
+liebefotosocken.com
 liebehaus.de
 liebekleidung.de
 liebem.de
 lieberg24.com
 liebesfreud.de
 liebeskindtaschenberlin.de
+liebeskleidung.de
 liebesnotiz.de
 liebestiefel.com
 lieblings-dealz.com
@@ -4582,10 +4549,10 @@ lifemymall.com
 lifestyle-leder.de
 lifestyle-medikamente.com
 lifeworks-munich.de
-thepersistentvisualist.com
 lightersale.com
 lightluxurybags.com
 lightminds-shop.de
+lightoping.com
 lightstorm-shop.at
 like-a-virgin.at
 likelymore.com
@@ -4646,16 +4613,10 @@ logoutev.de
 logservice-hamburg.de
 lohnes-elektro.de
 lohnmall.xyz
-laf-pub.com
 lokklo.com
 lolitors.com
 lomindo24.de
 lomiq.de
-nicetoby.com
-boutiqueushop.com
-lightoping.com
-purchses.com
-simplekhoj.com
 lookslikesummer.com
 looktia.com
 looprita.com
@@ -4669,6 +4630,7 @@ loseschatz.de
 lottalovee.com
 lotterony.com
 louisvuittonsalzburg.eu
+lovebugllc.com
 lovecroxley.co.uk
 lovelyy2020.com
 lovemarka.com
@@ -4696,7 +4658,6 @@ luckylike.net
 luckysissi.com
 luculius.de
 lucybreeze.com
-lucybreeze.com
 ludewig-fa.de
 ludwig-therese.net
 luekewagner.de
@@ -4710,6 +4671,7 @@ lululike.com
 lumiere-commerce.com
 lumilights.de
 luminzowatches.com
+lunaleder.com
 lunavelvets.com
 luno-festival.at
 lunte-kauf.de
@@ -4721,11 +4683,11 @@ luvdaleschool.com
 luvpatient.com
 luvpear.com
 luxedose.shop
-luxedose.shop
 luxfashion.uk
 luxishop.de
 luxovo.shop
 luxury-shop.at
+luxurylandss.com
 luxuryset.cc
 luxurystyleworld.com
 luxuryweek.co
@@ -4738,6 +4700,7 @@ luxybeautyus.com
 luxzia.de
 luxzio.de
 lv-angebote.de
+lvsevnas.com
 lvsstore.com
 lvzrb.com
 lypse.de
@@ -4745,8 +4708,6 @@ lyricsunf.com
 m-eureka.com
 m-paycard.de
 m-wanted.at
-milanoo.com
-sroyiglobal.com
 m1-essen.de
 m3-markt.com
 mabuseller.shop
@@ -4771,7 +4732,6 @@ maennerchor-neuhaus.de
 maerchenzauberspessart.de
 maeusekurier.de
 mafn.de
-thepersistentvisualist.com
 magiczoomco.com
 magik-all.com
 magito-welt.de
@@ -4784,10 +4744,10 @@ mahlwerkpoint.de
 mahlwerkprofi.de
 mahohonshop.com
 maikstiehler.de
+mailtaube.at
 mailtix.de
 maimyched.com
 mainelng.com
-konsolen-gmbh.com
 maisondusport.ch
 maisonvalentinagroup.com
 majabruns.de
@@ -4810,7 +4770,6 @@ malereikopie.de
 malermantei.de
 malermeister-neuenkirchen.de
 malibucoastal.co
-aacan.site
 malovi.de
 malschule-usedom.de
 maltipoowelpen.com
@@ -4825,7 +4784,6 @@ mangold-band.de
 mangold-immobilien.de
 manorwoodestates.com
 manske-technik.com
-manske-technik.com
 mansonia.de
 manuela-berg.de
 manuelahaeckel.de
@@ -4836,6 +4794,7 @@ maochic.com
 mappviewz.com
 mapquadrat.de
 maps-24.info
+marahuda.ga
 marcandrehaller.de
 marcel-alexander-bemme.de
 marcfelixserrao.de
@@ -4846,6 +4805,7 @@ mareileritter.de
 marello.store
 margithotel.at
 margitnohel.at
+marianneposa.de
 marie-celine-graeber.de
 marinagruber.at
 marinasmusikwelt.de
@@ -4884,7 +4844,6 @@ martega.de
 martensbike.de
 martensgermany.com
 martin-tessmer-bau.de
-martin-tessmer-bau.de
 martin-vieth.de
 martinbranz.de
 martinde.online
@@ -4894,6 +4853,7 @@ martinoandperini.com
 martinsails.de
 martinsnuggles.de
 marveljoy.com
+marvinmartin.de
 marziacorso.ch
 maschineland.com
 maschinen-insolvenzamt.com
@@ -4902,7 +4862,6 @@ masduxw.com
 massivofit.com
 master-shop24.com
 mastercrazymonkey.com
-iai-shop.com
 mathiasbruchmann.de
 mathilda-licht.de
 matofstore.xyz
@@ -4912,7 +4871,6 @@ matthiascrone.de
 matu-reisen.de
 mavputlitz.de
 max-haushalt.de
-cheapudeals.com
 maxacne.com
 maxfrioq.com
 maxi-racing.de
@@ -4924,7 +4882,6 @@ maxxdrinks.com
 maxxi.tech
 maxxipmusic.de
 maybracht.net
-maybracht.net
 mazda-strnad.at
 mazon24.com
 mb-training.net
@@ -4932,6 +4889,7 @@ mbike-jena.de
 mblacktux.com
 mbmsurveyors.com
 mbt-schuhe.com.de
+mbtvon.com
 mbtwien.at
 mbuller.com
 mcadstore.com
@@ -4940,6 +4898,7 @@ mcants.de
 mcdonalds-com.de
 mcfit24.com
 mcmpurse.com
+mcrittter.com
 mcschrauber.com
 mcsovo.de
 mcvddiam.com
@@ -4994,6 +4953,7 @@ mediahardy.de
 mediahelden.shop
 medialo-elektro.de
 medialovers.de
+mediamartinsen.de
 mediamaxi.net
 mediameier.de
 mediamoritz.de
@@ -5015,7 +4975,6 @@ medicine-online.org
 medicpub.de
 medien-raum24.de
 mediendesign-rheine.de
-medienschwarm.at
 medienselbstgestalten.de
 mediesmarkt.de
 medikament24.net
@@ -5036,7 +4995,6 @@ medizin-rezeptfrei.org
 medzcon.de
 meer-seen-mecklenburg.de
 meetingimachten.at
-mega-digitec.de
 mega-digitec.de
 mega-konsolen.de
 mega-manga.de
@@ -5096,9 +5054,9 @@ mento-online.com
 mento-online24.com
 menu-electronics.com
 mepscol.com
+mereutricious.com
 merlin-tonka.de
-merlin-tonka.de
-mersixgoods.com
+meronia.de
 mersixgoods.com
 mesa-maehroboter.de
 messdiener-hoentrop.de
@@ -5147,6 +5105,7 @@ mikelemke.de
 mikenovember.com
 mikuasx.top
 mil-leipzig.de
+milanoo.com
 milea-shopping.com
 milforyou.com
 millionaersuchtfrau.de
@@ -5157,7 +5116,6 @@ mincil.de
 mincmall.xyz
 mindmage.de
 mindshirts.de
-nordstromif.com
 minelice.de
 minikeks.de
 miniwelpen.com
@@ -5171,7 +5129,6 @@ mirnaunterwegs.at
 mischtikalsshowdogs.com
 miscras.de
 miss-pearl.de
-salesvipp.com
 missbrauchhilfe.de
 missbuyin.com
 missmoana.com
@@ -5180,7 +5137,6 @@ missomaoutlet.com
 misterhaushalt.de
 misterjoux.com
 misterui.de
-stoneud.com
 mitbote.de
 mitcrcmall.com
 mittelalter-duernkrut.at
@@ -5200,7 +5156,6 @@ mkleider.de
 mkmallcentre.com
 mlaperu.com
 mlc-shop.top
-mlgatoj.com
 mlgatoj.com
 mlsjy.store
 mlsteinwork.at
@@ -5228,14 +5183,12 @@ modchips24.com
 mode-1.eu
 mode-fans.de
 mode-feeling.de
+mode-friedl.at
 mode-lorenz.de
 mode-paradise.com
 mode-shop-1.de
 mode-stern.com
 mode-top.de
-crazyabuy.com
-crazyabuy.com
-mailtaube.at
 modefee.at
 modefinds.com
 modehaus-oevermann.de
@@ -5371,6 +5324,7 @@ mupdateme.com
 murgtal-baeckerei.de
 murtalevents.at
 murtopia.at
+murusidis.de
 muschner-bedachungen.de
 muscleworldhq.co.uk
 music2ndhand.de
@@ -5416,6 +5370,7 @@ myheartboom.com
 myhome-deals.com
 myhousecouture.com
 myifrit.de
+mykarnikt.com
 mylektro.de
 myligacard.de
 mymodeboutique.de
@@ -5426,6 +5381,7 @@ myrallytime.de
 myschuhe.com
 myselfix.com
 myserenitylaser.com
+myshoplaza.com
 myshopwala.com
 mysneakz.com
 myspirit-berlin.de
@@ -5433,6 +5389,7 @@ mystikkraftmusik.com
 mysuperland24.de
 mywedj.com
 mywhitestrips.de
+myyesrun.com
 myzaehne.com
 n-gel.net
 nabona-media.com
@@ -5445,7 +5402,6 @@ nagelpilzkiller.de
 nahkauf-tecklenburg.de
 nalyamg.com
 namastenova.ca
-laf-shop.com
 namen-los.at
 namgyal-rinpoche-gruppe-deutschland.de
 nanazeit.com
@@ -5454,7 +5410,6 @@ narcopps.com
 narish.at
 nashironline.com
 nastac-bs.com
-laf-mall.com
 nativinstruments.de
 natuerlich-leben-und-heilen.de
 natuerlich-vital-bruehl.de
@@ -5518,11 +5473,9 @@ neueinnovationen.com
 neuer-regio.de
 neues-gruen-fuer-duesseldorf.de
 neueshandy24.de
-queenluckyshop.com
 neuestierschutzgesetz.at
 neuhaus-media.de
 neunotebookakkus.com
-jcpenneychy.com
 neurochirurgie-sadik.de
 neuschuhe.com
 new-chakra.com
@@ -5534,12 +5487,15 @@ newchic.com
 newclothes4u.com
 newcoffee-gmbh.de
 newcollegebeat.com
+newforbrands.com
 newmstyle.eu
 newpostcreek.com
 newselektro-shop.de
 newservice.su
 newsfanshop.com
 newsroomr.com
+newuseason.com
+newvstylish.com
 newwhe.com
 nextepiso.de
 nextwaveband.de
@@ -5555,6 +5511,8 @@ nhakhoeu.com
 nhp-haberland.de
 nicdampier.com
 nicegoodmart.com
+niceniceshop.com
+nicetoby.com
 nichon-de.co
 nicht-von-heise-kopieren.de
 nickel-koeln.de
@@ -5565,7 +5523,6 @@ nidobermannclub.com
 niemann-hardware.de
 niergifts.com
 niesroutlet.xyz
-kendricklouis.com
 nigelbegg.co.uk
 nigsacsale.com
 nikeairmax1gunstig.de
@@ -5600,6 +5557,7 @@ nolanrobertcosmetics.com
 nolla-f.shop
 nolliter.com
 nomi-physio.de
+nonesbuys.com
 noobwatch03.io
 nooknookrecords.com
 nootica.de
@@ -5610,10 +5568,12 @@ norbertfey.de
 norbertkujustrio.de
 nord-hardware.com
 nordfriesenpower.de
+nordic-electronics.de
 nordparka.com
 nordpol-bruecke.de
 nordsee-siemens.de
 nordsee-siemers.de
+nordstromif.com
 nordwestcoupons.de
 noria-media.com
 northern-transport.net
@@ -5658,9 +5618,8 @@ nuterou.com
 nvidiabilliger.de
 nvstroionline.com
 nwgautomotiverepair.com
+nwmuster.de
 nxjgpwr.com
-creaturepuppetgallery.com
-kendricklouis.com
 nyiloveyou.de
 nzcsonline.com
 o-fakes.com
@@ -5670,7 +5629,6 @@ oacw.de
 oakglassessu.com
 obds-seminare.at
 obelisksc1immersion.com
-storealife.com
 oberhaus-terrassen.de
 oberhavel-kultour.de
 oberkehlner.de
@@ -5698,7 +5656,6 @@ oevl.at
 ofarlygoods.com
 ofenbau-torgelow.de
 ofendiscount.eu
-ofendiscount.eu
 officealchemy.co.uk
 officeheros.de
 officesouth.de
@@ -5713,6 +5670,7 @@ officialwheeper.de
 officieldisney.com
 offizielairmax.com
 offiziellchgooses.com
+ofordables.com
 ohdedu.com
 ohenzollern-bilk.de
 ohextrx.com
@@ -5740,6 +5698,7 @@ oldenburger-inlinernacht.de
 oldionline.com
 olivefan.com
 oliver-konz.de
+ollifromtheblog.de
 oluarrgoods.com
 omarklily.com
 omega-tech.store
@@ -5749,14 +5708,14 @@ omgpetse.com
 omicrons.store
 omylinen.com
 onbuyshoes.com
-patagoniaseuonline.com
 oneadweb.com
+onebysales.com
+onebytoone.com
 onecozyday.com
 oneofoneluxury.com
 onepolaroid.com
 oneupyou.com
 ongxunl.com
-oniani-wohnen.de
 oniani-wohnen.de
 onisio.de
 onkelflow.de
@@ -5765,7 +5724,6 @@ online-bags.net
 online-cafe-club.de
 online-mode-1.de
 online-reproduktionvongemalden.xyz
-ajantaphotolab.com
 onlineaccessories.xyz
 onlineapartmentsbooking.com
 onlinebagsales.com
@@ -5784,7 +5742,6 @@ onward.store
 oooh-la-la.co.uk
 oostdamblumen.de
 openloose.at
-nordstromif.com
 operncamp.de
 opiekax.com
 opolysort.com
@@ -5793,7 +5750,6 @@ optik-huschke.de
 optiker-hechingen.de
 optionsn.com
 orangedust.de
-shopbydays.com
 ordoa.de
 oresuco.com
 organicshoppinggoods.com
@@ -5802,6 +5758,7 @@ oricgermany.de
 oriento.at
 original-equipment-partsshop.com
 original-pandora-schmuck.com
+originalbyshop.com
 origo-pep.de
 orpheus-lyra.de
 orschoter-segeln.de
@@ -5833,7 +5790,9 @@ outfitfred.com
 outlet-checkpoint.com
 outlet-fahrradbekleidung.de
 outlet-verkauf.com
+outlet2021.com
 outlet4fitness.com
+outletstore2020.net
 outlettruereligionjeans.de
 outmanlets.com
 outonworld.com
@@ -5845,17 +5804,14 @@ oylerhof.de
 ozancity.com
 p-andernach-geigenbau.de
 p-bau.at
-p-bau.at
 packagekun.com
-theicoin.com
-tm5-ag.com
 paerdstall.lu
 paidpressrelease.com
 paiutesmarket.com
+pakabd.com
 paketmann.de
 palastdertoene.de
 palazzo-wien.at
-specutrums.com
 palmangelshop.com
 palmangelsshop.co
 palmepalme.de
@@ -5863,8 +5819,6 @@ palumwi.de
 pamego.de
 pan-appetit.at
 panamera-chihuahua.de
-storytion.com
-pandoo-store.com
 pandoo-store.com
 pandooshop.com
 pandoraberlin.de
@@ -5893,6 +5847,7 @@ parajumpersjacken.at
 paralog-journal.at
 paranormalactivity-film.at
 parasenso.de
+parazax.com
 pariter-med.de
 paritybags.com
 parkakaufen.eu
@@ -5912,12 +5867,15 @@ pass-blues-op.de
 passamera.de
 pastis-berlin.de
 patagoniaeuoutlet.com
+patagoniaseuonline.com
+patagoniashopz.com
 paten-fuer-fluechtlinge.de
 patriciakafka.de
 patrickkager.at
 patriziabitter.at
 pavaykamall.com
 paviaelectric.com
+pawppithouse.com
 pawzzis.com
 pax-tours.com
 pbb-ev.de
@@ -5935,7 +5893,6 @@ peacebiking.de
 peaksrill.com
 pearlfeet.de
 pearlyo.de
-pearlyo.de
 peboar.de
 pedelec-discount24.de
 pedelecs-store.com
@@ -5943,7 +5900,6 @@ peekachill.com
 peggylampel.at
 pellucidy.com
 pelzfreies.de
-soutuhern.com
 pendler-podcast.de
 penell-gmbh.de
 pension-ariane-berlin.de
@@ -6017,6 +5973,8 @@ physio-ramminger.de
 physio-uibel.at
 physiome.at
 picto-plasma.de
+pictureperfectstore.top
+pidri.de
 piebear.com
 pieofke-kuenstlermanagement.de
 pierrebuy.de
@@ -6029,12 +5987,13 @@ pindella.de
 pindocart.com
 pinkkola.com
 pinkni.com
+pinkvipshopon.com
 pinoybalut.com
 pinpanb.com
+pinvige.com
 pipa-dongya.de
 pir-gmbh.de
 piranha-games.de
-fastshoesbuy.com
 pitchfork.ch
 pitebowling.se
 piufashionlook.com
@@ -6056,12 +6015,12 @@ platinum-projects.de
 platioshop.com
 platons-gyros-paradies.de
 playsdom.com
-spielzu.com
 playstation24.de
 playstation4-online.co
 playstation4-online.com
 playstationbilliger.de
 playstationstore24.com
+playuniverse24.com
 pleasurelounge.at
 plhnd.com
 plichter.com
@@ -6079,12 +6038,12 @@ pnosetr.com
 podolo24.de
 podologie-morhard.de
 pods-tech.com
+poeme-image.at
 poeticat.co.uk
 pointhotel.at
 pointsaver.de
 pokk.fun
 polenboeller-deutschland.com
-xn--polenbller-deutschland-zhc.com
 poliertechnik-bindzau.de
 polkadotcakes.ca
 pollymo.com
@@ -6107,10 +6066,8 @@ poptest.xyz
 populily.com
 popuor.com
 popwelle.com
-cheneycaravanofcourage.com
 portal-fuer-pferde.de
 portriverhotel.de
-pinkvipshopon.com
 post-hasser.de
 posten-waren.de
 posthorn-eck.de
@@ -6118,7 +6075,6 @@ potenz-kaufhaus.de
 pottcorn.de
 potz-electronics.de
 potzblizz.com
-designerustyles.com
 poussette-royalbaby.com
 powersol.de
 powersports-witten.de
@@ -6158,13 +6114,12 @@ prescotshoppingcentre.co.uk
 presentplus.at
 presidentcheese-promotion.co.uk
 pressearbeit-auf-erfolgsbasis.de
+prestige-car.at
 prestigeuhren.eu
-brandtood.com
 pretty-woman-bramsche.de
 prettylittlesummer.at
 prettyshirt.shop
 previmascolombia.com
-starvcustoms.com
 prietz-bau.com
 prillenium.de
 primehyp.de
@@ -6172,20 +6127,17 @@ primeprice24.de
 primeshe.com
 primetime-artist-management.de
 print-controlling.at
-print-controlling.at
 printlive-app.de
-creaturepuppetgallery.com
 prismmall.xyz
 privado-mallorca.com
-privatefloor.com
 privatefloor.com
 privatetutoringdirectory.com
 privatkellerei-hochleitner.de
 pro-konflikt.at
 probudz.co
 procureshoes.com
+product4cheap.com
 productsfromjapan.store
-classic4ustyle.com
 professor-jakubasch.de
 profi-gartenschlauch.de
 profimatics.de
@@ -6202,6 +6154,7 @@ promatrixplus.com
 promdressesshop.com
 prometheus-kummerer.at
 promotionalaccessories.xyz
+promotioncarnival.com
 pronb.de.com
 pronewbalance.com.de
 pronewbalance.de.com
@@ -6215,6 +6168,7 @@ prymuseducation.co.uk
 ps-vs.de
 ps4-deutschland.com
 ps4-hoffmann.com
+ps4-ug.com
 ps4online-gmbh.com
 ps5bestellen.de
 psg-neckarelz.de
@@ -6225,7 +6179,6 @@ psychotherapeutische-beratung-mettingen.de
 psyges.de
 public-wa.de
 pufftops.com
-deufiles.com
 pullach-evangelisch.de
 puma-fenty.com
 puma-promotion.com
@@ -6233,12 +6186,11 @@ pumaschuheonline.at
 pumasportschuhe.de
 pumawholesaleretail.com
 pundtspedition.de
-buyonuonline.com
-product4cheap.com
+punkrave.ch
 purasaft.de
+purchses.com
 purelywave.com
 pushupcode.com
-laf-buy.com
 putraautomotive.com
 puuringoods.com
 pwrdsport.com
@@ -6264,25 +6216,20 @@ qhoneywax.com
 qinfoweb.com
 qiundgong.at
 qjusthits.com
-qjusthits.com
 qnovintax.com
 qooboo.de
 qrdera.top
 qsaney.com
 qualitaro.online
-dubaieguide.com
-dubaieguide.com
-dubaieguide.com
+qualiutative.com
 quartercamp.de
 quboo.de
 queeneva.com
 queenieito.com
+queenluckyshop.com
 queliposo.com
 quesant.de
 quilt-anleitungen.de
-knitwearwell.com
-salemarketshops.com
-wearsaletobuy.com
 quso-haushalt.shop
 quyetourq.xyz
 qvipteam.com
@@ -6294,11 +6241,6 @@ ra-herbst-semmler.de
 ra-hube-berlin.de
 rabataa.com
 rabatoo.com
-besttshopping.com
-feenladen.at
-luxurylandss.com
-styleusummer.com
-vipluckyshop.com
 rabatt2.com
 rabatt4dich.com
 rabatteundcoupons.de
@@ -6321,7 +6263,6 @@ radsport-rosshaupten.de
 radsportbekleidung.net
 radtreff-tennenbronn.de
 radtrikot2015.com
-xn--radtrikotgnstig-8vb.com
 rae-boehner-miebach.de
 rahulnaidumd.com
 raika-vom-gut-lethe.de
@@ -6398,6 +6339,7 @@ rbdit.com
 rbefashion.com
 rbganze.com
 rbhause.com
+rbhgr.com
 rbjch.com
 rbjnn.net
 rbkauf.com
@@ -6451,6 +6393,8 @@ realchems.de
 realtyelitefla.com
 rebekka-kraft.de
 reborndollsshop.com
+rebornspuppe.de
+recallstore.com
 recettep.com
 rechtsanwalt-berlin-reinickendorf.de
 rechtsanwalt-espey.de
@@ -6458,7 +6402,6 @@ rechtsanwalt-fiore.de
 rechtsanwalt-klett.de
 recouplighting.co.uk
 reczeysale.com
-roemer-schafhausen.de
 redarius-quartie.de
 redcross-schaerbeek.be
 redglad.com
@@ -6527,7 +6470,6 @@ replicauhrenol.de
 replicauhrenonlineshop.de
 rescue-it.online
 rescue-systemhaus.de
-shoptoout.com
 resonateclothing.com
 restaurant-eskadron.de
 restaurant-pools.at
@@ -6542,11 +6484,11 @@ restpostenstar.de
 retrabau.ch
 retrieverwelpen.com
 retro-stage.de
-freehotshoes.com
 retrocyclingtops.com
 retropoint.de
 rettungsdienst-diepholz.de
 reuniersgdeborgen.nl
+reva-shops.com
 reviewjacke.de
 revolosm.com
 revolver-head.de
@@ -6554,13 +6496,11 @@ revster.de
 rextrade.de
 reysanfotografo.com
 rezeptfrei-24.com
-rezeptfrei-24.com
 rezeptfrei-bestellen.net
 rezeptfrei-kaufen.net
 rezeptfrei-shoppen.com
 rezeptfrei.online
 rezeptfreimedikamente.com
-hirship.com
 rghostm.com
 rgrsstore.xyz
 rgssasale.eu
@@ -6582,7 +6522,6 @@ richardjander.de
 richardsfix.com
 richterhandel.eu
 ricos-feldkueche.de
-jcpenneychy.com
 ride-a-bike.bike
 ride-a-bike.club
 ride-a-bike.net
@@ -6635,6 +6574,7 @@ rohrhaus.at
 roibvr.online
 roidsupport.biz
 rolandoos.de
+rollangel.com
 rollerclub-wieselburg.at
 rollerrent-schwabing.de
 rollirugbyloewenleipzig.de
@@ -6651,6 +6591,7 @@ rosengarten-quartett.de
 rosenkrieg-magazin.de
 rosetata.com
 rosheplus.com
+rosiecutie.com
 rosiesdaily.com
 ross-stall-atelier.ch
 rossegger-baumann.at
@@ -6679,7 +6620,6 @@ rtsmotorcycletraining.co.uk
 rubycloth.com
 rubyteand.com
 ruckenstrecker.de
-falltlike.com
 ruckusclothing.com
 rudolf-mayer.de
 rueda-rostock.de
@@ -6727,12 +6667,13 @@ sakimo.net
 salableclub.com
 salach-gestalten.de
 salahksale.com
-outletstore2020.net
-patagoniashopz.com
 saleadidshoes.de
+salemarketshops.com
 salesbikes.com
 salesmartltd.com
 salesnksportsu.top
+salesvipp.com
+saletooffer.com
 salewa-rucksack.de
 salomonam.online
 salomonden.online
@@ -6748,16 +6689,14 @@ salomonspeedcross.at
 salon-tanja.at
 salonnirosha.com
 salsabor.at
-mereutricious.com
+salsalstore.top
 samarsolg.com
 samba-sambuca.de
 sammaw.com
 sammlung-fiede.de
 samona-reitsport.ch
 samsungbilliger.de
-atleisures.com
 sandabody.com
-feenladen.at
 sandalenpantoletten.de
 sandlood.com
 sandrachen.de
@@ -6789,6 +6728,7 @@ sauna-am-wasserturm.de
 sauseschritt-schuhe.de
 savitamedia.de
 sb-waschstrasse-ruck.de
+sballfree.com
 sblu.site
 sbmetal.de
 sboxofart.com
@@ -6799,6 +6739,7 @@ scarill.com
 scarpaeushop.com
 scarpaxshops.com
 schachfreunde-starnberg.de
+schachfuerstenfeld.at
 schaffelle.at
 schalkos.at
 schanfigg.ch
@@ -6843,17 +6784,17 @@ schmuckisland.com
 schnapp-elektro.de
 schnappi-deal.de
 schneefreund.de
+schneeglckchen.de
 schneiderei-samira.de
 schneiderwerbung-meissen.de
 schnell-market.com
 schnellbewertung24.de
 schnellerfuhrerscheinkaufen.de
-schnellerfuhrerscheinkaufen.de
 schnellschlau.at
 schnuffisfashion.de
 schnullerkettenatelier.de
 schnura-macht-was-neues.de
-schoen365.de
+schoeder-kaffe.de
 schoen365.de
 schoenerwinter.com
 schoenheitzzauber.de
@@ -6865,15 +6806,13 @@ schorsch-k.de
 schreibtisch-kaufen24.de
 schreiner-shooting.de
 schreinerei-raum-zeit.de
+schstobuys.com
 schubertiade-salzburg.at
 schuh-buessing.de
 schuh-deals.com
 schuhdemarkt.de
 schuhe-deutschland.com
 schuhe-rabatt.com
-brandsusale.com
-storealife.com
-wein-aus-illmitz.at
 schuhebern.net
 schuhekeen.de
 schuhen-store.de
@@ -6937,9 +6876,10 @@ selfcsmall.com
 selfmademusic-ms.eu
 selina-nails.de
 sellbest.eu
+sellingclothing.com
 selly.gg
+selscoun.com
 semovice.com
-sendlein.net
 sendlein.net
 senio-aktiv-care.at
 senioren-coaching-verlag.at
@@ -6952,16 +6892,17 @@ sepitsale.com
 sepshoe.com
 sepsneakers.com
 serien-sidekicks.de
+serindipiti.com
 serishirts.com
 serkon.at
 server-gsm.com
 servicebuero-jaehrling.de
 sesahof.at
 sfansan.com
+sg-host.com
 sgifashop.com
 sgm-lindenberg1.de
 sgt-sonic.store
-hirship.com
 shalimar-freiburg.de
 shapeoil.com
 shara-shantie.de
@@ -6971,6 +6912,7 @@ shdjjdonline.com
 shebeautys.com
 shedroffassociates.com
 sheheaven.com
+shein.com
 sheinse.com
 shelff.de
 shiatsu-in-regensburg.de
@@ -6986,7 +6928,6 @@ shoesmegastore.com
 shoesmeshe.com
 shoesoutleteu.com
 shoespie.com
-shoespie.com
 shoess.eu
 shoessee.com
 shoesuk365store.co.uk
@@ -6995,29 +6936,24 @@ shop-for-livingart.de
 shop-mechanic.com
 shop-preisking.de
 shop-schuh-online.com
-darkbodybuilding.net
-happy-shopping.co
-hyper-tech.co
-hyperstech.com
-iubqx.com
-nordic-electronics.de
-strato.de
 shopaa.eu
+shopadisale.com
 shopanera.com
 shopaya.net
 shopbird.de
 shopbootsonline.com
 shopbopp.com
+shopbydays.com
 shopcases.eu
 shopclothingvip.com
 shopdaa.me
-shopeeline.com
 shopeeline.com
 shopelectronik.com
 shopeplace.com
 shoperando.com
 shoperazo.com
 shoperez24.com
+shopfordis.com
 shopinado24.de
 shopinga.de
 shoplifetime.eu
@@ -7037,10 +6973,10 @@ shoppyglobe.com
 shops-tech.eu
 shoptesta.de
 shoptime.work
+shoptoout.com
 shopuniquemarket.com
 shopuup.com
 shopvn.de
-vejaoutfit.site
 shopywgsck.tw
 shopzanda.de
 shopzge.com
@@ -7055,7 +6991,6 @@ shushoku-seiko.com
 siambluegreen.com
 sicheres-modding.com
 siclothingonline.com
-commandoll.com
 sidoro-kosmetik.de
 siebenklar.de
 sieclothes.com
@@ -7081,6 +7016,7 @@ simondroissart.be
 simone-siegmann.de
 simonleinen.de
 simoro.de
+simplekhoj.com
 simplexe.co
 sinas-kinderwunderwelt.de
 sinergiabenessere.it
@@ -7090,16 +7026,17 @@ sipdoshop.com
 sirmonline.it
 sismomexq.com
 siyaysf.com
+sj-steyr.at
 sjanryn.com
 sjtzvhsale.com
 sjumbooz.com
-sjzxdfmall.com
 sjzxdfmall.com
 sk-biografien.de
 skateheadclothing.com
 skawdi.com
 skecherseu.com
 skechersneue.at
+skechersosterreich.at
 skeptischeecke.de
 skikreiscalw.de
 skill-tools.com
@@ -7116,10 +7053,9 @@ skyllonline.com
 skymorogoods.com
 skyper.at
 slanzashop.com
-favoriteubrands.com
-giftshopuon.com
 sleepcloud.eu
 sleepcloud.store
+slimdangdoo.com
 slimming-therapy.eu
 slirejstore.com
 slmsha.com
@@ -7135,7 +7071,6 @@ smart-heaven.store
 smart-house24.de
 smart-shop24.net
 smart-tech24.store
-disucerns.com
 smart4home-hameln.de
 smartermin.com
 smarterphonestore.com
@@ -7157,8 +7092,7 @@ smoktop.com
 smxrt.de
 smyonmyo.com
 sn-co.at
-sneaker2020a.com
-sneaker2020a.com
+snackit.at
 sneaker2020a.com
 sneakergirlsblog.de
 sneakersadi2018.com
@@ -7171,7 +7105,6 @@ snowbootat.com
 snowbootsaut.com
 snowgear.com
 snugkicks.com
-stroplgng.com
 soccercoachmagdy.at
 soccergreet.com
 socksworks.com
@@ -7180,6 +7113,7 @@ soesterknott.de
 sofa-sauber.com
 softonlineshop.com
 software-outlet24.de
+sokatech.de
 soko-logik.de
 solanamall.com
 solar-electronics.de
@@ -7194,8 +7128,8 @@ solsport.de
 somainja.de
 somar.at
 somecdeeloro.com
-buyonuonline.com
 sommerdeal24.com
+somuchstobuy.com
 sonderposten-hoffmann.de
 sonderposten-merzig.de
 sonderpostenlager.eu
@@ -7227,11 +7161,11 @@ soundtrackmusic.de
 soundwelt-outlet.com
 southbankdirectory.co.uk
 southeastern.site
+soutuhern.com
 sovyo.de
 sowaswillichauch.de
 spa-vienna.at
 space-electronic.de
-la-class.com
 spainpolen.de
 spar-handys.de
 spar-tastisch.de
@@ -7254,7 +7188,8 @@ spd-ruhrort.de
 spd-viernheim.de
 special-sports.at
 specialbagstore.com
-terkbike-store.com
+specialsalecheap.com
+specutrums.com
 speedcubekaufen.com
 speedlixs.com
 speedskating-salzburg.at
@@ -7270,14 +7205,15 @@ spielen-ohne-strom.de
 spielend-teilen.de
 spielerei-am-schloss-shop.de
 spieletempel.net
+spieleu.com
 spielfreude-mohr.de
 spielkreis-bubbles.de
 spielzeit-muenchen.de
-newvstylish.com
 spielzeugbaum.de
-aboutsfashion.com
+spielzu.com
 spikes-tech.com
 spirelove.com
+spiritflower.at
 spiritualbooks.de
 spiritualwindy.com
 spitzepoch.de
@@ -7295,7 +7231,6 @@ sport-monkey.de
 sport-motschnigg.de
 sport-physiobitburg.de
 sport-titan.de
-daselfchenjosephine.at
 sport24.world
 sport4friends.store
 sportalm-kirchschlag.at
@@ -7332,6 +7267,7 @@ spybotp.com
 sqoorsuul.com
 sr-mode.de
 srimatay.com
+sroyiglobal.com
 ssc18.at
 ssitreuhand.de
 ssmrvmarket.com
@@ -7345,7 +7281,6 @@ stadtboks-shop.de
 stadtmuehle-babenhausen.de
 stagebugs.de
 stahlsucht.de
-giftshopu.com
 stairsmarket.com
 stamm-jda.de
 stamm-luetzow.de
@@ -7364,6 +7299,7 @@ starrysky-watches.com
 starshopping24.store
 starth.ch
 startinup.de
+starvcustoms.com
 staseklicht.at
 statuskelidmode.de
 staub-profis.com
@@ -7383,6 +7319,7 @@ steinadler-sport.de
 steinberg-handel.de
 steiner-jus.de
 steini-blog.de
+steinraum.at
 steintherm-marburg.de
 steinwerkstaette-koeln.de
 stellplatz-sachsen.de
@@ -7401,10 +7338,8 @@ steuerberatung-heinemann.de
 steuerfrei-shoppen.com
 stevesahara.de
 stickcars.de
-specutrums.com
 stickmanufaktur-weserbergland.de
 stickynotesoftware.com
-trendyshopvip.com
 stiftland-event.de
 stile220.com.au
 stilgestalten.de
@@ -7420,18 +7355,23 @@ stoffenq.com
 stoffland-berlin.de
 stoffshop.eu
 stolz-auf-linz.at
+stoneud.com
 stonnab.com
 stop-oder-go.de
 stopplastik.de
+store2021.net
+storealife.com
 storeaustria.com
 storebrandbags.de
 storeguest.com
 storetrading.com
 storytelling-muenchen.de
+storytion.com
 strahlemannrockt.de
 strahlfeind.de
 stralsunder-taxi.de
 strategieberatung-kmu.de
+strato.de
 stravisio-pflege.de
 streetdesign-motorradtechnik.de
 streetluge-austria.at
@@ -7444,12 +7384,12 @@ stromboli-asi.at
 strompreis-kassel.de
 stromstadsif.se
 stroopwafelpost.nl
+stroplgng.com
 sts-kleintransporte.de
 studiocarlina.com
 studioy.de
 studydeed.com
 stunight.com
-elektronik-gmbh.com
 stwhitemall.com
 style-sensation.com
 style-shoponline.com
@@ -7461,6 +7401,7 @@ styleiu.com
 stylelinth.com
 styles-shopping.com
 stylesofmen.de
+styleusummer.com
 stylishpant.com
 subniceshop.com
 subtherm.de
@@ -7472,6 +7413,8 @@ suemalls.top
 suesschen.com
 suessleben.com
 sukainn.com
+summerbuyhot.com
+summershoesbuy.com
 summmmmer.com
 sunbeatz.de
 sundr.at
@@ -7508,7 +7451,6 @@ susanlamb.de
 susanne-orth.de
 susiess.com
 suukenmarket.com
-suukenmarket.com
 suzeful.com
 suzukikranz.de
 sv-alemannia-koeln.de
@@ -7531,7 +7473,6 @@ swhbs.de
 swingo-de.com
 swipewire.de
 swiss-modell-truck-trial.ch
-slimdangdoo.com
 swizzy.de
 swobshop.de
 swr-transportservice.de
@@ -7545,6 +7486,7 @@ syncrotec.at
 synercon-gmbh.de
 synergywenatchee.com
 sys-comp.shop
+systanz.de
 system-ordnung-struktur.de
 systemcads.com
 szepes-lagerverkauf.de
@@ -7575,6 +7517,7 @@ tanzfabrik-wien.at
 tanzschule-weinmann.de
 tanzstudio-poehlitz.de
 tanzstudiosteiner.de
+taogloi.com
 tapebook.de
 tapemedia.de
 tapetenfrosch.de
@@ -7583,7 +7526,6 @@ tarantella-von-der-holderheide.de
 tarinboone.com
 tarlia.de
 tartel-onlinestore.com
-brandudesigner.com
 taschenkaufhaus-24.de
 tatjana-beauty.de
 tattoo-fantastica.de
@@ -7621,13 +7563,13 @@ teambastard.at
 teamclo.com
 teameventbochum.de
 teamtrackspeeduk.com
-teamtrackspeeduk.com
 teamvalleedutrient.ch
 teaprotect.com
 tec-markt-gmbh.com
 tecfreaks.net
 tech-angebot-shop.com
 tech-forest.eu
+tech-fox.de
 tech-land.de
 tech-solutions.store
 tech-space24.de
@@ -7635,6 +7577,7 @@ tech-versand.com
 tech-zone.store
 tech24-area.com
 tech4friends.store
+tech4mation.at
 techeteam.com
 techfield.de
 techkro.de
@@ -7649,7 +7592,6 @@ technik-koehler.de
 technik-mars.de
 technikbucht.net
 technikeule.com
-technikfabrik.store
 technikfabrik.store
 technikfarm.com
 technikfuchs24.com
@@ -7668,7 +7610,6 @@ techtorks.de
 techupshop.de
 techwatch.kaufen
 teck-shopping.com
-teck24-shop.com
 teck24-shop.com
 tecksypro.com
 tecnomari.de
@@ -7690,10 +7631,11 @@ temposchleiferei.de
 tendaisy.com
 tennislover.de
 tennisstueberl-ruhpolding.de
+tennisvillase.com
 tepper-burgwedel.de
 teppichreinigung-berlin-btr.de
 terapixel.at
-terkos.de
+terkbike-store.com
 termidr.de
 termoidraulica.de
 terradays.de
@@ -7721,6 +7663,7 @@ theater-chronos.at
 theaterverein-nd.at
 theatredusoleil.com
 theaustrian.org
+thebestubuy.com
 thebrinx.com
 thebrufios.de
 thecambridgeinstitute-linz.at
@@ -7735,6 +7678,7 @@ thegmbh.de
 thehannashop.com
 thehostj.com
 thehype.shop
+theicoin.com
 theinfinitylight.com
 thejustintime.com
 thekneehighproject.com
@@ -7750,6 +7694,7 @@ theoceanroomsbirmingham.com
 theohrpods.com
 theordinaryme.de
 theos-abholmarkt.de
+thepersistentvisualist.com
 thephones.net
 thephotostick.com
 thepopcodes.com
@@ -7772,11 +7717,8 @@ thesnorkling.com
 thesoleuniverse.com
 thesupersnake.com
 thetransfiguration.co.uk
-weebly.com
 thg.co.at
-bestanseller.com
 thielebuch.de
-thiellashop.com
 thiellashop.com
 think4group.com
 thinkingonofthestage.de
@@ -7792,6 +7734,7 @@ thomassabo-anhanger.com
 thossharpe.co.uk
 thunderbau.net
 thw-jugend-salzwedel.de
+tianustores.com
 tibet-med.net
 tictitle.de
 tidebagsdeal.com
@@ -7832,6 +7775,7 @@ tkgpstore.top
 tkr-foto.de
 tlbblcshop.com
 tlkbaonline.eu
+tm5-ag.com
 tm5-gmbh.com
 tm5-melzer.com
 tm5-sonderverkauf.com
@@ -7860,17 +7804,18 @@ tommyhilfigerde.de
 tomorrowloves.com
 tomovet.de
 tomovie.at
+tomsoju.com
 tonmann.net
 tonne124-traffic.de
 tonspy.com
 tonysshoeshop.top
 tookacogoods.com
-followafashion.com
 toolfreunde.net
 toolshopc.com
 tooltime.store
 top-apotheke.com
 top-hitradio.at
+top-velos.com
 topado.club
 topado.shop
 topanyso.com
@@ -7920,6 +7865,7 @@ transporte-jenshofmann.de
 transporte-wiesbaden.de
 transporter-footwear.com
 trapixo.de
+trashcult.de
 traum-deko.de
 traumanau.at
 traumeinrichter.net
@@ -7947,12 +7893,11 @@ trendswa.com
 trendy-gadgets.net
 trendy.to
 trendypreis.de
+trendyshopvip.com
 trestasty.de
 tretrollerladen.de
 treyuwd.top
 tribosmarket.com
-tricrestg.com
-tricrestg.com
 tricrestg.com
 triennalebag.com
 trif.ch
@@ -7971,6 +7916,7 @@ trojaweb.de
 tronicoase.de
 tronictempel.de
 tropical-expert.eu
+truefind-shop.com
 trustrank.com.au
 trustypapership.com
 truuly.de
@@ -7981,13 +7927,12 @@ tsunami-sports.de
 tsv-noechling.at
 tsvansbachpiranhas.de
 ttp-bc.de
+tubaxx.com
 tucsononevisitcrowns.com
 tufast-sem.de
 tuffio.de
 tuioc.com
 tulvgbolle.de
-justtoshopnow.com
-callmehats.com
 tuntelimem.de
 turismilab.it
 turm-spellen.de
@@ -8006,6 +7951,7 @@ tvsale24.com
 twinkledeals.com
 twosisterssalonandspa.com
 twovillas.com
+typo-vision.de
 u18-volleyballdm-berlin-2015.de
 u20-poetryslam-kassel.de
 uartelatz.com
@@ -8043,16 +7989,15 @@ ultrasshop.top
 uma-pritzwalk.de
 umanatic.de
 umitkayailemoda.com
+umozu.de
 umshopp.com
 umziehen-heppenheim.de
 umziehen-in-europa.de
 umzug-moedling.at
 unbxuncyshop.online
 undaylilyshop.com
-specutrums.com
 undnach.de
 unendliche-begrenzung.de
-kendricklouis.com
 unikaefer.de
 uninight.at
 unique-print.de
@@ -8063,9 +8008,11 @@ unodocsale.com
 unser-odenwald.de
 unsertheater.ch
 unterm-tannenbaum.de
+unternehmer-2014.de
 untertnke.com
 unterwasserkunstwerke.de
 upart4.at
+upcomingmall.top
 uplifeaccessories.xyz
 uploadbarcelona.es
 upservices.de
@@ -8087,12 +8034,12 @@ urlaubsangebote-grenzenlos.de
 urlyaobose-gq.tk
 urperfit.com
 urumantu.de
-eacnmnv.top
 usacamper.net
 usantluxe.com
 usarbuusa.com
 usbsticksde.com
 uscnmarket.com
+useaz.online
 usoakley-shop.com
 usupa.eu
 usv-lamprechtshausen.at
@@ -8113,7 +8060,6 @@ vacioy.com
 vafanysale.com
 vakilfeyzr.com
 valanie.de
-valanie.de
 valentinowerk.com
 valepina.de
 valiozo.co
@@ -8125,11 +8071,11 @@ vanekautos.nl
 vanhoozer.ch
 vanilleah.at
 vanmarco.at
+vano-media.com
 vanssale.de
 vansschuhe.at
 vapoworld.de
 vaschoen.com
-vateli.de
 vateli.de
 vaude-rucksack.de
 vaudefrance.fr
@@ -8139,16 +8085,15 @@ vaymuanham.com
 vbkuschel.de
 vbltrade.top
 vc-hoevelhof.de
-how-to-gain-weight-fast.com
 vd-mediendesign.de
 vdd-osnabrueck.de
 vebreezz.com
 veddel-sport.de
 vedhastech.com
 veduco.de
-12streetwings.com
 veganfoodie.de
 vegettye.com
+vejaoutfit.site
 vejasstore.club
 velatempo.com
 veloberlin.de
@@ -8167,6 +8112,7 @@ vera-etterich.de
 veranio.de
 veras-kindermoden.de
 verda-maehroboter.de
+vereck.at
 vergoetschnerhof.at
 verhaltenstherapie-schmitten.de
 verkehrsrechtskanzlei-landshut.de
@@ -8182,6 +8128,7 @@ versandhandel-saupe.com
 versandhandel-wenzel.de
 versandhaus-beck.de
 versandhaus-erlt.com
+versandhaus-frehn.de
 versandhaus-hartmann.com
 versandhaus-krausch.de
 versandhaus-lange.com
@@ -8210,7 +8157,6 @@ vetter-elektro.com
 vevor.de
 vezzono.eu
 vfl-kassel-98er-jahrgang.de
-unternehmer-2014.de
 vgofrero.com
 vhelicon.com
 vibeioshop.com
@@ -8222,14 +8168,11 @@ victorpillac.com
 vidamon.at
 vidasimples.de
 videofilm-reinhardt.de
-queenluckyshop.com
 viennagroup.at
-vierwunder.de
 vierwunder.de
 vilimartinmode.de
 villafroschkoenig.de
 villagersatwar.co.uk
-viluro.de
 viluro.de
 vimabel.de
 vinalingerie.fr
@@ -8247,8 +8190,8 @@ vipat.co
 vipde.co
 vipggbf.pw
 vipkickz.com
+vipluckyshop.com
 vipreplica.de
-gzltoys.com
 vipsski.com
 vision-erfolg.de
 visiopreneur.de
@@ -8269,7 +8212,6 @@ vivib.de
 vivilass.com
 vize-fcb.de
 vklipha2012.de
-holycrossmoravianchurch.com
 vltl.at
 vlw-bbg.de
 vmove.ca
@@ -8286,11 +8228,9 @@ voguefire.co
 voguehere.com
 vogueinn.com
 vogueinus.com
-vogueinus.com
 voguemark.ca
 voguemark.co
 voguetourstore.xyz
-unternehmer-2014.de
 volkshilfe-mensana.at
 vollautomator.de
 volley-makkabi-koeln.de
@@ -8315,7 +8255,6 @@ vorwerk.club
 vostiklap.de
 vovolalag.com
 voxebanhf.xyz
-vpetron.com
 vpetron.com
 vpv-wiesbaden.de
 vreden-sound-music.de
@@ -8344,13 +8283,12 @@ wagricoze.com
 wahre-familienpolitik.de
 waibl-wiesner.at
 wakefino.com
+wakesurf.at
 wakevision.ch
 wakshitvs.com
 waldbroeler-zoocenter.de
 waldeber.de
 waldensis-official.ch
-laf-pub.com
-bsased.com
 wallerunddore.de
 wals-gallery.de
 walter-konsolen.site
@@ -8369,6 +8307,7 @@ warmarkt.com
 warmclothing.club
 warmhappyhome.com
 warminy.com
+wartburg-graz.at
 waschmaschinenoutlet.de
 waschpark-wels.at
 wasserger.com
@@ -8391,7 +8330,7 @@ wbrezende.com
 wdeeplab.com
 wdszsgse.com
 wearetu.com
-wearetu.com
+wearsaletobuy.com
 web-meinkorb.com
 web-spezialist.net
 web-suchmaschinenoptimierung.net
@@ -8412,8 +8351,8 @@ webweekzd.com
 wechtel.de
 wedderbruuk-bremen.de
 weddingsinjacksonnh.com
+weebly.com
 weekend-en-amoureux.ch
-myshoplaza.com
 wefakeida.xyz
 wefitfor.com
 wege-finden.at
@@ -8421,10 +8360,10 @@ wegenerteam.de
 weger-stmichael.at
 weihnachts-deals24.de
 weihnachts-outlet.de
-weihnachts-outlet.de
 weihnachtsland.de
 weikujionline.com
 wein-ankauf.at
+wein-aus-illmitz.at
 weinberger-interieur.ch
 weinbrenner-umformtechnik.de
 weingalerie-odenhausen.de
@@ -8481,8 +8420,6 @@ werkzeug-box.com
 werkzeug-gott.com
 werkzeug-gott.de
 werkzeug-maier.de
-werkzeug-maier.de
-werkzeug-shopping24.com
 werkzeug-shopping24.com
 werkzeuge24.club
 werkzeuge365.shop
@@ -8497,6 +8434,7 @@ wernerwahl.de
 wersammeltwas.de
 wertvollermarkt.com
 weskagoods.eu
+westchili.myshopify.com
 wets-elektrotechnik.de
 wewbay.com
 wf-city.de
@@ -8507,11 +8445,11 @@ wh-handelshaus.com
 whatstore.de
 wheelix.net
 wheelza.de
+where-to-surf.co.uk
 whirlpoolshops.com
 whitememtory.com
 whlgbjshop.com
 whoinns.com
-specialsalecheap.com
 wholesaleforvip.com
 wholesalewebsite.top
 whrblsale.eu
@@ -8522,7 +8460,6 @@ wiegeschenkt.de
 wielandstrasse2.de
 wiemanlebensoll.at
 wien-buero.at
-wien-geht-aus.at
 wien-geht-aus.at
 wienermassivhaus.at
 wienervielfalt.at
@@ -8544,8 +8481,6 @@ williesvacationrentals.com
 willispub.de
 wimex-matchup.de
 win-wetterau.de
-win-wetterau.de
-chairoons.com
 winariss.com
 windhundkult.de
 windtecmgm.de
@@ -8578,6 +8513,7 @@ wirtimfall.at
 wirtshaus-zum-hufschmied.de
 wishallgood.com
 wissenstransfer-berlin.de
+withecheer.com
 wittenberger-hof.de
 witton-sporting-limited.com
 wj-tag.de
@@ -8595,6 +8531,7 @@ woher.at
 wohnbau-kalmusteich.de
 wohndimension.at
 wohnen-neubuch.de
+wohnenmitholz.at
 wohnidyll-berlin.de
 wohnmodul.at
 wohnpark-lahnberg.de
@@ -8610,13 +8547,11 @@ wolfram-dental-shop.at
 wolfram-gum.de
 wolframreiss.de
 wolfskinoutlet.at
-sellingclothing.com
 wollmilchsau.shop
 wollwerk-und-naehreich.de
 wolter-goldhandel.de
 wolwodo.de
 womanlandy.com
-somuchstobuy.com
 womobo.de
 wonderbacks.store
 woogoing.com
@@ -8624,7 +8559,6 @@ woolrichoutlet.co.uk
 word-ing.de
 wordmarkets.com
 workforhealing.de
-faceshopx.com
 world-of-coffee.co.at
 world-of-mobiles.es
 worldofmac.de
@@ -8651,7 +8585,6 @@ wsbags.top
 wscs-at.com
 wsgfstore.top
 wsonio.com
-wsonio.com
 wstwebs.com
 wtmetzler.at
 wtonnyl.com
@@ -8663,9 +8596,9 @@ wunderbareswesen.at
 wunderwahl.de
 wutzl-fruehbauer.at
 wvowa.com
-sneaker2020a.com
 wwrwssale.com
 www-gamma.de
+xboxexpress.de
 xboxoutlet.de
 xcashan.com
 xelectronicsfirst.site
@@ -8678,16 +8611,24 @@ xhorrorrbk.com
 xiaojisale.com
 xihupanstore.com
 xjdogsale.com
+xjolpan.top
 xkangmoba.com
 xl-1.de
 xlrjtstore.com
 xmasgift-mk.com
 xn--blackdiamondespaa-uxb.es
+xn--e-gerteundhaus-9hb.com
+xn--elektronik-grfe-dlb.de
+xn--fhrerscheinpapier-22b.com
+xn--khlschrank-galerie-m6b.com
+xn--polenbller-deutschland-zhc.com
+xn--radtrikotgnstig-8vb.com
 xntszwmarket.com
 xo-trier.de
 xokako.com
 xonephonestore.com
 xparklane.com
+xsalesport.online
 xspace.at
 xtallaei.com
 xtyjanion.com
@@ -8702,23 +8643,20 @@ xxleimarket.com
 xybj.shop
 xyhora.de
 yachtalert.de
+yagotexp.com
 yakpilot.de
 yatssonshop.com
 yaxinyfx.com
 yb-nails-berlin.de
 ybdp.ca
-latestontrends.com
 yeescroemin.com
 yeezyboost.at
 yeezys750de.com
 yeezystorede.com
-apparelsummer.com
 yellowpost.de
-yelurisale.com
 yelurisale.com
 yemelody.com
 yfherf.com
-yhmemarket.com
 yhmemarket.com
 yhomecamp.com
 yhunecha.com
@@ -8733,9 +8671,7 @@ yolingen.de
 yoostore.de
 yoostylish.com
 youbestchoice.com
-youbestchoice.com
 youcomelive.com
-young-sos.de
 young-sos.de
 young-village.de
 youngdrummersconvention.at
@@ -8757,10 +8693,12 @@ ythubsmall.com
 ytjper.com
 ytowinmarket.com
 yufengsale.com
+yululove.com
 yuma13.de
 yvoisarov.com
 yvonchic.com
 z-blogger.de
+z-rims.com
 zabomo.de
 zafafmarket.com
 zagnia.de
@@ -8782,6 +8720,7 @@ zarana.de
 zarossi.com
 zarypvc.com
 zaseps.store
+zashio.co
 zaumschmuck.de
 zaun-wien.at
 zawmyohtut.com
@@ -8791,7 +8730,6 @@ zecaphgoods.com
 zegie.de
 zehen-abstandhalter-de1.com
 zeit-am-puls.at
-classicvpurchase.com
 zeitpunkte-film.de
 zelono.de
 zenaturki.com
@@ -8908,6 +8846,7 @@ bigflix.de
 bigostream.com
 bigostream.de
 bigusenet.de
+billplay.de
 bineflix.de
 binoflix.de
 birdflix.de
@@ -8953,6 +8892,7 @@ dasimax.de
 deepflix.de
 dekaflix.de
 dexflix.de
+didplay.de
 dinoflix.de
 dodoflix.com
 dodoplay.de
@@ -9106,6 +9046,7 @@ limeflix.de
 linaflix.de
 linflix.de
 lionflix.de
+listplay.de
 liteplay.de
 loadusenet.de
 loboplay.de
@@ -9444,6 +9385,7 @@ camden-trust.com
 casa-broker.com
 century-21.uk
 century-realestate.com
+christies-realestate.com
 co-move.uk
 cosmopolitan-re.com
 data-housing.com
@@ -9514,7 +9456,7 @@ world-wide-properties.com
 
 ### Fraudulent travel agencies
 # https://www.watchlist-internet.at/liste-urlaubsbuchung/
-# 2021-01-12        
+# 2021-01-29
 billige-reiseorte.info
 deine-reise.info
 dream-spot.com
@@ -9527,7 +9469,7 @@ top-urlaub.info
 
 ### Fraudulent craft services
 # https://www.watchlist-internet.at/liste-handwerksdienste/
-# 2021-01-12        
+# 2021-01-29
 24h-elektrodienst.at
 aufsperrdienst-365.at
 bio-kammerjaeger.at
@@ -9584,7 +9526,7 @@ xn--sanitr24-service-znb.at
 
 ### Fraudulent forwarding agencies
 # https://www.watchlist-internet.at/liste-speditionen/
-# 2021-01-12        
+# 2021-01-29
 aclcourier.com
 alo-car.com
 atwtransp.com
@@ -9612,6 +9554,7 @@ f2fequinehauling.com
 fidelitytrustcu.com
 fl-trans.com
 freightwiselogistics.com
+gilt-transport-ltd.com
 global-expressdelivery.com
 globallogisticltd.com
 globaltranshippers.com
@@ -9645,6 +9588,7 @@ transporte-spedition.com
 trustfast.co
 u-shipexpress.com
 ueparcel.com
+urban-transporte.com
 usmiex.com
 vlshaulage.com
 vogeltransltd.com
@@ -9654,7 +9598,7 @@ zopcar-gmbh.com
 
 ### Fraudulent survey platforms
 # https://www.watchlist-internet.at/liste-umfrageplattformen/
-# 2021-01-12        
+# 2021-01-29
 analysespro.de
 app-associates.com
 app-im-test.com
@@ -9662,6 +9606,7 @@ appdoctor.me
 cosmopoint.de
 creativity-partnership.de
 crowd-apps.de
+dialog-unternehmensberatung.de
 digitaldataimpuls.de
 enix-ai.net
 famous-enterprise.de
