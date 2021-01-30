@@ -5,9 +5,8 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2021-01-11
+# Last updated:  2021-01-29
 
-ärzte-für-aufklärung.de
 3ho.ch
 abermann.net
 adviqo.com
@@ -177,7 +176,6 @@ gesund-frei.de
 gesund-und-gluecklich.at
 gesund.ch
 gesundes-wasser.net
-gesundheit-lebensqualität.de
 gesundheit-und-impffreiheit.de
 gesundheitspraxis-activa.ch
 gesundheitswissen-shop.de
