@@ -4,12 +4,11 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-02-20
+# Last updated:  2021-02-27
 
 ### Fake online shops:
 # https://www.watchlist-internet.at/liste-online-shops/
 # https://www.watchlist-internet.at/index.php?id=120
-0000000-test.at
 007drones.de
 1111federalhill.com
 11bar-hamburg.de
@@ -156,6 +155,7 @@ aesthetic-duesseldorf.de
 afb-sonnleitner.at
 afemo.org
 affen.at
+affirmfind.com
 afi011.com
 ag-strategis.com
 agentur-heaven.at
@@ -1291,6 +1291,7 @@ chambredhotes-vannes.fr
 chapitamala.com
 chappuis-auto-ecole.ch
 chargedupgadgets.com
+charlottdesign.de
 charlottebjuren.com
 charmguy.com
 charmimode.net
@@ -2382,6 +2383,7 @@ expertainment.de
 expertsinmoving.com
 explorecomenius.eu
 expo-challenge.de
+express-kauf.com
 expressdealz.com
 expresseffect24.de
 expressohphotography.com
@@ -2429,7 +2431,9 @@ fairfieldworkingmensclub.co.uk
 fairyta.com
 fake-uhren.com
 falcollection.at
+falinas.at
 falinas.com
+falinas.de
 falkundlenz.de
 falkwuerfele.de
 falltlike.com
@@ -2470,6 +2474,7 @@ fashion-freunde.net
 fashion-limited.com
 fashion-outlet-montabaur.de
 fashion-s.shop
+fashiones.de
 fashionfrog.de
 fashiongiftsae.com
 fashionkaufen.ch
@@ -3111,6 +3116,7 @@ goldene-erde.at
 goldengoose.at
 goldengoosedeluxebrand.at
 goldenwaters.de
+goldhandel-testsieger.de
 goldscheideanstalt-exchange.de
 goldscheideanstalt-mhd.de
 goldscheideanstalt-mhz.de
@@ -4020,6 +4026,7 @@ justdesign.shop
 justin-mps.de
 justtoshopnow.com
 juwelier-beck.at
+juwelier-kaiser.com
 juwelier-m-blome.de
 juxqog.com
 jvietnhat.com
@@ -4067,6 +4074,7 @@ kaffesa.de
 kaffesto.de
 kaffeza.de
 kaffezia.de
+kaffolo.de
 kaffusa.de
 kafrosa.de
 kahltales.com
@@ -4619,6 +4627,7 @@ lesgranges.ch
 lesvitalities.com
 lesweilmarket.com
 letmode.com
+letscomfy.de
 letussell.de
 letyaly.com
 leuchtendeeule.de
@@ -4903,6 +4912,7 @@ manfred-juenemann.de
 manfredstrobl.at
 mangold-band.de
 mangold-immobilien.de
+manguys.com
 manorwoodestates.com
 manske-technik.com
 mansonia.de
@@ -5642,6 +5652,7 @@ nexxor.de
 nf-telecom.de
 nfc-whv.de
 nffburo.com
+nflxshop.com
 nfmall.online
 nfornicole.com
 ngo-tv.de
@@ -5679,6 +5690,7 @@ ninetynine-shop.de
 ninetynine-shop.eu
 ninjagamers.de
 nintendomarkt.de
+ninzin.de
 nirosun.at
 niusmart.shop
 nizretmall.com
@@ -6050,6 +6062,7 @@ peggylampel.at
 pegnitzratzen.de
 pellucidy.com
 pelzfreies.de
+pendelkarte.de
 pendler-podcast.de
 penell-gmbh.de
 pension-ariane-berlin.de
@@ -6408,6 +6421,7 @@ rabatt4dich.com
 rabatteundcoupons.de
 rabattkoder247.se
 rabattonline2020.com
+rabenspil.at
 racebunch.de
 racing-palace.at
 racingteam-hunger.de
@@ -6978,6 +6992,7 @@ schorsch-k.de
 schreibtisch-kaufen24.de
 schreiner-shooting.de
 schreinerei-raum-zeit.de
+schroeder-kaffee.de
 schstobuys.com
 schubertiade-salzburg.at
 schuh-buessing.de
@@ -7591,6 +7606,7 @@ styleiu.com
 stylelinth.com
 styles-shopping.com
 stylesofmen.de
+styletaken.com
 styleusummer.com
 stylishpant.com
 subniceshop.com
@@ -7669,6 +7685,7 @@ swobshop.de
 swr-transportservice.de
 sxptrade.top
 sy-olivin.de
+sydmeey.de
 sylaos.de
 symbolon-kartenberatung-wimmer.de
 synagoge.at
@@ -7785,6 +7802,7 @@ technik-ist.online
 technik-koehler.de
 technik-mars.de
 technikbucht.net
+technikcenter-deutschland.de
 technikeule.com
 technikfabrik.store
 technikfarm.com
@@ -8111,6 +8129,7 @@ trikotset.com
 trilokamarket.com
 trimzy.de
 trinado.de
+trinitop.com
 tripp-marketing.de
 tripvariator.at
 tripyoux.com
@@ -8184,6 +8203,7 @@ uhlig-resonance.com
 uhrenarmbandwelt.net
 uht-graz.at
 uindoplc.com
+ujmixf.com
 ujobcad.com
 uk-polo.com
 uk-rbsales.com
@@ -8286,6 +8306,7 @@ vano-media.com
 vanssale.de
 vansschuhe.at
 vapoworld.de
+varibel.de
 vaschoen.com
 vateli.de
 vaude-rucksack.de
@@ -9217,6 +9238,7 @@ gomaflix.de
 gonaflix.com
 gonaplay.de
 gonastream.de
+goraplay.de
 goroplay.de
 goxflix.de
 guckflix.de
@@ -9341,6 +9363,7 @@ mobaplay.de
 mobiflix.de
 modflix.de
 modoflix.de
+modplay.de
 mogoplay.de
 momoflix.de
 momoplay.de
