@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-02-27
+# Last updated:  2021-03-06
 
 ### Fake online shops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -9156,10 +9156,12 @@ domeflix.de
 domoplay.de
 domstream.de
 donflix.de
+dooplay.de
 doxplay.de
 drflix.de
 duckplay.de
 dudoplay.de
+duduplay.de
 dugoflix.de
 ebaflix.de
 edelflix.de
@@ -9210,12 +9212,14 @@ flixway.de
 flixwolf.de
 flixwood.de
 floplay.de
+fogoplay.de
 folgflix.de
 fomoplay.de
 fomplay.de
 foxflix.de
 foxusenet.de
 frogplay.de
+froplay.de
 gaboflix.de
 gagaplay.de
 gagastream.de
@@ -9226,6 +9230,7 @@ gauflix.de
 geraflix.de
 gigaflix.de
 gigausenet.de
+gigusenet.de
 giroflix.de
 gloflix.de
 gofilme.de
@@ -9265,6 +9270,7 @@ imaxtime.com
 imaxtv.de
 imaxwelt.com
 inflix.de
+inoplay.de
 joyflix.de
 jubaflix.de
 judoplay.de
@@ -9273,6 +9279,7 @@ justfilme.de
 justflix.de
 justhd.de
 justhdfilme.com
+kimplay.de
 kinobay.de
 kinodex.de
 kinoflexx.com
@@ -9312,6 +9319,7 @@ lofoflix.de
 logaflix.de
 logflix.de
 logoplay.de
+logplay.de
 lolastream.de
 loloflix.de
 lolostream.de
@@ -9380,6 +9388,7 @@ moviedad.de
 moviedo.de
 moviesta.de
 movoplay.de
+movplay.de
 moxflix.de
 moxplay.de
 mulaflix.de
@@ -9392,6 +9401,7 @@ nexaflix.de
 nexostream.de
 ninjaflix.de
 nodaflix.de
+nodeplay.de
 noliflix.de
 nolistream.de
 nonaflix.de
@@ -9607,6 +9617,7 @@ triflix.de
 trimflix.de
 tugaflix.de
 tutoflix.de
+umiplay.de
 unoflix.de
 unousenet.de
 vagoflix.de
@@ -9676,6 +9687,7 @@ gold-properties.com
 green-real-estates.com
 hcg-immo.com
 ikevo-estate.com
+immo-absolut.com
 immo-eu.com
 immo-gate.com
 immo-way.com
@@ -9705,6 +9717,7 @@ riker-immo.com
 royal-properties.eu
 salvago-estate.com
 simon-immo.com
+sisgard.com
 so-the-by-srealty.com
 spaces-realestate.com
 tas-immo.com
@@ -9720,7 +9733,6 @@ viva-immo.com
 voss-estate.com
 windsor-homes.co.uk
 world-wide-properties.com
-
 # The following lists can not be automatically updated anymore
 # due to DDoS protection (google project shield):
 
