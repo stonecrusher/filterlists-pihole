@@ -9951,27 +9951,70 @@ voss-estate.com
 windsor-homes.co.uk
 world-wide-properties.com
 
+
 # The following lists can not be automatically updated anymore
 # due to DDoS protection (google project shield):
 
+### Problematic shops
+# https://www.watchlist-internet.at/liste-problematischer-shops/
+# 2021-03-13
+affirmfind.com
+aneuzon.de
+asicminerco.com
+bluemuli.com
+buycircaknee.com
+chicanti.com
+fashiones.de
+ffbag2.de
+honestmemories.com
+jellylight.at
+jieper.com
+letscomfy.de
+lidora.de
+liftr.eu
+manguys.com
+namicloth.com
+nuubu.com
+pharmagloveswholesale.com
+pierrebuy.com
+premium-garderobe.com
+rothause.de
+royalkitten.at
+styletaken.com
+sydmeey.de
+trend-held.com
+trend-helden.com
+trendoase.com
+trinitop.com
+vassv.com
+vomero.store
+wayfale.com
+zaful.com
+zartefrau.de
+
+
 ### Fraudulent travel agencies
 # https://www.watchlist-internet.at/liste-urlaubsbuchung/
-# 2021-01-29
+# 2021-03-13
 billige-reiseorte.info
 deine-reise.info
 dream-spot.com
+ferienpartner.co
 hotelsinvienna.org
 jetzt-reisen.info
 jetzt-urlaub.info
 reise-buchen.info
+reiseweltat6.wixsite.com
 top-reise.info
 top-urlaub.info
 
 ### Fraudulent craft services
 # https://www.watchlist-internet.at/liste-handwerksdienste/
-# 2021-01-29
+# 2021-03-13
 24h-elektrodienst.at
+abfluss-frei24.de
 aufsperrdienst-365.at
+aufsperrhilfe.at
 bio-kammerjaeger.at
 elektriker--24.at
 elektriker--24.de
@@ -9997,6 +10040,7 @@ installateur-hansi.at
 installateur-notdienst-wien.co.at
 installateureinwien.at
 installateurnotdienste.at
+installateurzentrale.at
 key-auf.at
 klempner-notdienst.net
 klempner-notdienst24.at
@@ -10008,9 +10052,11 @@ profi-elektriker.at
 rohrbruch-notdienst24.at
 rohrreinigung--24.at
 rohrreinigung24-7.at
+rohrsanierungen24.de
 rohrverstopfung-notdienst.at
 rolladenreparatur.at
 schluesseldienst-hilfe.at
+schlusseldienst.at
 schmidt-24.at
 schnell24-7.com
 spezialist24std.at
@@ -10026,15 +10072,18 @@ xn--sanitr24-service-znb.at
 
 ### Fraudulent forwarding agencies
 # https://www.watchlist-internet.at/liste-speditionen/
-# 2021-01-29
+# 2021-03-13
 aclcourier.com
 alo-car.com
+armourlogistik.com
 atwtransp.com
 avrio-logistics.eu
 bolitrans.com
 bravo-autotrucks.com
 breenlogistics.com
 bsi-trans.com
+c-t-s-logistics.com
+cabotrans.es
 cargservicesdelnc.com
 carstrans.eu
 cordi-group.com
@@ -10049,6 +10098,7 @@ drachal-transport.com
 dsvtransport.tk
 e-t-l-transport.com
 easy-ltd.eu
+eurtrans.com
 expresslogisticgroup.com
 f2fequinehauling.com
 fidelitytrustcu.com
@@ -10061,6 +10111,7 @@ globaltranshippers.com
 glomalogistics.com
 gtblogistics.com
 i-translogistics.com
+jjctrans.com
 kurier-europe.com
 lorgi-transportes.com
 lpstransport.com
@@ -10071,8 +10122,10 @@ odghaulage.com
 pacificexpressservice.com
 prr-haulage.com
 radeondelivery.com
+rnthaulage.com
 rtinternational-handelsbolag.com
 services-limited.com
+snk-cargos.com
 souto-vehiculos.com
 spaxdelivery.org
 spedition-international-2008.com
@@ -10098,7 +10151,7 @@ zopcar-gmbh.com
 
 ### Fraudulent survey platforms
 # https://www.watchlist-internet.at/liste-umfrageplattformen/
-# 2021-01-29
+# 2021-03-13
 analysespro.de
 app-associates.com
 app-im-test.com
@@ -10114,6 +10167,7 @@ markt-check.club
 markt-check.expert
 markt-check.online
 marktix.net
+onlinejobs2020.at
 originality-concern.de
 perspective-agenturgruppe.me
 proanalyses.de
@@ -10121,6 +10175,7 @@ quest-factory.club
 rare-ai.net
 sdm-sensory.de
 sugex.at
+sugex.de
 test-essenz.com
 testative.com
 teste-gutscheine.de
