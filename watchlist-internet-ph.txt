@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-05-01
+# Last updated:  2021-05-08
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -12,6 +12,7 @@
 123brennholz.com
 12streetwings.com
 24things.de
+2rad-klein.de
 2rad-xxl.de
 30netzteil.de
 365ersatzteile.de
@@ -39,6 +40,7 @@ acnetzteil.com
 acuygu.com
 addhereg.com
 addmich.de
+addyri.com
 adidas2018.com
 adidasr.top
 adidasyeezynew.com
@@ -95,6 +97,7 @@ allsoccer.co
 alltogether.shop
 alltvb.com
 allunias.com
+almacoco.org
 alofixa.com
 alovcash.com
 alphakatz.com
@@ -155,7 +158,9 @@ arcazhmanj.com
 arceltaonline.com
 architectlyy.site
 architektur-leben.at
+arco-dietrich.de
 arcteryxoutlets.com
+arcticsoul.de
 ardesign.at
 aredfoods.com
 ariacosmetics.co.uk
@@ -200,6 +205,7 @@ avinatrg.com
 aw-handel.de
 awgmse.com
 axialgeo.com
+axorisshop.com
 ayurreadpro.com
 aziur.de
 b-checker.at
@@ -275,6 +281,7 @@ bernwald-shop.de
 berrylook.com
 bestanseller.com
 bestbuyselectro.com
+bestchooes.com
 besteangebote24.de
 besteapotheke.com
 besteholzer.de
@@ -458,6 +465,7 @@ cem-bulut.de
 centocanti.it
 cfcs.co.uk
 cfundemy.com
+cgatesolutions.de
 chadu.at
 chairoons.com
 chance-ev.at
@@ -742,11 +750,13 @@ electro-parc.de
 electromarkt.shop
 eleinen.com
 elektora.de
+elektro-borse-koeln.de
 elektro-engel.de
 elektro-guetlein.de
 elektro-parc.de
 elektrobester.com
 elektrodo.de
+elektrofachgeschaft.com
 elektrohandler.com
 elektrohoppe.de
 elektromobel.com
@@ -848,6 +858,7 @@ fashion-s.shop
 fashion-traum.com
 fashiones.de
 fashionfrog.de
+fashiongirl24.de
 fashionlink.uk
 fashiontoto.com
 fashionuapparel.com
@@ -983,12 +994,14 @@ gamensii.com
 gamer-nieder-olm.de
 gameshausedeat.com
 gamesplazza.at
+gaming-bro24.de
 gaming24-store.com
 gaming24.store
 gamingrockstars.de
 gamma24.de
 gammy-world.de
 garantiert-apotheke.com
+gardenmoebel.de
 gardhou.com
 garmineoutlet.com
 garminproductstore4us.com
@@ -996,6 +1009,8 @@ garminworldmaps.com
 garten-events.de
 garten-genial.de
 garten-maestro.de
+gartenbau-schuetz.de
+gartencenter-horstmann.de
 gartenfreunde-murrhardt.de
 gasthaus-kaar.at
 gasthaus-schuetz.at
@@ -1081,6 +1096,8 @@ grauschwarzbrillen.de
 gravelmac.com
 greenbiday.com
 gregor-friedl.at
+grillario.de
+grillen-mit-willen.de
 grinsebuch.de
 growice.com
 gruene-spende.de
@@ -1172,6 +1189,7 @@ hermann-schuetz.at
 hermann-sinn-band.de
 herrngarten.de
 herzpraxis-benzer.at
+hibote.de
 hier-kein-stall.de
 hierbeiuns.at
 high-tech-discount.fr
@@ -1255,6 +1273,7 @@ i-blade.at
 iai-shop.com
 iancheer.com
 iayhanblt.com
+ibismall.net
 ibl-hgw.de
 iboukou-markt.com
 ibowen.fr
@@ -1332,6 +1351,7 @@ ivrose.com
 iwum-consulting.de
 izebua.com
 j-lehmann.de
+jackview.com
 jagute.de
 jalousien-neufend.de
 jamunto.de
@@ -1353,6 +1373,7 @@ jieper.com
 jjshouse.com
 jkarnil.com
 jkbikesout.cc
+jkhckf.top
 jlogihelgu.com
 jo-westphal.de
 jobchange.at
@@ -1366,6 +1387,7 @@ jojolikes.com
 jonas-wilken.de
 jonny-boston.de
 jonnycoca.com
+josef-elektronik.com
 josips.top
 jouvem.com
 jrespirer.com
@@ -1397,6 +1419,7 @@ kaluxo.de
 kandiny.com
 kandiny.de
 kanminbag.com
+karchshop.com
 karimovesa.com
 karin-heckel.de
 karin-kreisel.at
@@ -1515,6 +1538,7 @@ laf-shop.com
 laf-store.com
 lagunalaguna.com
 lajondo.com
+lakefestival.at
 lakufree.top
 lalipton.com
 lamena.de
@@ -1582,6 +1606,7 @@ listennwa.com
 litfad.com
 livedarsc.com
 living-ewbau.at
+lizgem.com
 ljy-technik.de
 lloydloom.com
 lmwip.top
@@ -1622,6 +1647,7 @@ lv-angebote.de
 lvsevnas.com
 m-paycard.de
 m-wanted.at
+mabuspix.com
 machart-durlach.de
 mad-max-vd-brunnengaerten.de
 madhukaal.com
@@ -1642,12 +1668,14 @@ manfredstrobl.at
 mangold-band.de
 mangold-immobilien.de
 manguys.com
+mania-media.com
 manske-technik.com
 marahuda.ga
 margithotel.at
 margitnohel.at
 marianneposa.de
 marie-celine-graeber.de
+mariliarho.com
 marinatedegg.shop
 markenwissen.at
 markkrugel.de
@@ -1747,6 +1775,7 @@ mikedavis.de
 mikeelike.com
 mikelemke.de
 mikenovember.com
+mikesty.de
 milanoo.com
 milforyou.com
 millionaersuchtfrau.de
@@ -1755,8 +1784,10 @@ mincil.de
 mindmage.de
 minisproetzel.de
 miniwelpen.com
+minlyfire.com
 mirawall.de
 mirkoarens.de
+misgift.de
 missmoana.com
 misterjoux.com
 mitbote.de
@@ -1823,6 +1854,7 @@ mv-pflegeschutz.de
 mv-rosenau.at
 my-lifelong-learning.de
 my-pbs.shop
+myawward.com
 mycaboconcierge.com
 myclothes.shop
 mydealfinder.de
@@ -1886,6 +1918,7 @@ nhakhoeu.com
 nicdampier.com
 niceniceshop.com
 nicetoby.com
+nicheten.com
 nicht-von-heise-kopieren.de
 nicole-reinhold.de
 nicole-trenker.at
@@ -1920,6 +1953,7 @@ noweight.de
 npvfc.top
 nsmlabp.com
 nsx-scooter.de
+nuessing-hoersysteme.de
 nurdasbeste-naumann.de
 nuubu.com
 nwmuster.de
@@ -1956,6 +1990,7 @@ onecozyday.com
 onepolaroid.com
 oniani-wohnen.de
 online-mode-1.de
+onlineoutletsale2021.com
 only-baby.de
 onward.store
 opropaset.com
@@ -2112,6 +2147,7 @@ pullach-evangelisch.de
 punkrave.ch
 purchses.com
 purelywave.com
+pushup-bh.at
 pushup.at
 pwrdsport.com
 pyro-effects.com
@@ -2135,6 +2171,7 @@ rad-trikots.de
 radestock-dachdeckerei.de
 radfreunde-murtal.at
 radinod.com
+radlersport.com
 raiment.nyc
 raisvillau.com
 rally-hautnah.de
@@ -2181,6 +2218,7 @@ restaurantnamaskar.de
 retro-stage.de
 retrocyclingtops.com
 reva-shops.com
+rexton.at
 rextrade.de
 rezeptfrei-24.com
 rezeptfrei.online
@@ -2219,6 +2257,7 @@ rotbarschfilet.de
 rothause.de
 royalkitten.at
 royaloop.com
+rsk-handel.de
 rsotecpro.com
 rubycloth.com
 rubyrin.com
@@ -2298,6 +2337,7 @@ selscoun.com
 sem-solar.de
 sensalve.de
 sepshoe.com
+sepsneakers.co
 seramano.de
 serindipiti.com
 serishirts.com
@@ -2359,6 +2399,7 @@ sleepcloud.store
 slimdangdoo.com
 slothyear.uk
 slutmedtandlaegeskraek.dk
+smartbuyglasses.at
 smatam.com
 smilestyle.at
 smiss-training.at
@@ -2515,6 +2556,7 @@ tablet-restposten.club
 tablet-restposten.shop
 tacocood.com
 tailorfactory.com
+taktischewelt.com
 tani-und-caro.de
 tankvorteil.de
 taogloi.com
@@ -2541,6 +2583,7 @@ techmeta.store
 technics24smart.store
 technik-doku-design.de
 technik-guenter.eu
+technik-schnaeppchen-shop.de
 technikcenter-deutschland.de
 technikfusion.de
 technikhase.com
@@ -2619,6 +2662,7 @@ tomsoju.com
 tonspy.com
 tonweise.at
 top-apotheke.com
+top-password.com
 top-steroide-kaufen.com
 top-velos.com
 topanyso.com
@@ -2936,6 +2980,7 @@ xxl-posterprint.de
 xxl-store.com
 yagotexp.com
 yaweg.shop
+ycidium.com
 yellowpost.de
 yfherf.com
 yhunecha.com
@@ -2992,6 +3037,7 @@ zololily.com
 zpohi.com
 zserslicenx.site
 zshopgez.com
+zumwirt.at
 zupteku.com
 zurduzuban.com
 zurich-markt.com
@@ -3001,23 +3047,28 @@ zwickl-frankfurt.de
 
 ### Problematische Onlineshops:
 365ersatzteile.de
+addyri.com
 adwret.com
 affirmfind.com
 airbow.at
 aku-vital.de
 all4you-fashion.com
+almacoco.org
 aneuzon.de
+arcticsoul.de
 arlodesire.com
 asicminerco.com
 austody.com
 autudag.com
 auvoria.de
 axialgeo.com
+axorisshop.com
 bangooon.com
 baumwunsch.com
 bbertywk.top
 beisimple.de
 berlinbeardeal.de
+bestchooes.com
 bluemuli.com
 bolada.de
 boobie.at
@@ -3062,6 +3113,7 @@ hounony.com
 hulahip.de
 hypesbeauty.de
 inspirelf.com
+jackview.com
 jellylight.at
 jieper.com
 kadonimo.de
@@ -3076,6 +3128,7 @@ lidora.de
 liftr.eu
 lightinthebox.com
 litfad.com
+lizgem.com
 lushdream.de
 luxsofabezuege.com
 magikbody.de
@@ -3084,6 +3137,7 @@ meinenamenskette.com
 meingartenhimmel.de
 menfis.de
 mercedal.com
+minlyfire.com
 moongor.com
 mykatzenwelt.de
 mytierhimmel.de
@@ -3100,6 +3154,7 @@ pierrebuy.com
 pinkove.com
 politecity.com
 premium-garderobe.com
+pushup-bh.at
 pushup.at
 realyiyi.com
 rheinwing.de
@@ -3111,6 +3166,7 @@ schoneswetter.de
 schwansgut.de
 shein.com
 shopmood.de
+smartbuyglasses.at
 smilestyle.at
 solonix.de
 spacebuds.de
@@ -3120,6 +3176,7 @@ styletaken.com
 supreme-beauty.de
 sydmeey.de
 thaisawadee.de
+top-password.com
 total-organisiert.de
 touchy.at
 trend-fuchs.de
@@ -3558,6 +3615,7 @@ playebo.de
 playexo.de
 playfeed.de
 playfer.de
+playfo.de
 playgad.de
 playgera.de
 playget.de
@@ -3571,6 +3629,7 @@ playmago.de
 playmay.de
 playmes.de
 playmeta.de
+playmine.de
 playmium.de
 playmoba.de
 playmod.de
@@ -3590,6 +3649,7 @@ playnob.de
 playnod.de
 playnog.de
 playnom.de
+playnomo.de
 playnona.de
 playnoro.de
 playoda.de
@@ -3597,6 +3657,7 @@ playomo.de
 playoza.de
 playpas.de
 playrapid.de
+playre.de
 playred.de
 playrest.de
 playrex.de
@@ -3620,6 +3681,8 @@ playtuto.de
 playvid.de
 playvido.de
 playvidy.de
+playviva.de
+playvox.de
 playza.de
 pokuflix.de
 portplay.de
@@ -3632,6 +3695,7 @@ rayflix.de
 rayplay.de
 realflix.de
 redflix.de
+regplay.de
 rexflix.de
 rexkino.com
 rexplay.de
@@ -3971,6 +4035,7 @@ bolitrans.com
 bravo-autotrucks.com
 breenlogistics.com
 bsi-trans.com
+bulkcarriers-markt.com
 c-t-s-logistics.com
 cabotrans.es
 cargservicesdelnc.com
