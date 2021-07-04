@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2021-01-29
+# Last updated:  2021-07-04
 
 3ho.ch
 abermann.net
@@ -16,12 +16,14 @@ aeha-buendnis.de
 aerzte-fuer-aufklaerung.de
 afro-pfingsten.ch
 akoekgen.org
+aktueller-rutengaenger.de
 akupunktur-simeon.ch
 aleph-tarot.de
 alexiszorbas.com
 allgeier-verlag.de
 alternativ-gesund-leben.de
 amram-events.com
+amselbentag.de
 ancient-mysteries.de
 andreas-roth.de
 anthroposophie.blog
@@ -54,8 +56,10 @@ bewusst.tv
 bewusster-leben.de
 bewusstsein-heute.de
 bio-synergetics.de
+biocybernetics.de
 biofeedback-jung.de
 biokrebs.de
+biomenta.de
 bioscan.at
 blickart-online.de
 blissvideo.de
@@ -86,6 +90,7 @@ deine-gesundheit-online.de
 deinmedium.ch
 demetrius-degen.de
 demolinz.at
+der-rutengaenger.de
 derfeinstofflichevirenscanner.com
 dersteinkreis.de
 dhu.de
@@ -132,6 +137,9 @@ endo-dent.de
 endotronic-gmbh.de
 energie-wasser-praxis.de
 engelmagazin.de
+erdstrahlen-elektrosmog.de
+erdstrahlen-elektrosmog.eu
+erdstrahlenschutz-erdstrahlenabschirmung.eu
 esmog-geopathie.de
 esmog-shop.com
 esoterikmesse.de
@@ -159,11 +167,13 @@ friederike-hahne.de
 friedliche-loesungen.org
 fuckluckygohappy.de
 fz-bewusstsein.net
+gabriel-technologie.com
 gaiavita-lichtfokus.de
 gandharvaloka.com
 ganzheitsmedizin.co.at
 gegen5g.de
 geistige-homoeopathie.com
+geobiologie.de
 geopathologie.de
 geovital-akademie.com
 geovital.com
@@ -424,6 +434,9 @@ robert-betz.com
 robert-salopek.de
 rolf-kron.de
 rostock-essenzen.com
+rutengaenger-deutschland.de
+rutengaenger-deutschlandweit.de
+rutengaenger-wasserader.de
 sabine-skala.de
 salutogenese-bei-krebs.de
 samarpan.de
@@ -498,6 +511,7 @@ touchlife.de
 tsesit.com
 u-g-k.de
 ul-we.de
+umwelt-atlas.de
 universalsounds.ch
 unverstrahltes-land.de
 urquellwasser.eu
