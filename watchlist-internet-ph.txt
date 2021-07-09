@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-07-03
+# Last updated:  2021-07-10
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -15,6 +15,7 @@
 2rad-hanke.de
 2rad-kern.de
 2rad-klein.de
+2rad-schwarz.de
 2rad-xxl.de
 30netzteil.de
 365ersatzteile.de
@@ -141,6 +142,7 @@ annakoenig.at
 annen.store
 annivett.com
 annmiyac.com
+annurifsm.com
 anssi-antila.de
 antiquariat-renner.de
 antiwurm.de
@@ -293,6 +295,7 @@ bene-taichi.at
 benno-art.at
 benoza-mode.de
 benoza.de
+benzodiazepine-kaufen.com
 beratungs-werkstatt-dortmund.de
 bercasa.de
 bergmannsschach.at
@@ -340,6 +343,7 @@ bierfuersten.de
 bieyt.com
 bigmuscle.at
 bigpizza-fuerth.de
+bike-heller.de
 bike-himmel.de
 bikefamily-gmbh.de
 bikesporthauf.de
@@ -449,6 +453,7 @@ business-manager.at
 buttons-shop.de
 buycircaknee.com
 buyerando.de
+buying-zones.com
 buyneckrelaxofficial.com
 buyonuonline.com
 buyoshenwatch.com
@@ -606,6 +611,8 @@ crazylettuce.com
 creaturepuppetgallery.com
 cremcofy.com
 cridispor.com
+crocsat.at
+crocsat.top
 croozer-fahren.de
 crystal-chandelier.at
 crystalsoul.de
@@ -715,6 +722,7 @@ dietnr1.com
 diezweigrafikdesign.at
 differenta.com
 diggedidope.de
+digitalmarkts.com
 dignitasolution.com
 direcasn.com
 directzs.com
@@ -763,6 +771,7 @@ dressfirst.com
 dresslily.com
 drgimborn.at
 dricasinonight.com
+drivesafeo.com
 drkuzbari.at
 drmartensstiefel.at
 drsahm.de
@@ -941,6 +950,7 @@ falinas.de
 falltlike.com
 fallulady.com
 faltbanner.at
+family-bikes.de
 family-tirol.at
 fancyclothings-com.myshopify.com
 fancynic.com
@@ -1124,7 +1134,9 @@ garten-paule.de
 garten-willi.de
 gartenbau-schuetz.de
 gartencenter-horstmann.de
+gartencenter-pursch.de
 gartenfreunde-murrhardt.de
+gartenhero.net
 gartenstorch.de
 gasthaus-kaar.at
 gasthaus-schuetz.at
@@ -1451,6 +1463,7 @@ ilamparas.com
 ilamparas.de
 illico.at
 illlucky.com
+imbocoltdac.com
 imfocus.at
 imhfit.com
 imilliemae.com
@@ -1503,6 +1516,7 @@ isocals.com
 italiadesigns.com
 itc-schwarz.de
 itcloth.net
+itecsure.com
 iubqx.com
 iued.ch
 ivcuafuku.com
@@ -1657,6 +1671,7 @@ kkaokaset.com
 kkmodern.com
 kl-westerntraining.de
 klaiyoba.com
+klakers.com
 klangvoll-events.at
 klangvollelektro.de
 klaratronik.de
@@ -1667,6 +1682,7 @@ kleinesschaetzchen.de
 kleinkatharina.de
 kleintiermanagement.de
 kletterwaen.de
+kmedapp.com
 knast-ag.de
 knightsgoneby.co.uk
 knitwearwell.com
@@ -1828,6 +1844,7 @@ lushdream.de
 luskepoker.com
 luvpear.com
 luvyle.com
+luxdentala.com
 luxishop.de
 luxsofabezuege.com
 luxury-shop.at
@@ -2001,6 +2018,7 @@ mirawall.de
 mirkoarens.de
 misgift.de
 missmoana.com
+mister24bike.de
 misterjoux.com
 mitbote.de
 mixmedia.store
@@ -2118,6 +2136,7 @@ nblaufschuhe.de
 nbspek.top
 nbynicole.com
 nct-elektronik.de
+ndm-faustball.de
 neary.de
 neckcorrect.de
 neckcrack.de
@@ -2420,6 +2439,7 @@ pyroxtrem.com
 qakppo.top
 qbzdq.shop
 qfucktalk.com
+qgripsearwax.com
 qiundgong.at
 qmypalm.com
 qnethini.com
@@ -2478,6 +2498,7 @@ regenmantel24.de
 registerwegweiser.info
 reichwahl.de
 reidkanem.top
+reiligs.de
 reiseklarheit.de
 reisen-engler.de
 reitpferd-vollblut.de
@@ -3079,6 +3100,7 @@ uhren-ludwig.de
 uhren-schmitt.de
 uhrhaus-kramlich.de
 uhrhaus24.de
+uhrzentrale24.com
 ujmixf.com
 uk-polo.com
 ulrichweil.de
@@ -3539,6 +3561,7 @@ kettenkonzept.de
 kinderkumpel.de
 kingofbuy.com
 kizaro.de
+klakers.com
 kussleben.com
 labubu.co.uk
 lajondo.com
@@ -3594,6 +3617,7 @@ primatop.de
 printyourgesicht24.de
 pushup-bh.at
 pushup.at
+qgripsearwax.com
 qualitygadgetshop.com
 realyiyi.com
 retrostages.de
@@ -3749,6 +3773,7 @@ dodoplay.de
 dodplay.de
 doflix.de
 dogostream.de
+doloplay.de
 domeflix.de
 domoplay.de
 domstream.de
@@ -4185,6 +4210,7 @@ rexplay.de
 ringflix.de
 rioflix.de
 robiflix.de
+rodoplay.de
 romoflix.de
 romoplay.de
 roomflix.de
@@ -4196,6 +4222,7 @@ runaplay.de
 sadaflix.de
 sadaplay.de
 sadoflix.de
+sadoplay.de
 sadplay.de
 saflix.de
 savaflix.de
@@ -4211,6 +4238,7 @@ simoflix.de
 sobastream.de
 sobostream.de
 soflix.de
+sogoplay.de
 sogostream.de
 soloflix.de
 someflix.de
@@ -4225,6 +4253,7 @@ streamamy.de
 streamaso.de
 streamba.de
 streambull.de
+streamcloud-deutsch.com
 streamdas.de
 streamday.de
 streamder.de
@@ -4371,6 +4400,7 @@ immo-way.com
 immovoba.com
 int-re.com
 invest-urban-concept.com
+lane-properties.com
 line-eu.com
 line-stars.com
 list-residential.com
@@ -4492,6 +4522,7 @@ installateureinwien.at
 installateurmax.at
 installateurnotdienste.at
 installateurzentrale.at
+je-pro.at
 key-auf.at
 klempner-notdienst.net
 klempner-notdienst24.at
@@ -4616,6 +4647,7 @@ ssrlogistics.com
 superpostalservice.com
 tarstrans.com
 thorshipping.net
+tomex-agro-spedition.com
 transbase-lda.com
 transbodek.com
 transdirectcourierservices.com
