@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-07-10
+# Last updated:  2021-07-14
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -17,6 +17,7 @@
 2rad-klein.de
 2rad-schwarz.de
 2rad-xxl.de
+2radmarkt.com
 30netzteil.de
 365ersatzteile.de
 3amoto.com
@@ -318,6 +319,7 @@ besteangebote24.de
 besteapotheke.com
 besteholzer.de
 bestelektronicshop.de
+bestenfamilienwelpen.com
 besteprijzen-shop.com
 besteuhren.io
 bestgifts.co.in
@@ -440,6 +442,7 @@ bubbleglibberball.de
 bubblleq.com
 bubu-x.de
 buchungstool.at
+buchwerft-verlag.de
 buddys-sports.at
 budgethotel.at
 budunsaly.com
@@ -488,6 +491,7 @@ canadagoosepromos-ch.com
 canadarx24h.com
 cannamenghi.com
 capitalaktiv.de
+capitalxf.com
 caraboo.at
 carethy.at
 cargadgetss.com
@@ -502,6 +506,7 @@ casefetish.com
 catalia.de
 catan.pl
 categoryshops.com
+catwebh.com
 cazms.cc
 cb-photo.at
 cbremer.de
@@ -513,6 +518,7 @@ centocanti.it
 cfcs.co.uk
 cfundemy.com
 cgatesolutions.de
+ch-elektrotechnic.de
 chadu.at
 chafsap.com
 chairoons.com
@@ -567,6 +573,7 @@ cmlipay.com
 cmsbooku.com
 cnc-vienna.at
 coach-rosenheim.de
+coachbodyp.com
 coaching-sailing.at
 codefree-bluray.de
 coeurconsulting.de
@@ -604,6 +611,7 @@ coxycode.com
 cozyp.at
 cp-lawyer.de
 cpgtstream4.com
+cr8newyork.com
 cragoo.de
 crateel.com
 crazyabuy.com
@@ -694,6 +702,7 @@ dersupertiger.de
 dervolatil.de
 dervorschlag.com
 descontom.com
+desgroupo.com
 design-hollenstein.de
 designer-second-hand-shop.com
 designerustyles.com
@@ -842,6 +851,7 @@ elektro-engel.de
 elektro-guetlein.de
 elektro-haus24.com
 elektro-kingz.de
+elektro-mandt.de
 elektro-parc.de
 elektrobester.com
 elektrocandy.de
@@ -871,6 +881,7 @@ ellerne.com
 elleslife.com
 ellmauplus.at
 elmiracolo.store
+eloquentik.de
 eloquentika.de
 elpompomskywelpen.com
 eltaito.de
@@ -926,6 +937,7 @@ expedien.de
 expertsinmoving.com
 express-bester-kauf.com
 express-kauf.com
+expressfuhrerscheinverkauf.com
 extratopia.com
 exvision.de
 eysdfsdfsd.myshopify.com
@@ -997,6 +1009,7 @@ felgen-restposten.de
 felix-messer.de
 femmesport.eu
 fencia.co
+ferlinwaffen.com
 fernlehrangebote.de
 festivalhot.com
 feuerwehr-ohlenberg.de
@@ -1011,6 +1024,7 @@ fidvu.de
 fiercehealthfinance.com
 fighters-outlet.com
 fila-norge.com
+filamonia.de
 filastore.club
 fillamoda.com
 financerevision.de
@@ -1035,6 +1049,7 @@ flensfahrschule.com
 flexumgel-official.shop
 fliesen-cieslack.de
 flobamorata.com
+florina-garten.de
 floritita.com
 floryday.com
 flottepalme.de
@@ -1047,6 +1062,7 @@ folmy.de
 foolhouse.de
 footballcamp.at
 footsmart.eu
+fordering.top
 forestcabin-de.myshopify.com
 forevercosmetics.us
 fortunagreven.de
@@ -1070,7 +1086,10 @@ freeacy.com
 freebest.shop
 freehotshoes.com
 freilandsysteme.de
+freischlafen-de.myshopify.com
 freshhoods.com
+frey-versand.net
+friedaskitchen.de
 friedlichesende.com
 frieezie.com
 friseursalon-monika.at
@@ -1151,6 +1170,7 @@ ge4collection.com
 geanliy.com
 gearmall.co.uk
 gecycles.com
+gelizabela.com
 genauwahl.de
 generica-farmacia24.com
 generika-apotheke24.de
@@ -1202,6 +1222,7 @@ goldengoose.at
 goldengoosedeluxebrand.at
 goldenretrieverzuchter.de
 goldenwaters.de
+goldhandel-heute.de
 goldhandel-testsieger.de
 goldscheideanstalt-solidus.de
 goldschmiede-karelslanina.de
@@ -1522,6 +1543,7 @@ iued.ch
 ivcuafuku.com
 ivrose.com
 iwum-consulting.de
+iyaqag.com
 izebua.com
 j-lehmann.de
 jackview.com
@@ -1601,6 +1623,7 @@ kamagrabestellen.shop
 kandiny.com
 kandiny.de
 kangaltree.com
+kangaltree.net
 kanminbag.com
 kara-sport.de
 karchshop.com
@@ -1626,6 +1649,7 @@ kaverid.com
 kayklingbeil.de
 kb-noman.de
 kcarlazne.com
+keendeutsch.com
 keenschuhewien.at
 kellyys.com
 kelsen-fnac.com
@@ -1753,6 +1777,7 @@ landiscount.fr
 laneyea.com
 laptop-akku-shop.com
 laptop-akkus.org
+lartteam.com
 larzarus.de
 laser-architekten.de
 lasern-statt-bohren.de
@@ -1938,6 +1963,7 @@ medikamente-kaufen-24.net
 medikamente-rezeptfrei.shop
 medimox.net
 medirezept.com
+meer-trends.de
 mega-moolah.se
 megarabat.shop
 megbydesign.com
@@ -2054,6 +2080,7 @@ mogmoc.com
 momoanty.com
 monacoschuhe.com
 monad.be
+mondial-pharmaceuticals-shop1.com
 mondschaufel.de
 mondschiff.de
 mongi.at
@@ -2097,6 +2124,7 @@ mvbergweiler.de
 my-lifelong-learning.de
 my-pbs.shop
 myawward.com
+mybordercollies.de
 mycaboconcierge.com
 myclothes.shop
 mydealfinder.de
@@ -2205,6 +2233,7 @@ nova-watch.co
 novacosy.com
 noweight.de
 npvfc.top
+nsehreideas.com
 nsmlabp.com
 nsx-scooter.de
 nubn.shop
@@ -2366,6 +2395,7 @@ pmarebaja.online
 pmkbfx.com
 pods-tech.com
 poeme-image.at
+pogelos.de
 polanishop.com
 polenboeller-deutschland.com
 politecity.com
@@ -2431,6 +2461,7 @@ pullach-evangelisch.de
 punkrave.ch
 purchses.com
 purelywave.com
+pushdryson.com
 pushup-bh.at
 pushup.at
 pwrdsport.com
@@ -2461,6 +2492,7 @@ rad-trikots.de
 radbekleidung4u.com
 radestock-dachdeckerei.de
 radfreunde-murtal.at
+radhaus-ffm.de
 radinod.com
 radlersport.com
 radtrikotonlineshop.de
@@ -2503,6 +2535,7 @@ reiseklarheit.de
 reisen-engler.de
 reitpferd-vollblut.de
 relaxify.de
+reminitive.com
 renkbho.com
 rennradbekleidung.com
 rent-a-sandman.de
@@ -2520,6 +2553,7 @@ rextrade.de
 rezeptfrei-24.com
 rezeptfrei.online
 rhein-entree.de
+rhein-trends24.de
 rheinadler.com
 rheinadler.de
 rheineule.de
@@ -2570,6 +2604,7 @@ ruckusclothing.com
 runtowinter.com
 rww-minis.de
 rzssem.com
+s-j-ruppenthal.de
 sabine-becker.de
 sabine-und-markus.at
 sabines-laden.com
@@ -2752,6 +2787,7 @@ sommerdeal24.com
 somuchstobuy.com
 sonaber.com
 sonia-media.com
+soniamallw.com
 sonicbig.com
 sonja-kosmetik.at
 sonkehj.com
@@ -2781,6 +2817,7 @@ special-sports.at
 specialsalecheap.com
 specutrums.com
 speedcubekaufen.com
+spiegler1.de
 spieleu.com
 spielsmarkt.com
 spielzu.com
@@ -2800,6 +2837,7 @@ sport-welt24.de
 sport24.world
 sportalm-kirchschlag.at
 sportalo24.de
+sporthandel-weiller.de
 sporthaus-laubi.de
 sporthotel-schwerin.de
 sportpulss.com
@@ -2808,6 +2846,7 @@ sports-discount.net
 sports-ha.com
 spowo.at
 spyder-outlet.com
+spyxe.de
 sratimd.com
 sroyiglobal.com
 ss888.shop
@@ -2918,6 +2957,7 @@ team-gamma.de
 team-soundprojekt.de
 team-wachau.at
 teameffekt.de
+teamlevelsix.com
 tech-angebot-shop.com
 tech-fox.de
 tech-land.de
@@ -2993,6 +3033,7 @@ tidebuy.com
 tieker-versandhandel.de
 tier-wellness.at
 tiere.at
+tikshopf.com
 tim-marketing.de
 timberlands-onlineshop.de
 timbuktours.de
@@ -3001,6 +3042,7 @@ timyllc.com
 tingnybaby.com
 tinnitus-losung.com
 tinypawszuhause.de
+tiraloshop.com
 titacai.top
 titihaus.de
 tjhhylh.com
@@ -3079,6 +3121,7 @@ tuuik.com
 twovillas.com
 twpfactory.com
 tyjmuq.com
+typisch-tierliebe.de
 typo-vision.de
 u-rack.de
 u18-volleyballdm-berlin-2015.de
@@ -3161,6 +3204,7 @@ vdd-osnabrueck.de
 veganfoodie.de
 veggiemuscles.de
 vejaoutfit.site
+vejaschweiz.com
 veloberlin.de
 velurio.com
 vendial.de
@@ -3179,6 +3223,7 @@ versandhaus-frehn.de
 versandhaus-shopala.de
 versandhaus-wohlers.de
 versandpharma.de
+vertow.com
 veryvoga.com
 vespin.de
 vetcoco.com
@@ -3190,6 +3235,7 @@ viciac.com
 videofilm-reinhardt.de
 viewtecf.com
 vincenzosantoriello.it
+vinemos.de
 violta.net
 vipkickz.com
 vipluckyshop.com
@@ -3240,6 +3286,7 @@ waldeber.de
 waldemar-kunz.de
 waldundfeld.myshopify.com
 walter-riegler.at
+walterigorr.com
 walther-electron.de
 waltraudkoch.de
 wanford.com
@@ -3270,6 +3317,7 @@ wein-aus-illmitz.at
 weingalerie-odenhausen.de
 weinwer.de
 weisehaus.de
+weisehen.de
 weka-markt.com
 wellensteynjacke.com
 wellindal.com
@@ -3368,6 +3416,7 @@ xueziashop.com
 xxl-posterprint.de
 xxl-store.com
 yagotexp.com
+yangonesen.com
 yaweg.shop
 ycidium.com
 yearninges.com
@@ -3378,6 +3427,7 @@ yivette.com
 yjitule.top
 yoebag.com
 yogabaum.at
+yogaofsexq.com
 yogaonlineb.com
 yokemart.com
 yolandal.com
@@ -3431,6 +3481,7 @@ zigmabit.com
 zitate-per-mail.de
 zmanbyes.com
 zmbshop.com
+zmelipilla.com
 znamazco.com
 zocker.shop
 zololily.com
@@ -3515,11 +3566,13 @@ fashiones.de
 fedenz.de
 felflame.com
 ffbag2.de
+filamonia.de
 finosso.com
 flaviorossi.de
 floryday.com
 fortunebeauty.de
 freeacy.com
+friedaskitchen.de
 frieezie.com
 galacal.com
 galaxylicht.shop
@@ -3615,11 +3668,13 @@ popstarland.com
 premium-garderobe.com
 primatop.de
 printyourgesicht24.de
+pushdryson.com
 pushup-bh.at
 pushup.at
 qgripsearwax.com
 qualitygadgetshop.com
 realyiyi.com
+reminitive.com
 retrostages.de
 rheinwing.de
 rollangel.com
@@ -3650,6 +3705,7 @@ svadli.de
 swristbandpro.com
 sydmeey.de
 thaisawadee.de
+tiraloshop.com
 top-password.com
 total-organisiert.de
 touchy.at
@@ -3662,6 +3718,7 @@ trendsexperten.de
 trendypreis.at
 trinitop.com
 tyjmuq.com
+typisch-tierliebe.de
 untilya.com
 upup.at
 usa-food-store.de
@@ -3669,6 +3726,8 @@ vaggv.com
 vaschoen.com
 vassv.com
 veralo.de
+vertow.com
+vinemos.de
 vivabrush.de
 vivaiacollection.com
 vomero.store
@@ -4042,6 +4101,7 @@ mumuplay.de
 myflixx.de
 myusenet.de
 nayplay.de
+nenoplay.de
 netoplay.de
 netusenet.de
 nexaflix.de
@@ -4204,6 +4264,7 @@ rayplay.de
 realflix.de
 redflix.de
 regplay.de
+remoplay.de
 rexflix.de
 rexkino.com
 rexplay.de
@@ -4461,6 +4522,7 @@ dohahotel24.com
 dream-spot.com
 dubaihoteluae.com
 ferienpartner.co
+fewolio.de
 fewopartner.co
 hamburg-hotel.net
 highlandshotels.net
@@ -4568,7 +4630,9 @@ as-transport.org
 atwtransp.com
 avrio-logistics.eu
 bhslogistic.tk
+bhstransport.tk
 bolitrans.com
+bolt-courier.com
 bravo-autotrucks.com
 breenlogistics.com
 bsi-trans.com
@@ -4608,6 +4672,7 @@ globallogisticltd.com
 globaltranshippers.com
 glomalogistics.com
 gtblogistics.com
+gtl-courier.com
 hla-trans.eu
 i-translogistics.com
 jjctrans.com
