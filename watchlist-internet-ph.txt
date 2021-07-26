@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-07-21
+# Last updated:  2021-07-26
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -969,6 +969,8 @@ fahrradbekleidung-onlines.de
 fahrradbekleidungdeu.com
 fahrradbekleidungs.de
 fahrradhaus-zeyen.de
+fahrradwelt-online.com
+fahrradwelt-shop.com
 fahrschule-seefeldt.de
 failux.com
 fairyta.com
@@ -1422,7 +1424,6 @@ holycrossmoravianchurch.com
 holzbau-hunger.de
 holzpflegewachs.com
 holzti.com
-home-office123.de
 homeinlay.com
 homepetd.com
 homeseven.de
@@ -2525,6 +2526,7 @@ queeneva.com
 queenluckyshop.com
 qv-salzburg.at
 qxrorat.top
+rabattdisney.com
 rabenspil.at
 racing-palace.at
 racingteam-hunger.de
@@ -2569,6 +2571,7 @@ reflus.de
 refortasev.com
 regenmantel24.de
 registerwegweiser.info
+rehauevents.de
 reichwahl.de
 reidkanem.top
 reiligs.de
@@ -3096,6 +3099,7 @@ tm5-ag.com
 tmissyildiz.com
 toceanswide.com
 todos-lala.com
+toijoshd.com
 tomsoju.com
 tonspy.com
 tonweise.at
@@ -4001,6 +4005,7 @@ gonastream.de
 goraplay.de
 goroplay.de
 goxflix.de
+goxplay.de
 guckflix.de
 gudoflix.de
 guloplay.de
@@ -4744,6 +4749,7 @@ glomalogistics.com
 gtblogistics.com
 gtl-courier.com
 hla-trans.eu
+hsn-logistik.com
 i-translogistics.com
 jjctrans.com
 jomvon-trans.com
@@ -4754,6 +4760,7 @@ logistics-coltd.com
 lorgi-transportes.com
 lozano-agro-spedition.com
 lpstransport.com
+lss-transport.com
 luego-transport.com
 motoglobal-trucking.com
 move-forward-e-car.com
@@ -4770,6 +4777,7 @@ prr-haulage.com
 radeondelivery.com
 rnthaulage.com
 rtinternational-handelsbolag.com
+seagulltrans.com
 services-limited.com
 snk-cargos.com
 souto-vehiculos.com
