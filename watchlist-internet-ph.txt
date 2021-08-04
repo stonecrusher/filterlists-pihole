@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-07-31
+# Last updated:  2021-08-04
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -19,6 +19,7 @@
 2rad-schwarz.de
 2rad-xxl.de
 2radmarkt.com
+2radwelten.de
 30netzteil.de
 365ersatzteile.de
 3amoto.com
@@ -150,6 +151,7 @@ annmiyac.com
 annurifsm.com
 anodescorp.com
 anssi-antila.de
+anthead.club
 antiquariat-renner.de
 antiwurm.de
 antminerfarm.com
@@ -239,6 +241,7 @@ ayurreadpro.com
 azarmalekc.com
 aziur.de
 azur-teck.de
+azzunto.de
 b-checker.at
 babaroni.de
 babbien.com
@@ -515,6 +518,7 @@ carhirenice.co.uk
 carlosport.com
 carmen-video.at
 carola-stauche.de
+carrerah.com
 carshades.at
 casalepoggetto.it
 casamaestri.de
@@ -603,6 +607,7 @@ colorjoey.com
 colorkenken.shop
 comeyour.com
 comforttaxi.at
+comfy-max.de
 comgestdirekt.de
 commandoll.com
 comolia.shop
@@ -894,6 +899,7 @@ elektrohoppe.de
 elektromobel.com
 elektronik-ag.com
 elektronik-gmbh.com
+elektronik-stern.de
 elektroniknetzteil.de
 elektroniksoft.com
 elektronlinestore.com
@@ -1090,6 +1096,7 @@ flexumgel-official.shop
 fliesen-cieslack.de
 flobamorata.com
 florina-garten.de
+florina-garten.net
 floritita.com
 floryday.com
 flottepalme.de
@@ -1191,6 +1198,7 @@ garten-hannes.de
 garten-karl.de
 garten-maestro.de
 garten-paule.de
+garten-unser.de
 garten-willi.de
 gartenbau-schuetz.de
 gartencenter-horstmann.de
@@ -1231,6 +1239,7 @@ getdrunk.at
 getevelynbag.com
 gethypersoft.com
 getkibblex.com
+getsuperli.com
 getzor.com
 ggv-tk.de
 ghyifellowe.site
@@ -1599,6 +1608,7 @@ itecsure.com
 iubqx.com
 iued.ch
 ivcuafuku.com
+ivelay.com
 ivrose.com
 iwum-consulting.de
 iyaqag.com
@@ -1644,6 +1654,7 @@ jojolikes.com
 jonas-wilken.de
 jonny-boston.de
 jonnycoca.com
+jootany.com
 josef-elektronik.com
 josips.top
 jouvem.com
@@ -1806,6 +1817,7 @@ kswfp.top
 kuaicmn.com
 kuechen-sommer.de
 kuechenblume.net
+kumeyo.de
 kunstamt.at
 kupfermaehne.at
 kussleben.com
@@ -1846,6 +1858,7 @@ lasern-statt-bohren.de
 lastore.net
 latestontrends.com
 lattena.de
+laura-dresses.com
 lava-muc.de
 laylara.com
 lcirv.top
@@ -2088,6 +2101,7 @@ mhs-gosau.at
 miayamy.com
 michael-hoffmann-wuppertal.de
 michaelzaehringer.de
+michalka-koestlichkeiten.de
 midatlanticstore.com
 mig-bergmannsfeld.de
 mih-luehr.de
@@ -2180,6 +2194,7 @@ msp24.at
 mudanzas-al-extranjero.es
 muehlbach-dampfer.de
 muellerscafe.de
+muenchenzelte.de
 muesdey.com
 mullerr.de
 multimediapalast.de
@@ -2361,6 +2376,7 @@ oniani-wohnen.de
 online-mode-1.de
 onlinebestsale2021.com
 onlinecheapbest2021.ru
+onlinechemicalandpills.com
 onlinenewsh.com
 onlineoutletsale2021.com
 only-baby.de
@@ -2373,6 +2389,7 @@ original-pandora-schmuck.com
 originalbyshop.com
 originals-clothing.de
 orizo.de
+orrebol.com
 ortando.de
 osteland-z24.de
 outdoorshopx.com
@@ -2429,6 +2446,7 @@ perfectcrer.com
 perfektegeschenke.co.uk
 perfektwelt.de
 performance-gloves.at
+persheliosl.com
 personalisiertefotodecke.de
 perueckensale.com
 perureisen.at
@@ -2674,6 +2692,7 @@ romantic-butterfly.com
 romantisches-mecklenburg.de
 romeoversand.com
 ronain.com
+roomscarth.com
 roselinlin.com
 rosenkrieg-magazin.de
 rosetata.com
@@ -2811,6 +2830,7 @@ shop4at.com
 shopadgr.com
 shopadisale.com
 shopbydays.com
+shopcider.com
 shopelectronik.com
 shopeplace.com
 shoperazo.com
@@ -2950,6 +2970,7 @@ stammeskleidung.de
 stancery.com
 stanclara.com
 star-apotheke.com
+stargatev.com
 starmedia24.com
 starrynights.uk
 starvcustoms.com
@@ -3209,6 +3230,7 @@ trendypreis.de
 trendyshopvip.com
 trestasty.de
 tretrollerladen.de
+trettpedal.com
 triangle-ink.de
 trikotsale.de
 trimzy.de
@@ -3329,6 +3351,7 @@ versandpharma.de
 vertow.com
 veryvoga.com
 vespin.de
+vespin24.de
 vetcoco.com
 vetola.de
 vevor.de
@@ -3372,6 +3395,7 @@ vonpundl.de
 vooglabor.com
 vookiz.com
 vop-bau.at
+voreno.de
 vpetron.com
 vsahiltd.com
 vskolo.at
@@ -3656,6 +3680,7 @@ cklinen.com
 clorislife.com
 clubofzodiac.com
 cokodive.com
+comfy-max.de
 comolia.shop
 coolsnow.at
 cosmosix.de
@@ -3728,6 +3753,7 @@ hulapro.de
 hypersoftsneakers.com
 hypesbeauty.de
 inspirelf.com
+ivelay.com
 jackview.com
 jellylight.at
 jieper.com
@@ -3741,6 +3767,7 @@ kinderkumpel.de
 kingofbuy.com
 kizaro.de
 klakers.com
+kumeyo.de
 kussleben.com
 labubu.co.uk
 lajondo.com
@@ -3823,6 +3850,7 @@ schwansgut.de
 shauntapparel.com
 shein.com
 shop4at.com
+shopcider.com
 shopmood.de
 siezuerst.com
 sisterok.de
@@ -3868,6 +3896,7 @@ vivabrush.de
 vivaiacollection.com
 vomero.store
 vookiz.com
+voreno.de
 waifairy.com
 warevo.de
 wayfale.com
@@ -4838,6 +4867,7 @@ lozano-agro-spedition.com
 lpstransport.com
 lss-transport.com
 luego-transport.com
+maersk-transint.com
 motoglobal-trucking.com
 move-forward-e-car.com
 ms-shipping.net
@@ -4853,6 +4883,7 @@ prr-haulage.com
 radeondelivery.com
 rnthaulage.com
 rtinternational-handelsbolag.com
+sama-logistic.com
 seagulltrans.com
 services-limited.com
 snk-cargos.com
