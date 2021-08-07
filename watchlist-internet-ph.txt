@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-08-04
+# Last updated:  2021-08-07
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -207,6 +207,7 @@ aturabzehra.com
 au-pair-diary.de
 auaweg.at
 audikaufen.de
+audiwa.de
 aufgewacht.at
 aufjagd.de
 aufsperrdienst-24.at
@@ -409,6 +410,7 @@ bodrumj.top
 bodycure-shop.de
 bolada.de
 boldmatters.de
+bolenso.de
 bomcacadors.com
 bonnyin.at
 bonviviale.shop
@@ -1271,6 +1273,7 @@ gobrashop.com
 gobuystores.com
 gocabsgoy.com
 godcontroller.de
+gogielektro.com
 goldene-erde.at
 goldengoose.at
 goldengoosedeluxebrand.at
@@ -1868,6 +1871,7 @@ learn-german-faster.de
 learningtowers-und-mehr.de
 lebeautark.de
 lebentop.de
+lehmann-versand.de
 leitneraviation.at
 lenas-boutique.com
 lensivy.com
@@ -2167,6 +2171,7 @@ mondial-pharmaceuticals-shop1.com
 mondschaufel.de
 mondschiff.de
 mongi.at
+monobankl.com
 monokompakt.de
 monostarscope.com
 monsterstee.com
@@ -2674,6 +2679,7 @@ ride-a-bike.club
 riekershoes.me.uk
 rigthoffer24.com
 ringgauholzpellets.de
+ritter-mode.com
 ritterplanvienna.at
 rkzhb.com
 rledarius.com
@@ -3398,6 +3404,7 @@ vop-bau.at
 voreno.de
 vpetron.com
 vsahiltd.com
+vsemzaimio.com
 vskolo.at
 vsmee.com
 vsmitterdorf-raab.at
@@ -3668,6 +3675,7 @@ bestchooes.com
 bimlola.shop
 bluemuli.com
 bolada.de
+bolenso.de
 boobie.at
 bringwish.com
 brodyjeane.com
@@ -3839,6 +3847,7 @@ realyiyi.com
 reminitive.com
 retrostages.de
 rheinwing.de
+ritter-mode.com
 rollangel.com
 roselinlin.com
 rothause.de
@@ -3960,6 +3969,7 @@ bogoplay.de
 bogostream.de
 bokuflix.de
 bomoflix.de
+bomplay.de
 bonastream.de
 bonoplay.de
 bonostream.de
@@ -3997,6 +4007,7 @@ diroplay.de
 dodoflix.com
 dodoplay.de
 dodplay.de
+doduplay.de
 doflix.de
 dogostream.de
 doloplay.de
@@ -4200,7 +4211,9 @@ lookflix.de
 losflix.de
 loxflix.de
 loxostream.de
+ludoplay.de
 lugoflix.de
+luguplay.de
 lunaplay.de
 madaplay.de
 madofilms.de
@@ -4596,6 +4609,7 @@ brook-field-assets.com
 brookfieldassets.eu
 camden-trust.com
 casa-broker.com
+cb-estate.com
 century-21.uk
 century-realestate.com
 christies-realestate.com
@@ -4860,6 +4874,7 @@ jjctrans.com
 jomvon-trans.com
 kbnlogistics.com
 kurier-europe.com
+lastresortshipping.com
 line-express-group.com
 logistics-coltd.com
 lorgi-transportes.com
@@ -4874,6 +4889,7 @@ ms-shipping.net
 ms-shippings.net
 msc-transglobal.com
 mtseurologistics.com
+nk-spedition.eu
 nls-logistics.com
 odghaulage.com
 oldsailorsshippingcompany.com
