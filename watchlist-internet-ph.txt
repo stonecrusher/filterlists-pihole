@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/alle-themen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-08-13
+# Last updated:  2021-08-20
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-online-shops/
@@ -28,6 +28,7 @@
 4attensions.at
 99rabats.shop
 aacan.site
+aakaimai.com
 aalborgfrivilligraad.dk
 abaherhat.com
 abarqi.com
@@ -415,6 +416,7 @@ bochner-handel.de
 bodasi.de
 bodrumj.top
 bodycure-shop.de
+boeder-bike.de
 bolada.de
 boldmatters.de
 bolenso.de
@@ -618,6 +620,7 @@ cokodive.com
 colorjoey.com
 colorkenken.shop
 comeyour.com
+comfie.de
 comforttaxi.at
 comfy-max.de
 comgestdirekt.de
@@ -1322,6 +1325,7 @@ grafpilati.at
 grandado.com
 grandeurlux.com
 grandiancia.com
+graposo.de
 gratispengar.at
 gratschmaier.at
 grauschwarzbrillen.de
@@ -1980,6 +1984,7 @@ luskepoker.com
 luvpear.com
 luvyle.com
 luxdentala.com
+luxedore.com
 luxishop.de
 luxsofabezuege.com
 luxury-shop.at
@@ -2164,15 +2169,18 @@ misgift.de
 missmoana.com
 mister24bike.de
 misterjoux.com
+mitbella-shop.de
 mitbote.de
 mixmedia.store
 mkgarrisone.com
 mkleider.de
 mlgatoj.com
 mlsjy.store
+mmoyoprop.com
 mmz-nord.de
 mnml.la
 moaress.top
+mobeltops.com
 mobileklean.com
 mobilmondo.de
 mocolilys.com
@@ -2245,6 +2253,7 @@ musikzitat.at
 mv-pflegeschutz.de
 mv-rosenau.at
 mvbergweiler.de
+mxows.com
 my-lifelong-learning.de
 my-pbs.shop
 myawward.com
@@ -2399,6 +2408,7 @@ ohnegrenze.com
 ohospitale.com
 ohpera.at
 okomia.com
+okvdo.top
 olakork.com
 oldboys-mc.at
 oldjulysale.com
@@ -2645,6 +2655,7 @@ radhaus-ffm.de
 radinod.com
 radlersport.com
 radtrikotonlineshop.de
+radtyp.de
 raiment.nyc
 rainbeating.com
 raisvillau.com
@@ -3096,6 +3107,7 @@ systanz.de
 systemcads.com
 szdafanl.com
 szyciemamy.top
+t-online.de
 t7cafe.de
 tabakshop2000.de
 tablet-restposten.club
@@ -3118,6 +3130,7 @@ tatjana-beauty.de
 tauchershop.at
 tauchersport.de
 tausagun.com
+tchsrlt.top
 tderby.top
 tdubtunes.com
 tealbicycle.com
@@ -3156,8 +3169,10 @@ terkbike-store.com
 terriberri.de
 tesento.com
 test4.com
+testmattrd.top
 testversand.com
 testzuhause.at
+teva-osterreich.at
 tevasandalen.at
 tevlaria-elektra.com
 thaisawadee.de
@@ -3505,6 +3520,7 @@ weisehaus.de
 weisehen.de
 weka-markt.com
 wellensteynjacke.com
+wellensteynjackenoutlet.org
 wellindal.com
 wellindal.de
 welt-marktonline.com
@@ -3853,6 +3869,7 @@ luckstark.com
 lucybreeze.com
 luisrora.com
 lushdream.de
+luxedore.com
 luxsofabezuege.com
 magikbody.de
 manguys.com
@@ -3865,6 +3882,7 @@ metalsme.com
 mexisale.com
 miayamy.com
 minlyfire.com
+mitbella-shop.de
 mocolilys.com
 modeis24.shop
 monostarscope.com
@@ -4160,11 +4178,14 @@ gaboflix.de
 gagaplay.de
 gagastream.de
 galoflix.de
+galoplay.de
 gamoflix.de
+gamoplay.de
 garoflix.de
 garuplay.de
 gauflix.de
 geraflix.de
+gerplay.de
 gigaflix.de
 gigausenet.de
 gigusenet.de
@@ -4360,6 +4381,7 @@ nexaflix.de
 nexostream.de
 ninjaflix.de
 ninoplay.de
+noboplay.de
 nodaflix.de
 nodeplay.de
 noliflix.de
@@ -4372,6 +4394,7 @@ nowflix.de
 noxflix.de
 noxplay.de
 nubaflix.de
+nuduplay.de
 nunuplay.de
 nurflix.de
 obiplay.de
@@ -4533,6 +4556,7 @@ rostream.de
 rotflix.de
 roxflix.de
 roxplay.de
+rumuplay.de
 runaplay.de
 sadaflix.de
 sadaplay.de
@@ -4540,6 +4564,7 @@ sadoflix.de
 sadoplay.de
 sadplay.de
 saflix.de
+sagaplay.de
 savaflix.de
 saveplay.de
 seeflix.de
@@ -4776,6 +4801,7 @@ world-wide-properties.com
 ### Urlaubsbuchungsplattformen:
 allhotelsmorocco.com
 billige-reiseorte.info
+booking-villamallorca.com
 british-columbia-hotels.com
 deine-reise.info
 dohahotel24.com
@@ -4801,6 +4827,7 @@ jetzt-urlaub.info
 krabihotelsthailand.net
 luxfewo.de
 maldives-hotelsresorts.com
+mallorca-homerentals.com
 mayrhofen-hotels.at
 norfolkhotels24.com
 norwayhotel.net
@@ -4953,6 +4980,7 @@ lpstransport.com
 lss-transport.com
 luego-transport.com
 maersk-transint.com
+marin-logistic.com
 motoglobal-trucking.com
 move-forward-e-car.com
 ms-shipping.net
@@ -4968,6 +4996,7 @@ primelogisticllc.com
 prr-haulage.com
 radeondelivery.com
 rnthaulage.com
+royalfright-logistics.com
 rtinternational-handelsbolag.com
 sama-logistic.com
 seagulltrans.com
@@ -5022,6 +5051,7 @@ dialog-unternehmensberatung.de
 digitaldataimpuls.de
 enix-ai.net
 famous-enterprise.de
+foxxum24.de
 markt-check.club
 markt-check.expert
 markt-check.online
