@@ -2,12 +2,12 @@
 # Expires:       7 days
 # Description:   Block fake online shops, malicious streaming platforms and other fraudulent or dubious agencies. List taken from watchlist-internet.at
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
-# License:       Taken from https://www.watchlist-internet.at/alle-themen/
+# License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-08-28
+# Last updated:  2021-09-01
 
 ### Betrügerische Onlineshops:
-# https://www.watchlist-internet.at/liste-online-shops/
+# https://www.watchlist-internet.at/liste-betruegerischer-shops/
 12-suchen.de
 123brennholz.com
 12streetwings.com
@@ -603,6 +603,7 @@ clearanceonline2020.com
 clebonia.de
 cliccouves.co.uk
 climissions.com
+cllovery.com
 clockersbcn.com
 clockersbcn.es
 clorislife.com
@@ -652,6 +653,7 @@ cosmosix.de
 cosplayshow.com
 cotonetlin.de
 cotosen.com
+cottontalkf.com
 countryattire.at
 coxycode.com
 cozyp.at
@@ -663,12 +665,14 @@ cragoo.de
 crateel.com
 crazyabuy.com
 crazylettuce.com
+creativecookhouse.com
 creaturepuppetgallery.com
 cremcofy.com
 cridispor.com
 crocsat.at
 crocsat.top
 croozer-fahren.de
+crotpe.com
 crystal-chandelier.at
 crystalfashion.vip
 crystalsoul.de
@@ -959,6 +963,7 @@ emmaschultzkitten.com
 emmiol.com
 emmtekc.com
 ems-at-abe.de
+emulatorshop.com
 en-com.at
 endlich-bauherr.de
 energie-zum-leben.at
@@ -975,6 +980,7 @@ epages.de
 erdbau-niederwieser.at
 erdbeerblase.de
 erektslim.com
+ericaojun.com
 ericdress.com
 ernstfarm-coburg.de
 errevi.de
@@ -1053,6 +1059,7 @@ fashiontoto.com
 fashionuapparel.com
 fashukoh.com
 fashvia.shop
+fasohomeu.com
 fast-shoppy.com
 fastenundinnehalten.at
 fastflowp.top
@@ -1106,6 +1113,9 @@ finosso.com
 firalo.de
 firma-leitner.at
 firstorea.com
+firstrunk.top
+fit4fun-arena.de
+fitbands.de
 fitflopsreduziert.de
 fitness-im-buero.de
 fitness-zuhause24.de
@@ -1308,6 +1318,7 @@ gogielektro.com
 goldene-erde.at
 goldengoose.at
 goldengoosedeluxebrand.at
+goldenretrieverkonig.de
 goldenretrieverzuchter.de
 goldenwaters.de
 goldhandel-heute.de
@@ -1462,6 +1473,7 @@ herrheimwerker.de
 herrngarten.de
 herzpraxis-benzer.at
 hibote.de
+hier-brennts.de
 hier-kein-stall.de
 hierbeiuns.at
 hifi-klangtastisch.de
@@ -2457,8 +2469,10 @@ orrebol.com
 ortando.de
 orzsay.com
 osteland-z24.de
+outdooriftz.com
 outdoorshopx.com
 outlet2021.com
+outletshop2021.ru
 outletstore2020.net
 outmanlets.com
 owahoocar.com
@@ -2482,6 +2496,7 @@ pandorasdeutschlands.com
 panteha-market.de
 pantoletti.myshopify.com
 panzer-industriebedarf.de
+pappshop.top
 papskenya.com
 papsttasche.de
 parabound.de
@@ -2642,6 +2657,7 @@ pwrdsport.com
 pyro-effects.com
 pyroxtrem.com
 qakppo.top
+qappleshop.com
 qbzdq.shop
 qenova.com
 qfucktalk.com
@@ -2760,6 +2776,7 @@ rockactivestore.com
 rockkelp.com
 rocolee.com
 roemer-schafhausen.de
+roleade.top
 rollangel.com
 rollerclub-wieselburg.at
 rollerklub-wieselburg.at
@@ -2872,6 +2889,7 @@ selected-health.de
 selina-nails.de
 sellbest.eu
 sellingclothing.com
+sellsfun.com
 selly.gg
 selscoun.com
 sem-solar.de
@@ -2886,6 +2904,7 @@ serindipiti.com
 serishirts.com
 serkon.at
 seronia.de
+setfahrradtrikot.com
 setyours.com
 sg-host.com
 sgifashop.com
@@ -3005,6 +3024,7 @@ soxberger.at
 spacebuds.de
 spanisch-essen.at
 spareshop.at
+sparhalt.com
 sparkauf.eu
 sparkauf24.com
 sparluchs.net
@@ -3017,6 +3037,7 @@ spiegler1.de
 spieleu.com
 spielsmarkt.com
 spielzu.com
+spillagei.com
 spiralo.de
 spirelove.com
 spirit-tattoo.at
@@ -3060,6 +3081,7 @@ steen-text.de
 steinberg-handel.de
 steinraum.at
 stellplatz-sachsen.de
+stepsclubg.com
 stepwin.de
 sterbrucke.de
 sternenschreiter.de
@@ -3072,6 +3094,7 @@ steuerfrei-shoppen.com
 sthorie.com
 stickynotesoftware.com
 stipendienkritik.de
+stoersender24.com
 stollkrippen.de
 stolte-holz.de
 stoneud.com
@@ -3131,7 +3154,6 @@ systanz.de
 systemcads.com
 szdafanl.com
 szyciemamy.top
-t-online.de
 t7cafe.de
 tabakshop2000.de
 tablet-restposten.club
@@ -3329,6 +3351,7 @@ trimzy.de
 trinitop.com
 truefind-shop.com
 truuly.de
+tthbrand.com
 tubaxx.com
 tudio.de
 turmatelier.at
@@ -3656,6 +3679,7 @@ yaweg.shop
 ycidium.com
 yearninges.com
 yellowpost.de
+yesokjewelry.com
 yfherf.com
 yhunecha.com
 yivette.com
@@ -3788,6 +3812,7 @@ chicanti.com
 chicwells.de
 cicilookshop.com
 cklinen.com
+cllovery.com
 clorislife.com
 clubofzodiac.com
 cokodive.com
@@ -3798,6 +3823,7 @@ cooorful.com
 cosmosix.de
 cozyp.at
 cozyslides.de
+crotpe.com
 crystalfashion.vip
 dalaline.com
 damenboutique-adenberger.com
@@ -3978,6 +4004,7 @@ safretshop.com
 schlafhimmelshop.de
 schoneswetter.de
 schwansgut.de
+sellsfun.com
 shauntapparel.com
 shein.com
 shop4at.com
@@ -4117,6 +4144,7 @@ coflix.de
 daflix.de
 daftstream.de
 dagaflix.de
+damplay.de
 daplay.de
 dasflix.de
 dasimax.de
@@ -4388,6 +4416,7 @@ modflix.de
 modoflix.de
 modplay.de
 mogoplay.de
+mogplay.de
 momoflix.de
 momoplay.de
 momostream.de
@@ -4436,6 +4465,7 @@ nowflix.de
 noxflix.de
 noxplay.de
 nubaflix.de
+nudaplay.de
 nuduplay.de
 nunuplay.de
 nurflix.de
@@ -4907,7 +4937,6 @@ fritz-installateur.at
 fritz-rohrreinigung.de
 grazerraeumung.at
 heinz-24h.pro
-hsd-installationstechnik.at
 installateur-24.at
 installateur-24h.pro
 installateur-fritz.at
@@ -4915,7 +4944,6 @@ installateur-gwh24.at
 installateur-hansi.at
 installateur-notdienst-wien.co.at
 installateureinwien.at
-installateurmax.at
 installateurnotdienste.at
 installateurzentrale.at
 je-pro.at
@@ -5077,6 +5105,7 @@ vlshaulage.com
 vogeltransltd.com
 vs-logistics.eu
 worldfastcourier.site
+xsmartlogisticservices.com
 yanillalogistics.com
 yuma-lda.com
 zopcar-gmbh.com
