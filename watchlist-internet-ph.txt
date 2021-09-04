@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-09-01
+# Last updated:  2021-09-04
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -55,6 +55,7 @@ adidas2018.com
 adidasalesshoe.de
 adidasr.top
 adidasyeezynew.com
+adocnick.com
 adogadgets.com
 adria-fisch.at
 adurrye.com
@@ -125,6 +126,7 @@ altayyabab.com
 alter48.fr
 alternzuhause.at
 altes-bahnhoefli.de
+alturuszimx.com
 amadeoh.at
 amagarni.com
 amarezashop.com
@@ -250,6 +252,7 @@ azzunto.de
 b-checker.at
 babaroni.de
 babbien.com
+babybubblestore.com
 back-attack.de
 backen-torte.de
 backlinkedr.com
@@ -472,6 +475,7 @@ brycus.de
 brytei.com
 bsased.com
 bsg-schach-berlin.de
+btrip-polished.site
 bubbleglibberball.de
 bubblleq.com
 bubofyard.com
@@ -620,6 +624,7 @@ coach-rosenheim.de
 coachbodyp.com
 coaching-sailing.at
 codefree-bluray.de
+codesdaddyo.com
 coeurconsulting.de
 cokodive.com
 colorjoey.com
@@ -873,6 +878,7 @@ ebikedragon.com
 ebopeep.com
 ebusiness-challenge.at
 eccooutletdeutschland.de
+eccooutletdeutschland.top
 eccoschuhefabrikverkauf.at
 eccoschuhfabrikverkauf.at
 echaychu.com
@@ -1338,6 +1344,7 @@ gose.shop
 goslook.com
 gosmartwatch.de
 gplate.de
+gpoavalonu.com
 gqkgb.top
 graces-buy.com
 grafik-krakora.at
@@ -1692,6 +1699,7 @@ jkarnil.com
 jkbikesout.cc
 jkhckf.top
 jlogihelgu.com
+jnasashop.com
 jo-westphal.de
 jobchange.at
 jochumdigital.at
@@ -1727,6 +1735,7 @@ juxqog.com
 jwerdmann.de
 jxaricde.com
 jxixiya.com
+k-nj.com
 kabpro-vitrinen.com
 kadonimo.de
 kaffeeguru.com
@@ -2478,6 +2487,7 @@ outmanlets.com
 owahoocar.com
 owaqoopj.com
 oykqo.top
+ozkart.com.au
 p-bau.at
 paadshalau.com
 packagekun.com
@@ -2742,6 +2752,7 @@ rent-a-sandman.de
 replayonlinesale.de
 replica-uhren.biz
 replicauhrenol.de
+resid3ncy.com
 restaurant-pools.at
 restaurantnamaskar.de
 retro-stage.de
@@ -2835,6 +2846,7 @@ santikadesign.com
 saramond.de
 sardinien-sailingcharter.de
 sarlsbholding.com
+sarvamits.com
 sasung.at
 sballfree.com
 schaap.at
@@ -2886,6 +2898,7 @@ seib-service.de
 seibelsdorf-ffw.de
 sektreisen.at
 selected-health.de
+selectith.com
 selina-nails.de
 sellbest.eu
 sellingclothing.com
@@ -3073,6 +3086,7 @@ stammeskleidung.de
 stancery.com
 stanclara.com
 star-apotheke.com
+starelax.com
 stargatev.com
 starmedia24.com
 starrynights.uk
@@ -3351,6 +3365,7 @@ trimzy.de
 trinitop.com
 truefind-shop.com
 truuly.de
+tsuchiyadcs.com
 tthbrand.com
 tubaxx.com
 tudio.de
@@ -4624,6 +4639,7 @@ rodoplay.de
 romaplay.de
 romoflix.de
 romoplay.de
+ronuplay.de
 roomflix.de
 rostream.de
 rotflix.de
