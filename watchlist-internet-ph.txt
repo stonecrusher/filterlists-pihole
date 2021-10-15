@@ -4,13 +4,15 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2021-10-08
+# Last updated:  2021-10-15
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
 12-suchen.de
 123brennholz.com
 12streetwings.com
+1netzteil.de
+2021bestcheaponline.com
 2021outlet.ru
 2021storeoutlet.com
 24things.de
@@ -28,6 +30,7 @@
 3clin.de
 3w-verlag.de
 4attensions.at
+88-films.myshopify.com
 99rabats.shop
 aacan.site
 aakaimai.com
@@ -95,6 +98,7 @@ ajantaphotolab.com
 ajelanie.com
 ajobkaro.top
 ajservice.de
+akinteriory.com
 akjfood.com
 akku-laden.at
 akku-pc.at
@@ -223,6 +227,7 @@ asist.top
 askdrkan.com
 asleme.com
 assameshop.com
+astrant.top
 atakku.at
 atesco.de
 athlerok.com
@@ -264,6 +269,7 @@ awestsports.com
 awgmse.com
 axialgeo.com
 axorisshop.com
+ayola.de
 ayparwebt.com
 ayurreadpro.com
 azarmalekc.com
@@ -705,6 +711,7 @@ copyshop-seekirchen.at
 corachic.com
 correctopshop.com
 cosmeticotwoo.com
+cosmic-rays.de
 cosmorent.at
 cosmosix.de
 cosplayshow.com
@@ -887,6 +894,7 @@ domako.de
 domel-us.de
 dominik-uhlig.de
 dommsch.de
+domorgel-billerbeck.de
 domstrren.com
 donifly.com
 donovan.store
@@ -978,6 +986,7 @@ ejrjx.top
 ekiezayetu.com
 eldond.club
 eldorado-store.de
+elec-bytes.de
 electro-deal.fr
 electro-eshoper.com
 electro-parc.de
@@ -1241,6 +1250,7 @@ footsmart.eu
 fordering.top
 forestcabin-de.myshopify.com
 forevercosmetics.us
+formalmonth.icu
 fortunagreven.de
 fortunebeauty.de
 forum-ahlberg.de
@@ -1367,6 +1377,7 @@ genauwahl.de
 generica-farmacia24.com
 generika-apotheke24.de
 genialbau.com
+genshinimpact-store.com
 genuar.top
 georgie.at
 gepures.com
@@ -1379,6 +1390,7 @@ gesangverein-spittelstein.de
 geschenkzone.at
 gesundeliebe.com
 gesundheitsaarland.de
+get-xdronehd.com
 getdrunk.at
 getevelynbag.com
 gethypersoft.com
@@ -1413,6 +1425,7 @@ globmedcent.com
 glowyplant.de
 gluckbox.com
 glucksladen.com
+gluckstucke.de
 glytchf.com
 gmasticks.com
 gmidraulica.de
@@ -1551,6 +1564,7 @@ haushaltsgeraete-mueller.de
 haushaltsideal.de
 haushaltskreis.de
 haushaltsreich.de
+haushaltswaren-mangold.net
 hausmarkt.direct
 hausstelen.de
 haustechnik-kant-pfeiler.de
@@ -1580,6 +1594,7 @@ heimtrainer4you.de
 heindl-baustoffe.at
 heindl-fenster.at
 heinrich-essing.de
+heinrichswelt.com
 heiztrends.de
 heldenbuch.de
 heldonies.de
@@ -1697,6 +1712,7 @@ hypersoftsneakers.com
 hyperstech.com
 hyperztech.com
 hypesbeauty.de
+hypescrape.com
 hypesneakers.co
 i-blade.at
 iai-shop.com
@@ -1706,6 +1722,7 @@ ibismall.net
 ibl-hgw.de
 iboukou-markt.com
 ibowen.fr
+ibratie.com
 ic-eckardt.at
 icgproducts.net
 ichhabe-ichwill.at
@@ -1736,6 +1753,7 @@ illlucky.com
 ilysne.com
 im-pretty-shop.com
 imbocoltdac.com
+imechappx.com
 imedilove.top
 imfocus.at
 imhfit.com
@@ -1795,6 +1813,7 @@ iseohek.com
 ismye.shop
 isocals.com
 isosmart.de
+issueast.top
 italiadesigns.com
 itc-schwarz.de
 itcloth.net
@@ -1859,6 +1878,7 @@ josef-elektronik.com
 josips.top
 jouvem.com
 joyshoetique.com
+jp-cases.com
 jrespirer.com
 jtasokt.com
 ju-nks.de
@@ -2022,6 +2042,7 @@ koretrak.kaufen
 korrekturbuero.at
 kosmische-astrologie.de
 kourhealth.com
+kparniyaan.com
 kperitia.com
 kraemerhandel.com
 kronen-apotheke-schweinfurt-app.de
@@ -2073,6 +2094,7 @@ larzarus.de
 laser-architekten.de
 lasern-statt-bohren.de
 lasportivaat.at
+lasportivaosterreich.at
 lastore.net
 latestontrends.com
 lattena.de
@@ -2080,6 +2102,7 @@ laura-dresses.com
 lava-muc.de
 lawncaremall.com
 laylara.com
+lbtinc.com
 lcirv.top
 ldecalog.com
 ldrmjepbi.shop
@@ -2124,6 +2147,7 @@ liebly.de
 liebscher-elektro.de
 lifeworks-munich.de
 liftr.eu
+ligaenne.top
 lightinthebox.com
 lightoping.com
 likelymorely.com
@@ -2136,6 +2160,7 @@ liranbe.com
 listennwa.com
 litfad.com
 livedarsc.com
+liverecy.com
 living-ewbau.at
 livinmillep.com
 lizenzdeal.de
@@ -2162,6 +2187,7 @@ lossive.top
 lotjei.com
 lovebugllc.com
 loyaltrend-de.com
+lrbzl.com
 ls-works.de
 lselloee.com
 lsoeanu.com
@@ -2174,6 +2200,7 @@ luisrora.com
 luluestore.com
 lumilights.de
 luminisens.fr
+lunakebe.com
 lunaleder.com
 lunavelvets.com
 lunestedter-gewerbeverein.de
@@ -2181,10 +2208,12 @@ luovu.de
 luppo.at
 lushdream.de
 luskepoker.com
+lusto.de
 luvpear.com
 luvyle.com
 luxdentala.com
 luxedore.com
+luxgomall.com
 luxishop.de
 luxsofabezuege.com
 luxury-shop.at
@@ -2205,6 +2234,7 @@ machart-durlach.de
 mad-max-vd-brunnengaerten.de
 madfriesq.com
 madhukaal.com
+madiparrotbreeders.com
 madixa.com
 maehercenter.de
 magiczoomco.com
@@ -2244,6 +2274,7 @@ markt-gmbh.net
 marktplatz-de.com
 markus-mendler.de
 markusbrandstetter.at
+marmot-deutschland.de
 marmotschweiz.ch
 marosina.at
 marti-bosom.de
@@ -2290,6 +2321,7 @@ medibus.at
 medicine-online.org
 medikamente-kaufen-24.net
 medikamente-rezeptfrei.shop
+medikamenteonlinekaufen.com
 medimox.net
 medirezept.com
 meer-trends.de
@@ -2404,6 +2436,7 @@ mobile-wellnessoase.de
 mobileklean.com
 mobilmondo.de
 mocolilys.com
+modaso.store
 modchips24.com
 mode-1.eu
 mode-diva.de
@@ -2513,6 +2546,7 @@ myskins.co
 mysneakz.com
 mytierhimmel.de
 mywedj.com
+myxofy.top
 myyesrun.com
 nachsterhemd.com
 nadine-stecker.de
@@ -2530,6 +2564,7 @@ nbkthai.com
 nblaufschuhe.de
 nbspek.top
 nbynicole.com
+ncases.com
 nct-elektronik.de
 ndm-faustball.de
 neary.de
@@ -2537,6 +2572,7 @@ neckcorrect.de
 neckcrack.de
 nemphilist.com
 neobosen.com
+neofitk.top
 neogames.eu
 nepenthe.shop
 neroivr.com
@@ -2556,6 +2592,7 @@ new-promotions24.com
 newbalancesneakers.de.com
 newchic.com
 newforbrands.com
+newmanslayer.de
 newtonschuhe.com
 newuseason.com
 newvstylish.com
@@ -2607,6 +2644,7 @@ notherr.com
 notoance.top
 nova-watch.co
 novacosy.com
+novenie.top
 noweight.de
 npvfc.top
 nsehreideas.com
@@ -2797,6 +2835,7 @@ pivht-supplements.com
 pizza-milano-gf.at
 pizza-telefon.at
 pkslutvr.top
+placeo.top
 planet-cars-difusion.com
 planetatrueque.com
 plantektur.de
@@ -2813,6 +2852,7 @@ pmkbfx.com
 pods-tech.com
 poeme-image.at
 pogelos.de
+pokestores.com
 polanishop.com
 polenboeller-deutschland.com
 polerforce.com
@@ -2829,6 +2869,7 @@ popstarland.com
 popuor.com
 popwelle.com
 porco-office.de
+porlabs.com
 posual.com
 potenz-kaufhaus.de
 powerplate-salzburg.at
@@ -2915,6 +2956,7 @@ qmypalm.com
 qnethini.com
 qnoveckads.com
 qp-sale.com
+qplatanic.com
 qranls.com
 qsaney.com
 qualitygadgetshop.com
@@ -3217,6 +3259,7 @@ shopelectronik.com
 shopeplace.com
 shoperazo.com
 shopfordis.com
+shopkpy.com
 shopkrone.de
 shopmood.de
 shopmusicalinstruments.com
@@ -3275,6 +3318,7 @@ sneaker2020z.com
 sneakersbrook18.com
 sneakerspalette-de.com
 sneakerz2020.com
+snitactical.com
 snowgear.com
 snugkicks.com
 soentgen-media.de
@@ -3358,6 +3402,7 @@ sprayitonyou.com
 spuical.top
 spyder-outlet.com
 spyxe.de
+squamise.top
 squraei.com
 sratimd.com
 sroyiglobal.com
@@ -3411,6 +3456,7 @@ stroplgng.com
 studioy.de
 studydeed.com
 stunt-team.at
+stupistic.top
 style-sensation.com
 style-up.shop
 stylegirllife.com
@@ -3508,11 +3554,13 @@ technikfusion.de
 technikhase.com
 technikhood.de
 technikhood.shop
+techspez.com
 techswap.de
 techtorks.de
 tecksypro.com
 tectro-tech.de
 tedusch.myshopify.com
+teichmann-styling.de
 tekmariss.com
 teknosmarkts.com
 templeofoblivion.de
@@ -3681,6 +3729,7 @@ trikotsale.de
 trimzy.de
 trinitop.com
 tronicversand.net
+trspimb.com
 truefind-shop.com
 truuly.de
 tsuchiyadcs.com
@@ -3703,6 +3752,7 @@ ualaswaq.com
 ubadindies.top
 ubertorch.com
 ubertorchtaschenlampe.com
+ucrochepate.com
 uebelbacher.at
 ueyiwegjfsg.shop
 ufixen.com
@@ -3733,6 +3783,7 @@ umziehen-in-europa.de
 umzug-moedling.at
 unglaublichepreise.com
 unique-print.de
+unisonmen.de
 unternehmer-2014.de
 untertnke.com
 untilya.com
@@ -3818,6 +3869,7 @@ vibramosterreich.com
 vibramosterrelch.com
 viciac.com
 videofilm-reinhardt.de
+vientooffice.de
 viewtecf.com
 vilible.top
 vilis-elektronik.de
@@ -4120,6 +4172,7 @@ zmelipilla.com
 znamazco.com
 zocker.shop
 zololily.com
+zoomtech24.com
 zpermapi.com
 zpohi.com
 zresetmore.com
@@ -4137,6 +4190,7 @@ zxpereon.top
 
 ### Problematische Onlineshops:
 365ersatzteile.de
+88-films.myshopify.com
 addyri.com
 adenberger-damenmode.com
 adwret.com
@@ -4161,6 +4215,7 @@ autudag.com
 auvoria.de
 axialgeo.com
 axorisshop.com
+ayola.de
 babaroni.de
 back-attack.de
 baerskinhoodie.com
@@ -4253,6 +4308,7 @@ gardhou.com
 gatticlub.com
 geanliy.com
 geschenkzone.at
+get-xdronehd.com
 gethypersoft.com
 gletta.com
 glowyplant.de
@@ -4310,6 +4366,7 @@ labubu.co.uk
 lajondo.com
 laneyea.com
 lawncaremall.com
+lbtinc.com
 leipold-modehaus.de
 letscomfy.de
 letsgoshop.de
@@ -4326,7 +4383,9 @@ lucybreeze.com
 luisrora.com
 luovu.de
 lushdream.de
+lusto.de
 luxedore.com
+luxgomall.com
 luxsofabezuege.com
 magikbody.de
 manguys.com
@@ -4347,6 +4406,7 @@ minlyfire.com
 mitbella-shop.de
 mitbellashop.de
 mocolilys.com
+modaso.store
 mode-diva.de
 mode-engel.de
 modeis24.shop
@@ -4361,6 +4421,7 @@ mykatzenwelt.de
 myperiodproject.com
 mytierhimmel.de
 namicloth.com
+ncases.com
 neckcorrect.de
 neckcrack.de
 ninears-de.com
@@ -4424,6 +4485,7 @@ siezuerst.com
 sisterok.de
 smartbuyglasses.at
 smilestyle.at
+snitactical.com
 solonix.de
 spacebuds.de
 spiralo.de
@@ -4502,6 +4564,7 @@ aloflix.de
 amostream.de
 appleflix.de
 araplay.de
+asamplay.de
 asoflix.de
 babafilms.de
 bafastream.de
@@ -5208,6 +5271,7 @@ zunaflix.de
 # https://www.watchlist-internet.at/liste-immobilienagenturen/
 ab-homes.com
 active-homes.com
+ad-property.com
 adler-immo.com
 ag-europe.com
 avalonbay-assets.com
@@ -5461,6 +5525,7 @@ cwgtransltd.com
 daniadirectlogs.com
 dealix-corporation.com
 dekkertransport.com
+delmad-agro-spedition.com
 deltaexpressdelivery.com
 dfdslogistics.tk
 dhk-transport.com
