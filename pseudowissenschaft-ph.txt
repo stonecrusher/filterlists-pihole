@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2021-07-04
+# Last updated:  2022-01-12
 
 3ho.ch
 abermann.net
@@ -81,6 +81,7 @@ cog.org
 collectivehealing.com
 connectionshi.ch
 corneliamarent.com
+cosmic-tower.info
 cropfm.at
 dagia.org
 dahlke.at
@@ -135,6 +136,7 @@ emu-verlag.de
 endlichschlanksein.com
 endo-dent.de
 endotronic-gmbh.de
+energetisierte-produkte.de
 energie-wasser-praxis.de
 engelmagazin.de
 erdstrahlen-elektrosmog.de
