@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2022-01-12
+# Last updated:  2022-02-22
 
 3ho.ch
 abermann.net
@@ -311,6 +311,7 @@ kineba.ch
 kinesiologie-nicolethiele.de
 kopp-verlag.de
 kosmica.de
+kranbergerliebe.de
 kvc-verlag.de
 l-tv.de
 lage-roy.de
