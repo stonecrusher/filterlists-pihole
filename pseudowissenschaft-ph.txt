@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2022-02-22
+# Last updated:  2022-03-16
 
 3ho.ch
 abermann.net
@@ -87,6 +87,7 @@ cropfm.at
 dagia.org
 dahlke.at
 daniken.com
+deam.de
 deepakguniaversand.com
 deine-gesundheit-online.de
 deinmedium.ch
@@ -356,6 +357,7 @@ miasmenlehre.de
 mirabilis.biz
 mireart.de
 mooji.org
+mutternatur.net
 mwgfd.de
 myfairtrade.com
 narayana-verlag.com
@@ -447,6 +449,7 @@ salutogenese-bei-krebs.de
 samarpan.de
 sandraoettel.de
 saphiraartdesign.de
+saschaplanert.de
 schicksal.com
 schmidt-nagel.ch
 schwabe.at
@@ -518,6 +521,7 @@ u-g-k.de
 ul-we.de
 umwelt-atlas.de
 universalsounds.ch
+unsere-natur.net
 unverstrahltes-land.de
 urquellwasser.eu
 urwuchs.blog.de
@@ -554,6 +558,7 @@ wahrheitskugel.de
 walterglueck.at
 walterluebeck.com
 wandel-erleben.de
+wasserbild.at
 we-love-nature.de
 weibel.blog.de
 wellness-lichtpunkt.com
