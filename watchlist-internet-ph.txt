@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-04-30
+# Last updated:  2022-05-03
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -149,6 +149,7 @@ agileney.com
 agodaymall.com
 agogland.top
 agreead.top
+agrejt.com
 agrigszegorz.com
 aguasco.com
 ah-niederfahrenhorst.de
@@ -293,6 +294,7 @@ ancheer.de
 andasukak.top
 andeking.de
 andraster.top
+andre-uterhardt.de
 andrearebecca.com
 andreas-ambach.de
 andreas-lutsch.de
@@ -451,6 +453,7 @@ asta-barka.com
 astodevy.com
 astotbuy.com
 astrant.top
+asusave.com
 atakku.at
 atelier-boehm.de
 atelier-schnelle.com
@@ -852,6 +855,7 @@ blunters.de
 blushysilk.com
 blvcks.com
 bm-reichert.de
+bmeo.shop
 bmsorganicp.com
 bntol-mietwagen.de
 boardss.de
@@ -938,6 +942,7 @@ breitenbacher.store
 breitlingreplika.com
 bremenzeig.com
 brenn-holz-markt.com
+brennholzshop24.com
 brethrrenj.com
 breuning-modehaus.com
 breviian.top
@@ -1287,6 +1292,7 @@ chytah.com
 cialis-online20mg.online
 cichic.com
 cicilookshop.com
+cicinia.de
 cidoie.org
 ciescl.top
 cigarette-delivery.com
@@ -1346,6 +1352,7 @@ clubocean.co
 clubofzodiac.com
 clubsoundradio.de
 clumpling.com
+cmaschine.shop
 cmdserver.at
 cmientertainment.net
 cmlipay.com
@@ -1358,6 +1365,7 @@ coachbodyp.com
 coaching-knur.de
 coaching-sailing.at
 coatpark.com
+cochmg.com
 cocosvbf.top
 codefree-bluray.de
 codesdaddyo.com
@@ -1510,6 +1518,7 @@ cxcactus.com
 cxmwz.com
 cyanical.top
 cyber-world24.de
+cycleclothingcheap.com
 cymgrup.com
 cytness.top
 cytotion.top
@@ -1517,6 +1526,7 @@ cyttion.xyz
 d-moerking.de
 dabateke.shop
 dach-hauser.at
+dach-regin.de
 dachdecker-otto.de
 dachfondsvergleich.at
 dadashopk.com
@@ -1980,6 +1990,7 @@ eiseleshop.de
 eisenmann-umzug.at
 eisschild.com
 ejrjx.top
+ekaufland.com
 ekiezayetu.com
 eklcma.com
 ekoplonu.com
@@ -2044,6 +2055,7 @@ elenetzteil.de
 eliesem.com
 eliphaslevi.de
 elipolyse.de
+eliseify.com
 elkepaschek.de
 ellalady.com
 ellemodes.com
@@ -2081,6 +2093,7 @@ emmalison.com
 emmas-f.shop
 emmaschneider.de
 emmaschultzkitten.com
+emmay.de
 emmebineon.it
 emmiol.com
 emmtekc.com
@@ -2112,6 +2125,7 @@ enjoyhop.com
 enpublishingrpg.com
 enpwifi.com
 ensemble4cyclisme.com
+enshrides.com
 enstock3z.top
 enstocks3v.top
 entermusic.it
@@ -2157,6 +2171,8 @@ ethnarium.top
 ethoose.xyz
 etkbbc.com
 etniesangebot.com
+etniesosterreich.at
+etnieswien.com
 etr-karlsruhe.de
 eubiofficial.com
 euchcte.top
@@ -2167,6 +2183,7 @@ euroadmaps.com
 euroemarket.com
 euromarketshop.com
 euronics-de.com
+euronics-eg.de
 euronics-elektro.de
 euronics-elektromarkt.de
 euronicsstore.de
@@ -2392,6 +2409,7 @@ filmmost.top
 fimelstore.it
 fimev.de
 financerevision.de
+fincool.de
 findedeinrad.de
 fineartswuerzburg.de
 fineustyle.com
@@ -2524,6 +2542,7 @@ freeacts.info
 freeacy.com
 freebest.shop
 freedodo.xyz
+freedvds.xyz
 freehotshoes.com
 freeics.top
 freetaj.top
@@ -2709,6 +2728,7 @@ generika-apotheke24.de
 genialbau.com
 genialoff.com
 genshinimpact-store.com
+genteflowz.com
 gentency.top
 genuar.top
 genuinnev.top
@@ -3092,6 +3112,7 @@ haveivtax.shop
 hawaiird.com
 hawalili.com
 hawalili.de
+haxoo.de
 hbuys.store
 hdsshop.top
 hdvguenther.de
@@ -3137,6 +3158,7 @@ heldenbuch.de
 heldonies.de
 helektrozon.de
 helenasladen.de
+helgabaron.de
 heliate.top
 helikon-filme.de
 helium-miners-uk.com
@@ -3519,6 +3541,7 @@ iphacogoods.com
 iphonexsmaxprice.xyz
 ipicplian.top
 iqfleet.de
+irahmart.com
 irascee.xyz
 irdlove.info
 irdmailp.com
@@ -3530,6 +3553,7 @@ irhumdmama.com
 iridarium.top
 iridesce.shop
 iris-perschmann.de
+irisbb.com
 irisferber.de
 irishpub-solingen.de
 irishteddy.de
@@ -3737,6 +3761,7 @@ kaodasuan.shop
 kappawien.at
 kara-die-badgestalter.de
 kara-sport.de
+karamelstudio.com
 karcheroutlets.com
 karchersale.com
 karchshop.com
@@ -4268,6 +4293,7 @@ lowaonlineshops.de
 lowaosterreich.at
 lowaosterreich.com
 lowasale.de
+lowawanderschuhesale.com
 lowela.de
 loyaltrend-de.com
 lozaraty.com
@@ -4291,6 +4317,7 @@ luckstark.com
 lucullusacademy.com
 lucybreeze.com
 luisrora.com
+luladress.com
 luluestore.com
 lumaluca.com
 lumilights.de
@@ -5784,6 +5811,7 @@ queenluckyshop.com
 queenofarticle.com
 queensgaa.com
 quesitel.top
+qugmart.com
 quicketss.com
 quickiex.com
 quicklyic.top
@@ -5983,6 +6011,7 @@ rheinadler.de
 rheinarche.de
 rheinash.com
 rheineule.de
+rheinsteigfuehrer.de
 rheintulpen.de
 rheinwing.de
 rheokth.top
@@ -6155,6 +6184,7 @@ saleszu.online
 saletooffer.com
 salomomosterreich.com
 salomonaschweiz.com
+salomonosterreichoutlet.com
 salomonschuh.at
 salomonschuheoutlet.ch
 salomonschuheoutlet.de
@@ -6182,6 +6212,7 @@ sandrastours.com
 sanfter-kaffe.de
 sansapoten.com
 santikadesign.com
+saolar-deutschland.com
 saponally.top
 saponit.xyz
 sapphirekeep.com
@@ -6442,6 +6473,7 @@ shrimp-rebels.at
 shrinkyr.com
 shw-haushalt.de
 siamrose.com
+siaoryne.com
 sibuyan.de
 sicheredeutscherfuhrerschein.com
 siduous.top
@@ -6560,6 +6592,7 @@ solern.top
 solidish.top
 soliesy.com
 soliicitouss.com
+solinoxk.com
 solmtxa.com
 solonix.de
 soloq.de
@@ -6993,6 +7026,7 @@ tekonta.de
 telefonbieten.de
 telekphon.com
 tellwalkandtalk.com
+temadbv.com
 temnlike.top
 templeofoblivion.de
 templesinaikc.org
@@ -7197,6 +7231,7 @@ tonundart.de
 tonweise.at
 toobuyss.com
 tooldeals24.de
+toolep.com
 toolshype.com
 toostande.com
 top-apotheke.at
@@ -7329,6 +7364,7 @@ ttgun.com
 tthbrand.com
 tubaxx.com
 tudio.de
+tuftex-balloons.com
 turbofy.top
 turchyn.de
 turkeycoachrental.com
@@ -7515,6 +7551,7 @@ veimul.shop
 vejaaustria.at
 vejaaustria.co
 vejaaustria.top
+vejadeutschland.com
 vejaoutfit.site
 vejaschuheosterreich.com
 vejaschweiz.com
@@ -7580,6 +7617,7 @@ vfcsnc.shop
 vgr8.com
 vgrdint.com
 viain.top
+vibramosterreich.at
 vibramosterreich.com
 vibramosterrelch.com
 viccitallis.com
@@ -8223,6 +8261,7 @@ zxpereon.top
 zyyef.com
 
 ### Problematische Onlineshops:
+# https://www.watchlist-internet.at/liste-problematischer-shops/
 365ersatzteile.de
 7econds.com
 88-films.myshopify.com
@@ -8404,6 +8443,7 @@ china-hifi-audio.com
 chittababy.com
 chytah.com
 cicilookshop.com
+cicinia.de
 cionora.de
 cklinen.com
 claeze.com
@@ -8518,6 +8558,7 @@ eikz.top
 eleclover.com
 electric-b2c.com
 eliesem.com
+eliseify.com
 ellenperuecken.de
 elleslife.com
 elternsale.de
@@ -8661,6 +8702,7 @@ hausderschonheit-de.store
 haushalt-einfach.de
 hausprodukte.store
 hawalili.de
+haxoo.de
 hdsshop.top
 headingwreck.store
 healing-rock.de
@@ -8688,9 +8730,6 @@ homeseven.de
 hondrox.com
 honestmemories.com
 honeyen.com
-hoop-sports.de
-hoopsport.de
-hosenwerk.com
 hypersoftsneakers.com
 lajondo.com
 linalift.com
@@ -8705,6 +8744,9 @@ dobot.cc
 eibos3d.com
 espruino.com
 giraffesights.com
+hoop-sports.de
+hoopsport.de
+hosenwerk.com
 hotbrooks.com
 hotideabuy.com
 hototools.com
@@ -8833,6 +8875,7 @@ lucimen.com
 luckingleaves.com
 luckstark.com
 luisrora.com
+luladress.com
 luovu.de
 lushdream.de
 lusto.de
@@ -9091,6 +9134,7 @@ safretshop.com
 sagstern.com
 salority.com
 sandra-schwarz.de
+saolar-deutschland.com
 sators.de
 savela.de
 saxonf.com
@@ -9105,7 +9149,6 @@ seidleroutlet.de
 selivoo.de
 sellsfun.com
 sendros.de
-sentenceeat.online
 septendy.com
 serolushop.de
 serolushops.de
@@ -9127,6 +9170,7 @@ shopmood.de
 shopvaley.com
 shopwithpalo.com
 siamrose.com
+siaoryne.com
 siebelleberlin.com
 siezuerst.com
 silkandcotton.store
@@ -9184,12 +9228,12 @@ surfside-summer.store
 susannes-beauty.de
 susshaus.com
 svadli.de
+useum.org
 svhuwsales.com
 swristbandpro.com
 sydmeey.de
 systemiy.com
 tavatta.de
-useum.org
 tepffd.com
 texasdreamdolls.com
 thailandthink.top
@@ -10162,6 +10206,7 @@ immovoba.com
 inc-real.com
 int-re.com
 invest-urban-concept.com
+lafinca-global.com
 lane-properties.com
 lar-eu.com
 line-eu.com
@@ -10230,6 +10275,7 @@ windsor-homes.co.uk
 world-wide-properties.com
 
 ### Urlaubsbuchungsplattformen:
+# https://www.watchlist-internet.at/liste-urlaubsbuchung/
 agfservice-immo.com
 allhotelsmorocco.com
 billige-reiseorte.info
@@ -10284,6 +10330,7 @@ uk-rooms5507914.uk
 viennaapartments.org
 
 ### Handwerksdienste:
+# https://www.watchlist-internet.at/liste-handwerksdienste/
 24h-elektrodienst.at
 24hfischer.at
 24hschlossdienst.at
@@ -10369,6 +10416,7 @@ xn--sanitr24-service-znb.at
 xn--schlsseldienst--24-p6b.at
 
 ### Speditionen:
+# https://www.watchlist-internet.at/liste-speditionen/
 aclcourier.com
 aeropetstransport.com
 agru-paradis.com
@@ -10525,6 +10573,7 @@ yuma-lda.com
 zopcar-gmbh.com
 
 ### Umfrageplattformen:
+# https://www.watchlist-internet.at/liste-umfrageplattformen/
 ab-group.info
 analysespro.de
 app-associates.com
