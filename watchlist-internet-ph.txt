@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-05-03
+# Last updated:  2022-05-07
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -855,6 +855,7 @@ blunters.de
 blushysilk.com
 blvcks.com
 bm-reichert.de
+bmatbat.com
 bmeo.shop
 bmsorganicp.com
 bntol-mietwagen.de
@@ -1464,6 +1465,7 @@ crazylettuce.com
 creativecookhouse.com
 creaturepuppetgallery.com
 cremcofy.com
+crewgain.com
 cridispor.com
 cringgit.com
 criprinter.shop
@@ -1721,6 +1723,7 @@ die-ruhrstadt.de
 diebestenparfums.xyz
 dieretrokonsole.com
 diesel-osterreich.com
+dieselofficialsale.de
 dieseoutletus.com
 diesophiestore.com
 diesprachpraxis.de
@@ -3163,6 +3166,7 @@ heliate.top
 helikon-filme.de
 helium-miners-uk.com
 helix-sports.de
+hellertag.de
 hellolasana.de
 hellomarkt.com
 hellorolexwatch.com
@@ -3254,6 +3258,7 @@ holdess.xyz
 holdia.top
 holemann.de
 hollistercoaustria.at
+hollistershopsk.sk
 holmedi.de
 holycropsw.top
 holycrossmoravianchurch.com
@@ -3292,6 +3297,7 @@ hoopur.com
 hopenr.shop
 hoptrendely.com
 hormenne.top
+horologicalbooks.de
 horstseefeld.de
 hosenwerk.com
 hospiz-im-ahrtal.de
@@ -3536,6 +3542,7 @@ invocation.at
 ioffer.com
 iokqd.com
 iosottraggo.it
+ipabric.com
 ipairs.de
 iphacogoods.com
 iphonexsmaxprice.xyz
@@ -5287,6 +5294,8 @@ onlyaya.com
 onlyfic.xyz
 onlymaker.com
 ono-7.top
+onrunnersitalia.com
+onshoeser.com
 onward.store
 oolongtime.com
 oonadish.com
@@ -5382,6 +5391,7 @@ paleoward.top
 pallet-us.com
 palmangelshop.com
 palmangelsshop.co
+palmchalet.com
 palumwi.de
 palustral.top
 pamminger-reisen.de
@@ -5589,6 +5599,7 @@ plorian.top
 plosoutan.top
 pltechsarl.top
 pluslegos.com
+plussizestil.com
 pluvior.top
 pm365.ga
 pm365.tk
@@ -6585,6 +6596,7 @@ solaceous.top
 solamyc.com
 solandis.com
 solanzo.de
+solatechw.com
 soldieret.top
 solenic.xyz
 soleo-deal.de
@@ -7640,6 +7652,7 @@ vincent-silvert.com
 vincentteh.com
 vincenzosantoriello.it
 vinemos.de
+vintanzo.de
 vintaro.de
 violta.net
 viomels.de
@@ -8123,6 +8136,7 @@ yolanle.com
 yomiam.de
 yomutech.com
 yonuda.de
+yoocaa.com
 yoolo.shop
 yoshino.at
 yotasmsl.com
@@ -8711,6 +8725,7 @@ heavenallure.com
 heimfroh.com
 helenasladen.de
 helium-miners-uk.com
+hellertag.de
 hellolasana.de
 hellostella.de
 hellymoon.de
@@ -8729,7 +8744,6 @@ homedepart.com
 homeseven.de
 hondrox.com
 honestmemories.com
-honeyen.com
 hypersoftsneakers.com
 lajondo.com
 linalift.com
@@ -8744,6 +8758,7 @@ dobot.cc
 eibos3d.com
 espruino.com
 giraffesights.com
+honeyen.com
 hoop-sports.de
 hoopsport.de
 hosenwerk.com
@@ -9034,6 +9049,7 @@ osotic.com
 ovura-store.com
 owbuyteer.top
 ozenza.de
+palmchalet.com
 pamura.com
 pannale.com
 paradiso24.com
@@ -9227,8 +9243,8 @@ supromo.de
 surfside-summer.store
 susannes-beauty.de
 susshaus.com
-svadli.de
 useum.org
+svadli.de
 svhuwsales.com
 swristbandpro.com
 sydmeey.de
@@ -9314,6 +9330,7 @@ vgr8.com
 vilow.de
 vimosa.se
 vinemos.de
+vintanzo.de
 vintaro.de
 vipprogrammer.com
 viranny.de
@@ -9377,6 +9394,7 @@ ynnter.com
 yokemart.com
 yokofashionswitzerland.com
 yolanle.com
+yoocaa.com
 your-happy-home.de
 yourkoretrak.com
 yourmre.com
