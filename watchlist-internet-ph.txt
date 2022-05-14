@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-05-07
+# Last updated:  2022-05-14
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -129,6 +129,7 @@ adwret.com
 adzpku.com
 aehesis.de
 aelter-leben.de
+aeotec.com
 aeowe.com
 aerialpics.de
 aeromed-hamburg.de
@@ -598,6 +599,7 @@ barby-world.at
 barical.top
 baristateam.at
 baristazauber.de
+barodo.de
 baronweb.de
 barracudca.com
 bartarcupx.com
@@ -1836,6 +1838,7 @@ drcoolaire.com
 dreameur.top
 dreamfold.top
 dreammerdre.com
+dreamshome.co
 dreamskystore.com
 dreamsparfum.com
 dreamykissen.de
@@ -2483,6 +2486,7 @@ floryday.com
 flottepalme.de
 floveme.com
 flow-muzic.de
+fluffypawz.de
 flug-sicht.de
 flugs.at
 flymustang.de
@@ -2535,6 +2539,7 @@ fragmentstudios.de
 fraktion-bfz-gruene.de
 franken2-band.de
 frankenmarket.net
+frankfurt-outlet.com
 frankiemakeupartist.com
 frankiesdubai.com
 frankmullerfahrschule.com
@@ -2601,6 +2606,7 @@ fullgerateshop.de
 funatv.de
 fundraising-plus.de
 fungling.top
+funkeln-tech.de
 funkenlb.com
 funswan.de
 funuetecm.com
@@ -2907,6 +2913,7 @@ gotrax.store
 gotteeshirts.live
 gottesiemen.com
 govaro-shop.de
+gpaltoos.com
 gplate.de
 gpoavalonu.com
 gpswebshop.com
@@ -4514,6 +4521,7 @@ mcflanders.com
 mcjustice.de
 mcolumnist.com
 mcrittter.com
+mdazler.com
 mdazoiptv.com
 mdsschweiz.com
 me-fit.de
@@ -4788,6 +4796,7 @@ mogmoc.com
 mohr24.com
 moidapp.com
 molnyonon.com
+momme-boe.de
 momoanty.com
 monacoschuhe.com
 monad.be
@@ -4844,6 +4853,7 @@ mrair.xyz
 mrecotray.com
 mrefute.com
 mrerath.de
+mrfluffyfriend.com
 mrfurn.com
 mri-am-arlberg.at
 mro-versand.de
@@ -5195,6 +5205,7 @@ obelisksc1immersion.com
 obentech.de
 obindo.de
 obo-7.top
+obrath-gmbh.de
 obsthalle-froeschau.de
 oclegends.org
 octavify.top
@@ -5297,6 +5308,7 @@ ono-7.top
 onrunnersitalia.com
 onshoeser.com
 onward.store
+ookmdccix.com
 oolongtime.com
 oonadish.com
 openedijti.com
@@ -5453,6 +5465,7 @@ pbpksbd.com
 pc-akku.at
 pc-topangebote.de
 pcpartsvendor.com
+pcprime.at
 pcprime.de
 pd99.cc
 pdealroom.com
@@ -5792,6 +5805,7 @@ pytssw.com
 qaitey.com
 qakppo.top
 qappleshop.com
+qbagsbyte.shop
 qbzdq.shop
 qdevelope.com
 qenova.com
@@ -6095,6 +6109,7 @@ romaappcube.com
 romancew.com
 romantic-butterfly.com
 romantisches-mecklenburg.de
+romavi.de
 romda.dk
 romeoversand.com
 ronain.com
@@ -7201,6 +7216,7 @@ tinyjabber.com
 tinypawszuhause.de
 tiraloshop.com
 tischlerei-eckart.de
+tistbike.top
 titacai.top
 titihaus.de
 tiweng.top
@@ -7523,6 +7539,7 @@ valentina-laurence.de
 valentinalaurence.de
 valepina.de
 valurabeauty.com
+vamora-store.de
 van-consulting.de
 vana-schaufler.at
 vancetaylor.com
@@ -7663,6 +7680,7 @@ vipluckyshop.com
 vipprogrammer.com
 viranny.de
 virany.de
+visahq.com
 vischer-gmbh.de
 viscosule.top
 visionfancyclothing.com
@@ -7734,6 +7752,7 @@ voteatory.top
 voyance-voyance.com
 vozero-online.de
 vozero.de
+vozuda-shop.de
 vpavucina.com
 vpetron.com
 vphami.top
@@ -8204,6 +8223,7 @@ zaysolisx.com
 zdcome.top
 zddliver.com
 zeasywithus.com
+zeenity.com
 zefreya.com
 zeghad.com
 zeigdeinbein.de
@@ -8356,6 +8376,7 @@ bangooon.com
 barando-online.de
 barando-shop.de
 barbefisch.de
+barodo.de
 batteryzone.de
 bauhausshop.com
 baumwunsch.com
@@ -8556,6 +8577,7 @@ doris-monika.com
 dormamu.com
 dqjrfi.top
 draussenfeet.de
+dreamshome.co
 dreamykissen.de
 dresdensein.com
 dsyswy.top
@@ -8631,10 +8653,12 @@ fliegen-de.de
 floryclothe.de
 floryday.com
 floveme.com
+fluffypawz.de
 fomshop.ml
 fortunebeauty.de
 foshionstore.com
 foxingo.shop
+frankfurt-outlet.com
 freeacy.com
 freietaube.de
 freizeiteo.com
@@ -8740,10 +8764,6 @@ heyseeodyssey.com
 hicity.de
 hildebrandtfashion.de
 himmelok.com
-homedepart.com
-homeseven.de
-hondrox.com
-honestmemories.com
 hypersoftsneakers.com
 lajondo.com
 linalift.com
@@ -8758,6 +8778,10 @@ dobot.cc
 eibos3d.com
 espruino.com
 giraffesights.com
+homedepart.com
+homeseven.de
+hondrox.com
+honestmemories.com
 honeyen.com
 hoop-sports.de
 hoopsport.de
@@ -8972,6 +8996,7 @@ moonlampofficial.com
 moonsoy.com
 mooredvazwe.myshopify.com
 movidaco.com
+mrfluffyfriend.com
 mullerr.de
 mundobrands.de
 musclebrush.de
@@ -9132,6 +9157,7 @@ rheinwing.de
 rhinowalk.com
 ritter-mode.com
 rollangel.com
+romavi.de
 romda.dk
 roof-tube.com
 rosasommer.com
@@ -9237,13 +9263,13 @@ sumobo.de
 sunshine-city.top
 superie.de
 supersofabezug.com
+useum.org
 supmestar.com
 supreme-beauty.de
 supromo.de
 surfside-summer.store
 susannes-beauty.de
 susshaus.com
-useum.org
 svadli.de
 svhuwsales.com
 swristbandpro.com
@@ -9405,6 +9431,7 @@ zanzea.com
 zarbi.de
 zarble.de
 zartefrau.de
+zeenity.com
 zefreya.com
 zeghad.com
 zemti.de
@@ -9506,6 +9533,7 @@ denuplay.de
 deoplay.de
 desplay.de
 dexflix.de
+diccord.ru
 didplay.de
 dinoflix.de
 diroplay.de
