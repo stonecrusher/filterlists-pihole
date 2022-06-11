@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-06-04
+# Last updated:  2022-06-11
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -162,6 +162,7 @@ ah-niederfahrenhorst.de
 aheadl.top
 aideaapk.com
 aidswiki.de
+aigonesmall.shop
 aiksklep.pl
 aimpshop.com
 airbow.at
@@ -658,6 +659,7 @@ bbgadget.de
 bbimprovements.com
 bbnfp.com
 bbq24.store
+bbvipdiscover.shop
 bbvipgreen.shop
 bbviplabel.shop
 bbviptheme.shop
@@ -822,6 +824,7 @@ bike-heller.de
 bike-himmel.de
 bikefamily-gmbh.de
 biker-zubehoer.com
+bikerspoint-riedstadt.de
 bikesbigbazar.com
 bikesly.uk
 bikesporthauf.de
@@ -844,6 +847,7 @@ bios-batterie-cmos.de
 biosteamo.com
 biovea.com
 bipolartshirts.com
+birkenstockeu.com
 biromotion.de
 bischofer-alm.at
 bisterberg.de
@@ -1431,6 +1435,7 @@ columsportswearusa.com
 combooutlet.com
 combuildwith.top
 comean.top
+comenhome.com
 comerciouruguay.com
 comeyour.com
 comfie.de
@@ -1536,6 +1541,7 @@ crystalsoul.de
 csbdbuy.com
 csebasoft.com
 csglog.com
+csguis.com
 csunbox.com
 cuaver.com
 cubefestival.it
@@ -1619,6 +1625,7 @@ darindo.de
 darkavenuev.com
 darkbodybuilding.net
 darkpods.at
+darrenyo.com
 dartofun.top
 darwinparagon-welpenzuhause.com
 das-kleine-bbv.de
@@ -1837,6 +1844,7 @@ dlv-elektronik.de
 dmastermmo.com
 dmmltdb.com
 dmotruth.com
+dmsmax.com
 dncoso.store
 dndstumkur.com
 dnewssyi.com
@@ -1851,6 +1859,7 @@ doggybagg.at
 doggyplum.com
 dogsdreamaustria.at
 dogwoodi.com
+dokevins.com
 doktor-potenzmittel.ch
 doktor-potenzmittel.com
 doktor-rezeptfrei.at
@@ -2161,9 +2170,11 @@ emergencydiecastmodels.com
 emesche-hebmueller.de
 emilia-mode.com
 emishoes.com
+emma-matraze.com
 emmagowns.com
 emmaheute.de
 emmalison.com
+emmamartraze.com
 emmas-f.shop
 emmaschneider.de
 emmaschultzkitten.com
@@ -2780,6 +2791,7 @@ garten-maestro.de
 garten-paule.de
 garten-unser.de
 garten-willi.de
+gartenbau-eichhorst.de
 gartenbau-schuetz.de
 gartencenter-horstmann.de
 gartencenter-pursch.de
@@ -2839,6 +2851,7 @@ geshopbd.com
 gesundeliebe.com
 gesundheit-md.de
 gesundheitsaarland.de
+get-huusk.com
 get-xdronehd.com
 getashop.xyz
 getdrunk.at
@@ -3052,6 +3065,7 @@ groundiesschuhe.ch
 groupinpolitics.top
 growetic.top
 growice.com
+grubano.de
 gruene-niederbarnim.de
 gruene-spende.de
 gshallmall.com
@@ -3363,6 +3377,7 @@ hollistershopsk.sk
 holmedi.de
 holycropsw.top
 holycrossmoravianchurch.com
+holydogwater.de
 holzbau-hunger.de
 holzpflegewachs.com
 holzti.com
@@ -3585,6 +3600,7 @@ imicon.xyz
 imilliemae.com
 immergrunewelpenhaus.com
 immotecta.de
+imoonbeam.com
 impabmarket.com
 imperial-craft.com
 impkeys.com
@@ -3626,6 +3642,7 @@ ino-vade.de
 inov-8osterreich.com
 inov-8schuhe.de
 inov-8uae.com
+insecurty.top
 insiderlx.com
 insolvenzamt.com
 inspirationalgadget.com
@@ -3751,6 +3768,7 @@ jen-yoga.de
 jengagewave.com
 jennmatthews.com
 jensger.de
+jerobin.com
 jeromdf.com
 jessagarrett.com
 jetlegs.at
@@ -3975,6 +3993,7 @@ kiabrand.com
 kiaranews.com
 kiddiesstarkmachen.de
 kiddykin.uk
+kidebro.com
 kidimo.at
 kidniva.uk
 kidoriman.com
@@ -4055,6 +4074,7 @@ kleincodiert.at
 kleine-freundin.com
 kleinefunken.de
 kleinesschaetzchen.de
+kleinheidt.de
 kleinkatharina.de
 kleintiermanagement.de
 kletterwaen.de
@@ -4355,6 +4375,7 @@ linelon.com
 linenhomestudio.com
 linuxtexte.de
 lipo-xr.at
+liqnte.com
 liranbe.com
 lisaundich.de
 listennwa.com
@@ -4848,6 +4869,7 @@ mincil.de
 mindaro.de
 mindmage.de
 mineshoop.com
+minhapecay.com
 mini-ecig.com
 mini-kennzeichen.de
 minimalsurvival.com
@@ -5206,6 +5228,7 @@ newforbrands.com
 newgadgetst.com
 newland-travel.com
 newmanslayer.de
+newstore79.top
 newtonschuhe.com
 newupperlab.com
 newuseason.com
@@ -6074,6 +6097,7 @@ raisvillau.com
 rakasti.de
 rakharo.com
 rally-hautnah.de
+ramblel.top
 ramelliamode.de
 ramonlabrador.de
 randalu.de
@@ -6152,6 +6176,7 @@ rehasportberatung.de
 rehauevents.de
 reichwahl.de
 reidkanem.top
+reifen-petlas.de
 reiligs.de
 reinekedesign.com
 reiner-huettl.de
@@ -6210,6 +6235,7 @@ reyhansignp.com
 rezeeshop.com
 rezeptfrei-24.com
 rezeptfrei-apotheke.ch
+rezeptfrei-bestellung.de
 rezeptfrei.online
 rgoconnell.com
 rguixia.top
@@ -6346,6 +6372,7 @@ rtropicom.com
 rub-guben.de
 rubixmc.com
 rubycloth.com
+rubyfo.com
 rubyrin.com
 rubyteand.com
 ruckenstrecker.de
@@ -6361,6 +6388,7 @@ runningexperience.de
 runtowinter.com
 russellbromleyschuhe.com
 rustarium.top
+rusticjusticerecords.com
 rutika.de
 ruvello.de
 rwebvines.com
@@ -6658,6 +6686,7 @@ shopaove.space
 shopbabyluv.site
 shopbackhelper.com
 shopbayhoney.site
+shopbuyby.com
 shopbydays.com
 shopcheapluv.site
 shopcider.com
@@ -7201,6 +7230,7 @@ tatesthe.com
 tatjana-beauty.de
 tauchershop.at
 tauchersport.de
+tauchsport-bayer.de
 tausagun.com
 tauschring-neuruppin.de
 tavatta.de
@@ -7368,6 +7398,7 @@ thepersistentvisualist.com
 thephones.net
 thephotostick.com
 therichnet.com
+thericy.com
 thermofalke.de
 thermomix-restposten.com
 thermoshapers.de
@@ -7438,6 +7469,7 @@ tiraloshop.com
 tischlerei-eckart.de
 tistbike.top
 titacai.top
+titan-nxl.myshopify.com
 titihaus.de
 tiweng.top
 tiyamod.com
@@ -7713,6 +7745,7 @@ unisonmen.de
 unitedseniors.de
 unitic.top
 universetools.de
+unjkvn.com
 unternehmer-2014.de
 untertnke.com
 untilya.com
@@ -7763,6 +7796,7 @@ uyqwb.com
 uzango-design.at
 vacioy.com
 vacplux.com
+vadeleshop.com
 vaggv.com
 vagity.top
 vakilfeyzr.com
@@ -8089,8 +8123,10 @@ webfresha.com
 webgruesse.at
 webinfractions.com
 webmarker.de
+webseite-gratis.com
 webtragyk.com
 webyeh.de
+weconti.com
 wedderbruuk-bremen.de
 weddingdresshouse.com
 weebly.com
@@ -8771,6 +8807,7 @@ coforallplus.com
 cokodive.com
 cologogo.com
 combooutlet.com
+comenhome.com
 comfy-max.de
 comolia.shop
 compixa.de
@@ -8847,6 +8884,7 @@ divenchi.de
 dncoso.store
 doggyplum.com
 dogsdreamaustria.at
+dokevins.com
 domelus.de
 donifly.com
 donnerde.com
@@ -8968,6 +9006,7 @@ gelbente.de
 gersnchht.store
 geschenkwand.de
 geschenkzone.at
+get-huusk.com
 get-xdronehd.com
 getecodriver.com
 getecotex.com
@@ -9024,9 +9063,6 @@ hasahasak.com
 hausderschonheit-de.store
 haushalt-einfach.de
 hausprodukte.store
-hawalili.de
-haxoo.de
-hdsshop.top
 hypersoftsneakers.com
 lajondo.com
 lightinthebox.com
@@ -9041,6 +9077,9 @@ askdrkan.com
 eibos3d.com
 espruino.com
 giraffesights.com
+hawalili.de
+haxoo.de
+hdsshop.top
 headingwreck.store
 healing-rock.de
 healthde.de
@@ -9096,6 +9135,7 @@ iconmobel.de
 idailyshop.com
 idealerwunsch.com
 ilikeni.com
+imoonbeam.com
 incerunmen.com
 inetzteil.com
 inetzteil.de
@@ -9111,6 +9151,7 @@ jackview.com
 jagute.de
 jeffiy.com
 jellylight.at
+jerobin.com
 jeromdf.com
 jewelryempire.store
 jieper.com
@@ -9185,6 +9226,7 @@ linashop.de
 lindela.de
 linelon.com
 linenhomestudio.com
+liqnte.com
 litfad.com
 litise.com
 livicy.de
@@ -9516,10 +9558,13 @@ shop-varoza.de
 shop4at.com
 shopabernathys.com
 shopbackhelper.com
+shopbuyby.com
 shopcider.com
 shopit.buzz
 shopmockr.com
 shopmood.de
+dobot.cc
+minisforum.de
 shopvaley.com
 shopwithpalo.com
 siamrose.com
@@ -9528,8 +9573,6 @@ siebelleberlin.com
 siezuerst.com
 silkandcotton.store
 silvanass.co.uk
-dobot.cc
-minisforum.de
 singpro-shopify-com.myshopify.com
 sisterok.de
 skydeuce.com
@@ -9597,11 +9640,13 @@ thaisawadee.de
 thatsimpling.com
 thegiftone.com
 thehuggy.de
+thericy.com
 therollingtunes.com
 thesissypantystore.com
 thieyu.shop
 thomafvs.com
 tiraloshop.com
+titan-nxl.myshopify.com
 tizeto.de
 tlecl.com
 todayil.com
@@ -9651,6 +9696,7 @@ usualjeans.com
 uwdpfw.top
 uwzrxu.top
 vacplux.com
+vadeleshop.com
 vaggv.com
 vakkerlight.com
 valanza.de
@@ -10856,6 +10902,7 @@ gtl-courier.com
 hla-trans.eu
 holmric-spedition.com
 hsn-logistik.com
+hyper-trucks.com
 i-translogistics.com
 jjctrans.com
 jomvon-trans.com
