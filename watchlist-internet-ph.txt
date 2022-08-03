@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-07-30
+# Last updated:  2022-08-03
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -1368,6 +1368,7 @@ charismatico.com
 charloll.com
 charlottdesign.de
 charmimode.net
+charmsvision.com
 chasingcases.com
 chastitybox.com
 chatteriepassions.com
@@ -1714,6 +1715,7 @@ dangxatq.ga
 daniel-fuhrerschein.de
 daniel-malorny.de
 dannerdeutschland.de
+danneronlineshop.at
 dansur.shop
 danto-digitalmarkt.com
 dar-germany.de
@@ -2661,6 +2663,7 @@ fineartswuerzburg.de
 fineustyle.com
 fink-foerster.de
 finkerkette.de
+finninger-helbach.com
 finosso.com
 fipecampania.it
 firalo.de
@@ -2837,6 +2840,7 @@ fruugo.at
 ftm-soryn-kg.at
 ftx-store.de
 fu-ostholstein.de
+fuchspreis.com
 fuechsefussball.de
 fuehrerscheinfabrik.com
 fuehrungszeugnis-online-beantragen.de
@@ -2938,6 +2942,7 @@ gammy-world.de
 gapmislazzz.tk
 garageoven.xyz
 garantiert-apotheke.com
+gardana.net
 gardenface.site
 gardenmoebel.de
 gardhou.com
@@ -3010,6 +3015,7 @@ gerdegloff.de
 gerhard-beuter.de
 gerhard-griessler.at
 gerhard-marquardt.de
+gerland-handel.com
 gersnchht.store
 gesangverein-spittelstein.de
 geschenkwand.de
@@ -3044,6 +3050,7 @@ ghyifellowe.site
 giabardi.shop
 giashopx.com
 gideonsarmymusic.com
+giesler-drogerie.com
 giessen-backstage.de
 giesswein-neu.de
 giesswein-outdoor.com
@@ -3122,6 +3129,7 @@ goetzwache.de
 gogielektro.com
 gogpdb.com
 gokmenteknik.com
+golawien.at
 goldbank-hamburg.de
 goldbannerx.org
 goldene-erde.at
@@ -3183,6 +3191,7 @@ gotteeshirts.live
 gottesiemen.com
 govaro-shop.de
 gpaltoos.com
+gpathao.com
 gplate.de
 gpoavalonu.com
 gpswebshop.com
@@ -3487,6 +3496,7 @@ hermann-schuetz.at
 hermann-sinn-band.de
 heror.xyz
 herrenmode-pietro.com
+herrgarten.com
 herrheimwerker.de
 herrngarten.de
 hervehomepuppies.com
@@ -3655,6 +3665,7 @@ hrzqbjx.top
 hrzwc.com
 hsk-bessel.de
 hstar.shop
+hstargas.com
 htalemabf.com
 htansys.top
 htb-fussball.de
@@ -5058,6 +5069,7 @@ melaniewayment.com
 melkberg.de
 melodiousal.com
 melody-barker.com
+memoirhot.com
 memoryior.top
 mendiol.com
 menfis.de
@@ -6191,6 +6203,7 @@ porfave.de
 porlabs.com
 portfold.xyz
 positickets.com
+posner-shop.de
 postul.top
 posual.com
 potentialar.com
@@ -6384,6 +6397,7 @@ quickiex.com
 quicklyic.top
 quickymarket-de.store
 quidsonoraa.com
+quift.de
 quiker.shop
 quillingx.com
 quinlet.xyz
@@ -6810,6 +6824,7 @@ sandrastours.com
 sanfter-kaffe.de
 sansapoten.com
 santikadesign.com
+sanuk-deutschland.com
 saolar-deutschland.com
 saponally.top
 saponit.xyz
@@ -7321,6 +7336,7 @@ sport-fritz.de
 sport-handel24.de
 sport-lay.de
 sport-rausch.de
+sport-tillskott.com
 sport-welt24.de
 sport24.world
 sportalm-kirchschlag.at
@@ -7904,6 +7920,7 @@ tomsdeutschland.com
 tomsoju.com
 tomsosterreich.com
 tomsschweiz.com
+tomtailorsneakerdamen.com
 tomundeddi.de
 tonigk.com
 tonikg.com
@@ -8184,6 +8201,7 @@ urbetter.ca
 ureines.com
 urhair.co.uk
 urkoolwear.com
+ursime.com
 ursulam.com
 urvous.com
 urvoustyle.com
@@ -8282,6 +8300,7 @@ velhaven.net
 veloberlin.de
 veloclublouhannais.com
 velurio.com
+vemoso-shop.de
 vemoso.de
 venaceous.top
 venacquaro.it
@@ -8305,6 +8324,7 @@ vereck.at
 verenabunte.com
 veriate.xyz
 verios-gaming.de
+verkauf-kaminholz.de
 verkaufmarkt.de
 vermessung-dubbert.de
 verobraun.de
@@ -8402,6 +8422,7 @@ viviservice.com
 vivobarefootde.com
 vivobarefootosterreich.at
 vivobarefootsale.at
+vivobarefootsaleoutlet.de
 vivobarefootschuhe.top
 vivobarefootschweiz.com
 vivoshoesnz.com
@@ -9259,6 +9280,7 @@ chakraguys.com
 challinc.com
 chansflavor.com
 charismatico.com
+charmsvision.com
 chastitybox.com
 chicanti.com
 chicboho.com
@@ -9826,6 +9848,7 @@ meinehundemarke.de
 meinenamenskette.com
 meinetiermarken.at
 meingartenhimmel.de
+meladen.de
 melody-barker.com
 mendiol.com
 menfis.de
@@ -10020,13 +10043,13 @@ primatop.de
 printyourgesicht24.de
 privatecustomart.com
 privytec.de
-pro-trends.co
 askdrkan.com
 dobot.cc
 eibos3d.com
 espruino.com
 giraffesights.com
 minisforum.de
+pro-trends.co
 proevery.com
 prontho.de
 prosleepy.com
@@ -10262,6 +10285,7 @@ upsilently.com
 upup.at
 urbeauty4u.org
 urbetter.ca
+ursime.com
 urvous.com
 urvousx.com
 us-shop.online
@@ -10285,6 +10309,7 @@ vassias.com
 vassv.com
 vavella.de
 vcjmall.top
+vemoso-shop.de
 vemoso.de
 venemero.com
 vera-mode.com
@@ -11493,6 +11518,7 @@ f2fequinehauling.com
 fasturbanlogistics.com
 fidelitytrustcu.com
 fl-trans.com
+flybolder.com
 freightwiselogistics.com
 furpol-global.com
 geodisgrp.com
