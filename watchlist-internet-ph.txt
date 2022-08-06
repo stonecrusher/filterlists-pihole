@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-08-03
+# Last updated:  2022-08-06
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -99,6 +99,7 @@ acnetzteil.com
 acontador.top
 acsde.de
 active-21.com
+actormuscle.store
 actoroubag.shop
 acuad.xyz
 acuygu.com
@@ -196,6 +197,7 @@ ajservice.de
 ajusttoshop.com
 akarevents.com
 akcsales.xyz
+akikojette.com
 akinteriory.com
 akjfood.com
 akku-laden.at
@@ -1128,6 +1130,7 @@ bufnkce.top
 bugabooashland.com
 bugpapier.de
 buhrlishome.de
+buitifo-fashion.com
 buko-bamberg.de
 bulldogge-franzosische-welpen.com
 bulliator.top
@@ -1138,6 +1141,7 @@ burnout-cockpit.de
 busforsaled.com
 business-manager.at
 businesstore.shop
+butlep.com
 buttons-shop.de
 buucklebrand.com
 buxtownbeacher.de
@@ -1230,6 +1234,7 @@ cambase-berlin.de
 cambuyg.top
 cameradigitalshow.com
 camere.cc
+camgem.de
 caminodesantiago.at
 camkv.shop
 camode.de
@@ -1968,6 +1973,7 @@ dmsmax.com
 dncoso.store
 dndstumkur.com
 dnewssyi.com
+dnisarwood.com
 dobot.cc
 doc-hygiene.de
 docmou.com
@@ -2342,6 +2348,7 @@ enginelover.com
 engins-siebenraben.de
 englle.com
 engllischebulldogge.com
+engravingift.shop
 engyaster.top
 enjify.com
 enjoy-relax.at
@@ -2542,6 +2549,7 @@ farozia.com
 fas-neubauer.de
 fascboots.com
 faseut.com
+faseva.de
 fash-brand.shop
 fashincs.com
 fashion-kuhlmann.de
@@ -2840,6 +2848,7 @@ fruugo.at
 ftm-soryn-kg.at
 ftx-store.de
 fu-ostholstein.de
+fuchs-versand.shop
 fuchspreis.com
 fuechsefussball.de
 fuehrerscheinfabrik.com
@@ -2852,6 +2861,7 @@ fugit.top
 fugitive.top
 fugth.top
 fuhrerschein-losung.com
+fuhrerscheinagentur-eu.com
 fuhrerscheinschnellkaufen.com
 full-service-packaging.at
 fullgerateshop.de
@@ -4735,6 +4745,7 @@ lprhomes.com
 lrbzl.com
 lrislsr.top
 ls-works.de
+lsazelsf.com
 lsclinica.com
 lsdepend.com
 lselloee.com
@@ -4768,6 +4779,7 @@ lunaleder.com
 lunanaa.top
 lunavelvets.com
 lunestedter-gewerbeverein.de
+lunia-store.com
 lunoza.de
 luovu.de
 luppo.at
@@ -4854,6 +4866,7 @@ mall2021.com
 mallesure.top
 malloriemae.com
 malls-12.top
+malls-15.top
 malls-77.top
 malschule-usedom.de
 malschule-wetzlar.de
@@ -4884,6 +4897,7 @@ margareteworm.de
 margithotel.at
 margitnohel.at
 margittaweiss.de
+mariandmaison.com
 marianneposa.de
 marie-celine-graeber.de
 mariliarho.com
@@ -4952,6 +4966,7 @@ mazopulove.site
 mazopuplove.site
 mb-training.net
 mba-ue.de
+mbali-yangu.de
 mbheelso.com
 mbkauf.com
 mblacktux.com
@@ -5823,11 +5838,13 @@ onlyfic.xyz
 onlymaker.com
 onlytwonow.top
 ono-7.top
+onrunnergermany.com
 onrunnersitalia.com
 onshoeser.com
 onshoesstore.shop
 onshopbase.com
 onward.store
+onyx-versand.com
 onyx-versand.de
 ookmdccix.com
 oolongtime.com
@@ -6928,6 +6945,7 @@ sculpward.top
 sdealdee.com
 sdhzdislavice.cz
 sdmndpkrec.com
+seaarks.com
 seabear.at
 sealisten.com
 seapolj.com
@@ -7696,6 +7714,7 @@ teddith.co.uk
 tedusch.myshopify.com
 teensales.online
 teenyboat.com
+teesindesign.com
 teetassepudelfamilie.com
 teichmann-fashion.de
 teichmann-styling.de
@@ -9098,6 +9117,7 @@ airbow.at
 airly-shop.de
 aisope.at
 ajusttoshop.com
+akikojette.com
 aksportsup.com
 aku-vital.de
 alben-mode.com
@@ -9248,7 +9268,9 @@ buckleybelts.de
 buddhacollections.com
 buddhapowerstore.com
 bufnkce.top
+buitifo-fashion.com
 buntage.de
+butlep.com
 buycircaknee.com
 buyheatcore.com
 buysmallappliances.com
@@ -9438,6 +9460,7 @@ emmaheute.de
 emmaschneider.de
 engeliebe.de
 englle.com
+engravingift.shop
 enpublishingrpg.com
 erdbeerblase.de
 erodisfashion.com
@@ -9460,6 +9483,7 @@ farador.de
 faradorgermany.com
 farozia.com
 faseut.com
+faseva.de
 fashion-kuhlmann.de
 fashion-limited.com
 fashion-traum.com
@@ -9539,11 +9563,6 @@ getecotex.com
 getecovex.com
 gethypersoft.com
 getsphinx.de
-gimbowl.com
-ginkslab.com
-givoza.store
-glamantibeauty.com
-glamkosmetika.de
 goldsea.es
 grandado.com
 gvgmall.com
@@ -9556,7 +9575,11 @@ puppylove.com
 shein.com
 shopifypreview.com
 sintech.cn
-xn--giga-schnppchen-8kb.de
+gimbowl.com
+ginkslab.com
+givoza.store
+glamantibeauty.com
+glamkosmetika.de
 glembook.com
 gletta.com
 glindo.de
@@ -9829,6 +9852,7 @@ malls-12.top
 manenabeauty.de
 manguys.com
 marcveriont.de
+mariandmaison.com
 mascotsmall.com
 massive-deals.com
 mavelona.de
@@ -10036,6 +10060,13 @@ porfave.de
 potentialar.com
 powup.de
 premium-garderobe.com
+xn--giga-schnppchen-8kb.de
+askdrkan.com
+dobot.cc
+eibos3d.com
+espruino.com
+giraffesights.com
+minisforum.de
 premium-mode.de
 prestiles.com
 prettyaccord.com
@@ -10043,12 +10074,6 @@ primatop.de
 printyourgesicht24.de
 privatecustomart.com
 privytec.de
-askdrkan.com
-dobot.cc
-eibos3d.com
-espruino.com
-giraffesights.com
-minisforum.de
 pro-trends.co
 proevery.com
 prontho.de
@@ -11226,6 +11251,7 @@ haweyltd.com
 hcg-immo.com
 home-try.com
 homes-alpha.com
+ideal-homes.uk
 ikevo-estate.com
 immo-absolut.com
 immo-eu.com
