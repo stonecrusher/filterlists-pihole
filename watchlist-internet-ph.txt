@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-08-20
+# Last updated:  2022-08-27
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -54,6 +54,7 @@ aaliencart.com
 aamorav.com
 aaugustbio.com
 aavqb.com
+ab-brennholz.com
 ab-monde.com
 ababilhajjbd.com
 abadianiaportal.de
@@ -133,6 +134,7 @@ adogadgets.com
 adolf.live
 adomait.com
 adria-fisch.at
+adrian-beck.de
 adrianacelli.com
 adrienne.top
 adskaadda.com
@@ -248,6 +250,7 @@ alghalgan.com
 aliasboards.de
 all4you-fashion.com
 allaboutexhibition.de
+allbotoxonline.com
 allbuy.com
 allcart.xyz
 allechantboutique.store
@@ -483,6 +486,7 @@ arrowtun.com
 arrsdo.com
 art-technologies.at
 artdom.top
+arthurbc.com
 artistid.top
 artkart.site
 artsy-co.de
@@ -627,6 +631,7 @@ back-attack.de
 backen-torte.de
 backlinkedr.com
 backmanboats.com
+backpack4u.shop
 backpacks.at
 backwardlook.shop
 badeanzugtreff.de
@@ -947,6 +952,7 @@ bisterberg.de
 bit4fitness.com
 bitforce.ch
 bitmusic.it
+bitterlich-brennholz.com
 bittyseller.com
 biwbcu.top
 bjhxds.myshopify.com
@@ -1387,6 +1393,7 @@ ceelcom.de
 cefortacf.com
 ceivetic.top
 celcapx.top
+celevibe.com
 celinemichaud.com
 celmak.de
 cem-bulut.de
@@ -1950,6 +1957,7 @@ detoxic.net
 deufiles.com
 deuhr.de
 deutere.com
+deutsche-bike.shop
 deutscher-experte.de
 deutscheritter.de
 deutschermarkts.com
@@ -1963,6 +1971,7 @@ devoria.de
 devoteeshoes.com
 dewelschutz.de
 dexia-hyp.de
+dezubehor.com
 dezuu.at
 dfr-hessen.de
 dgestionqc.com
@@ -1989,6 +1998,7 @@ dieseoutletus.com
 diesophiestore.com
 diesprachpraxis.de
 dietnr1.com
+dietrich-fachhandel.com
 diezweigrafikdesign.at
 differenta.com
 difmost.top
@@ -2015,6 +2025,7 @@ direcasn.com
 directsalesr.top
 directzs.com
 dirkdreier.de
+dirkelektro.com
 dirkethilfe24.at
 dirndlzeit.de
 discom.at
@@ -2189,6 +2200,7 @@ e-bike-salestore.de
 e-bikeexperten.de
 e-designworks.de
 e-dolby.de
+e-galax.com
 e-gigantus.de
 e-lektorat.at
 e-pmb.de
@@ -2406,6 +2418,7 @@ emergencydiecastmodels.com
 emesche-hebmueller.de
 emilia-mode.com
 emishoes.com
+emma-keller.de
 emma-matraze.com
 emmagowns.com
 emmaheute.de
@@ -2859,6 +2872,7 @@ fmeseriasi.com
 fmncco.com
 fmobifox.top
 fnbvli.com
+fnnight.com
 foldingknivesale.com
 followafashion.com
 folmy.de
@@ -3326,6 +3340,7 @@ gpathao.com
 gplate.de
 gpoavalonu.com
 gpswebshop.com
+gpypll.com
 gqkgb.top
 grabateea.com
 graces-buy.com
@@ -3681,6 +3696,7 @@ hirship.com
 hirstore.com
 historischesbauen.de
 hitecschuhe.com
+hitekebikes.com
 hitshe.com
 hivasportsl.com
 hivintage.com
@@ -3923,6 +3939,7 @@ iefjcoiefhv.myshopify.com
 ielektronik.de
 ifbgyxpnr.top
 iflyer.it
+ig-hgk.com
 igbce-stolberg.de
 igotit.top
 igreenwegreen.com
@@ -4009,6 +4026,7 @@ inov-8schuhe.de
 inov-8uae.com
 insecthi.com
 insecurty.top
+inselbikes.de
 insiderlx.com
 insightfulyou.net
 insolvenzamt.com
@@ -4376,6 +4394,7 @@ kfoodsupp.com
 kfouzhanco.com
 kfz-hogen.de
 kfz-tiptop.at
+kg-camping.de
 kg-treppchen.de
 kgdcalld.com
 khantherapie.de
@@ -4552,6 +4571,7 @@ kperitia.com
 kqivlfk.top
 kraemerhandel.com
 krahnstoever-rostock.com
+kramerversand.de
 kraussmedien.de
 kreativtravel.de
 kreispiraten-of.de
@@ -4881,8 +4901,10 @@ looth.de
 looth.net
 loovincy.com
 lorana.de
+loscedros.org
 lossive.top
 lotjei.com
+lotustal.at
 lovaaberlin.com
 lovebugllc.com
 loveforshop.site
@@ -5029,6 +5051,7 @@ maldano.com
 malen-und-reisen.de
 maleny.de
 malereikopie.de
+malishope.de
 mall-11.top
 mall2021.com
 mallesure.top
@@ -5153,6 +5176,7 @@ mcjustice.de
 mcoaltmeds.com
 mcolumnist.com
 mcrittter.com
+mcrkpvtitip.shop
 mdazler.com
 mdazoiptv.com
 mdsschweiz.com
@@ -5163,6 +5187,7 @@ mechanit.top
 meclothly.com
 medi-marketz.biz
 media-haushalt.de
+media-heinemann.com
 media-kaufhaus.de
 media-klassen.de
 media-north.de
@@ -5269,6 +5294,7 @@ mensluxuryboutique.com
 mentailtyinand.top
 mentalitynot.top
 mephistoaustria.com
+mephistofabrikverkauf.com
 merapack.com
 mercardo-olex.com
 mercedal.com
@@ -5511,6 +5537,7 @@ mosano.de
 moser-alm.at
 mosessions.com
 mosetravel.de
+moskowq.com
 mostary.com
 mostesy.com
 mostgarten.de
@@ -5766,6 +5793,7 @@ neyeda.net
 neymad88.top
 nfawcy.top
 nflxshop.com
+nfondep.com
 nfornicole.com
 ngadgetrig.shop
 ngbsale.com
@@ -5955,6 +5983,7 @@ officialbucketlistco.com
 officialiphoneunlock.co.uk
 officialrebrand.shop
 officieldisney.com
+offizielledisney.com
 offspringonastring.com
 ofildeleau.fr
 ofmapteka.com
@@ -5990,6 +6019,7 @@ oldbeibi.com
 oldboys-mc.at
 oldjulysale.com
 oleean.com
+olgaplush.com
 oligoator.top
 olivegardenhouses.de
 oliver-konz.de
@@ -6967,6 +6997,7 @@ roomard.xyz
 roomscarth.com
 roomster.top
 rosasommer.com
+roseleven.com
 roselinlin.com
 rosemaryf.com
 rosenkrieg-magazin.de
@@ -7187,6 +7218,7 @@ schstobuys.com
 schuhedesale.de
 schuhekaufenwien.com
 schul-frei.at
+schulhof-brennholz.com
 schultheissundroth.de
 schulzwelt.com
 schuster-wien.at
@@ -7485,6 +7517,7 @@ slothyear.uk
 slubmauritius.com
 slutmedtandlaegeskraek.dk
 smanbub.com
+smart-best-market.com
 smart-excel.de
 smart-market-online.com
 smartbuyglasses.at
@@ -7772,6 +7805,7 @@ storeincart.club
 storeluxeworlddesign.com
 storesbuy.site
 storesonline2021.ru
+storesonline2022.ru
 storesoutlet2021.ru
 storyoon.top
 storytion.com
@@ -8042,6 +8076,7 @@ tengoa.com
 tenine.top
 tenitious.top
 tennisvillase.com
+tensel-markt.de
 tepffd.com
 tepwise.top
 terapixel.at
@@ -8389,6 +8424,7 @@ trockenes-brennholz.com
 troile.store
 tronicfactory.com
 tronicversand.net
+trophal.de
 tropicaltopics.com
 trovando.de
 trspimb.com
@@ -8508,6 +8544,7 @@ unique-print.de
 unisonmen.de
 unitedseniors.de
 unitic.top
+universal-shop.ch
 universetools.de
 unjkvn.com
 unternehmer-2014.de
@@ -8576,6 +8613,7 @@ valanza.de
 valentina-laurence.de
 valentinalaurence.de
 valepina.de
+valley-brennholz.com
 valucase.com
 valurabeauty.com
 vamora-store.de
@@ -8682,6 +8720,7 @@ verstorefront.com
 vertow.com
 vertrauenwin.de
 verttion.top
+verycanvas.com
 veryvoga.com
 vesicit.xyz
 vesinhhoatam.com
@@ -9668,6 +9707,7 @@ carter82y.com
 catatic.de
 caviera-berlin.de
 cbuanai.com
+celevibe.com
 certainq.com
 cescory.com
 ceucyl.top
@@ -9854,6 +9894,7 @@ ellenperuecken.de
 elleslife.com
 elternsale.de
 emilia-mode.com
+emma-keller.de
 emmagowns.com
 emmaheute.de
 emmaschneider.de
@@ -9902,9 +9943,6 @@ fedenz.de
 feintoll.de
 felflame.com
 felipag.com
-felivo-germany.de
-felivoo.de
-fengyuanhanxi.top
 goldsea.es
 grandado.com
 gvgmall.com
@@ -9917,6 +9955,9 @@ puppylove.com
 shein.com
 shopifypreview.com
 sintech.cn
+felivo-germany.de
+felivoo.de
+fengyuanhanxi.top
 fenna-muller.de
 feoruo.com
 fernbedienung-schalter.de
@@ -9999,6 +10040,7 @@ globexlevallc.com
 globior.com
 glowyplant.de
 gluckaro.de
+gluckbox.com
 glueex.com
 go-dynergy.com
 goadapter.com
@@ -10255,6 +10297,7 @@ lockzoon.com
 lojgxdixo.com
 lomvera.com
 lorana.de
+lotustal.at
 lovaaberlin.com
 lovert.de
 lovundi.com
@@ -10394,11 +10437,6 @@ muttermode.de
 muzenaudio.com
 mvvspir.com
 my-fash.co
-my-pawly.com
-my-pawz.net
-mybestjudymerch.com
-mycezanny.com
-myfunnysocks.de
 xn--giga-schnppchen-8kb.de
 askdrkan.com
 dobot.cc
@@ -10406,6 +10444,11 @@ eibos3d.com
 espruino.com
 giraffesights.com
 minisforum.de
+my-pawly.com
+my-pawz.net
+mybestjudymerch.com
+mycezanny.com
+myfunnysocks.de
 myka.com
 mykatzenwelt.de
 mymats4you.de
@@ -10624,6 +10667,7 @@ romavi.de
 romda.dk
 roof-tube.com
 rosasommer.com
+roseleven.com
 roselinlin.com
 rosewoo.com
 rosezo.com
@@ -10890,6 +10934,7 @@ veralo.de
 veranoclothing.de
 verobraun.de
 vertow.com
+verycanvas.com
 vevor.de
 vgr8.com
 vilow.de
@@ -11982,6 +12027,7 @@ elektriker-dienst.at
 elektriker-fischer.at
 elektriker-fritz.de
 elektriker24s.at
+elektriker7d.at
 elektrikerexperten.at
 elektrikerhilfewien.at
 elektrikernotdienstwien.at
@@ -12007,6 +12053,7 @@ installateurnotdienste.at
 installateurzentrale.at
 je-pro.at
 kammerjaeger24h.at
+kammerjaeger7d.at
 kanalreinigung-hilfe.at
 key-auf.at
 klempner-notdienst.net
@@ -12085,6 +12132,7 @@ damco-ltd.com
 damco-transport.com
 daniadirectlogs.com
 dealix-corporation.com
+dekkerstrans.com
 dekkertransport.com
 delmad-agro-spedition.com
 deltaexpressdelivery.com
