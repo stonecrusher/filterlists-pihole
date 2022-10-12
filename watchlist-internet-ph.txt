@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-10-08
+# Last updated:  2022-10-12
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -9922,6 +9922,7 @@ ashlen.co
 asicmerch.com
 asicminerco.com
 asiose.com
+askdrkan.com
 athlerok.com
 attentcture.com
 auroraforyou.de
@@ -9954,6 +9955,7 @@ baleurshop.de
 balirano.de
 ballue.de
 balony.de
+banggood.com
 bangooon.com
 bankindq.com
 banoutgit.com
@@ -9983,6 +9985,7 @@ bellissimoo.de
 belsium.de
 bemygalaxy.com
 berkshirede.myshopify.com
+berlin-angeboteshop.com
 berlin-outlet.com
 berlinbeardeal.de
 berlinfarador.com
@@ -10236,6 +10239,7 @@ diunst.com
 divenchi.de
 dmireox.com
 dncoso.store
+dobot.cc
 doggyplum.com
 dograndoo.de
 dogsdreamaustria.at
@@ -10255,6 +10259,7 @@ dreamshome.co
 dreamykissen.de
 dreamyss.com
 dresdensein.com
+dresdeshop.com
 dsrans.com
 dsyswy.top
 duftdabei.de
@@ -10271,6 +10276,7 @@ edibleun.com
 edpillsmed.com
 eeewwe.top
 eerieus.com
+eibos3d.com
 eikz.top
 eleclover.com
 elecmassage.fr
@@ -10297,6 +10303,7 @@ erdbeerblase.de
 erodisfashion.com
 esidti.com
 esmeraldaworld.com
+espruino.com
 esyqefp.top
 etcydecor.de
 eubiofficial.com
@@ -10313,18 +10320,6 @@ fadora.de
 fairytalecreators.com
 fallinof.com
 falzoro.de
-goldsea.es
-grandado.com
-gvgmall.com
-hypersoftsneakers.com
-lajondo.com
-linalift.com
-lucybreeze.com
-onlinecheap.ru
-puppylove.com
-shein.com
-shopifypreview.com
-sintech.cn
 famore-fashion.com
 famore.shop
 famromanski.de
@@ -10427,6 +10422,7 @@ getshopsdeal.com
 getsphinx.de
 gimbowl.com
 ginkslab.com
+giraffesights.com
 givoza.store
 glamantibeauty.com
 glamkosmetika.de
@@ -10446,6 +10442,7 @@ goat.com
 gogistar.com
 gogogadgets.io
 gokartpro.de
+goldsea.es
 gometim.com
 goneblksale.com
 gonetzteil.de
@@ -10458,6 +10455,7 @@ gotteeshirts.live
 govaro-shop.de
 gpswebshop.com
 graces-buy.com
+grandado.com
 grandiancia.com
 greatsalefun.com
 greenblisscrash.com
@@ -10470,6 +10468,7 @@ gunterundfinn.de
 gustly.xyz
 gutenberg-mode.de
 guteseben.de
+gvgmall.com
 haazeair.com
 halipax.com
 hallobh.de
@@ -10549,6 +10548,7 @@ hundeliebling.at
 hundetrainingkragen.com
 huongdng.com
 huzzfeed.life
+hypersoftsneakers.com
 hypesbeauty.de
 iauvon.com
 icare-de.de
@@ -10615,6 +10615,7 @@ keyblissboutique.com
 kezono.com
 kidoriman.com
 kilokits.com
+kimperuecken.de
 kinallyf.com
 kindduckling.com
 kinderkumpel.de
@@ -10633,6 +10634,7 @@ knackhi.com
 knauermann.de
 knneras.com
 knuffeldecke.de
+kolibrin.de
 koomty.com
 kowarzuh.de
 krobboshop.de
@@ -10642,6 +10644,7 @@ kutsiarn.com
 laasin.com
 labubu.co.uk
 lafrican.top
+lajondo.com
 lampsaddle.store
 laneyea.com
 laoiay.com
@@ -10683,6 +10686,7 @@ likeqquiet.com
 lilafkj.com
 limebrandco.com
 limitgreen.com
+linalift.com
 linashop.de
 lindela.de
 linelon.com
@@ -10722,6 +10726,7 @@ lucimen.com
 luckingleaves.com
 luckmia.de
 luckstark.com
+lucybreeze.com
 luisrora.com
 luladress.com
 lunoza.de
@@ -10781,6 +10786,7 @@ metalsme.com
 metzingen-fashion.de
 mexisale.com
 mfboutiquestore.tools
+mia-nature.de
 miayamy.com
 microlieshop.com
 mielano.de
@@ -10794,6 +10800,7 @@ minceex.com
 mindinsole.com
 mineshoop.com
 mini-ecig.com
+minisforum.de
 miniwallet.at
 minlyfire.com
 minusis.com
@@ -10806,13 +10813,6 @@ mitbella-shop.de
 mitbellashop.de
 mmwggm.top
 mocolilys.com
-xn--giga-schnppchen-8kb.de
-askdrkan.com
-dobot.cc
-eibos3d.com
-espruino.com
-giraffesights.com
-minisforum.de
 modandh.com
 modaso.store
 mode-diva.de
@@ -10939,6 +10939,7 @@ olssonbrands.com
 omecyer.com
 omertabike.com
 onecozyday.com
+onlinecheap.ru
 onlyaya.com
 onlymaker.com
 oolongtime.com
@@ -11036,6 +11037,7 @@ prosleepy.com
 pselessf.com
 ptemit.life
 pungpat.com
+puppylove.com
 purelywhitedeluxe.com
 pureprefer.com
 purple-slurp.com
@@ -11143,6 +11145,7 @@ shaperivy.com
 shapervalet.de
 shauntapparel.com
 shaveah.com
+shein.com
 shelbs.de
 shelbz.de
 shelucky.today
@@ -11160,6 +11163,7 @@ shopbuyzone.com
 shopcider.com
 shopclun.com
 shopgardening.xyz
+shopifypreview.com
 shopit.buzz
 shopmockr.com
 shopmood.de
@@ -11174,6 +11178,7 @@ sililers.com
 silkandcotton.store
 silvanass.co.uk
 singpro-shopify-com.myshopify.com
+sintech.cn
 sinxli.com
 sisterok.de
 siwetr.com
@@ -11299,7 +11304,6 @@ treffenzeit.com
 trencystore.com
 trend-fuchs.de
 trend-held.com
-useum.org
 trend-helden.com
 trendalter.com
 trendoase.com
@@ -11333,6 +11337,7 @@ urvous.com
 urvousx.com
 us-shop.online
 usa-food-store.de
+useum.org
 usonlinedept.com
 usualjeans.com
 utterok.com
@@ -11446,6 +11451,8 @@ wxnlucky.com
 xaiege.top
 xavierag.com
 xiebulou.com
+xn--giga-schnppchen-8kb.de
+xn--glckstr-o2ae.de
 xojctzs.top
 xprimeshop.net
 yaberauto.com
@@ -12718,6 +12725,7 @@ vogeltransltd.com
 vs-logistics.eu
 westpointcourier.online
 wgl-europetransport.com
+windlehurst-transport.eu
 wise-carrytrucks.com
 worldfastcourier.site
 xsmartlogisticservices.com
@@ -12774,6 +12782,7 @@ zubner.de
 10xcryptotrade.uk
 22crypton-tradings.com
 24bitcoinexchange.com
+360metaglobalmarket.com
 acfundsfx.com
 aktienpros.com
 alltopinvest.com
@@ -12783,6 +12792,7 @@ areatrading.io
 arkcoin.cc
 assetfxmarket.com
 autocryptooptions.online
+awirer.com
 aztradeoption.com
 basefinex.com
 basefxtraders.com
@@ -12807,6 +12817,7 @@ bitsharesinvest.com
 bitsocompany.net
 bittpayoptions.org
 bottic.org
+btcinvest.app
 btcminer.website
 btklcoin.com
 bullmarketfxoptions.com
@@ -12827,6 +12838,7 @@ cryptmaketrade.com
 cryptocloudminers.net
 cryptocomebackpro.trade
 cryptoinas.com
+cryptokasse.co
 cryptoprime.eu
 cryptoprofittable247.com
 cryptotradingfxt.com
@@ -12845,6 +12857,7 @@ diemword.net
 digioffer.club
 dmxstocktrade.online
 eaglelightfx.com
+eastspringinvest.io
 easyoptions.online
 ejinvesting.com
 epbitcoin.com
@@ -12867,13 +12880,16 @@ fnpmarkets.co
 fondexprofit.com
 forexsignalfds.online
 forextradefds.com
+fortunefx.io
 foxebinarytrading.com
+ftd-best.bond
 fx-algorandking.com
 fx-lifetrader.com
 fxcmpro.cc
 fxcoinprotraders.online
 fxconx.com
 fxdigitaloption.com
+fxearntrades.com
 fxmetaprotrades.online
 fxminingcointrade.com
 fxpremiertrades.com
@@ -12915,6 +12931,7 @@ maconionsfx.com
 magacryptotrading.com
 matreex99.com
 metaversesworld.org
+mighty-offrs.net
 miners-profitfx.com
 miningcointrader.com
 miningexchange24.com
@@ -12927,6 +12944,7 @@ mt4forextradecrypto.com
 nat-s.co
 nowistherevolution.com
 omegafxoptions.com
+onex-corporation.com
 onlineideastoday.com
 onlineinvestmentreviews.com
 onlinesgeldverdienens.com
@@ -12952,6 +12970,7 @@ rapidprotrades.com
 riotintofx-crypto.com
 roicraft.co
 rspasian.com
+safecaps.io
 schnellhilfekredit.com
 securesmartoptions.online
 sencytehub.com
@@ -12973,6 +12992,7 @@ stofline.com
 stoxdc.com
 swiftbinary.org
 swifttradinginvestment.com
+swizzpro.com
 tedex.co
 tedex.live
 topbinaryfx.com
@@ -12980,6 +13000,7 @@ topdigitalcashapp.com
 toptrade500.com
 topvcashoffer.com
 topyieldoptions.online
+toth-gruppe.com
 towardssource.com
 tradegiantfx.com
 tradeinvestigate.uno
