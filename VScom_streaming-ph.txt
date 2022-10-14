@@ -3,7 +3,7 @@
 # Description:   verbraucherschutz.com published list of fraudulent streaming websites. Not regularly updated.
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.verbraucherschutz.com/warnungsticker/warnung-hier-drohen-hohe-streaming-rechnungen-und-aerger-nicht-registrieren/
-# Redirect:      https://raw.githubusercontent.com/stonecrusher/verbraucherschutzcom/master/VScom_streaming-ph.txt
+# Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/VScom_streaming-ph.txt
 # Last updated:  2022-10-12
 
 barplay.de

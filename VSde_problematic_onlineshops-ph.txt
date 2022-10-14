@@ -3,7 +3,7 @@
 # Description:   verbraucherschutz.de publishes domains of problematic onlineshops every month. Aggregated and sanitized here since january 2018.
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://verbraucherschutz.de/fake-shops-2022-september/
-# Redirect:      https://raw.githubusercontent.com/stonecrusher/VScom_fakeshops/master/VSde_problematicshops-ph.txt
+# Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/VSde_problematicshops-ph.txt
 # Last updated:  2022-10-14
 
 23muskeltiere.de
