@@ -1,7 +1,7 @@
 # Title:         verbraucherschutz.com Fakeshops
 # Expires:       7 days
 # Description:   verbraucherschutz.com published list of fakeshops. Not regularly updated.
-# Homepage:      https://github.com/stonecrusher/VScom_fakeshops/
+# Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.verbraucherschutz.com/warnungsticker/warnung-vor-onlineshops-hier-duerfen-sie-nicht-einkaufen/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/VScom_fakeshops/master/VScom_fakeshops-ph.txt
 # Last updated:  2022-10-12
