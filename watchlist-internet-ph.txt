@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-10-29
+# Last updated:  2022-11-04
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -11351,6 +11351,7 @@ manenabeauty.de
 manguys.com
 manualthe.com
 marcveriont.de
+maria-gabriele.com
 mariandmaison.com
 mascotsmall.com
 massive-deals.com
@@ -11427,6 +11428,7 @@ modency.de
 modetopper.com
 modeuniversum.com
 modeuniversum.store
+modevissa.com
 moidapp.com
 moistis.com
 molaro.de
@@ -11614,6 +11616,7 @@ pliken.com
 ploryday.com
 pluckno.com
 pluoxa.life
+plutogdx.com
 poiloh.com
 pointdsgn.com
 polerforce.com
@@ -13354,6 +13357,7 @@ westpointcourier.online
 wgl-europetransport.com
 windlehurst-transport.eu
 wise-carrytrucks.com
+wndirectusa.com
 worldfastcourier.site
 xsmartlogisticservices.com
 yanillalogistics.com
@@ -13439,6 +13443,7 @@ bitcoinmotion.com
 bitcointradepoint.com
 bitcoinwebr.com
 bitfxnex.com
+bitindex.ai
 bitindexai.tv
 bitnetxltd.com
 bitsharesinvest.com
@@ -13499,6 +13504,7 @@ expertisetrade4.com
 expertoptiontradings.com
 express-geld.online
 extracryptocurrency.com
+ezmarkets.io
 f-flt.com
 fidilityprofx.com
 financialaccesstrading.com
@@ -13548,6 +13554,7 @@ invest-club-de.com
 investcryptotap.com
 investfw.com
 investing-digital.com
+investingnow.info
 investirex.com
 ipdwio.com
 kelergroup.com
@@ -13562,6 +13569,7 @@ luckytrds.com
 maconionsfx.com
 magacryptotrading.com
 matreex99.com
+mayhemfinancial.com
 metaversesworld.org
 mighty-offrs.net
 miners-profitfx.com
@@ -13630,6 +13638,8 @@ swifttradinginvestment.com
 swizzpro.com
 tedex.co
 tedex.live
+teratrade.co
+thebitindex.ai
 topbinaryfx.com
 topdigitalcashapp.com
 toptrade500.com
