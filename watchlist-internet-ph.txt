@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/listen-unserioeser-internetseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-11-22
+# Last updated:  2022-11-25
 
 ### Betrügerische Onlineshops:
 # https://www.watchlist-internet.at/liste-betruegerischer-shops/
@@ -11011,6 +11011,7 @@ amplesunshine.com
 amsere.de
 amuseliebe.at
 amuseliebe.com
+amybella.de
 amyrosa.de
 android-car-dvd.de
 aneuzon.de
@@ -11019,6 +11020,7 @@ angelhaft.de
 angenehme.de
 annas-beauty.de
 ansky.life
+aoifede.com
 apollosstation.com
 aprodello.de
 apttly.com
@@ -11331,6 +11333,7 @@ deiste.top
 delanzo.de
 delivv.shop
 dellelily.com
+delozastore.de
 deluxio.de
 demababy.de
 denaked.com
@@ -11452,6 +11455,7 @@ evans-online.de
 evans-shop.de
 evemoons.com
 everhandmade.com
+expueag.store
 fabindix.com
 factorysale2022.ru
 fadalley.com
@@ -11773,6 +11777,7 @@ kauffolgen.de
 kauflusts.de
 kaufyshop.de
 kemera.de
+kendoraa.de
 keppey.com
 ketoxmed-liquid.de
 kettenkonzept.de
@@ -11886,6 +11891,7 @@ lodiac.com
 lojgxdixo.com
 lollylips.com
 lomvera.com
+lorafashion.de
 lorana.de
 lotustal.at
 lovaaberlin.com
@@ -12017,6 +12023,7 @@ modetopper.com
 modeuniversum.com
 modeuniversum.store
 modevissa.com
+modewelt-24.de
 moidapp.com
 moistis.com
 molaro.de
@@ -12108,6 +12115,7 @@ njordoutdoors.com
 noblepawz.com
 noldliyou.com
 noracora.com
+nordikb.com
 nordischesdesign.com
 nortonf.com
 noucadeaux.fr
@@ -12117,6 +12125,7 @@ nula-berlin.de
 numerr.com
 nuubu.com
 nuvinodeutschland.com
+obergoolem.com
 oberzone.com
 octora.de
 odeletted.com
@@ -12133,6 +12142,7 @@ olanzo.de
 oleean.com
 oliviashape-de.store
 olixie.com
+ollieoutlet.de
 olssonbrands.com
 omecyer.com
 omertabike.com
@@ -12243,6 +12253,7 @@ prontho.de
 prosleepy.com
 pselessf.com
 ptemit.life
+puffercase.store
 pullcamin.com
 pungpat.com
 puppylove.com
@@ -12280,7 +12291,9 @@ rareplantworld.com
 ratiomy.com
 reacapacity.shop
 realyiyi.com
+rechato.com
 regensaar.com
+reichtouch.com
 reminitive.com
 remintive.com
 renetverito.com
@@ -12323,6 +12336,7 @@ safretshop.com
 sagstern.com
 saiuje.com
 salority.com
+salzar.store
 sandra-schwarz.de
 saolar-deutschland.com
 saphirvogel.de
@@ -12461,6 +12475,7 @@ sundancean.com
 sunsetwell.com
 sunshine-city.top
 sunshineen.top
+sunshinemo.com
 superie.de
 supersofabezug.com
 supmestar.com
@@ -13791,7 +13806,6 @@ sier-24.tech
 spezialist24std.at
 team7d.at
 vaillant-kundendienst24.at
-wienerinstallateur.at
 xn--ab-sanitr24h-hilfe-stb.at
 xn--ab-sanitr24h-hilfe-stb.de
 xn--kammerjger--24-cib.at
@@ -13819,6 +13833,7 @@ aeropetstransport.com
 agru-paradis.com
 aircargo-logistics.com
 alo-car.com
+amhtransportab.com
 arda-car.com
 armourlogistik.com
 as-transport.org
@@ -13872,6 +13887,7 @@ expresslogisticfreightworld.com
 expresslogisticgroup.com
 f2fequinehauling.com
 fasturbanlogistics.com
+ferrytransportservice.com
 fiat-transporter.at
 fidelitytrustcu.com
 fl-trans.com
@@ -14104,6 +14120,7 @@ cloudcryptoexpert.com
 coin-masterpro.com
 coinchaininvest.net
 coine-ex.com
+coinmatics.us
 coinstuart.com
 coinswallet.cc
 counterstrike.care
@@ -14183,7 +14200,9 @@ gladiolustox.com
 gledorktrade.com
 globalcryptotraders.com
 globalinvestmentift.com
+globaltradeforex.com
 globaltradeoption.online
+gm-portal.co
 gmapros.co
 greenwealthcryptohub.com
 gslmarkets.com
@@ -14256,6 +14275,7 @@ rapidprotrades.com
 riotintofx-crypto.com
 roicraft.co
 royalinvestmentconsortium.com
+rs2-finance.com
 rspasian.com
 safecaps.io
 schnellhilfekredit.com
