@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2022-12-24
+# Last updated:  2023-01-02
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -838,6 +838,7 @@ backmanboats.com
 backpack4u.shop
 backpacks.at
 backwardlook.shop
+badaufbewahrung.com
 badeanzugtreff.de
 bademoebel.net
 badgyalbrand.com
@@ -881,7 +882,6 @@ balony.de
 balotracity.com
 balzbambii.de
 bananakiiwi.com
-banggood.com
 bangooon.com
 bankindq.com
 bankot.top
@@ -1359,6 +1359,7 @@ bocarora.com
 bocceli.com
 bochner-handel.de
 bodaflix.de
+bodario.com
 bodasi.de
 bodoplay.de
 bodrumj.top
@@ -2568,6 +2569,7 @@ deine-reise.info
 deineschmuckkiste.de
 deinetierliebe.de
 deinetraumfigur.com
+deingartenland.de
 deinhandwerkershop.de
 deinliebesmensch.de
 deinlieblingstier.com
@@ -3072,6 +3074,7 @@ ebereader.top
 eberhard-versand.de
 eberhard-versand.eu
 eberhard-wurst.de
+ebike-universum.de
 ebikedragon.com
 ebiribiri.com
 ebisushijo.com
@@ -3110,6 +3113,7 @@ edenetimtv.com
 edgomesl.com
 edgywind.com
 edibleun.com
+edigitalelectronics.com
 edithannabeck.de
 edithhardware.shop
 editorialrobot.com
@@ -3618,6 +3622,7 @@ fahrradbekleidungkauf.com
 fahrradbekleidungs.de
 fahrradhaus-muller.de
 fahrradhaus-zeyen.de
+fahrradmarkise.de
 fahrradprofis.net
 fahrradwelt-online.com
 fahrradwelt-shop.com
@@ -5079,6 +5084,7 @@ herzkissenmallin.de
 herzklang-tirol.at
 herzmitliebe.de
 herzpraxis-benzer.at
+hesdca.store
 hesly.de
 hetshoppe.xyz
 heuser-garderobe.de
@@ -5398,6 +5404,7 @@ hywkl.com
 i-blade.at
 i-gagne.it
 i-translogistics.com
+i-vaya.de
 iably.top
 iai-shop.com
 iamgru.top
@@ -5630,6 +5637,7 @@ invocation.at
 inwhiteball.com
 ioffer.com
 iokqd.com
+ion1s.com
 iosottraggo.it
 iount.com
 ipabric.com
@@ -7548,6 +7556,7 @@ mode-sampl.at
 mode-shop-1.de
 mode-stars.com
 mode-stern.com
+mode-zurich.ch
 modeackermann.de
 modeberger.com
 modebergershop.com
@@ -7581,6 +7590,7 @@ modevissa.com
 modewelt-24.de
 modflix.de
 modificatiy.com
+modikle.com
 moditec.fr
 modnae24.com
 modoflix.de
@@ -8098,6 +8108,7 @@ nobulllgermany.com
 nobullosterreich.at
 nobullosterreich.com
 nobullosterreich.net
+nobullwien.at
 nobulosterreich.me
 nocature.top
 nocety.top
@@ -10584,6 +10595,7 @@ sonine.top
 sonja-kosmetik.at
 sonkehj.com
 sonnenflohmarkt.at
+sonnenheld.at
 sonnenlit.de
 sonnenpedal.com
 sonnenstuebchen.at
@@ -10911,6 +10923,7 @@ streamtox.com
 streamugo.de
 streamwolf.de
 streamzeit.de
+streetshoesno1.com
 strielkowski.com
 strohmel-versand.com
 strom-versorgungen.de
@@ -11196,6 +11209,7 @@ technikhuebner.de
 technikkirchner.de
 technikschaefer.de
 techno-max.de
+techno-maximus.de
 techno-x.de
 techspez.com
 techswap.de
@@ -12155,6 +12169,7 @@ vimoz.de
 vincent-silvert.com
 vincentteh.com
 vincenzosantoriello.it
+vindon.de
 vinemos.de
 vinrongdo.com
 vintanzo.de
@@ -12337,6 +12352,7 @@ walter-riegler.at
 walterigorr.com
 walther-electron.de
 waltraudkoch.de
+wanadu.de
 wandadshop.com
 wander-innovation.com
 wanderboyy.com
@@ -12651,6 +12667,7 @@ workingupgrade.com
 workkin.xyz
 world-wide-properties.com
 worldfastcourier.site
+worldtime-elektro-shop24.online
 worldwidemoving.co.uk
 worldwidemoving.co.za
 worldwidemoving.sg
