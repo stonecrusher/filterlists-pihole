@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2023-01-02
+# Last updated:  2023-01-07
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -654,6 +654,7 @@ artsy-co.de
 artsyartisans.com
 artycart.site
 arulnathan.com
+arvato-entertainment.de
 arxvple.com
 aryachaiy.com
 as-transport.org
@@ -718,6 +719,7 @@ atvelektro.de
 atwtransp.com
 au-pair-diary.de
 auaweg.at
+audienticys.com
 audikaufen.de
 audiwa.de
 audosi.net
@@ -1462,6 +1464,7 @@ boutiqueushop.com
 boutiquewomenshoesshopmall.store
 bowerssale.shop
 bowtech-impuls.de
+boxenkorbe.de
 boxerklub-beckum.de
 boxflix.de
 boyshirtt.com
@@ -1514,6 +1517,7 @@ brennholz-paul-rochla.com
 brennholz-und-pellets.com
 brennholz-und-zubehor.com
 brennholz365.com
+brennholzbereich.com
 brennholzbestpreis.com
 brennholzenergie.com
 brennholzjedes.com
@@ -2127,6 +2131,7 @@ clorislife.com
 closast.top
 closeery.top
 clothes-limited.com
+clothesy.de
 clothingfabric.shop
 clothingselling.store
 clothmotorcycle.com
@@ -2941,6 +2946,7 @@ dreamykissen.de
 dreamyss.com
 dreastique.de
 drechselreich.de
+drehpunkt-store.com
 dreirei.com
 dreissig105.de
 dresdensein.com
@@ -3863,6 +3869,7 @@ finesttsilk.com
 fineustyle.com
 finflix.de
 fink-foerster.de
+fink24.info
 finkerkette.de
 finninger-helbach.com
 finoplay.de
@@ -3920,6 +3927,7 @@ fjoutlet.store
 fjoutlets.store
 fkkrga.top
 fkonter.top
+fktde.com
 fl-handel.net
 fl-trans.com
 flaechenhuegel.at
@@ -4176,6 +4184,7 @@ fugth.top
 fuhrerschein-losung.com
 fuhrerscheinagentur-eu.com
 fuhrerscheinschnellkaufen.com
+fuhrmann.store
 full-service-packaging.at
 fullgerateshop.de
 funatv.de
@@ -4227,6 +4236,7 @@ fxtradespolkaakcyjna.com
 fxuniontrading.com
 fzerlon.com
 g-konsolen.com
+gabelnshop.com
 gaboflix.de
 gaboroutletosterreich.com
 gachl.at
@@ -4286,6 +4296,7 @@ gamestopshop.de
 gamestopshop.net
 gamestopshopde.com
 gamestp.de
+gamestudionuernberg.de
 gametimejerseys.com
 gaming-bro24.de
 gaming-konsolen.com
@@ -4999,7 +5010,9 @@ heavenallure.com
 hebamme-sophie.de
 hebammesalzburg.at
 hebblyshop.com
+hebebuehnen-kroemer.com
 hebr2018.com
+heckenscherede.com
 hedgeis.com
 heide-riders.de
 heidecker-rollergang.de
@@ -5980,6 +5993,7 @@ karchersale.com
 karchshop.com
 karen-vuong.com
 karenmiss.com
+kargoka.store
 karimovesa.com
 karin-heckel.de
 karin-kreisel.at
@@ -6910,6 +6924,7 @@ luxfewo.de
 luxgomall.com
 luxhause.de
 luxishop.de
+luxozza.com
 luxsofabezuege.com
 luxuriousdogtoy.store
 luxury-shop.at
@@ -6951,6 +6966,7 @@ maconionsfx.com
 macorad.com
 macoser.top
 macroize.top
+macschritte.de
 mad-max-vd-brunnengaerten.de
 madaplay.de
 made-private.com
@@ -6973,6 +6989,7 @@ magentashelf.com
 magicmixte.com
 magiczoomco.com
 magikbody.de
+magisale.com
 magliecalciocn.net
 magmovenergy.com
 magna-eu.com
@@ -7220,6 +7237,7 @@ media-voigt.de
 media-wagner.com
 media-weber.com
 medialovers.de
+mediamarkets.de
 mediamarkt-geschaft.online
 mediamartinsen.de
 medianeptun.com
@@ -8446,6 +8464,7 @@ ordtic.top
 orecrd.com
 orenyay.com
 orgon-energie.at
+oribeauties.com
 oricgermany.de
 original-pandora-schmuck.com
 originalbyshop.com
@@ -10169,6 +10188,7 @@ seigneurin.fr
 seikaffee.com
 seiteeintragen.com
 sektreisen.at
+selasie.de
 seldte.com
 selected-health.de
 selected-software.de
@@ -10962,6 +10982,7 @@ stylesock.com
 stylessunny.com
 styletaken.com
 styleusummer.com
+stylevana.com
 stylewea.life
 stylishlittle.com
 suasdom.xyz
@@ -11284,6 +11305,7 @@ testmattrd.top
 testorino.de
 testversand.com
 testzuhause.at
+tetherc.com
 teva-osterreich.at
 tevaberlin.de
 tevasandalen.at
@@ -11555,6 +11577,7 @@ tonundart.de
 tonweise.at
 toobuyss.com
 tooeut.com
+tool-salestore.com
 tooldeals24.de
 toolep.com
 toolshype.com
@@ -11639,6 +11662,7 @@ tozido.de
 tpolexsink.com
 tpowein.at
 tproditt.com
+tpxsia.com
 tr-assekuranz.de
 tracdataf.com
 tracht-aporter.com
@@ -11673,6 +11697,7 @@ transporte-spedition.com
 transporter-footwear.com
 transportes-arditrans-sl.com
 tranulashop.com
+trapstarlondon.com
 trashcult.de
 trattnachteufel.at
 traum-deko.de
@@ -12112,6 +12137,7 @@ versandhaus-wohlers.de
 versandpharma.de
 versandrezeptfrei.de
 versara.top
+versilbertesbesteckshop.com
 versilia-electromarkt.com
 verstorefront.com
 vertexoptiontrading.com
@@ -12497,6 +12523,7 @@ werkzeug-maier.de
 werkzeug-online-kaufen.com
 werkzeug-store24gmbh.com
 werkzeug-zuhr.de
+werkzeugedirekt.mobi
 werkzeugfahrrad.com
 werkzeughaus-lenz.net
 werkzeugshop-weintraub.net
