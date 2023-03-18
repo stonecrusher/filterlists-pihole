@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2023-03-11
+# Last updated:  2023-03-18
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -166,6 +166,7 @@ aclcourier.com
 aclickysoft.com
 acnetzteil.com
 acontador.top
+acprdcu.com
 acsacesible.com
 acsde.de
 actiondogsupplies.com
@@ -711,6 +712,7 @@ arcteryxcanada.com
 arcteryxdeutschland.com
 arcteryxoutlet.at
 arcteryxoutlets.com
+arcteryxzurich.com
 arcticsoul.de
 arcubev.com
 arda-car.com
@@ -944,6 +946,7 @@ ayparwebt.com
 ayurreadpro.com
 ayxorthodox.com
 ayybass.com
+az-markt.com
 azarmalekc.com
 aziur.de
 aztitanium.com
@@ -1130,6 +1133,7 @@ bcseagles.net
 bct-reifen.de
 bctiveof.com
 bdo-estate.com
+bdo-immo.com
 bdshop.com
 be-shop24.com
 beachsissi.com
@@ -1242,6 +1246,7 @@ berlin-producthaus.de
 berlinbeardeal.de
 berlinbluebox.de
 berliner-laden.de
+berlinermode.com
 berlinfarador.com
 berlinfast.com
 berlinfog.com
@@ -2406,6 +2411,7 @@ cim-media.de
 cinemadome.net
 cinemaflix.de
 cinemaxx24.com
+cinepaf.com
 cineplex24.de
 cinrentis.shop
 cioarte.at
@@ -2684,6 +2690,7 @@ cosyegalaxy.net
 cotonetlin.de
 cotopdeals.store
 cotosen.com
+cottobot.com
 cottontalkf.com
 cottonwears.com
 counterstrike.care
@@ -2935,6 +2942,7 @@ dataery.xyz
 dataette.top
 datafic.xyz
 dataviews.top
+datinted.com
 daughtersofindia.net
 daumueller-friseur.de
 dauntlessne.com
@@ -3145,6 +3153,7 @@ detoxic.net
 deufiles.com
 deuhr.de
 deutchkredit.com
+deutchkredite.com
 deutchmarkt.de
 deutere.com
 deutschbikes.com
@@ -3314,6 +3323,7 @@ dkirmizu.com
 dkrabat.com
 dladypaint.com
 dlanshop.com
+dliene.com
 dlv-elektronik.de
 dmastermmo.com
 dmcdk.com
@@ -3357,12 +3367,14 @@ dogwoodi.com
 dohahotel24.com
 doimo.at
 dokevins.com
+doktor-gossner.de
 doktor-potenzmittel.ch
 doktor-potenzmittel.com
 doktor-rezeptfrei.at
 doktorp.de
 doktorpotenzmittel.ch
 dolaxe.com
+dolceamara.com
 doloplay.de
 dom-feldkirch.at
 domainnamebbs.com
@@ -3719,6 +3731,7 @@ ekingpunt.com
 ekiz-volders.at
 eklcma.com
 eko-immo.com
+ekommmedia.com
 ekoplonu.com
 ekserena.com
 ekubisch.com
@@ -3904,6 +3917,7 @@ emymgtf.com
 en-com.at
 en-stock.net
 enakbacan.com
+enantboutique.com
 enapr.de
 encantadori.com
 encephalo.top
@@ -4032,6 +4046,7 @@ estate-view.com
 estatesarehome.com
 estimatem.com
 estimateof.net
+estoken.tech
 estraorchard.com
 estrategen.de
 esyqefp.top
@@ -4286,6 +4301,7 @@ faooefs.top
 farador.de
 faradorgermany.com
 farazero.com
+farben-store.com
 farbigregen.de
 fareryfairy.com
 faridabdtnp.com
@@ -4963,6 +4979,7 @@ gamer-zone.store
 gamerzone24.de
 gamesalor.de
 gameshausedeat.com
+gamesmojo.de
 gamesplazza.at
 gamesstudionuernberg.com
 gamestop-deutscheland.com
@@ -5040,6 +5057,7 @@ gartenbau-schuetz.de
 gartencenter-guthaus.de
 gartencenter-horstmann.de
 gartencenter-pursch.de
+gartendekoprada.de
 gartenfreunde-murrhardt.de
 gartengenosse.de
 gartengreeen.com
@@ -5658,6 +5676,7 @@ handwerkundmehr.at
 handwerkversand.shop
 handy-hotels.at
 handy24.biz
+handyhalters.de
 handyhullekaufen.de
 handytanke.at
 haney-university-store.myshopify.com
@@ -5703,6 +5722,7 @@ harshoping.com
 harvestga.net
 has-estate.com
 hasahasak.com
+hasanutar.com
 haschmidt.com
 hasegawamodel.com
 haspobau.de
@@ -5910,6 +5930,7 @@ hetshoppe.xyz
 heuser-garderobe.de
 hexagonum-es.com
 heybuye.com
+heydudeschuhe.com
 heyewall.de
 heyseeodyssey.com
 hfashionshop.com
@@ -5944,6 +5965,7 @@ himalayankraft.in
 himaya.at
 himmelok.com
 hincksy.com
+hinterman.de
 hippie.gifts
 hirdiscount.com
 hiremyparents.com
@@ -6545,6 +6567,7 @@ invisishieldlab.com
 invitation-rent-longterm.com
 invitationy.com
 invocation.at
+invogue.at
 inwhiteball.com
 inwibeast.com
 ioffer.com
@@ -6569,6 +6592,7 @@ irascee.xyz
 irdlove.info
 irdmailp.com
 irdom.top
+irene-karin.com
 irenekleider.de
 irenyachtse.com
 irgendenner.de
@@ -6794,6 +6818,7 @@ jp-cases.com
 jpled.at
 jppkshop.top
 jpurbalaud.com
+jreicherz.de
 jreiseng.com
 jrespirer.com
 jshaustechnik.com
@@ -7227,6 +7252,7 @@ kneipphaeusl.at
 knife-coldsteel.com
 knight-realestate.com
 knightsgoneby.co.uk
+knittedsweatershop.com
 knitwearwell.com
 knivesartisan.com
 knneras.com
@@ -7262,6 +7288,7 @@ kompetenzgewinn.at
 kompetenzgruppe.at
 kompresory.at
 konig-express.com
+konigsmarkt-2.myshopify.com
 konplay.de
 konrad-mode.com
 konrad-versand.de
@@ -7292,6 +7319,7 @@ kosmetik-dolejs.de
 kosmetik-kreis.de
 kosmetik-merzig.de
 kosmische-astrologie.de
+kostuemp.de
 koungrety.com
 kourhealth.com
 kowarzuh.de
@@ -8386,6 +8414,7 @@ meinbrennholz.com
 meindiscount.store
 meindlsales.com
 meine-goldscheideanstalt.de
+meine-heizstation.com
 meine-neue-brille.de
 meine-strandfigur.com
 meinearbeitsschuhe.com
@@ -8566,6 +8595,7 @@ milodasy.com
 milonire.com
 milopup.de
 milopuzzle.shop
+miloujewelrys.com
 milzy.de
 mimiplay.de
 mimoplay.de
@@ -8602,6 +8632,7 @@ minnetonkaschuhe.com
 mintchop.com
 minusis.com
 minz-club.de
+miofactoryoutlets.shop
 miolus.com
 miomore.shop
 mioutletp.com
@@ -8759,6 +8790,7 @@ momoflix.de
 momoftrenton.com
 momoplay.de
 momostream.de
+moms-artikel.com
 monacoschuhe.com
 monad.be
 monaplay.de
@@ -8788,6 +8820,7 @@ montanahudson.com
 montaneoutdoor.com
 montblancpenseshop.co
 montecjacke.de
+montecskianzug.com
 montecwear.at
 montedino.at
 montflames.com
@@ -8877,6 +8910,7 @@ mpscamph.com
 mpxyju.com
 mqqso.de
 mrair.xyz
+mrceets.com
 mrecotray.com
 mrefute.com
 mrerath.de
@@ -9269,6 +9303,7 @@ nineshophub.com
 ninewestosterreich.com
 ninewestschuhdeutschland.com
 ninewestwomen.com
+ninjachemise.com
 ninjaflix.de
 ninjagamers.de
 ninoplay.de
@@ -9901,6 +9936,7 @@ pannaholidays.com
 pannale.com
 pannaxa.com
 panteha-market.de
+pantoffelnonline.com
 pantoletti.myshopify.com
 pantsin.com
 panzer-industriebedarf.de
@@ -10008,6 +10044,7 @@ peditionch.com
 pedoar.top
 pedoo.top
 peekachill.com
+peekjeans.de
 pefteas.today
 pegnitzratzen.de
 peiaoa.com
@@ -10497,6 +10534,7 @@ premierneu.shop
 premium-garderobe.com
 premium-mode.de
 premium-unipay-card.de
+premiumer.co
 premiumfinancesolutionsltd.com
 premiumflats.es
 premiumreseller.at
@@ -11023,6 +11061,7 @@ reisebuero-seidel.com
 reisebuero24.co
 reiseklarheit.de
 reisen-engler.de
+reisetaschensale.com
 reiseweltat6.wixsite.com
 reisezumich.at
 reiterhof-geidner.de
@@ -11164,6 +11203,7 @@ ridgwa.com
 ridlog.com
 riedcioph.com
 riedlingen-fewo.de
+riehm-baustoffe.com
 riehm-baustoffe.de
 riekeroutlet.de
 riekershoes.me.uk
@@ -11895,6 +11935,7 @@ shoesmegastore.com
 shoesmeshe.com
 shoesockshop.com
 shoespie.com
+shoesprada.de
 shoessee.com
 shoestopsell.store
 shoesvalley.cn
@@ -11957,6 +11998,7 @@ shopkeeperi.com
 shopkpy.com
 shopkrone.de
 shopladyfashion.com
+shopmax2000.com
 shopmockr.com
 shopmood.de
 shopmusicalinstruments.com
@@ -11977,6 +12019,7 @@ shopsmountain.com
 shopsoutlet2021.ru
 shopsportpuma.com
 shoptamaris.com
+shoptee.de
 shoptennisracquets.com
 shoptoklove.site
 shoptoout.com
@@ -12047,6 +12090,7 @@ simplekhoj.com
 simplexe.co
 simplicityt.com
 simplytshirt.shop
+simplyventura.de
 simulatek.com
 simulior.top
 simulward.top
@@ -13435,6 +13479,7 @@ topholz-oase.com
 topial.top
 topleadermarkt.com
 toplinkcouriers.com
+topmarkendeutschland.com
 topmarket24hr.com
 topmodareps.es
 topnotinengaging.top
@@ -14518,6 +14563,7 @@ westchili.myshopify.com
 westerncowboyboot.com
 westernhats.net
 westfalenmeeris.de
+westickers.com
 westpointcourier.online
 westshares.com
 wetopl.com
