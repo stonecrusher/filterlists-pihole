@@ -5,9 +5,10 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2022-03-16
+# Last updated:  2023-04-12
 
 3ho.ch
+5d-flash.com
 abermann.net
 adviqo.com
 aefh.at
@@ -21,7 +22,9 @@ akupunktur-simeon.ch
 aleph-tarot.de
 alexiszorbas.com
 allgeier-verlag.de
+alpha-energy.at
 alternativ-gesund-leben.de
+ambition.life
 amram-events.com
 amselbentag.de
 ancient-mysteries.de
@@ -29,9 +32,12 @@ andreas-roth.de
 anthroposophie.blog
 anthrowiki.at
 anti-esmog.de
+apis-z.at
 app-fortunica.com
 aprikosen.info
 aquariana.de
+aquion.de
+ascension-support-tools.com
 astro.de
 astrolantis.de
 astrologenverband.de
@@ -41,6 +47,7 @@ astrorabe.de
 astroschmid.ch
 astrotv.de
 astrowoche.wunderweib.de
+atlantis-freising.de
 aufgeweckt.org
 aufwindinstitut.com
 augsburger-homoeopathie-events.de
@@ -48,28 +55,36 @@ aura-magazin.com
 aura-therapie.com
 aurachirurgie-saar.de
 aurachirurgie.li
+bach-blueten-portal.de
 bachbluetenpraxis.at
 baselife.de
 bav-versand.ch
 bernd-joschko.de
+bewusst-vegan-froh.de
 bewusst.tv
 bewusster-leben.de
 bewusstsein-heute.de
+bio-bahnhof.de
 bio-synergetics.de
 biocybernetics.de
+bioenergetik-zentrum.de
 biofeedback-jung.de
 biokrebs.de
 biomenta.de
 bioscan.at
+blaubeerwald.de
 blickart-online.de
 blissvideo.de
 bodybalancing.at
+bodysense.de
 borderlands.de
 borowski-hass.de
+bpes.de
 bpv.ch
 braco.me
 brillicon.de
 bunkahle.com
+businessflowacademy.com
 calleman.com
 centre-therapeutique-savigny.ch
 cgrossalber.jimdo.com
@@ -80,10 +95,12 @@ claudiaschaefler.de
 clemenskuby.com
 cog.org
 collectivehealing.com
+combas.info
 connectionshi.ch
 corneliamarent.com
 cosmic-tower.info
 cropfm.at
+crystal-healing-of-atlantis.com
 dagia.org
 dahlke.at
 daniken.com
@@ -101,14 +118,18 @@ die-kunst-zu-leben.de
 die-quelle.ch
 die-welt-ist-im-wandel.de
 diebandbreite.de
+diestoffwechselprofis.de
 dieterbroers.info
 digistore24.com
+digiwell.com
 doktor-quak.de
 dr-gubo.at
 dr-leisser.at
 dr-zauner-homoeopathie.net
 dreamoflight.de
+drinkoxigen.com
 drmed-riautschnig.at
+drmichaelkoenig.de
 drpani.at
 drrykegeerdhamer.com
 drsedlacek.at
@@ -162,6 +183,8 @@ fengshui-bewusstsein.de
 fernheiler-burkhard.ch
 feuerfunke.de
 findyournose.com
+flatearthfc.com
+flatearthsingles.com
 fluoridluege.info
 form-homoeopathie.de
 frauke-struck-haas.de
@@ -184,6 +207,7 @@ geovital.com
 geovital.org
 geovital.shop
 gerd-bodhi-ziegler.com
+gerhard-zirkel.com
 gerlindemichaelsen.de
 germanische-heilkunde.at
 gesund-frei.de
@@ -193,6 +217,7 @@ gesundes-wasser.net
 gesundheit-und-impffreiheit.de
 gesundheitspraxis-activa.ch
 gesundheitswissen-shop.de
+getvoltbox.com
 gewahrsein.net
 gigerverlag.ch
 globuli.de
@@ -201,11 +226,14 @@ go-in-spiration.npage.de
 goldmann-lichtblicke.de
 gotarot.de
 grander.com
+grander.shop
 grandervertrieb.at
+grandervertrieb.de
 grenzenlos.net
 grigori-grabovoi-education.info
 groma.ch
 gromaverlag.ch
+grueneperlen.com
 gsundsi-akademie.at
 gudjons.com
 hanamau.de
@@ -216,6 +244,7 @@ haraldauer.com
 harmonischer.de
 healing-codes.com
 healnow.org
+heavenseven.ch
 heilarbeiten.de
 heilenheute.com
 heiler-michael.com
@@ -226,6 +255,7 @@ heilpraktiker-stapper.de
 heilpraktikerin-x-clemens.de
 heilpraxis-kim-schiller.de
 hellseher-orakel.de
+herz-und-geist.de
 herzhueter.de
 hevert.com
 hexe-claire.de
@@ -234,6 +264,7 @@ hildegard-ehgartner.at
 himmel-erde.at
 hirneise.de
 hofmannundsommer.de
+holistische-gesundheitswege.de
 hom-gmunden.com
 homeocur.com
 homeoint.org
@@ -261,9 +292,12 @@ horizonworld.de
 horoskop-paradies.ch
 horst-koch.de
 horusarcanum.cms4people.de
+horuspyramiden.de
 hp-geiser.de
 hsv.ch
+humandesignmariasturz.at
 humannews.de
+humanum.eco
 hvs.ch
 hypnoseausbildung-seminar.de
 icf-movement.org
@@ -275,10 +309,12 @@ impf-info.de
 impf-report.de
 impfen-nein-danke.de
 impfentscheid.ch
+impffrei.work
 impfkritik.de
 impfo.ch
 impulse-verlag.de
 in-es.info
+inakarb.de
 indigoheart.de
 individuelle-impfentscheidung.de
 info-heilpraktiker.de
@@ -294,6 +330,7 @@ irmgard-schenker.de
 isabellarosboud.at
 j-k-fischer-verlag.de
 jacquelinestallone.com
+jaii.de
 jehovaszeugen.de
 jennyotte.de
 jetzt-tv.net
@@ -311,10 +348,12 @@ kikomon.ch
 kineba.ch
 kinesiologie-nicolethiele.de
 kopp-verlag.de
+kork-mengler.de
 kosmica.de
 kranbergerliebe.de
 kvc-verlag.de
 l-tv.de
+la-digue.de
 lage-roy.de
 lapiazzetta-hess.ch
 laschkolnig.com
@@ -330,6 +369,7 @@ libertas-sanitas.de
 lichtfokus.com
 lichtkreis.at
 liebestarot.at
+life-bio.de
 linda-giese.de
 lotus-vita.de
 luebeck-lebensfreude.de
@@ -344,14 +384,17 @@ margret-marincolo.com
 marodruck.de
 maroverlag.de
 matheika.de
+matrixseminar.de
 maute.de
 maya-agenda.ch
 mayakalender.net
+medicross-labs.com
 meditationandmore.de
 mein-heilpraktiker-chemnitz.de
 meinekraft.ch
 meinerfolgsshop.de
 mental-life-coaching.ch
+merus.de
 messehofheim.de
 miasmenlehre.de
 mirabilis.biz
@@ -375,6 +418,7 @@ naturheilpraxis-wallmeier.de
 naturstall-shop.de
 naturundmedizin.de
 neoterisches-bewusstsein.com
+neowake.de
 neuedimension.info
 neues-wissen.org
 neutralisierer.jimdofree.com
@@ -387,11 +431,15 @@ omida.ch
 omidashop.ch
 ordination-frass.at
 orgonpraxis.de
+ormuspro.ch
+orpanit.de
 osho.com
+osiris-isis.de
 ots.at
 pachamamafestival.ch
 parallel-gesellschaft.net
 paua-zentrum.de
+pen-yang-harmonie.de
 petrak.art
 pflueger.de
 pharmakobotanik.de
@@ -414,8 +462,10 @@ provings.info
 psychic-crystal-ball.com
 psychologiebringtdichweiter.de
 psygrenz.de
+puglnig.at
 pukka.ch
 quanten-gesundheit.com
+quantenfrequenzmedizin.com
 quantenwelle.blog.de
 quellwasserkampagne.de
 querdenken-711.de
@@ -437,6 +487,7 @@ remoteviewing.school
 rene-graeber-buecher.de
 renegraeber.de
 revodude.blogspot.com
+ried-keita.at
 robert-betz.com
 robert-salopek.de
 rolf-kron.de
@@ -444,6 +495,7 @@ rostock-essenzen.com
 rutengaenger-deutschland.de
 rutengaenger-deutschlandweit.de
 rutengaenger-wasserader.de
+rutengaengerverband.de
 sabine-skala.de
 salutogenese-bei-krebs.de
 samarpan.de
@@ -452,6 +504,7 @@ saphiraartdesign.de
 saschaplanert.de
 schicksal.com
 schmidt-nagel.ch
+schuessler-salze-liste.de
 schwabe.at
 schweibenalp.ch
 schweiz5.ch
@@ -471,6 +524,7 @@ sensei.de
 serafino.at
 shi.ch
 shop-impfen-nein-danke.de
+silvertontech.com
 similasan.ch
 similibus.ch
 simillimum.net
@@ -487,6 +541,7 @@ spiritualitaet-online.de
 spirituellerverlag.de
 spontan.de
 spuren.ch
+st-leonhards-quellen.de
 stadtgrabenpraxis.ch
 stakers.com
 steimon.ch
@@ -512,6 +567,7 @@ tiercouch.at
 tierheilpraktikerverband.ch
 tierheilpraxis-freiburg.de
 tikalpark.de
+tiko4u.de
 tippmeister.eu
 tolzin-verlag.com
 totem-tarot.de
@@ -549,9 +605,11 @@ vitamindtop.de
 vitaminum.net
 vitamunda.de
 vithoulkas.com
+vitori.de
 vivendo-blog.com
 viversum.de
 volksinitiative-demokratie.de
+vollmondfrites.ch
 waedi-gesund.ch
 wahrheiten.org
 wahrheitskugel.de
@@ -559,6 +617,7 @@ walterglueck.at
 walterluebeck.com
 wandel-erleben.de
 wasserbild.at
+wassersymposium.at
 we-love-nature.de
 weibel.blog.de
 wellness-lichtpunkt.com
@@ -585,6 +644,9 @@ yogastudio.ch
 yonamo.com
 ypsilon-shop.de
 zeitpunkt.ch
+zell-aktiv.de
+zentralsonne.at
+zentrum-alternativmedizin.at
 zentrum-der-gesundheit.de
 zukunftsblick.ch
 zur-inneren-quelle.de
