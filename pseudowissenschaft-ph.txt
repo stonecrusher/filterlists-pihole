@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2023-04-12
+# Last updated:  2023-04-13
 
 3ho.ch
 5d-flash.com
@@ -358,6 +358,7 @@ lage-roy.de
 lapiazzetta-hess.ch
 laschkolnig.com
 lass-dich-beruehren.com
+lebendiges-trinkwasser.de
 lebens-t-raeume.de
 lebensfreude-heilung-erfolg.de
 lebenskraft.ch
@@ -551,6 +552,7 @@ stoppt-5g.de
 stregato.de
 strunz.com
 svha.ch
+swissmountainclinic.com
 systemische-symboltherapie.de
 tarot-muenchen.com
 tarot-online.com
@@ -623,6 +625,8 @@ weibel.blog.de
 wellness-lichtpunkt.com
 welt-der-mystik.de
 welt-im-wandel.tv
+wickert-gesundheitsforum.de
+wickert-kongress.de
 widerstand2020.ch
 widerstand2020.de
 winkelmann-arzt.de
