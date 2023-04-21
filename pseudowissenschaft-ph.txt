@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2023-04-13
+# Last updated:  2023-04-21
 
 3ho.ch
 5d-flash.com
@@ -215,6 +215,7 @@ gesund-und-gluecklich.at
 gesund.ch
 gesundes-wasser.net
 gesundheit-und-impffreiheit.de
+gesundheitsfeesilke.com
 gesundheitspraxis-activa.ch
 gesundheitswissen-shop.de
 getvoltbox.com
