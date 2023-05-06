@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2023-04-29
+# Last updated:  2023-05-06
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -893,6 +893,7 @@ asia-minimarkt.at
 asianight.at
 asicmerch.com
 asicminerco.com
+asics-deutschland.com
 asicsoutletosterreich.at
 asicstenisky.sk
 asicstorunnings.de
@@ -2113,7 +2114,9 @@ brook-field-assets.com
 brookfield-eu.com
 brookfieldassets.eu
 brooks-austria.com
+brooks-outlet.com
 brooksberlin.de
+brookshoeoutlet.com
 brookslaufschuhe.at
 brookslaufschuhesale.de
 brooksosterreich.at
@@ -3118,6 +3121,8 @@ creativecookhouse.com
 creativity-partnership.de
 creativity-reward.net
 creaturepuppetgallery.com
+credit-premium-payment.com
+credit-union-payment.de
 cremant.at
 cremcofy.com
 crescenthandtool.com
@@ -3572,6 +3577,7 @@ describem.net
 descriptioy.com
 desgroupo.com
 deshopmytrendy.com
+desiani.com
 design-hollenstein.de
 designatew.com
 designbyclaudia.com
@@ -3718,6 +3724,7 @@ dimela.shop
 dimensionaly.com
 dimina-shop.com
 dimosmal.com
+dimprice.de
 dina-vital.de
 dino-cats.com
 dinoflix.de
@@ -4800,6 +4807,7 @@ exquisitejewelryshop.store
 exseedg.com
 extendsport.top
 extensiven.net
+exteom.com
 exthann.com
 extracontroller.co
 extracryptocurrency.com
@@ -4917,6 +4925,7 @@ fancygrab.com
 fancylets.com
 fancynic.com
 fanmalls.de
+fannyborius.com
 fanpages4you.at
 fanshotsale.com
 fansouvenirs.store
@@ -4933,6 +4942,7 @@ farben-store.com
 farbigregen.de
 fareryfairy.com
 faridabdtnp.com
+fariolla.de
 faroflix.de
 farozia.com
 fas-neubauer.de
@@ -5185,6 +5195,7 @@ finkerkette.de
 finninger-helbach.com
 finoplay.de
 finosso.com
+fintechnews.live
 fintegral.fund
 fintegral.world
 fipecampania.it
@@ -5799,6 +5810,7 @@ gartenkaiser.net
 gartenland-martens.de
 gartenland-paradies.de
 gartenpalast.net
+gartenschranke.com
 gartenschulte.de
 gartenshop-deutschland.de
 gartenster.net
@@ -5828,6 +5840,7 @@ gaysingleparty.de
 gbachtgmbh.com
 gbengel-todentta.de
 gboschmed.de
+gbwjstored.com
 gc-reiting.at
 gccbannux.com
 gcgroupv.com
@@ -6078,6 +6091,7 @@ gluckbox.com
 glucksladen.com
 gluckstucke.de
 glueex.com
+gluschwein.de
 glytchf.com
 gm-portal.co
 gma-2015.de
@@ -6414,6 +6428,7 @@ gvp-berlin.de
 gwz-max.de
 gymonefit.com
 gymshark-austria.at
+gymsharkaustriastore.at
 gymsharkostereich.com
 gymsharkosterreich.at
 gymvot.com
@@ -7015,6 +7030,7 @@ hosenwerk.com
 hospiz-im-ahrtal.de
 hostalesquella.com
 hot-shopping.com
+hotacryptovip.com
 hotboygood.site
 hotbrooks.com
 hotcheapswear.store
@@ -7144,6 +7160,7 @@ hunterbootsschweiz.com
 hunterdeutschlands.net
 huntergermany.de
 huntergummistiefel.at
+huntergummistiefelsale.com
 huntergummistiefelsale.de
 hunterosterreich.at
 huntersgermany.com
@@ -9224,6 +9241,7 @@ maflix.de
 magacryptotrading.com
 magaflix.de
 magentashelf.com
+magicdorm.com
 magicmixte.com
 magiczoomco.com
 magik-all.com
@@ -9408,6 +9426,7 @@ martinde.online
 martinitoko.de
 martinsnuggles.de
 martintech.shop
+martizz.store
 martsbuy.site
 marvellies.net
 marvelovus.com
@@ -9505,6 +9524,7 @@ mbtstoredeutschland.com
 mbtvon.com
 mc-bau.at
 mcazzgrg.com
+mccoyn.com
 mcdonalds-com.de
 mceleron.com
 mcfit24.com
@@ -9603,6 +9623,7 @@ meefard.com
 meer-trends.de
 meertickets.de
 meester-werk.com
+meetcurve.de
 meetfigure.com
 mega-digitec.de
 mega-konsolen.de
@@ -9714,6 +9735,7 @@ mendezcufflinks.shop
 mendiol.com
 menfashionpromotion.store
 menfis.de
+menfrog.com
 menily.com
 mening-versand.com
 meniwe.xyz
@@ -9947,6 +9969,7 @@ mixfilms.de
 mixfinancing.com
 mixflix.de
 mixmedia.store
+mixoryshop.com
 mizuno-deutschland.com
 mizuno-osterreich.com
 mizunode.com
@@ -10104,6 +10127,7 @@ montanahudson.com
 montaneoutdoor.com
 montblancpenseshop.co
 montecaustria.com
+montecdeutschland.com
 montecjacke.de
 montecskianzug.com
 montecwear.at
@@ -10210,6 +10234,7 @@ mqqso.de
 mrair.xyz
 mralefgoods.com
 mrceets.com
+mrdecooo.de
 mrecotray.com
 mrefute.com
 mrelektroshop.com
@@ -10524,6 +10549,7 @@ neuesichtweisen.at
 neuespielzeugauto.com
 neuestierschutzgesetz.at
 neuesverbe.co
+neuetraxxas.de
 neueverkauf.store
 neuewelpenzuhause.de
 neuewohnaccessoires.de
@@ -10633,6 +10659,7 @@ niieeat.com
 nikebillig.com
 nikee.club
 nikefreernoutlet.com
+nikeosterreichshop.com
 nikesale-us.vip
 nikeschuhe.ch
 nikfalaht.com
@@ -10969,6 +10996,7 @@ ohnegrenze.com
 ohnesorge-fachhandel.com
 ohospitale.com
 ohpera.at
+ohpollydeutschland.de
 ohr-freund.de
 ohrdorf-online.de
 ohrgan.de
@@ -11027,6 +11055,7 @@ omanhbi.com
 omastica.com
 omecyer.com
 omega-tech.store
+omegadgets.com
 omegaflix.de
 omegafxoptions.com
 omegasrl.de
@@ -11050,6 +11079,7 @@ onceupontim.net
 onclloooudss.shop
 oncloud-turkey.com
 oncloudsonline.com
+oncloudxfactoryoutlets.com
 one-million.at
 oneafteranoth.com
 oneative.top
@@ -11111,10 +11141,13 @@ onrtyy.com
 onruningsale.com
 onrunnergermany.com
 onrunnersitalia.com
+onrunningoutletfactory.com
 onsale-kleidung.com
 onsale-rollschuhe.com
+onschuhefabrikverkaufschweiz.com
 onschuheosterreich.com
 onschuheoutletschweiz.com
+onschuheschweizoutlet.com
 onshoes.xyz
 onshoeser.com
 onshoesstore.shop
@@ -11999,6 +12032,7 @@ potenzmittel-apotheke.eu
 potenzmittel.gratis
 potenzpillenschweiz.com
 potory.top
+potsandpansneu.de
 pottenmoor.de
 pottery-classes.org
 potzblizz.com
@@ -12773,6 +12807,7 @@ rezeptfrei-versand.de
 rezeptfrei.online
 rfaxlead.com
 rftobler.at
+rgenesisgs.com
 rgoconnell.com
 rgssasale.eu
 rguixia.top
@@ -12827,6 +12862,7 @@ riedlingen-fewo.de
 riehm-baustoffe.com
 riehm-baustoffe.de
 riekeroutlet.de
+riekerschuhe.at
 riekershoes.me.uk
 riendamiga.es
 rigginghardwareshop.com
@@ -12996,6 +13032,7 @@ rother-solar.de
 rottclimb.de
 rotulanet.com
 rotyka.com
+roudamo.shop
 roumite.com
 routehygge.co
 routenice.com
@@ -13080,6 +13117,7 @@ ruvello.de
 ruzsacollection.shop
 rwebvines.com
 rww-minis.de
+rx-pills-pharma.com
 rx-store-24x7.biz
 rxapothekefursie.com
 rxmed.top
@@ -14729,6 +14767,7 @@ swiftguardcourier.com
 swifttradinginvestment.com
 swimoret.com
 swimsuitsale.website
+swiss-vests.com
 swissstand.com
 swizzpro.com
 swobshop.de
@@ -15285,6 +15324,7 @@ timesofnaukri.com
 timixsmart.com
 timmanteau.xyz
 timobe.shop
+timsneakers.com
 timyllc.com
 timzin.de
 tinerys.com
@@ -15666,6 +15706,7 @@ truuly.de
 trycheahoney.site
 trychemlove.site
 tryglamory.de
+trykiyao.com
 trylovestore.site
 tryshoplove.site
 ts23.net
@@ -16031,6 +16072,7 @@ varonet.store
 varonovo.de
 varoza.de
 vartis.at
+vasagleangebote.de
 vaschoen.com
 vaskash.com
 vassias.com
@@ -16183,6 +16225,7 @@ vgrdint.com
 viachains.com
 viagrahh.com
 viain.top
+viarecta.net
 vibeheat.com
 vibramosterreich.at
 vibramosterreich.com
@@ -16350,6 +16393,7 @@ volenza.de
 volerio.de
 volex.io
 volina.de
+volini.de
 volker-kirchgeorg.de
 volksfx.net
 volksmedia.at
@@ -16382,6 +16426,7 @@ vookiz.com
 vooldpoeal.com
 vootirof.com
 vop-bau.at
+vorela.de
 voreloshop.com
 voreno.de
 vorindo.de
@@ -16473,6 +16518,7 @@ wandadshop.com
 wander-innovation.com
 wanderboyy.com
 wandererscamp.com
+wandernbiwak.de
 wandlampen-shop.com
 wandlampeprada.de
 wandleuchtende.com
@@ -17234,6 +17280,7 @@ zainabchemicals.com
 zakifab.com
 zalandorio.com
 zaldonia.de
+zalvori.com
 zalzach.com
 zami-gbr.de
 zamoda.co
