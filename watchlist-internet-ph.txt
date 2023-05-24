@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2023-05-20
+# Last updated:  2023-05-24
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -92,6 +92,7 @@
 99rabats.shop
 a-a-jozefowski.com
 a-bach-o.de
+a1apotheke.com
 a2z-cyber.shop
 a31c.org
 aaaclothing.ru
@@ -624,6 +625,7 @@ anabolika365.de
 anabolikabestellen.com
 analysespro.de
 analyticg.com
+anbarmo.com
 anbuifoenbi.com
 ancheer.de
 anclassic.com
@@ -1057,6 +1059,7 @@ autokauf1.de
 autoled.tech
 autolinie.de
 automatiy.com
+automaxx-de.com
 automotivediscount.store
 automotivehandtools.shop
 autoradio-gps-discount.com
@@ -1120,6 +1123,7 @@ axelarigatoschuhe.com
 axelarigatowien.com
 axfritz.shop
 axialgeo.com
+axiogenesis.com
 axis-store.de
 axluxury.com
 axonrcparts.com
@@ -1553,6 +1557,7 @@ bestecksetverkaufsshop.com
 besteholzer.de
 bestelektronicshop.de
 bestellung-rezeptfrei.de
+bestemeds.com
 bestendeals.de
 bestenfamilienwelpen.com
 besteonlineapotheke.com
@@ -2187,6 +2192,7 @@ brooksoutletsale.de
 brooksrunning-schweiz.com
 brooksrunningaustria.com
 brooksrunningosterreich.com
+brooksschuh.com
 brooksschuhe.de
 brookssverige.com.se
 brosden.de
@@ -2534,6 +2540,7 @@ carlogodesign.com
 carlosport.com
 carlov.top
 carlsneaker.com
+carlsplace.org
 carmen-video.at
 carnaion.com
 carniceriavicentegarcia.com
@@ -3614,6 +3621,7 @@ demababy.de
 demadeal.com
 demanovavillage.com
 demarketis.com
+demediz.com
 demonia-deutschland.de
 demoniaaustria.top
 demoniadeutschlandkaufen.de
@@ -4294,6 +4302,7 @@ econtest.it
 ecoooc.com
 ecoversilia.it
 ecovibeion.com
+ed-apotheker.com
 edanstyle.com
 edb-wuppertal.de
 edcosale.com
@@ -4372,6 +4381,7 @@ eigruber.com
 eikz.top
 ein-kaffee.de
 einayah.com
+einfachbaby.de
 einfacher-markt.com
 einfachknorke.de
 einrichtungsmarkt24.com
@@ -4809,6 +4819,7 @@ eugadneu.de
 euheadsport.de
 eulengewisper.de
 eumartinitoko.de
+eumeds24.com
 eumindthegap.de
 eupeta.store
 euphorial.de
@@ -5016,6 +5027,7 @@ fahrradzentrum.com
 fahrschule-seefeldt.de
 fahrschule-uwekunz.de
 fahrschule-wiesenburg.de
+fahrzeugprada.de
 faikljp.com
 failux.com
 fairfaction.com
@@ -5082,6 +5094,7 @@ faridabdtnp.com
 fariolla.de
 farmacia-el-punto.es
 farmacia-italia-24.it
+farmaciaonline24x7.com
 farmacienow.net
 farmacija-hr.com
 farmacija-hrvatska.com
@@ -6104,7 +6117,6 @@ gesundheit-md.de
 gesundheit-und-fitness-mittelrheinkreis.de
 gesundheitapotheke.de
 gesundheitsaarland.de
-gesundheitsapo.com
 get-huusk.com
 get-xdronehd.com
 getashop.xyz
@@ -7704,6 +7716,7 @@ invest-urban-concept.com
 investcryptotap.com
 investfw.com
 investing-digital.com
+investingfunds.store
 investingnow.info
 investirex.com
 invisishieldlab.com
@@ -8264,6 +8277,7 @@ kedat.at
 keds-deutschland.com
 keds-schuhe.com
 kedsdeutschlandshop.com
+kedsschuhe.de
 kedsschuhe.top
 kedsschuhes.com
 keendeutsch.com
@@ -10016,6 +10030,7 @@ merrellaustriaat.com
 merrellclearance.store
 merrellosterreich.at
 merrelloutletonline.de
+merrellschuhe.de
 merrellschuheosterreich.at
 merrellshoes.store
 merrelosterreich.com
@@ -10711,6 +10726,7 @@ nataliecraft.shop
 natas-berlin.de
 natinpop.com
 natsgl.com
+nattelle.com
 natura-zuda.de
 naturalhavalandirma.com
 naturallyh.com
@@ -10726,6 +10742,7 @@ navaro-shop.de
 navarro24.org
 navegalen.com
 navigationshop.eu
+naweos.de
 nayplay.de
 nazaone.com
 nazeshops.com
@@ -11041,6 +11058,7 @@ nordperlen-verchen.de
 nordstromif.com
 nordvian.com
 norfolkhotels24.com
+norge-apt.com
 norge-ed.com
 norgeapotek24.com
 noridloremall.com
@@ -11126,6 +11144,7 @@ nsx-scooter.de
 ntccmw.top
 ntdltdgoods.xyz
 ntkyznshop.com
+ntlye.com
 ntonio.de
 ntoolstore.com
 ntqymconline.com
@@ -11616,6 +11635,7 @@ outletonlineshops2021.ru
 outletrecovery.com
 outletrevel.com
 outlets2022.ru
+outletsadv.com
 outletsale2022.ru
 outletsbestsell.site
 outletsbuy.site
@@ -11956,6 +11976,7 @@ pharma-esp.com
 pharma-versandhandel.de
 pharma4health.com
 pharmacet.eu
+pharmacie-en-ligne24.com
 pharmacy-big.com
 pharmacy-shop-norx.top
 pharmacyonline24.com
@@ -12706,6 +12727,7 @@ quinlet.xyz
 quolak.de
 quotatiuilt.net
 quozia.shop
+qurduadab.shop
 qv-salzburg.at
 qvcnewgroup.com
 qvctvonline-mall.com
@@ -13229,6 +13251,7 @@ rigginghardwareshop.com
 rightie.xyz
 rigthoffer24.com
 riker-immo.com
+rileyynch.top
 rimowade.shop
 rinado.de
 ringflix.de
@@ -13304,6 +13327,7 @@ rodingo.de
 rodmakeup.life
 rodnino.com
 rodoplay.de
+roelens-d.com
 roemer-schafhausen.de
 roemerweg-seefeld.com
 rogelionarito.com
@@ -13600,6 +13624,7 @@ salomon-canada.top
 salomon-deutschland.com
 salomon-osterreich.at
 salomon-schuhe.com
+salomon-schuhes.com
 salomonam.online
 salomonaschweiz.com
 salomonden.online
@@ -13609,6 +13634,7 @@ salomonosterreich.at
 salomonosterreichoutlet.com
 salomonoutlet-schweiz.com
 salomonoutletdeutschland.com
+salomonoutletgermany.de
 salomonoutlets.at
 salomonschuh.at
 salomonschuheoutlet.at
@@ -13618,6 +13644,8 @@ salomonschuhesale.de
 salomonshoessaleuk.com
 salomonshopcz.cz
 salomonslovensko.sk
+salomonstorecanada.com
+salomonwerksverkauf.de
 salomoosterreich.com
 salonhair.shop
 salonnirosha.com
@@ -13631,6 +13659,7 @@ salsalstore.top
 saltar.top
 saltearysaborear.com
 saltinqk.com
+salud-europa.com
 salvago-estate.com
 salzana.de
 salzar.store
@@ -13831,6 +13860,7 @@ schroedern.com
 schstobuys.com
 schuhe-onsaleshop.com
 schuhebullboxer.de
+schuheclarks.de
 schuhedesale.de
 schuhekaufenwien.com
 schuhepaulgreen.de
@@ -14329,12 +14359,14 @@ skateclimb.com
 skateheadclothing.com
 skatess.cc
 skatingf.com
+skechediscounts.de
 skechers-ch.com
 skechers-deutschland.de
 skechers-osterreich.com
 skechersdamen.at
 skechersgermany.com
 skechersosterreich.at
+skechersoutletdeutschland.de
 skechersschuhe.at
 skechersshop.at
 skecherstoresbest.de
@@ -15805,6 +15837,7 @@ tmallprints.com
 tmgbusstore.com
 tmissyildiz.com
 tmk-transport.com
+tmlinson.pw
 tnewsrefresh.com
 tnistermall.shop
 tnr-home.com
@@ -16311,6 +16344,7 @@ umzug-borowski.de
 umzug-moedling.at
 umzugmagyer.at
 un-austria-gruppe.com
+un-austriafinanz-gruppe.com
 unartdeco.com
 unassumins.net
 unbewusst.at
@@ -16576,6 +16610,7 @@ vejaaustria.co
 vejaaustria.top
 vejadeutschland.com
 vejaosterreich.at
+vejaosterreich.com
 vejaoutfit.site
 vejaschuhe.at
 vejaschuheosterreich.com
@@ -16616,6 +16651,7 @@ veonaskincare.com
 vequnag.com
 vera-mode.com
 veralo.de
+veralosa.com
 veranio.de
 veranoclothing.de
 verbition.top
@@ -16691,6 +16727,7 @@ vgr8.com
 vgrdint.com
 viachains.com
 viagra-pille-kaufen.de
+viagrafarmakeio.gr
 viagrahh.com
 viain.top
 viarecta.net
@@ -17161,6 +17198,7 @@ welpenplatz.com
 welstv.at
 welt-fashion.de
 welt-marktonline.com
+welta.pro
 weltbasar.com
 weltex.co
 weltweit-akkus.de
@@ -17418,7 +17456,6 @@ woopy-bikes.de
 woplay.de
 word-ing.de
 wordmasterj.com
-wordpress.com
 workforhealing.de
 workingupgrade.com
 workkin.xyz
@@ -17548,6 +17585,7 @@ xn--polenbller-deutschland-zhc.com
 xn--polenbller-jcb.net
 xn--primrheizung-jcb.com
 xn--radtrikotgnstig-8vb.com
+xn--salomonsterreich-swb.at
 xn--sanitr-fritz-kcb.de
 xn--sanitr-installateur-kwb.at
 xn--sanitr-notdienst--24-fzb.at
@@ -17867,6 +17905,7 @@ zifuliangm.com
 zigaretten-kaufen.org
 zigaretten-steuerfrei-bestellen.com
 zigarettenkaufen.com
+zigber.com
 zigmabit.com
 zillestrasse107.de
 zilmet.at
