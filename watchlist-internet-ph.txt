@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2023-05-27
+# Last updated:  2023-06-04
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -15231,6 +15231,7 @@ storkxstore.com
 stornierenbei.de
 storyoon.top
 storytion.com
+stowerdubaik.shop
 stoxdc.com
 strahlentier.de
 strahlfeind.de
