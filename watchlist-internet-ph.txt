@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2023-12-23
+# Last updated:  2023-12-30
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -19564,6 +19564,7 @@ rlhfirmh.com
 rlmmfgonline.com
 rlradious.com
 rmarianes.com
+rmitaly.us
 rmotoboris.com
 rmsys.at
 rmurns.com
