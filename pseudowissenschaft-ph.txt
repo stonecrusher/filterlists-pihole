@@ -5,7 +5,7 @@
 # Homepage:      https://github.com/stonecrusher/pihole-filterlists/
 # License:       MIT
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/pseudowissenschaft-ph.txt
-# Last updated:  2023-04-21
+# Last updated:  2024-03-24
 
 3ho.ch
 5d-flash.com
@@ -490,6 +490,7 @@ rene-graeber-buecher.de
 renegraeber.de
 revodude.blogspot.com
 ried-keita.at
+riwei-tv.de
 robert-betz.com
 robert-salopek.de
 rolf-kron.de
@@ -639,6 +640,8 @@ wohlfuehl-tage.ch
 wolf-homoeopathie.de
 womenweb.de
 wunderlinge.de
+wuwei-schweiz.com
+wuwei-shop.de
 xn--gesundheit-lebensqualitt-dcc.de
 xn--homopathie-shop-btb.net
 xn--rzte-fr-aufklrung-pqbn68b.de
