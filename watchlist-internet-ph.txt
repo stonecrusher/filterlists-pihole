@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2024-09-01
+# Last updated:  2024-09-07
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -388,6 +388,7 @@ afcjoys.top
 afendsrabatt.de
 afewstore.shop
 affen-kaufen.com
+affen-park.de
 affirmfind.com
 affusopaola.com
 afk-guild.at
@@ -526,6 +527,7 @@ alainboucault.com
 alanko.top
 alanmarshelt.com
 alanwaynemyers.com
+alanwilson.shop
 alanwoolf.com
 alarmrabatt.de
 albablancoveiga.com
@@ -2017,6 +2019,7 @@ bazardw.com
 bazella.de
 bazorlo.com
 bb-consult.net
+bb-garten.de
 bb-marktforschung.com
 bba-shopify.com
 bbcolors.it
@@ -2055,6 +2058,7 @@ beadios.com
 beambead.com
 beamingtrade.com
 beamsvogue.com
+beanhappy.buzz
 beanwhelk.com
 beanzio.store
 bear-offers.com
@@ -2870,6 +2874,7 @@ blusentops-shop.com
 bluser-shop.com
 blushhomewares.com
 blushysilk.com
+blyxultra.com
 bm-in.com
 bmatbat.com
 bmbgreen.com
@@ -3347,6 +3352,7 @@ bustier-sales.com
 butgas.com
 butlep.com
 butlersde.com
+butlersneu.com
 butlersonlineshop.com
 butlersrabatt.com
 butterflycateringservice.com
@@ -4364,6 +4370,7 @@ coachbodyp.com
 coaching-knur.de
 coachosterreich.com
 coachoutlet-store.us.org
+coachoutlet.at
 coarsefishingsale.com
 coarsesale.com
 coatpark.com
@@ -5421,6 +5428,7 @@ derkioskde.shop
 derkuchetiroler.com
 dermabuzz.com
 dernaturlotus.com
+dernumismatiker.de
 derpokal.at
 derschlusselanhanger.de
 dersect.com
@@ -6517,6 +6525,7 @@ elementaryt.com
 eleonornymoen.com
 elevateclimbing.com
 eleventhi.com
+elevista.de
 elfashionsale.com
 elfbarsvape.com
 eliaosd.com
@@ -6754,6 +6763,7 @@ eolia-stores.shop
 eoptvogue.com
 eopure.de
 eosvisionoptics.com
+eparadies.com
 epbitcoin.com
 epcc.co
 epentheuu.com
@@ -7155,6 +7165,7 @@ fabionapoli.com
 fabior.top
 fabiotrapani.com
 fabledia.com
+fableticsberlin.de
 fabricatem.com
 fabricmaxwell.com
 fabrikverkaufmerrellch.com
@@ -7176,6 +7187,7 @@ factearn.com
 factorcoolfinders.com
 factory-glasses.com
 factory2021.ru
+factory2024salescheap.com
 factorybicycles.shop
 factorysale2022.ru
 factorystore24.com
@@ -8365,6 +8377,7 @@ fussballtrikot.myshopify.com
 fussballtrikots-shop.com
 fussballtrikotsale.com
 fusseneggershop.com
+fussheld.com
 fussmattenwelt.shop
 fusspflege-klesen.de
 fustripother.com
@@ -8536,6 +8549,7 @@ gaestehaus-lasser.at
 gaffelshop.shop
 gahepz.com
 gahtoypro.com
+gailgoehring.shop
 gainpipstrade.com
 gaiyuotrewinsakcoom.com
 gala-gruppe.com
@@ -8629,6 +8643,7 @@ garmentcategory.com
 garmentprous.com
 garmentshoes.com
 garmin-shop.net
+garminshop.at
 garnishdiscount.com
 garonsbeachome.com
 garshopbuy.site
@@ -8763,6 +8778,7 @@ geniusfxmaket.com
 gennarodeluca.com
 gennyfashion.com
 genova-shop.de
+genpacth.com
 genpactw.com
 genshinimpact-store.com
 genteflowz.com
@@ -9285,6 +9301,7 @@ graveilux.de
 gravelbikede.com
 gravelbikeneu.com
 gravelbikesofficial.com
+grayscale-eu.com
 greasybox.com
 greatagainstore.com
 greatency.top
@@ -9782,6 +9799,7 @@ hawalili.de
 haweyltd.com
 hawkevo.com
 hawkswam.com
+haworthgutars.shop
 haxenclub-glanegg.at
 haxoo.de
 haynestool.shop
@@ -10625,6 +10643,7 @@ hundemuseum.at
 hundessen.com
 hundetrainingkragen.com
 hundezentrum-emsland.de
+hundmonline.at
 hundredis.com
 hunius.top
 hunomahome.shop
@@ -11154,6 +11173,7 @@ iqfleet.de
 iqmarket.trade
 iqmentor.io
 iqmetrics.org
+iqmind.co
 iqsmartoption.art
 iqtradeoptions.com
 irahmart.com
@@ -11628,6 +11648,7 @@ jyoneshop.com
 jyregent.com
 jyxliness.com
 jzeeshades.top
+k-apotheke.de
 k-nj.com
 k2skigear.com
 k3fenster.at
@@ -11764,6 +11785,7 @@ katespade--online.com
 katespadeoutletscanada.ca
 katharinengasse9.at
 katherinebrokaw.com
+kathydouba.shop
 kathyrudin.com
 katkazabo.com
 katparrmackintosh.com
@@ -12944,6 +12966,7 @@ liftr.eu
 ligaenne.top
 ligartide.shop
 ligatose.top
+lighats4fun.shop
 lighinmoon.com
 lightcanarm.com
 lightfamous.com
@@ -13263,6 +13286,7 @@ loumo-shop.de
 lounaboutignon.com
 loungeunderwear.at
 louridodiego.com
+louvreticketsonline.com
 lovaaberlin.com
 lovanzo.de
 love-outdoorsport.com
@@ -13743,6 +13767,7 @@ marcjacobsdeutschland.com
 marcjacobsfactoryoutlet.us
 marcjacobsosterreich.at
 marco-gastroprofi.de
+marcodietz.shop
 marcoraulallaix.com
 marcos-machado.com
 marcosbrito.com
@@ -14280,6 +14305,7 @@ meterally.top
 methaozp.com
 methling-handel.de
 metier-handel.de
+metricgurus.com
 metro-partner.com
 metzger-reifenhandel.com
 metzgereilauster.de
@@ -15725,6 +15751,7 @@ notionmist.com
 notoance.top
 noucadeaux.fr
 noughtfrign.com
+nouveauveloventefr.com
 nova-eu.com
 nova-mia.de
 nova-watch.co
@@ -15783,6 +15810,7 @@ ntonio.de
 ntoolstore.com
 ntwrkri.com
 ntxmickeymantle.com
+nubaskin.de
 nubiah.at
 nubior-styria.at
 nubn.shop
@@ -15855,6 +15883,7 @@ objectivew.com
 obligeligat.net
 obo-7.top
 oboz-canada.net
+obozboots.com
 obrath-gmbh.de
 obscuredepot.com
 obsthalle-froeschau.de
@@ -16102,6 +16131,7 @@ olukaifactoryoutletonline.com
 olxbg.com
 olxbgg.com
 olympiac.shop
+olympics-shop.com
 olympicsvipshop.com
 omabrennholz.com
 omanhbi.com
@@ -17053,6 +17083,7 @@ paul-reifenversand.com
 paulabenta.com
 paulapopenoe.com
 pauldronsshop.com
+paulgreenfootwear.shop
 paulgreenosterreich.com
 paulina-mode.de
 paulinasinger.com
@@ -17086,6 +17117,7 @@ pcsada.com
 pd99.cc
 pdealroom.com
 pdeyhs.com
+pdfaid.com
 pdfguru.com
 pdfmaster.app
 pdomotech.com
@@ -17272,6 +17304,7 @@ pf-ff.com
 pf0.cc
 pfannen-store.com
 pfeiffer-reifenhandel.shop
+pferdedeckende.com
 pferdehof-kraus.de
 pferdephysio-arndt.de
 pflanz-stein.de
@@ -19954,6 +19987,7 @@ schnappchenshop.com
 schnapsrabatt.com
 schneeelll.de
 schneider-reifen.com
+schneiderdusseldorf.de
 schneiders-bikehouse.com
 schnell-gut-preiswert.de
 schnell-schwanger-werden.com
@@ -20155,6 +20189,7 @@ selfridges-work.com
 selivoo.de
 sell-sportskit.com
 sellerce.fun
+sellercenter.shop
 sellerclothing.com
 sellerfishing.com
 sellerusapparel.com
@@ -20507,6 +20542,7 @@ shopebike.net
 shopedfeliade.shop
 shopeleganthome.com
 shopfashion2023.com
+shopfasts.shop
 shopfloragalora.com
 shopfreelife.site
 shopfyrex.com
@@ -21168,6 +21204,7 @@ sonossph.de
 sonryobig.com
 sonuka-handel.net
 sonyaclothing.shop
+sonypictures-rankings.top
 soolinen.com
 sooltool.shop
 soothingkitchen.com
@@ -22546,6 +22583,7 @@ tetirt.com
 teva-osterreich.at
 teva-osterreich.com
 tevaberlin.de
+tevagermany.de
 tevasandalendeutschland.com
 tevaschuhesale.de
 tevaschuheschweiz.com
@@ -23339,6 +23377,7 @@ trabo-garten.de
 tracdataf.com
 traceetroutt.com
 tracht-aporter.com
+trachten-de.shop
 trachtenmoda.de
 tracivaldez.shop
 track-ni.org
@@ -23460,6 +23499,7 @@ trend-held.com
 trend-helden.com
 trend-it.de
 trend-women.com
+trendaloo.com
 trendalter.com
 trendersapps.com
 trendessentiel.com
@@ -23746,6 +23786,7 @@ uhrenvip.de
 uhrsprung-bar.at
 uhrstern.net
 uhvcti.shop
+uiredg.com
 uirght.com
 ujh-tele.de
 uk-appleseeds.com
@@ -25084,6 +25125,7 @@ webarchx.top
 webatum.de
 webbingbeltshop.com
 webbusinessalerts.com
+webcamerausb.com
 webdeal-produkt.com
 webe24.de
 weber-express.com
@@ -25705,6 +25747,7 @@ xturulgroup.com
 xtxtshop.com
 xuiopv.com
 xunxuanx.top
+xupe.at
 xuplike.com
 xwbrt.shop
 xxl-handelshaus.de
