@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2024-09-13
+# Last updated:  2024-09-21
 
 ### Gesamtliste aller Kategorien ###
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -2248,6 +2248,7 @@ bergfreunde-outlet.com
 bergfreunde-sale.shop
 berghausoutlet.cc
 bergmann-dusseldorf.de
+bergmannmode.de
 bergtrophy.at
 bergxperten.de
 beriuty.com
@@ -2988,6 +2989,7 @@ borgshirt.xyz
 boridashop.de
 born-reifenversand.shop
 born2learn.at
+borofund.com
 borolfr.com
 borpillshop.com
 borrow-money7.college
@@ -4106,6 +4108,7 @@ christianlouboutinschuhe.com
 christianpomowski.de
 christies-realestate.com
 christinaroutt.com
+christine-mode.com
 christinehiggs.com
 christmas-offer.com
 christmasdecorusa.com
@@ -4541,6 +4544,7 @@ compostione.com
 compostmountain.com
 compressfit.de
 compressor-sourcde.shop
+compressportaustria.at
 comprhnsion.net
 compromissarypiuge.life
 comptntistur.com
@@ -5106,6 +5110,7 @@ das-loesungsprinzip.at
 dasbuchdeslebens.at
 dasdea.com
 dasedeal.com
+dashausderjuwelenosterreich.com
 dashdeals.de
 dashuepfenkomma.shop
 daskarnevalkostuem.de
@@ -5116,6 +5121,7 @@ dataette.top
 datafic.xyz
 datagetor.com
 dataviews.top
+dateideen.at
 dating.com
 datinted.com
 datumbump.com
@@ -5304,6 +5310,7 @@ deineschmuckkiste.de
 deinetierliebe.de
 deinewollede.shop
 deini.com
+deinlandmetzger.shop
 deinliebesmensch.de
 deinlieblingstier.co
 deinlieblingstierde.shop
@@ -5684,6 +5691,7 @@ dirkdreier.de
 dirkethilfe24.at
 dirkmolly.shop
 dirksen-container.com
+dirmolly.shop
 dirndlzeit.de
 dirushou.shop
 dis-discount2023.com
@@ -6060,6 +6068,7 @@ drogenbestellenshop.com
 droguerie-fr.com
 droits-revente.fr
 droneetown.com
+dropcarepharm.com
 dropeager.com
 droppyx.com
 drovasi.com
@@ -7228,6 +7237,7 @@ fahrrad-versand.com
 fahrradcheck24.de
 fahrradersde.com
 fahrraderzukunft.com
+fahrradhandel-behrendt.de
 fahrradhandel-kramer.de
 fahrradhandel-seidel.de
 fahrradkassettede.com
@@ -8593,6 +8603,7 @@ gambystudios.com
 game1210.com
 gamechangergift.net
 gamecityz.com
+gamecodeshop.de
 gamecrown.de
 gameequipment.website
 gamehander.com
@@ -9015,6 +9026,7 @@ glam-bay.de
 glamantibeauty.com
 glamgarbshop.com
 glamgoamazing.com
+glamina.de
 glamkosmetika.de
 glamkraze.shop
 glamorousoutfit.com
@@ -9373,6 +9385,7 @@ grillcenterowl.de
 grillmatte.at
 grillsrabatt.com
 grillssoon.de
+grillwiese.shop
 grillwwiese.de
 grimhat.com
 grinsebuch.de
@@ -9645,6 +9658,7 @@ handkrchi.com
 handlampenstore.com
 handlebarneu.com
 handlebarprada.com
+handmadebyanni.shop
 handpickdecoration.com
 handpickgeneralstore.com
 handpickhome.com
@@ -10154,6 +10168,7 @@ hlhwqxe.com
 hlpflavouring.com
 hlvipshop.com
 hmartcollector.net
+hmmartin.com
 hmqmqmarket.shop
 hmqpdonline.shop
 hmtifp.top
@@ -10685,6 +10700,7 @@ huntergummistiefelsale.de
 huntergummistiefelschweiz.net
 huntergummistiefelsoutlet.de
 hunterloncar.com
+hunteronlineshop.at
 hunterosterreich.at
 hunteroutletsale.store
 hunters-stiefel.com
@@ -11298,6 +11314,7 @@ iziholz.de
 j-bull.com
 jaanakontio.com
 jabnos.com
+jacadishop.com
 jacadistore.com
 jacadivipstore.com
 jackeherren.top
@@ -12043,6 +12060,7 @@ kinhaor.com
 kinky-events.at
 kinltd.net
 kinoion.top
+kinopolis-de.com
 kinovastore.de
 kinoza.de
 kinwinz.com
@@ -12732,6 +12750,7 @@ learn-english.education
 learnico.it
 learnwash.com
 leatherbagsale.com
+leatherjacketgear.com
 leathershire.co.uk
 leavingtheline.com
 lebaro.nl
@@ -14489,6 +14508,7 @@ mipkes.com
 miraclened.com
 miraiweb.org
 mirakl-ch.com
+mirakl-ch.me
 mirakl-ch.xyz
 mirakl.live
 miralofoto.com
@@ -14639,6 +14659,7 @@ modelaoshima.com
 modelcaronsales.com
 modelingdesignonline.store
 modellangebote.com
+modellbahn-store.com
 modellbahnhandel-deutschland.de
 modellbau-rainer.at
 modellbaukober.at
@@ -14702,6 +14723,7 @@ moistis.com
 mokavape.com
 molaro.de
 molilulu.com
+molkins.de
 mollrev.shop
 molnyonon.com
 molveri-oslo.com
@@ -16189,6 +16211,7 @@ on-runningstore.club
 on-runningstore.top
 on-sneakers.com
 on-store.at
+onaustria.at
 onbabyshop.com
 onbestsellprods.com
 onc-online.de
@@ -16390,6 +16413,7 @@ onsaletrendy.com
 onsaleuscamping.com
 onsaleusclothing.com
 onsaleusfurniture.com
+onschuhe.net
 onschuhedeutschland.de
 onschuhefabrikverkaufschweiz.com
 onschuheosterreich.com
@@ -17465,6 +17489,7 @@ pilzehaus.de
 pimestocktrade.com
 pinalun.com
 pinchtile.com
+pincmcrelli.shop
 pingotradefx.com
 pingpong-sale.com
 pingpongprous.com
@@ -17748,6 +17773,7 @@ positickets.com
 positivesy.com
 positonsid.com
 possiblyyouthfulx.com
+post-dance.com
 postul.top
 posual.com
 posute.com
@@ -17831,6 +17857,7 @@ preminantdo.com
 premium-garderobe.com
 premium-mode.de
 premium-steroide.com
+premium-tools-sales.com
 premium-union-credit.de
 premium-unipay-card.de
 premium-yields.com
@@ -19249,6 +19276,7 @@ rollenspielgeschaft.com
 rollerbladeskate.com
 rollerklub-wieselburg.at
 rollerskatesonsale.com
+rollsportshop.com
 rolly-energie.at
 romaappcube.com
 romaduca.it
@@ -19855,6 +19883,7 @@ sarahravengb.com
 sarahreijnen.com
 sarahshaima.com
 saraleneumann.com
+saramaud.com
 sarasarade.shop
 sarazarjam.com
 sarditinera.it
@@ -20623,6 +20652,7 @@ shopmockr.com
 shopmood.de
 shopmusicalinstruments.com
 shopnewclothing.com
+shopnow-fm.com
 shopnumph.shop
 shoponicxx.com
 shoporio-logmann.de
@@ -20865,6 +20895,7 @@ skateboard-over.com
 skateboardbrave.com
 skateboardcloth.com
 skateboardhandpick.com
+skateboardingscooter.de
 skateboards-salestore.com
 skateboardstylish.com
 skatechess.com
@@ -22391,6 +22422,7 @@ tanghf.com
 tani-und-caro.de
 tanikushokubutu.com
 tanja-bosch.de
+tanjanoll.shop
 tanjatillman.com
 tankvorteil.de
 tanrasi.com
@@ -24954,6 +24986,7 @@ vsygu.top
 vtecnokar.com
 vtoriser.shop
 vtrangthu.shop
+vttaccueilsolids.com
 vudul.com
 vuigodeutschland.de
 vukv-mitterfels.de
@@ -25744,6 +25777,7 @@ xn--schlsseldienst-darmstadt-ysc.org
 xn--schlsseldienst-frankfurt-ysc.eu
 xn--schlsseldienst-halle-24-fpc.de
 xn--schlsseldienst-in-bornheim-1zc.de
+xn--schlsseldienst-profis-cic.at
 xn--schlsseldienst-regensburg-24-46c.de
 xn--schlsseldienst-wuppertal-ysc.org
 xn--timberlandsterreich-z6b.com
