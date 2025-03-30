@@ -4,9 +4,9 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2025-03-29
+# Last updated:  2025-03-30
 
-### Gesamtliste aller Kategorien ###
+#--- Gesamtliste aller Kategorien ---#
 # (Betrügerische Online-Shops, Problematische Online-Shops,
 # Abo-Fallen, Immobilienagenturen, Urlaubsbuchung, Handwerksdienste,
 # Speditionen, Jobangebote, Finanzbetrug, Phishing-Alarm)
@@ -4249,6 +4249,7 @@ charlesdavidshoe.com
 charlinerat.com
 charloll.com
 charlottdesign.de
+charmadora.shop
 charmantss.com
 charmingpaul.com
 charmsvision.com
@@ -4331,6 +4332,7 @@ chic-hat.com
 chic-offer.com
 chic-premiumshoe.com
 chic-site.com
+chicandgo.com
 chicanti.com
 chicattireus.com
 chicballsports.com
@@ -10403,6 +10405,7 @@ hanazimu.com
 handbagbrandsonline.com
 handbagdbonlinevip.com
 handball-fanshop.com
+handballtrikotshop.com
 handbrausenshop.com
 handel-kirsch.de
 handel-swiss.com
@@ -10680,6 +10683,7 @@ heidecker-rollergang.de
 heidekrause.de
 heidelore-kluge.de
 heidi-meyer.com
+heidi-wien.at
 heidilambertsen.com
 heike-store.com
 heilchannel.de
@@ -19478,6 +19482,7 @@ prouskids.com
 proven-property.com
 provenhousetool.com
 provenlamps.com
+provenxperts.com
 provibeplay.com
 providedes.com
 provirtualoptions.com
@@ -19739,6 +19744,7 @@ raabeenq.com
 rabaisdepot.com
 rabatt-mode.com
 rabatt-schuhe.de
+rabatt24shop.com
 rabattakkuslader.com
 rabattarkk.de
 rabattausrustung.de
@@ -23142,6 +23148,7 @@ starlaaarthi.com
 starlight-peace.net
 starpres.top
 starrsgems.com
+stars-eu.com
 starsignsynergy.com
 startrendy.shop
 startshopfulfillment.de
@@ -28174,15 +28181,15 @@ zzdendro.com
 zzzhhhd.top
 
 
-### Custom filters
+#--- Custom filters ---#
 # Frontal21 vom 05.03.2019
 # https://www.youtube.com/watch?v=_AZN-yAEFVM
 viagogo.de
 viagogo.com
 
-# Malformed URIs from the original WLI
+#--- Malformed URIs from the original WLI ---#
 # None
 
-# Check out more german speaking filter lists at
+#--- Check out more german speaking filter lists at ---#
 # https://github.com/stonecrusher/filterlists-pihole
 # (Verbraucherschutz, Pseudowissenschaft, ...)
