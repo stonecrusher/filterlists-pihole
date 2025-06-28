@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2025-06-22
+# Last updated:  2025-06-28
 
 #--- Gesamtliste aller Kategorien ---#
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -799,6 +799,7 @@ alpinestarsde.com
 alpinex-outdoor.de
 alpinex.at
 alro-stahlbau.de
+alsara-online.de
 alsclearance.com
 alsoatic.top
 alsobeside.com
@@ -1102,6 +1103,7 @@ annen.store
 anneschilk.com
 annesophiebarel.com
 annettasiende.shop
+annettasiendeeu.shop
 annette-gwozdz.de
 annettestaack.de
 annikaridgway.com
@@ -1445,6 +1447,7 @@ artkart.site
 artorix.de
 artosnomics.com
 artpro-24.at
+artpro-24.pro
 artsy-co.de
 artsyartisans.com
 artsyvogue.com
@@ -1671,6 +1674,7 @@ aufsperr24.at
 aufsperrdienst-24.at
 aufsperrdienst-hilfe.at
 aufsperrdienst-service.at
+aufsperrdienst.tech
 aufsperrdienst7d.at
 aufsperrhilfe-24.at
 aufsperrhilfe.at
@@ -2925,6 +2929,7 @@ billardpros.com
 billgoddess.shop
 billig-werkzeug.com
 billigbutlers.com
+billigdesignerkleidung.de
 billigeinkaufen.at
 billigemedikamenteonline.com
 billiger-heizen.com
@@ -3304,6 +3309,7 @@ boloen.top
 bolsamodaonline.com
 bolt-courier.com
 boltexpresscargologistics.com
+bombardina.de
 bombillainteligente.space
 bombosport.com
 bomcacadors.com
@@ -3604,6 +3610,7 @@ brokertv.shop
 brokerzeroca.com
 broksi.de
 bromess.space
+broncofish.com
 brontivex.com
 brookfield-eu.com
 brookfieldassets.eu
@@ -4089,6 +4096,7 @@ careshopprode.shop
 carethy.de
 caretteam.com
 cargo-transportspedition.com
+cargolooplogistics.com
 cargoze.com
 carharttoutletdeutschland.com
 carharttoutletdeutschland.de
@@ -4176,6 +4184,7 @@ casiva.de
 casmartode.shop
 cassettesofficial.com
 cassettleband.com
+cassidriss.com
 cassondrathrower.com
 castanerosterreich.com
 castaria.com
@@ -5157,6 +5166,7 @@ coolstreamside.com
 cooludi.com
 cooorful.com
 cooperatea.net
+copenhagen-schuhe.com
 copenhagenschuhesale.de
 copguru.com
 copicemicros.net
@@ -5748,6 +5758,7 @@ de-cryptotrade.com
 de-finanz.com
 de-fritzberger.com
 de-generatorhouse.de
+de-gojurist.site
 de-imex.de
 de-kapital.com
 de-kaufland.de
@@ -6182,6 +6193,7 @@ dewelschutz.de
 dewscmotorrad.shop
 dewtoolshop.com
 dexa-coin.com
+dexonirax.com
 dextuls.life
 dexverse.info
 dezallade.com
@@ -6305,6 +6317,7 @@ dino-cats.com
 dinoible.top
 dinosaurierde.shop
 dioaaoerib.com
+dioey.com
 dioiocard.top
 diomoso.com
 dionfashion.com
@@ -7138,6 +7151,7 @@ einkaufen-at.com
 einkaufsmarkt-rost.de
 einkommens.club
 eintracht-fechten.de
+eioew.com
 eiroshop.lv
 eis-henning.de
 eiselefahrrad.de
@@ -7628,6 +7642,7 @@ espaceverts.com
 especialchristmas.com
 especialinstrumentssale.store
 especiallyt.com
+espresso-line.com
 espressomachine-shop.com
 espressostream.com
 espruino.com
@@ -8049,6 +8064,7 @@ fahrradhandel-berger.de
 fahrradhandel-hartmann.de
 fahrradhandel-kappler.de
 fahrradhandel-kramer.de
+fahrradhandel-krause.de
 fahrradhandel-richter.de
 fahrradhandel-seidel.de
 fahrradhelden.com
@@ -8322,6 +8338,7 @@ fasttrkes.com
 fasturbanlogistics.com
 fasty-revolution.com
 fatbike-de.com
+fatburners.at
 fatechamp.com
 fatesit.com
 fatjonashkambi.com
@@ -8663,6 +8680,7 @@ fischerr.de
 fischerrabatt.de
 fischers-modehaus.de
 fischerundwagner.de
+fischhandeln.de
 fishanglermart.com
 fishapparels.com
 fishapparelshoe.com
@@ -9180,6 +9198,7 @@ frmodeapc.com
 froddo-prada.de
 froddo.shop
 froddoliefern.com
+froehlich-keit.de
 frohlands.de
 frohschatz.com
 frohwelt.de
@@ -9885,6 +9904,7 @@ getsuperli.com
 gettikshop.site
 getuscosmetics.com
 getusmotorcycle.com
+getvirium.com
 getvoltsemi.com
 getwavemax.com
 getwavetune.com
@@ -10271,6 +10291,7 @@ goodsvogue.com
 goodsvoguenew.com
 goodtall.live
 googlemaxmovie.com
+googleseriess.com
 goosbooks.com
 goosebid.com
 gooseowl.com
@@ -10417,7 +10438,9 @@ grill-welten.com
 grillausrustung.com
 grillcenterowl.de
 grillfuerstde.com
+grillfuerstshop.com
 grillmatte.at
+grillmeisterde.com
 grillprove.top
 grillsrabatt.com
 grillssoon.de
@@ -10872,6 +10895,7 @@ hausannette.de
 hausbulle.de
 hausderschonheit-de.store
 hauser-personal.de
+hausermodehaus.de
 hausexpressholz.de
 haushalt-einfach.de
 haushalt-store.com
@@ -11022,6 +11046,7 @@ heimgruee.com
 heimgrueen.com
 heimjob-vermittlung.de
 heimkinovertrieb.de
+heimnewb.cyou
 heimundgartenmarkt.de
 heimwerk-meister.de
 heimwerkzeugladen.com
@@ -11153,6 +11178,7 @@ herlingerieshop.com
 hermann-reifenhandel.com
 hermanns24.de
 hermannversand.de
+hermhoffer.de
 herodor.com
 herold-autoreifen.com
 herold-reifenhandel.com
@@ -11293,6 +11319,7 @@ hiwered.com
 hiziel.de
 hizielde.shop
 hj-funk-elektro.de
+hjc-online.com
 hjchelmetsdeal.com
 hjfh.shop
 hjklgf.tk
@@ -11498,6 +11525,7 @@ homehillsdale.com
 homehinkleylighting.com
 homeimprovementtool.com
 homeinlay.com
+homeinvasion.de
 homeinw.com
 homeitemorder.com
 homeitemsoff.com
@@ -12504,6 +12532,7 @@ istifare.shop
 istomde.shop
 isuzu-muenchen.de
 it.com
+itagprotracker.com
 italianbarberde.shop
 italiangourmetde.shop
 itcon-engineering.de
@@ -13879,7 +13908,10 @@ laborkampagnede.shop
 laborkampgne.shop
 laboussoleverte.com
 labq22.in
+labubu-popmart.de
+labubu.co.at
 labubu.co.uk
+labububox.store
 laceupshoessales.com
 lachmann-sc.de
 lackeauftragen.com
@@ -15089,6 +15121,7 @@ luxusboutiquede.com
 luxusgeschenke24.com
 luxusuhren.to
 luxwatch.store
+luzern-mode.ch
 lva-grosshandel.de
 lwsszmn.top
 lwvbi.com
@@ -15400,6 +15433,7 @@ markel-energie.com
 markensnowboard.com
 market24prime.shop
 marketbottle.com
+marketdeaboutyou.com
 marketdiscount.shop
 marketexchangezone.live
 marketgiants.com
@@ -15661,6 +15695,7 @@ mediamarkt-de.store
 mediamigo.net
 median-home.com
 medianews77.com
+mediaplus.shop
 mediascreen.at
 medibus.at
 medicalbasic.de
@@ -17302,6 +17337,7 @@ ngadgetrig.shop
 ngbsale.com
 ngerol.com
 ngolpar.top
+nhconnect.cc
 nhelalab.shop
 nhltrikotde.com
 nhorloge.nl
@@ -17350,6 +17386,7 @@ nidoir.com
 nidworkers.com
 niebowgebie.com
 niederlandeshop.de
+nieparis-work.top
 nifyanifest.com
 nightoperators.com
 niholss.store
@@ -17409,6 +17446,7 @@ nissan-nachrichten.de
 nissanasm.com
 nitchellavs.shop
 nitrosnowoutlet.shop
+nittogeschaft.com
 nivekco.com
 nivela.de
 nixonosterreich.at
@@ -17422,7 +17460,6 @@ nkenbell.com
 nkforce.com
 nkshoesgr.com
 nksupers.com
-nl-fashion.de
 nlynelly.com
 nmacekn.com
 nmaisesporte.shop
@@ -18247,6 +18284,7 @@ onschuheschweizoutlet.com
 onschuheschweizoutlets.com
 onschuhewien.at
 onschuhewien.com
+onshoes-de.shop
 onshoes.xyz
 onshoeser.com
 onshoesstore.shop
@@ -19244,6 +19282,7 @@ pferdehof-kraus.de
 pferdepflegewelt.com
 pferdephysio-arndt.de
 pflanz-stein.de
+pflanzbedarfsladen.com
 pflegeschonheit.com
 pfoten-traum.com
 pfotenfans.com
@@ -19644,6 +19683,9 @@ pope-senna.com
 popfavorite.com
 popflex-austria.com
 popkitchen-ware.com
+popmartgreece.com
+popmarts.pro
+popmarts.vip
 popmenshoe.com
 poporle.com
 popoutdoorshoe.com
@@ -19883,6 +19925,7 @@ priorsupply.com
 priorwhis.com
 prisbert.com
 priseria.com
+privaag.com
 privana.shop
 privanade.shop
 privateacc211.com
@@ -20017,6 +20060,7 @@ prorcland.com
 proridegear.com
 proseccotrex.de
 proseliteinvest.com
+proskillpath.online
 prosleepy.com
 prosoftwares.fr
 prospapet.com
@@ -21179,6 +21223,7 @@ rise-property.com
 risetosun.net
 riskfier.top
 riskfiy.com
+risora.de
 rissionshop.de
 ristoroparadiso.it
 ritaipa.com
@@ -21379,6 +21424,7 @@ roselinlin.com
 roselynetanguy.com
 rosemaryf.com
 rosenbaum-berlin.de
+rosenberg-boutique.de
 rosenfeldgoldschmied.com
 rosenheim-holz.com
 rosesealiy.com
@@ -22124,6 +22170,7 @@ schmidmodesalzburg.de
 schmidt-boutique.de
 schmidt-reifenhandel.shop
 schmidtmode.de
+schmidtstil.com
 schmiede-kunst.at
 schmierstoffede.com
 schmit-mode.com
@@ -22352,6 +22399,7 @@ seidmantox.com
 seiety.top
 seifenbrause.de
 seifenstaender.at
+seifertundstil.de
 seigesund.top
 seigneurin.fr
 seiteeintragen.com
@@ -23348,6 +23396,7 @@ softuswomen.com
 software-onsale.com
 softwaredealz.shop
 softwaredigital24.de
+softwarekaufen24.de
 sohab-haushaltsgerate.com
 sohaus.shop
 sohoohair.de
@@ -23903,6 +23952,7 @@ stikersik.com
 stil-bruch.at
 stil-mode.de
 stilado.de
+stildahh.cyou
 stilhaus-mode.de
 stillaire.top
 stilmark.de
@@ -25361,6 +25411,7 @@ thymious.top
 thyral.top
 thyreress.top
 ticie.xyz
+ticketreise.de
 ticketsswap.cz
 tidalsway.ru
 tieberg.de
@@ -26029,6 +26080,7 @@ trendyvogue.com
 trendzo.org
 trennschleiferde.com
 trenzjar.com
+treola-ag.com
 trepidatceri.top
 treppauf-treppab.de
 treston24.de
@@ -26341,7 +26393,6 @@ umhinbia.com
 umsatz-generator.de
 umwatchvip.com
 umweltplus-sr.de
-umzug-365.at
 umzug-borowski.de
 umzugmagyer.at
 umzugsmeister-villach.at
@@ -26479,6 +26530,7 @@ urbmale.cc
 urdotx.com
 ureines.com
 urfasionlist.com
+urgalaxy.com
 urgennis.com
 urpillssupplier.com
 ursime.com
@@ -27463,6 +27515,7 @@ vollmer-replica.com
 vollversionsoftware.shop
 vollytools.shop
 volt-elecontric.de
+voltbankinternational.com
 volture.de
 voluntaly.com
 voluntaryi.com
@@ -28672,6 +28725,7 @@ yuihl.com
 yukomi.com
 yuletide-wonders.com
 yumancy.com
+yumbrandsnow.com
 yumbrandsratingguide.com
 yumbrandsratings.com
 yumbrandsreview.com
@@ -28805,6 +28859,7 @@ zerogrid.shop
 zerouv.shop
 zerova.de
 zersppand.com
+zesbit.com
 zestara-berlin.de
 zestniche.com
 zettabag.com
