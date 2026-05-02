@@ -4,7 +4,7 @@
 # Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # License:       Taken from https://www.watchlist-internet.at/unserioese-webseiten/
 # Redirect:      https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# Last updated:  2026-04-25
+# Last updated:  2026-05-02
 
 #--- Gesamtliste aller Kategorien ---#
 # (Betrügerische Online-Shops, Problematische Online-Shops,
@@ -202,7 +202,6 @@ aboalyislam.com
 aboardcloth.com
 abodeare.com
 abodeena.com
-abodeene.com
 abolder.com
 aboukide.shop
 aboutbeingold.com
@@ -2408,7 +2407,6 @@ balirano.de
 balitaberlin.de
 baljevicmiroslav.com
 balkone.co.at
-balkongluck.com
 ballanda.de
 ballerns.de
 balletflatssale.com
@@ -3762,7 +3760,6 @@ bm-in.com
 bmatbat.com
 bmbgreen.com
 bmcloth.com
-bmfflnanzonlinegv.at
 bmgvinyl.shop
 bmpharmacy-official.com
 bmpharmacyofficial.com
@@ -3885,7 +3882,6 @@ bootsoutlet.shop
 bootsprofi.com
 bootsschuheshop.com
 booxfritz.de
-booxshop.de
 bopsiz.store
 borcons.de
 bordcltiat.net
@@ -5267,7 +5263,6 @@ chihuahuamaltipoo.de
 child-outdoor.com
 child-vogue.com
 childcommodity.com
-childeducationalshop.com
 childhoodtimeltd.com
 childjoinca.com
 childlikemodel.shop
@@ -5942,7 +5937,6 @@ cookvillerestaurants.com
 cookwareretail.space
 coolactionca.com
 coolbuysite.com
-coolcare.mx
 coolgin.com
 cooling-ace.de
 coollightus.com
@@ -6012,7 +6006,6 @@ cosmeticoptimalus.com
 cosmeticotwoo.com
 cosmeticsfield.com
 cosmeticsfind.com
-cosmeticshopcenter.com
 cosmeticsilky.com
 cosmeticsyy.com
 cosmic-rays.de
@@ -7571,7 +7564,6 @@ doktor-pillen.de
 doktor-potenzmittel.shop
 doktor-rezeptfrei.com
 doktorpotenzmittel.de
-dokumentenkaufen.eu
 dolandcosmetics.com
 dolaxe.com
 dolceamara.com
@@ -9392,7 +9384,6 @@ fahrradhandel-behrendt.de
 fahrradhandel-berger.de
 fahrradhandel-hartmann.de
 fahrradhandel-kappler.de
-fahrradhandel-koumagnon.de
 fahrradhandel-kramer.de
 fahrradhandel-krause.de
 fahrradhandel-martin.de
@@ -9530,7 +9521,6 @@ fanmalls.de
 fannyborius.com
 fannydubois.com
 fanshotsale.com
-fanskicke.com
 fansouvenirs.store
 fansretail.com
 fantasie-farbe.de
@@ -12365,7 +12355,6 @@ gutumzug.at
 guy-mulhen.com
 guyfruit.com
 guyhardly.com
-gvbmfflnanzonline.info
 gw-style.com
 gwcsale.towncabco.com
 gwcshop.towncabco.com
@@ -12422,7 +12411,6 @@ haberfasher.com
 habitataro.com
 habitatero.com
 habitatforshoes.com
-habitatovae.com
 habitlaw.com
 habitualn.com
 habitualy.com
@@ -12593,7 +12581,6 @@ hannibalvajilla.com
 hannover-mode.de
 hannoverebike.de
 hanrogeschaft.xyz
-hans-engelke-energie.de
 hans-pick.de
 hanscompanies.com
 hanse-bird.de
@@ -13527,7 +13514,6 @@ homepillswebstore.com
 homeplaceshop.com
 homeprotool.com
 homerootsoutlet.com
-homersport.de
 homerugsale.com
 homerungrocers.com
 homes-alpha.com
@@ -14533,7 +14519,6 @@ ipicplian.top
 ipillstore.net
 ipokerword.com
 ipowerdirekt.de
-iptvanbieter.at
 iptvdutch.store
 ipuroangebote.com
 iq-fast.com
@@ -15286,7 +15271,6 @@ kanzlei-niva.de
 kanzlei-ra.net
 kanzlei-roth.org
 kanzlei-statz.de
-kanzlei-zimmermann-partner.com
 kanzleiklaus.de
 kaodasuan.shop
 kaperes.com
@@ -15391,7 +15375,6 @@ kaufhaus-des-westens.com
 kaufhausaccessoires.com
 kaufhausde.online
 kaufhausde.top
-kaufhaushamburg.com
 kaufhausonline.com
 kaufhausrabatt.com
 kaufhaustier.com
@@ -16879,7 +16862,6 @@ lidlmmarketvip.vip
 lidlnewshop.com
 lidlpalace.com
 lidlpod.com
-lidlpp.shop
 lidlshopelysium.com
 lidltoday.com
 lidnz.shop
@@ -17936,7 +17918,6 @@ manluct.com
 manlyfor.com
 manlyhost.com
 mannerapotheke24.com
-mannheimmodehaus.com
 manoloblahnik-osterreich.com
 manonjipnzz.com
 manorchfr.com
@@ -19009,7 +18990,6 @@ mobile-find.mobi
 mobile-wellnessoase.de
 mobile.visc.top
 mobilephonelocator.net
-mobilerheizungen.de
 mobilfunk-schmidtchen.de
 mobilixpro.com
 mobilmitkids.de
@@ -19371,7 +19351,6 @@ motorrad-levy-elsa.com
 motorrad70.com
 motorraderhelme.de
 motorraders.de
-motorradking.com
 motorradoutfit.com
 motorradteileonline.com
 motorradteileshop.com
@@ -20416,7 +20395,6 @@ noemimartinezfont.com
 noerr-mbb.de
 nofaithstudios.com
 nofs-fr.com
-nofs.online
 nofsclothing.de
 nograinmedia.com
 noija.shop
@@ -22404,7 +22382,6 @@ peteclune.com
 peterhobbies.shop
 peterjeskouhren.de
 peterkaiserschuhe.de
-peterkenkelgruppe.de
 peters-insurance.de
 petershagen-hotel.de
 petersimrecht.de
@@ -22917,7 +22894,6 @@ pool-shop-de.com
 poolboys-onlineshop.de
 poolcosmetic.com
 poolfilterneu.de
-poolfreunde.com
 poolreinigerde.com
 poolsaunasupply.com
 poolshoesus.com
@@ -23153,6 +23129,7 @@ prigaudited.buzz
 prima-shiplines.com
 primalsale.shop
 primamulch.at
+primaprofi-reinigung.at
 primary-structures.de
 primarycarenw.com
 primaryearrings.com
@@ -27592,7 +27569,6 @@ spowo.at
 sprachgenie.at
 sprayitonyou.com
 spreewaldkiste.shop
-sprengler-direkt.de
 spring-exp.com
 spring-express.com
 spring4sale.com
@@ -27633,7 +27609,6 @@ squraei.com
 sratimd.com
 src-allgaeu.de
 srrcops.org
-srylab.bio
 srzsnkrs.com
 ss888.shop
 ssatin.com
@@ -28609,7 +28584,6 @@ syncheer.com
 syniaty.com
 synizesis.com
 syntagma-marktforschung.net
-syntek-ai.app
 synthesizechic.com
 synthesizemergechic.com
 synthesizestylish.com
@@ -29548,7 +29522,6 @@ tjcmwe.com
 tjrtcbsbq.com
 tkeesdeutschland.com
 tkeesdeutschland.de
-tkensure.top
 tkhalidex.com
 tkkogata.com
 tkn-transport.com
@@ -30599,7 +30572,6 @@ uniastin.top
 unibail-assets.com
 unibois-stammholz.com
 unice688.com
-unico-studio.com
 unicotok.com
 unikatknopf.de
 unikatportrait.shop
@@ -31587,7 +31559,6 @@ vintedi.vip
 vintedreselling.eu
 vintross.de
 vinylcollectorde.shop
-vinylrecordmall.com
 violawatch.shop
 violetandrose.de
 violte-plant.net
@@ -32357,7 +32328,6 @@ wellwornca.com
 wellzy.de
 welpen-tierheim.com
 welpenexperten.de
-welpentraum.de
 welstv.at
 welt-fashion.de
 welta.pro
@@ -32387,11 +32357,9 @@ weretail.site
 werisee.com
 werk-garten.de
 werk-werkzeuge.com
-werkbedarf24.de
 werkboxpro.com
 werke-anhangers.com
 werkgeist.com
-werkora-industrial.com
 werkvoorraden.com
 werkzeug-brandl.com
 werkzeug-salesshop.com
